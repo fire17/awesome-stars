@@ -14,6 +14,8 @@
 - [api](#api)
 - [arduino](#arduino)
 - [automation](#automation)
+- [awesome](#awesome)
+- [awesome-list](#awesome-list)
 - [aws](#aws)
 - [azure](#azure)
 - [bash](#bash)
@@ -28,6 +30,7 @@
 - [deep-learning](#deep-learning)
 - [deployment](#deployment)
 - [devops](#devops)
+- [discord](#discord)
 - [docker](#docker)
 - [emoji](#emoji)
 - [english](#english)
@@ -95,6 +98,7 @@
 
 ## ai 
 
+- [qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - A browser extension that augments your ChatGPT prompts with web results.
 - [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion, +25-50% speed increase + memory efficient + DreamBooth
 - [Rohith04MVK/AI-Art-Generator](https://github.com/Rohith04MVK/AI-Art-Generator) - A program that can add an artistic touch to any image.
 - [siamaksalman/denseposeInstalltion](https://github.com/siamaksalman/denseposeInstalltion) - How to Install DensePose
@@ -120,6 +124,7 @@
 
 ## api 
 
+- [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection) - Minimalistic, flat art, and colorful, digital nature wallpapers and an API for randomly selecting them
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - 💬 🤖  The most reliable WhatsApp tool for chatbots with advanced features. Be sure to 🌟 this repository for updates!
 - [danielcardeenas/whatsapp-framework](https://github.com/danielcardeenas/whatsapp-framework) - ⚗️Whatsapp python api
@@ -131,6 +136,16 @@
 ## automation 
 
 - [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys) - Lightweight full-featured WhatsApp Web + Multi-Device API
+
+## awesome 
+
+- [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+
+## awesome-list 
+
+- [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 
 ## aws 
 
@@ -196,6 +211,10 @@
 
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 
+## discord 
+
+- [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii) - An intuitive and type-safe Python library for converting lists to fancy ASCII tables for displaying in the terminal or code-blocks
+
 ## docker 
 
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
@@ -243,6 +262,7 @@
 
 ## github 
 
+- [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards) - Workflow for displaying recent YouTube videos as SVG cards in your readme
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your GitHub profile readme or repository.
 
 ## golang 
@@ -256,6 +276,8 @@
 
 ## hacktoberfest 
 
+- [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards) - Workflow for displaying recent YouTube videos as SVG cards in your readme
+- [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii) - An intuitive and type-safe Python library for converting lists to fancy ASCII tables for displaying in the terminal or code-blocks
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your GitHub profile readme or repository.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟
@@ -318,6 +340,7 @@
 
 ## markdown 
 
+- [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii) - An intuitive and type-safe Python library for converting lists to fancy ASCII tables for displaying in the terminal or code-blocks
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 
 ## material-design 
@@ -366,6 +389,10 @@
 
 ## others 
 
+- [sturdy-dev/codereview.gpt](https://github.com/sturdy-dev/codereview.gpt) - Reviews your Pull Requests using ChatGPT so that you can pretend to work.
+- [mohalobaidi/EnhancedChatGPT](https://github.com/mohalobaidi/EnhancedChatGPT) - 
+- [dougmercer/BioHash](https://github.com/dougmercer/BioHash) - A Python3 implementation of a simple O(n) k-minimizer hashing algorithm.
+- [DenverCoder1/awesome-stars](https://github.com/DenverCoder1/awesome-stars) - My Awesome List. List of repositories starred by Jonah Lawrence.
 - [humphd/my-photohub](https://github.com/humphd/my-photohub) - Making it easy to share your photos using GitHub Pages
 - [benf2004/ChatGPT-History](https://github.com/benf2004/ChatGPT-History) - 
 - [czue/django-wedding-website](https://github.com/czue/django-wedding-website) - A django-powered wedding website and guest-management system
@@ -454,6 +481,7 @@
 
 ## python 
 
+- [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii) - An intuitive and type-safe Python library for converting lists to fancy ASCII tables for displaying in the terminal or code-blocks
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [open-wa/wa-automate-socket-client-python](https://github.com/open-wa/wa-automate-socket-client-python) - 🔌 🛠 The wa-automate socket client allows you to easily connect to remote EASY API instances. Be sure to 🌟 this repository for updates!
 - [RedFantom/python-rgbkeyboards](https://github.com/RedFantom/python-rgbkeyboards) - Wrappers for various RGB keyboard SDKs in Python
@@ -529,6 +557,7 @@
 
 ## terminal 
 
+- [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii) - An intuitive and type-safe Python library for converting lists to fancy ASCII tables for displaying in the terminal or code-blocks
 - [MahdeenSky/ChatGPT-Terminal-Completion](https://github.com/MahdeenSky/ChatGPT-Terminal-Completion) - Attempt at using ChatGPT to issue commands based on comments in the terminal.
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
