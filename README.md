@@ -62,6 +62,9 @@
 
 ## JavaScript 
 
+- [qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - A browser extension that augments your ChatGPT prompts with web results.
+- [sturdy-dev/codereview.gpt](https://github.com/sturdy-dev/codereview.gpt) - Reviews your Pull Requests using ChatGPT so that you can pretend to work.
+- [mohalobaidi/EnhancedChatGPT](https://github.com/mohalobaidi/EnhancedChatGPT) - 
 - [humphd/my-photohub](https://github.com/humphd/my-photohub) - Making it easy to share your photos using GitHub Pages
 - [benf2004/ChatGPT-History](https://github.com/benf2004/ChatGPT-History) - 
 - [benjamineac/dev-hev](https://github.com/benjamineac/dev-hev) - chat app - svelte, socket.io, flask
@@ -88,6 +91,8 @@
 
 ## Others 
 
+- [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
+- [DenverCoder1/awesome-stars](https://github.com/DenverCoder1/awesome-stars) - My Awesome List. List of repositories starred by Jonah Lawrence.
 - [AUTOMATIC1111/stable-diffusion-webui-feature-showcase](https://github.com/AUTOMATIC1111/stable-diffusion-webui-feature-showcase) - Feature showcase for stable-diffusion-webui
 - [Maks-s/sd-akashic](https://github.com/Maks-s/sd-akashic) - A compendium of informations regarding Stable Diffusion (SD)
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
@@ -98,10 +103,15 @@
 
 ## PHP 
 
+- [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection) - Minimalistic, flat art, and colorful, digital nature wallpapers and an API for randomly selecting them
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your GitHub profile readme or repository.
 
 ## Python 
 
+- [dougmercer/BioHash](https://github.com/dougmercer/BioHash) - A Python3 implementation of a simple O(n) k-minimizer hashing algorithm.
+- [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards) - Workflow for displaying recent YouTube videos as SVG cards in your readme
+- [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii) - An intuitive and type-safe Python library for converting lists to fancy ASCII tables for displaying in the terminal or code-blocks
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [MahdeenSky/ChatGPT-Terminal-Completion](https://github.com/MahdeenSky/ChatGPT-Terminal-Completion) - Attempt at using ChatGPT to issue commands based on comments in the terminal.
 - [greshake/Alice](https://github.com/greshake/Alice) - Giving ChatGPT access to a real terminal
 - [BLuFeNiX/PlayGPT](https://github.com/BLuFeNiX/PlayGPT) - Runs a sharable ChatGPT docker container, allowing you to share a ChatGPT session with friends via a web browser. You all control the session, as though using the same keyboard.
