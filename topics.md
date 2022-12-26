@@ -432,6 +432,8 @@
 
 ## others 
 
+- [hackingthemarkets/openai-whisper-live-transcription](https://github.com/hackingthemarkets/openai-whisper-live-transcription) - near real-time transcription of audio from microphone
+- [openai/spinningup](https://github.com/openai/spinningup) - An educational resource to help anyone learn deep reinforcement learning.
 - [shabie/docformer](https://github.com/shabie/docformer) - Implementation of DocFormer: End-to-End Transformer for Document Understanding, a multi-modal transformer based architecture for the task of Visual Document Understanding (VDU)
 - [schismtracker/schismtracker](https://github.com/schismtracker/schismtracker) - An oldschool sample-based music composition tool.
 - [zpix1/yt-anti-translate](https://github.com/zpix1/yt-anti-translate) - Chrome extension to disable youtube video titles autotranslation
