@@ -118,6 +118,8 @@
 
 ## Python 
 
+- [hackingthemarkets/openai-whisper-live-transcription](https://github.com/hackingthemarkets/openai-whisper-live-transcription) - near real-time transcription of audio from microphone
+- [openai/spinningup](https://github.com/openai/spinningup) - An educational resource to help anyone learn deep reinforcement learning.
 - [shabie/docformer](https://github.com/shabie/docformer) - Implementation of DocFormer: End-to-End Transformer for Document Understanding, a multi-modal transformer based architecture for the task of Visual Document Understanding (VDU)
 - [mmabrouk/chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) - API for interacting with ChatGPT using Python and from Shell.
 - [dougmercer/BioHash](https://github.com/dougmercer/BioHash) - A Python3 implementation of a simple O(n) k-minimizer hashing algorithm.
