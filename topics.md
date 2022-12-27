@@ -191,7 +191,7 @@
 
 ## cli 
 
-- [ChatGPT-Hackers/ChatGPT](https://github.com/ChatGPT-Hackers/ChatGPT) - Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.
+- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.
 - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
 
 ## code 
@@ -361,7 +361,7 @@
 
 ## library 
 
-- [ChatGPT-Hackers/ChatGPT](https://github.com/ChatGPT-Hackers/ChatGPT) - Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.
+- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.
 
 ## linux 
 
