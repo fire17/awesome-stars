@@ -118,6 +118,8 @@
 
 ## Python 
 
+- [Animenosekai/googlesearch](https://github.com/Animenosekai/googlesearch) - An unofficial Google Search Python API working by parsing the website
+- [lyyka/google-maps-businesses-scraper](https://github.com/lyyka/google-maps-businesses-scraper) - Built with Python running Selenium, this app allows you to scrape places info from the google maps search results
 - [google-research/soft-dtw-divergences](https://github.com/google-research/soft-dtw-divergences) - An implementation of soft-DTW divergences.
 - [hackingthemarkets/openai-whisper-live-transcription](https://github.com/hackingthemarkets/openai-whisper-live-transcription) - near real-time transcription of audio from microphone
 - [openai/spinningup](https://github.com/openai/spinningup) - An educational resource to help anyone learn deep reinforcement learning.
