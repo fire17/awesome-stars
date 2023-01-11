@@ -447,7 +447,7 @@
 - [mohalobaidi/EnhancedChatGPT](https://github.com/mohalobaidi/EnhancedChatGPT) - 
 - [dougmercer/BioHash](https://github.com/dougmercer/BioHash) - A Python3 implementation of a simple O(n) k-minimizer hashing algorithm.
 - [DenverCoder1/awesome-stars](https://github.com/DenverCoder1/awesome-stars) - My Awesome List. List of repositories starred by Jonah Lawrence.
-- [humphd/my-photohub](https://github.com/humphd/my-photohub) - Making it easy to share your photos using GitHub Pages
+- [Seneca-CDOT/my-photohub](https://github.com/Seneca-CDOT/my-photohub) - Making it easy to share your photos using GitHub Pages
 - [benf2004/ChatGPT-Prompt-Genius](https://github.com/benf2004/ChatGPT-Prompt-Genius) - 
 - [czue/django-wedding-website](https://github.com/czue/django-wedding-website) - A django-powered wedding website and guest-management system
 - [greshake/Alice](https://github.com/greshake/Alice) - Giving ChatGPT access to a real terminal
