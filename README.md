@@ -74,7 +74,7 @@
 - [qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - A browser extension that augments your ChatGPT prompts with web results.
 - [sturdy-dev/codereview.gpt](https://github.com/sturdy-dev/codereview.gpt) - Reviews your Pull Requests using ChatGPT so that you can pretend to work.
 - [mohalobaidi/EnhancedChatGPT](https://github.com/mohalobaidi/EnhancedChatGPT) - 
-- [humphd/my-photohub](https://github.com/humphd/my-photohub) - Making it easy to share your photos using GitHub Pages
+- [Seneca-CDOT/my-photohub](https://github.com/Seneca-CDOT/my-photohub) - Making it easy to share your photos using GitHub Pages
 - [benf2004/ChatGPT-Prompt-Genius](https://github.com/benf2004/ChatGPT-Prompt-Genius) - 
 - [benjamineac/dev-hev](https://github.com/benjamineac/dev-hev) - chat app - svelte, socket.io, flask
 - [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys) - Lightweight full-featured WhatsApp Web + Multi-Device API
