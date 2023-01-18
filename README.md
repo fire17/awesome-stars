@@ -35,6 +35,7 @@
 
 ## C# # 
 
+- [Decimation/SmartImage](https://github.com/Decimation/SmartImage) - Reverse image search tool (SauceNao, ImgOps, trace.moe, and more)
 - [anas-899/2D-Bin-Packing-with-Genetic-Algorithm](https://github.com/anas-899/2D-Bin-Packing-with-Genetic-Algorithm) - C# based project explain all steps of genetic algorithm on a simple application for 2D-bin-packing
 
 ## C++ 
@@ -50,6 +51,7 @@
 
 ## Go 
 
+- [tanaikech/goris](https://github.com/tanaikech/goris) - This is a CLI tool to search for images with Google Reverse Image Search (goris).
 - [openfaas/faasd](https://github.com/openfaas/faasd) - A lightweight & portable faas engine
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟
@@ -66,6 +68,8 @@
 
 ## JavaScript 
 
+- [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
+- [xemle/home-gallery](https://github.com/xemle/home-gallery) - Self-hosted open-source web gallery to view your photos and videos featuring mobile-friendly, tagging and AI powered image discovery
 - [Seneca-CDOT/telescope](https://github.com/Seneca-CDOT/telescope) - A tool for tracking blogs in orbit around Seneca's open source involvement
 - [phcode-dev/phoenix](https://github.com/phcode-dev/phoenix) - Phoenix is a modern open-source IDE for the web, built for the browser.
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
@@ -119,6 +123,10 @@
 
 ## Python 
 
+- [ml4a/ml4a](https://github.com/ml4a/ml4a) - A python library and collection of notebooks for making art with machine learning.
+- [kingyiusuen/clip-image-search](https://github.com/kingyiusuen/clip-image-search) - Search images with a text or image query, using Open AI's pretrained CLIP model.
+- [RuthGnz/SpyScrap](https://github.com/RuthGnz/SpyScrap) - CLI and GUI for OSINT.  Are you very exhibited on the Internet? Check it!  Twitter, Tinder, Facebook, Google, Yandex, BOE. It uses facial recognition to provide more accurate results.
+- [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [Animenosekai/googlesearch](https://github.com/Animenosekai/googlesearch) - An unofficial Google Search Python API working by parsing the website
 - [lyyka/google-maps-businesses-scraper](https://github.com/lyyka/google-maps-businesses-scraper) - Built with Python running Selenium, this app allows you to scrape places info from the google maps search results
 - [google-research/soft-dtw-divergences](https://github.com/google-research/soft-dtw-divergences) - An implementation of soft-DTW divergences.
