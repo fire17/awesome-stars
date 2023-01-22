@@ -68,6 +68,7 @@
 
 ## JavaScript 
 
+- [davila7/code-gpt-docs](https://github.com/davila7/code-gpt-docs) - Docusaurus page
 - [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
 - [xemle/home-gallery](https://github.com/xemle/home-gallery) - Self-hosted open-source web gallery to view your photos and videos featuring mobile-friendly, tagging and AI powered image discovery
 - [Seneca-CDOT/telescope](https://github.com/Seneca-CDOT/telescope) - A tool for tracking blogs in orbit around Seneca's open source involvement
@@ -123,6 +124,7 @@
 
 ## Python 
 
+- [cj-praveen/googlesearch.py](https://github.com/cj-praveen/googlesearch.py) - The Google search scraper for the Python programming language.
 - [ml4a/ml4a](https://github.com/ml4a/ml4a) - A python library and collection of notebooks for making art with machine learning.
 - [kingyiusuen/clip-image-search](https://github.com/kingyiusuen/clip-image-search) - Search images with a text or image query, using Open AI's pretrained CLIP model.
 - [RuthGnz/SpyScrap](https://github.com/RuthGnz/SpyScrap) - CLI and GUI for OSINT.  Are you very exhibited on the Internet? Check it!  Twitter, Tinder, Facebook, Google, Yandex, BOE. It uses facial recognition to provide more accurate results.
@@ -157,7 +159,7 @@
 - [sagieppel/Fully-convolutional-neural-network-FCN-for-semantic-segmentation-with-pytorch](https://github.com/sagieppel/Fully-convolutional-neural-network-FCN-for-semantic-segmentation-with-pytorch) - Fully convolutional neural network (FCN) for pixelwise annotation (semantic segmentation) of images implemented on python pytorch.
 - [sagieppel/Detecting-and-segmenting-and-classifying-materials-inside-vessels-in-images-using-convolutional-net](https://github.com/sagieppel/Detecting-and-segmenting-and-classifying-materials-inside-vessels-in-images-using-convolutional-net) - Detecting and segmenting and classifying materials inside mostly transparent vessels in images using a fully convolutional neural net for chemistry lab and other general setting
 - [TeamVanced/Vanced](https://github.com/TeamVanced/Vanced) - Vanced Issues/Docs repo
-- [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test
+- [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2023 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
