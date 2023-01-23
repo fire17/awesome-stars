@@ -461,7 +461,7 @@
 ## others 
 
 - [davila7/code-gpt-docs](https://github.com/davila7/code-gpt-docs) - Docusaurus page
-- [cj-praveen/googlesearch.py](https://github.com/cj-praveen/googlesearch.py) - The Google search scraper for the Python programming language.
+- [cj-praveen/googlesearch.py](https://github.com/cj-praveen/googlesearch.py) - a python wrapper for google.com
 - [ml4a/ml4a](https://github.com/ml4a/ml4a) - A python library and collection of notebooks for making art with machine learning.
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [ocropus/ocropy](https://github.com/ocropus/ocropy) - Python-based tools for document analysis and OCR
