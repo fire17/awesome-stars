@@ -124,7 +124,7 @@
 
 ## Python 
 
-- [cj-praveen/googlesearch.py](https://github.com/cj-praveen/googlesearch.py) - The Google search scraper for the Python programming language.
+- [cj-praveen/googlesearch.py](https://github.com/cj-praveen/googlesearch.py) - a python wrapper for google.com
 - [ml4a/ml4a](https://github.com/ml4a/ml4a) - A python library and collection of notebooks for making art with machine learning.
 - [kingyiusuen/clip-image-search](https://github.com/kingyiusuen/clip-image-search) - Search images with a text or image query, using Open AI's pretrained CLIP model.
 - [RuthGnz/SpyScrap](https://github.com/RuthGnz/SpyScrap) - CLI and GUI for OSINT.  Are you very exhibited on the Internet? Check it!  Twitter, Tinder, Facebook, Google, Yandex, BOE. It uses facial recognition to provide more accurate results.
