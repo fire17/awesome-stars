@@ -76,7 +76,6 @@
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
 - [zpix1/yt-anti-translate](https://github.com/zpix1/yt-anti-translate) - Chrome extension to disable youtube video titles autotranslation
 - [qunash/gpt-3_chrome_extension](https://github.com/qunash/gpt-3_chrome_extension) - Use OpenAI's GPT-3 API prompter on any website.
-- [qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - A browser extension that augments your ChatGPT prompts with web results.
 - [sturdy-dev/codereview.gpt](https://github.com/sturdy-dev/codereview.gpt) - Reviews your Pull Requests using ChatGPT so that you can pretend to work.
 - [mohalobaidi/EnhancedChatGPT](https://github.com/mohalobaidi/EnhancedChatGPT) - 
 - [Seneca-CDOT/my-photohub](https://github.com/Seneca-CDOT/my-photohub) - Making it easy to share your photos using GitHub Pages
@@ -247,6 +246,7 @@
 
 ## TypeScript 
 
+- [qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - A browser extension that augments your ChatGPT prompts with web results.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
 - [solana-labs/solana-pay](https://github.com/solana-labs/solana-pay) - A new standard for decentralized payments.
