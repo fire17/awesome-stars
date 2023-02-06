@@ -195,7 +195,7 @@
 - [sturdy-dev/codereview.gpt](https://github.com/sturdy-dev/codereview.gpt) - Reviews your Pull Requests using ChatGPT so that you can pretend to work.
 - [MahdeenSky/ChatGPT-Terminal-Completion](https://github.com/MahdeenSky/ChatGPT-Terminal-Completion) - Attempt at using ChatGPT to issue commands based on comments in the terminal.
 - [BLuFeNiX/PlayGPT](https://github.com/BLuFeNiX/PlayGPT) - Runs a sharable ChatGPT docker container, allowing you to share a ChatGPT session with friends via a web browser. You all control the session, as though using the same keyboard.
-- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API. Uses official model same as the website.
+- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 
 ## chrome-extension 
 
@@ -209,7 +209,7 @@
 
 - [tanaikech/goris](https://github.com/tanaikech/goris) - This is a CLI tool to search for images with Google Reverse Image Search (goris).
 - [RuthGnz/SpyScrap](https://github.com/RuthGnz/SpyScrap) - CLI and GUI for OSINT.  Are you very exhibited on the Internet? Check it!  Twitter, Tinder, Facebook, Google, Yandex, BOE. It uses facial recognition to provide more accurate results.
-- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API. Uses official model same as the website.
+- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
 
 ## code 
@@ -391,7 +391,7 @@
 
 ## library 
 
-- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API. Uses official model same as the website.
+- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 
 ## linux 
 
