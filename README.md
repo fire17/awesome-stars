@@ -51,6 +51,7 @@
 
 ## Go 
 
+- [tusharsadhwani/micro](https://github.com/tusharsadhwani/micro) - A modern and intuitive terminal-based text editor
 - [tanaikech/goris](https://github.com/tanaikech/goris) - This is a CLI tool to search for images with Google Reverse Image Search (goris).
 - [openfaas/faasd](https://github.com/openfaas/faasd) - A lightweight & portable faas engine
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
@@ -123,6 +124,13 @@
 
 ## Python 
 
+- [tusharsadhwani/flake8-comprehensions](https://github.com/tusharsadhwani/flake8-comprehensions) - ❄️ A flake8 plugin to help you write better list/set/dict comprehensions.
+- [tusharsadhwani/oneliners](https://github.com/tusharsadhwani/oneliners) - 
+- [tusharsadhwani/python-starter](https://github.com/tusharsadhwani/python-starter) - A straightforward starter template for Python packages.
+- [tusharsadhwani/zxpy](https://github.com/tusharsadhwani/zxpy) - Shell scripts made simple 🐚
+- [tusharsadhwani/cursed-for](https://github.com/tusharsadhwani/cursed-for) - 
+- [tusharsadhwani/url-shortener](https://github.com/tusharsadhwani/url-shortener) - My free URL shortener hack
+- [tusharsadhwani/t](https://github.com/tusharsadhwani/t) - A place to keep all the test codes I make that don't deserve their own repository but might come handy someday.
 - [enhuiz/vall-e](https://github.com/enhuiz/vall-e) - An unofficial PyTorch implementation of the audio LM VALL-E
 - [cj-praveen/googlesearch.py](https://github.com/cj-praveen/googlesearch.py) - a python wrapper for google.com
 - [ml4a/ml4a](https://github.com/ml4a/ml4a) - A python library and collection of notebooks for making art with machine learning.
@@ -225,6 +233,7 @@
 
 ## Shell 
 
+- [tusharsadhwani/dotfiles](https://github.com/tusharsadhwani/dotfiles) - Place to keep all my windows/linux dotfiles
 - [bbaranoff/telco_install_sh](https://github.com/bbaranoff/telco_install_sh) - 
 - [estherjk/ok-google-pi-zero](https://github.com/estherjk/ok-google-pi-zero) - Using the Google Assistant SDK on a Raspberry Pi Zero W
 - [t1m0thyj/AssistantPi](https://github.com/t1m0thyj/AssistantPi) - Unofficial installer for Google Assistant on Raspbian
