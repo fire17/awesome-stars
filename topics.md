@@ -470,6 +470,13 @@
 
 ## others 
 
+- [tusharsadhwani/micro](https://github.com/tusharsadhwani/micro) - A modern and intuitive terminal-based text editor
+- [tusharsadhwani/dotfiles](https://github.com/tusharsadhwani/dotfiles) - Place to keep all my windows/linux dotfiles
+- [tusharsadhwani/flake8-comprehensions](https://github.com/tusharsadhwani/flake8-comprehensions) - ❄️ A flake8 plugin to help you write better list/set/dict comprehensions.
+- [tusharsadhwani/oneliners](https://github.com/tusharsadhwani/oneliners) - 
+- [tusharsadhwani/cursed-for](https://github.com/tusharsadhwani/cursed-for) - 
+- [tusharsadhwani/url-shortener](https://github.com/tusharsadhwani/url-shortener) - My free URL shortener hack
+- [tusharsadhwani/t](https://github.com/tusharsadhwani/t) - A place to keep all the test codes I make that don't deserve their own repository but might come handy someday.
 - [davila7/code-gpt-docs](https://github.com/davila7/code-gpt-docs) - Docusaurus page
 - [cj-praveen/googlesearch.py](https://github.com/cj-praveen/googlesearch.py) - a python wrapper for google.com
 - [ml4a/ml4a](https://github.com/ml4a/ml4a) - A python library and collection of notebooks for making art with machine learning.
@@ -574,6 +581,8 @@
 
 ## python 
 
+- [tusharsadhwani/python-starter](https://github.com/tusharsadhwani/python-starter) - A straightforward starter template for Python packages.
+- [tusharsadhwani/zxpy](https://github.com/tusharsadhwani/zxpy) - Shell scripts made simple 🐚
 - [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for working with audio.
 - [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii) - An intuitive and type-safe Python library for converting lists to fancy ASCII tables for displaying in the terminal or code-blocks
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
@@ -637,6 +646,7 @@
 
 ## shell 
 
+- [tusharsadhwani/zxpy](https://github.com/tusharsadhwani/zxpy) - Shell scripts made simple 🐚
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
 - [engineer-man/piston](https://github.com/engineer-man/piston) - A high performance general purpose code execution engine.
 
