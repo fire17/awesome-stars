@@ -88,6 +88,7 @@
 - [shell](#shell)
 - [sketch](#sketch)
 - [sql](#sql)
+- [svelte](#svelte)
 - [swift](#swift)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
@@ -512,7 +513,6 @@
 - [benjamineac/dev-hev](https://github.com/benjamineac/dev-hev) - chat app - svelte, socket.io, flask
 - [bbaranoff/telco_install_sh](https://github.com/bbaranoff/telco_install_sh) - 
 - [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
-- [rgossiaux/svelte-headlessui](https://github.com/rgossiaux/svelte-headlessui) - Unofficial Svelte port of the Headless UI component library
 - [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language
 - [sinedie/Flask-Svelte-Websockets-Nginx-Docker](https://github.com/sinedie/Flask-Svelte-Websockets-Nginx-Docker) - Quick development template for flask-socketio projects with heavy computation task
 - [sagieppel/Fully-convolutional-neural-network-FCN-for-semantic-segmentation-with-pytorch](https://github.com/sagieppel/Fully-convolutional-neural-network-FCN-for-semantic-segmentation-with-pytorch) - Fully convolutional neural network (FCN) for pixelwise annotation (semantic segmentation) of images implemented on python pytorch.
@@ -657,6 +657,10 @@
 ## sql 
 
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
+
+## svelte 
+
+- [rgossiaux/svelte-headlessui](https://github.com/rgossiaux/svelte-headlessui) - Unofficial Svelte port of the Headless UI component library
 
 ## swift 
 
