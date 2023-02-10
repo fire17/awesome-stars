@@ -471,6 +471,8 @@
 
 ## others 
 
+- [OpsConfig/OpenAI_Lab](https://github.com/OpsConfig/OpenAI_Lab) - 
+- [tldraw/tldraw-beta](https://github.com/tldraw/tldraw-beta) - A place to file issues for tldraw's beta version.
 - [daveshap/raven](https://github.com/daveshap/raven) - RAVEN (Realtime Assistant Voice Enabled Network) Open Source Software (OSS) community repo
 - [tusharsadhwani/micro](https://github.com/tusharsadhwani/micro) - A modern and intuitive terminal-based text editor
 - [tusharsadhwani/dotfiles](https://github.com/tusharsadhwani/dotfiles) - Place to keep all my windows/linux dotfiles
