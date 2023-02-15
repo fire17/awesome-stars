@@ -68,6 +68,7 @@
 - [mobile](#mobile)
 - [music](#music)
 - [neural-network](#neural-network)
+- [nextjs](#nextjs)
 - [nlp](#nlp)
 - [node](#node)
 - [nodejs](#nodejs)
@@ -438,6 +439,10 @@
 
 - [rrmina/fast-neural-style-pytorch](https://github.com/rrmina/fast-neural-style-pytorch) - Fast Neural Style Transfer implementation in PyTorch :art: :art: :art:
 - [sarathsp06/gesture_recognizer](https://github.com/sarathsp06/gesture_recognizer) - Gesture recognition using accelerometer data
+
+## nextjs 
+
+- [jianyuan/jianyuan.io](https://github.com/jianyuan/jianyuan.io) - ✨ My personal website
 
 ## nlp 
 
