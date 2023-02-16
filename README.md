@@ -192,7 +192,7 @@
 - [rrmina/fast-neural-style-pytorch](https://github.com/rrmina/fast-neural-style-pytorch) - Fast Neural Style Transfer implementation in PyTorch :art: :art: :art:
 - [eriklindernoren/Fast-Neural-Style-Transfer](https://github.com/eriklindernoren/Fast-Neural-Style-Transfer) - Fast Neural Style Transfer in Pytorch
 - [caseypeat/Neural-Transfer-Realtime](https://github.com/caseypeat/Neural-Transfer-Realtime) - 
-- [pygfx/pygfx](https://github.com/pygfx/pygfx) - Like ThreeJS but for Python and based on wgpu
+- [pygfx/pygfx](https://github.com/pygfx/pygfx) - A python render engine running on wgpu.
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [jvgemert/pbMoMa](https://github.com/jvgemert/pbMoMa) - Phase based video motion magnification
