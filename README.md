@@ -126,6 +126,7 @@
 
 ## Python 
 
+- [aymanimtyaz/StateEngine](https://github.com/aymanimtyaz/StateEngine) - Finite State Machines in Pure Python!
 - [daveshap/raven](https://github.com/daveshap/raven) - RAVEN (Realtime Assistant Voice Enabled Network) Open Source Software (OSS) community repo
 - [tusharsadhwani/flake8-comprehensions](https://github.com/tusharsadhwani/flake8-comprehensions) - ❄️ A flake8 plugin to help you write better list/set/dict comprehensions.
 - [tusharsadhwani/oneliners](https://github.com/tusharsadhwani/oneliners) - 
