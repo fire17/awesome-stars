@@ -531,7 +531,7 @@
 - [pAulseperformance/awesome-pinescript](https://github.com/pAulseperformance/awesome-pinescript) - A Comprehensive Collection of Everything Related to Tradingview Pine Script.
 - [mame/doublehelix](https://github.com/mame/doublehelix) - doublehelix obfuscates Ruby codes in Double-helix style
 - [mame/quine-relay](https://github.com/mame/quine-relay) - An uroboros program with 100+ programming languages
-- [s3prl/s3prl](https://github.com/s3prl/s3prl) - Self-Supervised Speech/Sound Pre-training and Representation Learning Toolkit
+- [s3prl/s3prl](https://github.com/s3prl/s3prl) - Audio Foundation Models (Self-Supervised Speech/Sound Pre-training and Representation Learning Toolkit)
 - [ps1dr3x/greenpass-generator](https://github.com/ps1dr3x/greenpass-generator) - 
 - [THOSE-EYES/pdf_text_changer](https://github.com/THOSE-EYES/pdf_text_changer) - Replace text in PDF from the command line using Python.
 - [twobucks/slack-message](https://github.com/twobucks/slack-message) - Send Slack messages from terminal.
