@@ -260,6 +260,8 @@
 
 ## TypeScript 
 
+- [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
+- [statelyai/xstate-viz](https://github.com/statelyai/xstate-viz) - Visualizer for XState machines
 - [jianyuan/jianyuan.io](https://github.com/jianyuan/jianyuan.io) - ✨ My personal website
 - [qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
