@@ -342,6 +342,7 @@
 
 ## hacktoberfest 
 
+- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
 - [statelyai/xstate-viz](https://github.com/statelyai/xstate-viz) - Visualizer for XState machines
 - [Seneca-CDOT/telescope](https://github.com/Seneca-CDOT/telescope) - A tool for tracking blogs in orbit around Seneca's open source involvement
@@ -482,6 +483,7 @@
 
 ## others 
 
+- [daveshap/ImpliedCognition](https://github.com/daveshap/ImpliedCognition) - Public research about LLMs, Implied Cognition, experiments, tests, etc
 - [wunderwuzzi23/yolo-ai-cmdbot](https://github.com/wunderwuzzi23/yolo-ai-cmdbot) - AI bot that translates your question to a command and executes it yolo style
 - [OpsConfig/OpenAI_Lab](https://github.com/OpsConfig/OpenAI_Lab) - 
 - [tldraw/tldraw-beta](https://github.com/tldraw/tldraw-beta) - A place to file issues for tldraw's beta version.
@@ -689,6 +691,7 @@
 
 ## terminal 
 
+- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii) - An intuitive and type-safe Python library for converting lists to fancy ASCII tables for displaying in the terminal or code-blocks
 - [MahdeenSky/ChatGPT-Terminal-Completion](https://github.com/MahdeenSky/ChatGPT-Terminal-Completion) - Attempt at using ChatGPT to issue commands based on comments in the terminal.
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
