@@ -107,6 +107,8 @@
 
 ## Others 
 
+- [cvlab-columbia/viper](https://github.com/cvlab-columbia/viper) - Code for the paper "ViperGPT: Visual Inference via Python Execution for Reasoning"
+- [wescosmic/AIA-Notes](https://github.com/wescosmic/AIA-Notes) - 
 - [daveshap/ImpliedCognition](https://github.com/daveshap/ImpliedCognition) - Public research about LLMs, Implied Cognition, experiments, tests, etc
 - [tldraw/tldraw-beta](https://github.com/tldraw/tldraw-beta) - A place to file issues for tldraw's beta version.
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
