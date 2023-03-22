@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Astro](#astro)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -25,6 +26,10 @@
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vue](#vue)
+
+## Astro 
+
+- [jianyuan/jianyuan.io](https://github.com/jianyuan/jianyuan.io) - ✨ My personal website
 
 ## C 
 
@@ -107,7 +112,6 @@
 
 ## Others 
 
-- [cvlab-columbia/viper](https://github.com/cvlab-columbia/viper) - Code for the paper "ViperGPT: Visual Inference via Python Execution for Reasoning"
 - [wescosmic/AIA-Notes](https://github.com/wescosmic/AIA-Notes) - 
 - [daveshap/ImpliedCognition](https://github.com/daveshap/ImpliedCognition) - Public research about LLMs, Implied Cognition, experiments, tests, etc
 - [tldraw/tldraw-beta](https://github.com/tldraw/tldraw-beta) - A place to file issues for tldraw's beta version.
@@ -128,6 +132,7 @@
 
 ## Python 
 
+- [cvlab-columbia/viper](https://github.com/cvlab-columbia/viper) - Code for the paper "ViperGPT: Visual Inference via Python Execution for Reasoning"
 - [wunderwuzzi23/yolo-ai-cmdbot](https://github.com/wunderwuzzi23/yolo-ai-cmdbot) - AI bot that translates your question to a command and executes it yolo style
 - [aymanimtyaz/StateEngine](https://github.com/aymanimtyaz/StateEngine) - Finite State Machines in Pure Python!
 - [daveshap/raven](https://github.com/daveshap/raven) - RAVEN (Realtime Assistant Voice Enabled Network) Open Source Software (OSS) community repo
@@ -177,7 +182,7 @@
 - [TeamVanced/Vanced](https://github.com/TeamVanced/Vanced) - Vanced Issues/Docs repo
 - [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2023 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
+- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [S-aiueo32/srntt-pytorch](https://github.com/S-aiueo32/srntt-pytorch) - A PyTorch implementation of SRNTT, which is a novel RefSR method.
 - [revoxhere/duino-coin](https://github.com/revoxhere/duino-coin) - ᕲ Duino-Coin is a coin that can be mined with almost everything, including Arduino boards.
@@ -267,7 +272,6 @@
 
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
 - [statelyai/xstate-viz](https://github.com/statelyai/xstate-viz) - Visualizer for XState machines
-- [jianyuan/jianyuan.io](https://github.com/jianyuan/jianyuan.io) - ✨ My personal website
 - [qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
