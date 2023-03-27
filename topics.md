@@ -84,6 +84,7 @@
 - [pytorch](#pytorch)
 - [raspberry-pi](#raspberry-pi)
 - [rest-api](#rest-api)
+- [ruby](#ruby)
 - [rust](#rust)
 - [serverless](#serverless)
 - [shell](#shell)
@@ -652,6 +653,10 @@
 ## rest-api 
 
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+
+## ruby 
+
+- [Aesthetikx/openai_pipe](https://github.com/Aesthetikx/openai_pipe) - A UNIX-ey interface to OpenAI
 
 ## rust 
 
