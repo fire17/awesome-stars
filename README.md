@@ -74,7 +74,6 @@
 
 ## JavaScript 
 
-- [jina-ai/auto-gpt-web](https://github.com/jina-ai/auto-gpt-web) - Web-based platform that makes GPT-4 fully autonomous.
 - [davila7/code-gpt-docs](https://github.com/davila7/code-gpt-docs) - Docusaurus page
 - [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
 - [xemle/home-gallery](https://github.com/xemle/home-gallery) - Self-hosted open-source web gallery to view your photos and videos featuring mobile-friendly, tagging and AI powered image discovery
@@ -274,6 +273,7 @@
 
 ## TypeScript 
 
+- [jina-ai/auto-gpt-web](https://github.com/jina-ai/auto-gpt-web) - Web-based platform that makes GPT-4 fully autonomous.
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT CLI to auto-generate impressive commits in 1 second 🤯🔫
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
 - [statelyai/xstate-viz](https://github.com/statelyai/xstate-viz) - Visualizer for XState machines
