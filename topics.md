@@ -116,6 +116,7 @@
 
 ## ai 
 
+- [jina-ai/auto-gpt-web](https://github.com/jina-ai/auto-gpt-web) - Web-based platform that makes GPT-4 fully autonomous.
 - [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT CLI to auto-generate impressive commits in 1 second 🤯🔫
 - [qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
@@ -399,6 +400,7 @@
 
 ## javascript 
 
+- [jina-ai/auto-gpt-web](https://github.com/jina-ai/auto-gpt-web) - Web-based platform that makes GPT-4 fully autonomous.
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
 - [phcode-dev/phoenix](https://github.com/phcode-dev/phoenix) - Phoenix is a modern open-source IDE for the web, built for the browser.
 - [kevinschaich/mintable](https://github.com/kevinschaich/mintable) - 🍃 Automate your personal finances – for free, with no ads, and no data collection.
@@ -497,7 +499,6 @@
 
 ## others 
 
-- [jina-ai/auto-gpt-web](https://github.com/jina-ai/auto-gpt-web) - Web-based platform that makes GPT-4 fully autonomous.
 - [WASasquatch/was-node-suite-comfyui](https://github.com/WASasquatch/was-node-suite-comfyui) - A node suite for ComfyUI with many new modes, such as image processing, text processing, and more.
 - [cvlab-columbia/viper](https://github.com/cvlab-columbia/viper) - Code for the paper "ViperGPT: Visual Inference via Python Execution for Reasoning"
 - [wescosmic/AIA-Notes](https://github.com/wescosmic/AIA-Notes) - 
