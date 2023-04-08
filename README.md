@@ -273,7 +273,7 @@
 
 ## TypeScript 
 
-- [jina-ai/auto-gpt-web](https://github.com/jina-ai/auto-gpt-web) - Web-based platform that makes GPT-4 fully autonomous.
+- [jina-ai/auto-gpt-web](https://github.com/jina-ai/auto-gpt-web) - Set Your Goals, AI Achieves Them.
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT CLI to auto-generate impressive commits in 1 second 🤯🔫
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
 - [statelyai/xstate-viz](https://github.com/statelyai/xstate-viz) - Visualizer for XState machines
