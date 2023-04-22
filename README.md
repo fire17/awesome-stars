@@ -106,7 +106,7 @@
 
 ## Jupyter Notebook 
 
-- [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Marrying Grounding DINO with Segment Anything & Stable Diffusion & BLIP & Whisper & ChatBot - Automatically Detect , Segment and Generate Anything with Image, Text, and Audio Inputs
+- [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Marrying Grounding DINO with Segment Anything & Stable Diffusion & Tag2Text & BLIP & Whisper & ChatBot - Automatically Detect , Segment and Generate Anything with Image, Text, and Audio Inputs
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 - [cvlab-columbia/viper](https://github.com/cvlab-columbia/viper) - Code for the paper "ViperGPT: Visual Inference via Python Execution for Reasoning"
 - [OpsConfig/OpenAI_Lab](https://github.com/OpsConfig/OpenAI_Lab) - 
@@ -118,6 +118,7 @@
 
 ## Others 
 
+- [PhantasticUniverse/CollectiveGenius-AutoGPT-Agent-Hub](https://github.com/PhantasticUniverse/CollectiveGenius-AutoGPT-Agent-Hub) - A showcase of diverse AI agents, fostering innovation and collaboration across domains.
 - [wescosmic/AIA-Notes](https://github.com/wescosmic/AIA-Notes) - 
 - [daveshap/ImpliedCognition](https://github.com/daveshap/ImpliedCognition) - Public research about LLMs, Implied Cognition, experiments, tests, etc
 - [tldraw/tldraw-beta](https://github.com/tldraw/tldraw-beta) - A place to file issues for tldraw's beta version.
@@ -138,6 +139,9 @@
 
 ## Python 
 
+- [farizrahman4u/loopgpt](https://github.com/farizrahman4u/loopgpt) - Modular Auto-GPT Framework
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com etc...)
+- [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A batteries-included library for building AI-powered software
 - [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - ⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
 - [chatarena/chatarena](https://github.com/chatarena/chatarena) - ChatArena (or Chat Arena) is a Multi-Agent Language Game Environments for LLMs. The goal is to develop communication and collaboration capabilities of AIs.
@@ -266,6 +270,7 @@
 
 ## Shell 
 
+- [DoingFedTime/AutoGPT4All](https://github.com/DoingFedTime/AutoGPT4All) - Automatically create you own AI, no API key, No "as a language model" BS, host it locally, so no regulation can stop you! This script also grabs and installs a UI for you, and converts your Bin proper
 - [tusharsadhwani/dotfiles](https://github.com/tusharsadhwani/dotfiles) - Place to keep all my windows/linux dotfiles
 - [bbaranoff/telco_install_sh](https://github.com/bbaranoff/telco_install_sh) - 
 - [estherjk/ok-google-pi-zero](https://github.com/estherjk/ok-google-pi-zero) - Using the Google Assistant SDK on a Raspberry Pi Zero W
@@ -289,6 +294,9 @@
 
 ## TypeScript 
 
+- [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
+- [Dogtiti/AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
+- [zabirauf/AutoGPT.js](https://github.com/zabirauf/AutoGPT.js) - Auto-GPT on the browser
 - [upstash/ratelimit](https://github.com/upstash/ratelimit) - Rate limiting library for serverless runtimes
 - [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 - [TanStack/virtual](https://github.com/TanStack/virtual) - 🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte
