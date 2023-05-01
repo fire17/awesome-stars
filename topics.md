@@ -168,6 +168,7 @@
 ## artificial-intelligence 
 
 - [chatarena/chatarena](https://github.com/chatarena/chatarena) - ChatArena (or Chat Arena) is a Multi-Agent Language Game Environments for LLMs. The goal is to develop communication and collaboration capabilities of AIs.
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT CLI to auto-generate impressive commits in 1 second 🤯🔫
 
 ## awesome 
