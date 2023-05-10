@@ -119,6 +119,7 @@
 
 ## Others 
 
+- [teorth/test](https://github.com/teorth/test) - 
 - [PhantasticUniverse/CollectiveGenius-AutoGPT-Agent-Hub](https://github.com/PhantasticUniverse/CollectiveGenius-AutoGPT-Agent-Hub) - A showcase of diverse AI agents, fostering innovation and collaboration across domains.
 - [wescosmic/AIA-Notes](https://github.com/wescosmic/AIA-Notes) - 
 - [daveshap/ImpliedCognition](https://github.com/daveshap/ImpliedCognition) - Public research about LLMs, Implied Cognition, experiments, tests, etc
@@ -140,6 +141,7 @@
 
 ## Python 
 
+- [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.
 - [igoose1/support-bot](https://github.com/igoose1/support-bot) - Telegram bot for a support team.
 - [OpenGVLab/Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) - ChatGPT with video understanding! And many more supported LMs such as miniGPT4, StableLM, and MOSS.
 - [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
