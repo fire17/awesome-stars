@@ -215,7 +215,7 @@
 
 ## chatgpt 
 
-- [OpenGVLab/Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) - ChatGPT with video understanding! And many more supported LMs such as miniGPT4, StableLM, and MOSS.
+- [OpenGVLab/Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) - [VideoChatGPT] ChatGPT with video understanding! And many more supported LMs such as miniGPT4, StableLM, and MOSS.
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - ChatGPT in terminal without needing API keys
 - [farizrahman4u/loopgpt](https://github.com/farizrahman4u/loopgpt) - Modular Auto-GPT Framework
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
