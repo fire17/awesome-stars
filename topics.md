@@ -15,7 +15,6 @@
 - [arduino](#arduino)
 - [artificial-intelligence](#artificial-intelligence)
 - [awesome](#awesome)
-- [awesome-list](#awesome-list)
 - [aws](#aws)
 - [azure](#azure)
 - [bash](#bash)
@@ -176,13 +175,6 @@
 ## awesome 
 
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
-- [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-
-## awesome-list 
-
-- [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 
 ## aws 
 
