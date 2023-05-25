@@ -96,6 +96,7 @@
 - [ruby](#ruby)
 - [rust](#rust)
 - [security](#security)
+- [self-hosted](#self-hosted)
 - [serverless](#serverless)
 - [shell](#shell)
 - [sketch](#sketch)
@@ -791,6 +792,11 @@
 ## security 
 
 - [csunny/DB-GPT](https://github.com/csunny/DB-GPT) - Interact your data and environment using the local GPT,  no data leaks, 100% privately, 100% security
+
+## self-hosted 
+
+- [xemle/home-gallery](https://github.com/xemle/home-gallery) - Self-hosted open-source web gallery to view your photos and videos featuring mobile-friendly, tagging and AI powered image discovery
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
 
 ## serverless 
 
