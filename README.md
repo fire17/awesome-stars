@@ -165,7 +165,6 @@
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
-- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [salesforce/LAVIS](https://github.com/salesforce/LAVIS) - LAVIS - A One-stop Library for Language-Vision Intelligence
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [WASasquatch/was-node-suite-comfyui](https://github.com/WASasquatch/was-node-suite-comfyui) - An extensive node suite for ComfyUI with over 150 new nodes
@@ -316,6 +315,7 @@
 - [zabirauf/AutoGPT.js](https://github.com/zabirauf/AutoGPT.js) - Auto-GPT on the browser
 - [upstash/ratelimit](https://github.com/upstash/ratelimit) - Rate limiting library for serverless runtimes
 - [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [TanStack/virtual](https://github.com/TanStack/virtual) - 🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
