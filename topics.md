@@ -286,7 +286,7 @@
 
 ## database 
 
-- [csunny/DB-GPT](https://github.com/csunny/DB-GPT) - Interact your data and environment using the local GPT,  no data leaks, 100% privately, 100% security
+- [csunny/DB-GPT](https://github.com/csunny/DB-GPT) - Revolutionizing Database Interactions with Private LLM Technology
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 
 ## deep-learning 
@@ -795,7 +795,7 @@
 
 ## security 
 
-- [csunny/DB-GPT](https://github.com/csunny/DB-GPT) - Interact your data and environment using the local GPT,  no data leaks, 100% privately, 100% security
+- [csunny/DB-GPT](https://github.com/csunny/DB-GPT) - Revolutionizing Database Interactions with Private LLM Technology
 
 ## self-hosted 
 
