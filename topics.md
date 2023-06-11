@@ -584,7 +584,7 @@
 - [corca-ai/EVAL](https://github.com/corca-ai/EVAL) - [Corca / DEV] EVAL(Elastic Versatile Agent with Langchain) will execute all your requests. Just like an eval method!
 - [emcf/engshell](https://github.com/emcf/engshell) - An English-language shell for any OS, powered by LLMs
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
-- [ParisNeo/gpt4all-ui](https://github.com/ParisNeo/gpt4all-ui) - gpt4all chatbot ui
+- [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - gpt4all chatbot ui
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Marrying Grounding DINO with Segment Anything & Stable Diffusion & Tag2Text & BLIP & Whisper & ChatBot - Automatically Detect , Segment and Generate Anything with Image, Text, and Audio Inputs
@@ -898,7 +898,7 @@
 
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - ChatGPT in terminal without needing API keys
-- [Decimation/SmartImage](https://github.com/Decimation/SmartImage) - Reverse image search tool (SauceNao, ImgOps, trace.moe, and more)
+- [Decimation/SmartImage](https://github.com/Decimation/SmartImage) - Reverse image search tool (SauceNao, IQDB, Ascii2D, trace.moe, and more)
 - [xemle/home-gallery](https://github.com/xemle/home-gallery) - Self-hosted open-source web gallery to view your photos and videos featuring mobile-friendly, tagging and AI powered image discovery
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [vidify/vidify](https://github.com/vidify/vidify) - Detect the songs playing on your device and play their music videos anywhere
