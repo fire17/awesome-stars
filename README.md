@@ -40,7 +40,7 @@
 
 ## C# # 
 
-- [Decimation/SmartImage](https://github.com/Decimation/SmartImage) - Reverse image search tool (SauceNao, ImgOps, trace.moe, and more)
+- [Decimation/SmartImage](https://github.com/Decimation/SmartImage) - Reverse image search tool (SauceNao, IQDB, Ascii2D, trace.moe, and more)
 - [anas-899/2D-Bin-Packing-with-Genetic-Algorithm](https://github.com/anas-899/2D-Bin-Packing-with-Genetic-Algorithm) - C# based project explain all steps of genetic algorithm on a simple application for 2D-bin-packing
 
 ## C++ 
@@ -53,7 +53,7 @@
 
 ## CSS 
 
-- [ParisNeo/gpt4all-ui](https://github.com/ParisNeo/gpt4all-ui) - gpt4all chatbot ui
+- [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - gpt4all chatbot ui
 
 ## Dart 
 
