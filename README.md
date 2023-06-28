@@ -15,6 +15,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Kotlin](#kotlin)
 - [Others](#others)
 - [PHP](#php)
 - [Python](#python)
@@ -114,6 +115,10 @@
 - [Rohith04MVK/AI-Art-Generator](https://github.com/Rohith04MVK/AI-Art-Generator) - A program that can add an artistic touch to any image.
 - [Mphasis-ML-Marketplace/Mphasis-DeepInsights-Text-Summarizer](https://github.com/Mphasis-ML-Marketplace/Mphasis-DeepInsights-Text-Summarizer) - Text Summarizer solution is an optimal way to tackle the problem of information overload by reducing the size of long documents into a few sentences . Neural-network-based models have the ability to a
 - [zhanghang1989/PyTorch-Multi-Style-Transfer](https://github.com/zhanghang1989/PyTorch-Multi-Style-Transfer) - Neural Style and MSG-Net
+
+## Kotlin 
+
+- [revanced/revanced-patches](https://github.com/revanced/revanced-patches) - 🧩 Patches for ReVanced
 
 ## Others 
 
