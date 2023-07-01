@@ -146,6 +146,7 @@
 
 ## Python 
 
+- [geohot/tinygrad](https://github.com/geohot/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [yuchenlin/LLM-Blender](https://github.com/yuchenlin/LLM-Blender) - [ACL2023] We introduce LLM-Blender, an innovative ensembling framework to attain consistently superior performance by leveraging the diverse strengths of multiple open-source LLMs. LLM-Blender cut the
 - [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [csunny/DB-GPT](https://github.com/csunny/DB-GPT) - Revolutionizing Database Interactions with Private LLM Technology
