@@ -170,7 +170,7 @@
 - [adamchainz/flake8-comprehensions](https://github.com/adamchainz/flake8-comprehensions) - ❄️ A flake8 plugin to help you write better list/set/dict comprehensions.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [biobootloader/mentat](https://github.com/biobootloader/mentat) - Mentat - The AI Coding Assistant
-- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
+- [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [steamship-core/steamship-langchain](https://github.com/steamship-core/steamship-langchain) - steamship-langchain
 - [hmseeb/FutureTools.io](https://github.com/hmseeb/FutureTools.io) - FutureTools.io scrapper, sqlite3
 - [JayZeeDesign/researcher-gpt](https://github.com/JayZeeDesign/researcher-gpt) - 
