@@ -161,6 +161,9 @@
 
 ## Python 
 
+- [fabston/Telegram-Support-Bot](https://github.com/fabston/Telegram-Support-Bot) - 📬 Manage and organize all your support inquiries on Telegram.
+- [Saidalo1/telegram_support_bot](https://github.com/Saidalo1/telegram_support_bot) - This telegram support bot was created using the aiogram framework. On it you can write questions to owners and answers to users, mute and unmute users so that they cannot write to the bot.
+- [dimaplel/telegram-suggestions-bot](https://github.com/dimaplel/telegram-suggestions-bot) - Make your own Telegram bot for processing all incoming suggestions/requests/offers. Useful for client support or social organisations.
 - [fire17/expando](https://github.com/fire17/expando) - xo + xo.redis : Dynamic Dictionary Object Wrapper with superpowers
 - [GAIR-NLP/factool](https://github.com/GAIR-NLP/factool) - FacTool: Factuality Detection in Generative AI
 - [llm-attacks/llm-attacks](https://github.com/llm-attacks/llm-attacks) - Universal and Transferable Attacks on Aligned Language Models
@@ -366,6 +369,7 @@
 
 ## TypeScript 
 
+- [bostrot/telegram-support-bot](https://github.com/bostrot/telegram-support-bot) - A Telegram ticketing/supporting system.
 - [AndreMiras/gitpop3](https://github.com/AndreMiras/gitpop3) - Find the most popular fork on GitHub
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [BuilderIO/ai-shell](https://github.com/BuilderIO/ai-shell) - A CLI that converts natural language to shell commands.
