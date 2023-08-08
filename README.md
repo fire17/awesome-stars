@@ -161,6 +161,7 @@
 
 ## Python 
 
+- [filip-michalsky/SalesGPT](https://github.com/filip-michalsky/SalesGPT) - Context-aware AI Sales Agent to automate sales outreach.
 - [fabston/Telegram-Support-Bot](https://github.com/fabston/Telegram-Support-Bot) - 📬 Manage and organize all your support inquiries on Telegram.
 - [Saidalo1/telegram_support_bot](https://github.com/Saidalo1/telegram_support_bot) - This telegram support bot was created using the aiogram framework. On it you can write questions to owners and answers to users, mute and unmute users so that they cannot write to the bot.
 - [dimaplel/telegram-suggestions-bot](https://github.com/dimaplel/telegram-suggestions-bot) - Make your own Telegram bot for processing all incoming suggestions/requests/offers. Useful for client support or social organisations.
@@ -369,6 +370,8 @@
 
 ## TypeScript 
 
+- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
+- [FlowiseAI/FlowiseChatEmbed](https://github.com/FlowiseAI/FlowiseChatEmbed) - 
 - [bostrot/telegram-support-bot](https://github.com/bostrot/telegram-support-bot) - A Telegram ticketing/supporting system.
 - [AndreMiras/gitpop3](https://github.com/AndreMiras/gitpop3) - Find the most popular fork on GitHub
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
