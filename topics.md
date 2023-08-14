@@ -372,6 +372,7 @@
 
 ## deep-learning 
 
+- [guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.
 - [salesforce/LAVIS](https://github.com/salesforce/LAVIS) - LAVIS - A One-stop Library for Language-Vision Intelligence
 - [kingyiusuen/clip-image-search](https://github.com/kingyiusuen/clip-image-search) - Search images with a text or image query, using Open AI's pretrained CLIP model.
