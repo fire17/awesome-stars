@@ -281,7 +281,7 @@
 - [ps1dr3x/greenpass-generator](https://github.com/ps1dr3x/greenpass-generator) - 
 - [THOSE-EYES/pdf_text_changer](https://github.com/THOSE-EYES/pdf_text_changer) - Replace text in PDF from the command line using Python.
 - [rotki/rotki](https://github.com/rotki/rotki) - A portfolio tracking, analytics, accounting and management application that protects your privacy
-- [fding/pyedifice](https://github.com/fding/pyedifice) - Declarative GUI library for Python
+- [pyedifice/pyedifice](https://github.com/pyedifice/pyedifice) - Declarative GUI library for Python
 - [gaogaotiantian/objprint](https://github.com/gaogaotiantian/objprint) - A library that can print Python objects in human readable format
 - [fire17/xo-gd](https://github.com/fire17/xo-gd) - Use Python Like You Never Have Before ! Easy Acces To: Events and Triggers, Realtime MultiProcessing, Instant Dynamic DB, Filesytem & Web Watchdog, Sockets, API Server, Support You Fast Prototyping To
 - [sanchom/whatsapp_stats](https://github.com/sanchom/whatsapp_stats) - Produces a report summarizing a WhatsApp group conversation.
