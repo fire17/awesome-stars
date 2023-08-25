@@ -795,7 +795,7 @@
 - [ps1dr3x/greenpass-generator](https://github.com/ps1dr3x/greenpass-generator) - 
 - [THOSE-EYES/pdf_text_changer](https://github.com/THOSE-EYES/pdf_text_changer) - Replace text in PDF from the command line using Python.
 - [twobucks/slack-message](https://github.com/twobucks/slack-message) - Send Slack messages from terminal.
-- [fding/pyedifice](https://github.com/fding/pyedifice) - Declarative GUI library for Python
+- [pyedifice/pyedifice](https://github.com/pyedifice/pyedifice) - Declarative GUI library for Python
 - [fire17/xo-gd](https://github.com/fire17/xo-gd) - Use Python Like You Never Have Before ! Easy Acces To: Events and Triggers, Realtime MultiProcessing, Instant Dynamic DB, Filesytem & Web Watchdog, Sockets, API Server, Support You Fast Prototyping To
 - [sanchom/whatsapp_stats](https://github.com/sanchom/whatsapp_stats) - Produces a report summarizing a WhatsApp group conversation.
 - [bibin-johny/conversation-text-summarizer](https://github.com/bibin-johny/conversation-text-summarizer) - This Python code summarizes conversations. It works on extraction method and can be used to summarize business meetings, friendly conversations, debates , etc.
