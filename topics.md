@@ -99,6 +99,7 @@
 - [python](#python)
 - [python3](#python3)
 - [pytorch](#pytorch)
+- [qt](#qt)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [reactjs](#reactjs)
@@ -795,7 +796,6 @@
 - [ps1dr3x/greenpass-generator](https://github.com/ps1dr3x/greenpass-generator) - 
 - [THOSE-EYES/pdf_text_changer](https://github.com/THOSE-EYES/pdf_text_changer) - Replace text in PDF from the command line using Python.
 - [twobucks/slack-message](https://github.com/twobucks/slack-message) - Send Slack messages from terminal.
-- [pyedifice/pyedifice](https://github.com/pyedifice/pyedifice) - Declarative GUI library for Python
 - [fire17/xo-gd](https://github.com/fire17/xo-gd) - Use Python Like You Never Have Before ! Easy Acces To: Events and Triggers, Realtime MultiProcessing, Instant Dynamic DB, Filesytem & Web Watchdog, Sockets, API Server, Support You Fast Prototyping To
 - [sanchom/whatsapp_stats](https://github.com/sanchom/whatsapp_stats) - Produces a report summarizing a WhatsApp group conversation.
 - [bibin-johny/conversation-text-summarizer](https://github.com/bibin-johny/conversation-text-summarizer) - This Python code summarizes conversations. It works on extraction method and can be used to summarize business meetings, friendly conversations, debates , etc.
@@ -893,6 +893,7 @@
 - [nidhaloff/deep-translator](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited python tool to translate between different languages in a simple way using multiple translators.
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [clnnn/chat-summarizer](https://github.com/clnnn/chat-summarizer) - 💬 Real-time chat application prototype that can summarise the entire chat log
+- [pyedifice/pyedifice](https://github.com/pyedifice/pyedifice) - Declarative GUI library for Python
 - [gaogaotiantian/objprint](https://github.com/gaogaotiantian/objprint) - A library that can print Python objects in human readable format
 - [pygfx/pygfx](https://github.com/pygfx/pygfx) - A python render engine running on wgpu.
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
@@ -925,6 +926,10 @@
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [rrmina/fast-neural-style-pytorch](https://github.com/rrmina/fast-neural-style-pytorch) - Fast Neural Style Transfer implementation in PyTorch :art: :art: :art:
 - [MVIG-SJTU/AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) - Real-Time and Accurate Full-Body Multi-Person Pose Estimation&Tracking System
+
+## qt 
+
+- [pyedifice/pyedifice](https://github.com/pyedifice/pyedifice) - Declarative GUI library for Python
 
 ## raspberry-pi 
 
