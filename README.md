@@ -116,6 +116,7 @@
 
 ## Jupyter Notebook 
 
+- [lablab-ai/redis-langchain-ecommerce-chatbot](https://github.com/lablab-ai/redis-langchain-ecommerce-chatbot) - In this tutorial, we will build an e-commerce chatbot that can query Amazon product embeddings using Redis and generate nice responses with Langchain. Our chatbot will take user input, find relevant p
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming with foundation models
 - [backus/ai.sh](https://github.com/backus/ai.sh) - Copilot for the terminal. Generate commands and preview them before running
 - [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounded-SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything
@@ -162,6 +163,7 @@
 
 ## Python 
 
+- [docarray/docarray](https://github.com/docarray/docarray) - 🧬 Represent, send, and store multimodal data · Neural Search · Vector Search · Document Store
 - [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
 - [guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python) - The official Python API for ElevenLabs text-to-speech.
