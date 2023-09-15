@@ -29,6 +29,7 @@
 
 ## C 
 
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [schismtracker/schismtracker](https://github.com/schismtracker/schismtracker) - An oldschool sample-based music composition tool.
 - [dosgo/ngrok-c](https://github.com/dosgo/ngrok-c) - ngrok client for c language,Due to the use of GO ngrok language development, porting to embedded devices some inconvenience, such as openwrt, so use C language rewrite a client. Very mini, the need to
 - [damonkohler/sl4a](https://github.com/damonkohler/sl4a) - SL4A brings scripting languages to Android by allowing you to edit and execute scripts and interactive interpreters directly on the Android device.
@@ -122,7 +123,6 @@
 - [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounded-SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 - [salesforce/LAVIS](https://github.com/salesforce/LAVIS) - LAVIS - A One-stop Library for Language-Vision Intelligence
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [cvlab-columbia/viper](https://github.com/cvlab-columbia/viper) - Code for the paper "ViperGPT: Visual Inference via Python Execution for Reasoning"
 - [OpsConfig/OpenAI_Lab](https://github.com/OpsConfig/OpenAI_Lab) - 
 - [ocropus/ocropy](https://github.com/ocropus/ocropy) - Python-based tools for document analysis and OCR
@@ -165,6 +165,15 @@
 
 ## Python 
 
+- [harveyf2801/pyUIauto](https://github.com/harveyf2801/pyUIauto) - Python UI Automation library for cross-platform applications using the accessibility API
+- [yinkaisheng/Python-UIAutomation-for-Windows](https://github.com/yinkaisheng/Python-UIAutomation-for-Windows) - (Donot use 3.7.6,3.8.1):snake:Python 3 wrapper of Microsoft UIAutomation. Support UIAutomation for MFC, WindowsForm, WPF, Modern UI(Metro UI), Qt, IE, Firefox, Chrome ...
+- [ariyuan/pywinauto_inspector](https://github.com/ariyuan/pywinauto_inspector) - spy tool for pywinauto
+- [n8henrie/pycookiecheat](https://github.com/n8henrie/pycookiecheat) - Borrow cookies from your browser's authenticated session for use in Python scripts.
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
+- [guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper) - Faster Whisper transcription with CTranslate2
+- [collabora/WhisperLive](https://github.com/collabora/WhisperLive) - A nearly-live implementation of OpenAI's Whisper.
+- [nalbion/whisper-server](https://github.com/nalbion/whisper-server) - streaming speech to text server using Whisper
+- [rcbyron/hey-athena-client](https://github.com/rcbyron/hey-athena-client) - Your personal voice assistant
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Use any LLM as a drop in replacement for gpt-3.5-turbo. Use Azure, OpenAI, Cohere, Anthropic, Ollama, VLLM, Sagemaker, HuggingFace, Replicate (100+ LLMs)
 - [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
@@ -176,7 +185,6 @@
 - [hiyouga/LLaMA-Efficient-Tuning](https://github.com/hiyouga/LLaMA-Efficient-Tuning) - Easy-to-use LLM fine-tuning framework (LLaMA-2, BLOOM, Falcon, Baichuan, Qwen, ChatGLM2)
 - [docarray/docarray](https://github.com/docarray/docarray) - 🧬 Represent, send, and store multimodal data · Neural Search · Vector Search · Document Store
 - [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
-- [guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python) - The official Python API for ElevenLabs text-to-speech.
 - [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid) - Advanced Multi-Featured Telegram UserBot, Built in Python Using Telethon lib.
 - [aiogram/aiogram](https://github.com/aiogram/aiogram) - aiogram is a modern and fully asynchronous framework for Telegram Bot API written in Python using asyncio
@@ -235,6 +243,7 @@
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [WASasquatch/was-node-suite-comfyui](https://github.com/WASasquatch/was-node-suite-comfyui) - An extensive node suite for ComfyUI with over 190 new nodes
 - [wunderwuzzi23/yolo-ai-cmdbot](https://github.com/wunderwuzzi23/yolo-ai-cmdbot) - AI bot that translates your question to a command and executes it yolo style
 - [aymanimtyaz/StateEngine](https://github.com/aymanimtyaz/StateEngine) - Finite State Machines in Pure Python!
