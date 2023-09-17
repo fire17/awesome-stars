@@ -84,10 +84,11 @@
 
 ## JavaScript 
 
+- [malik-tillman/Fluid-JS](https://github.com/malik-tillman/Fluid-JS) - A JavaScript library that allows for easy deployment of WebGL rendered fluid simulations.
 - [vatro/threeshake](https://github.com/vatro/threeshake) - migrate 'three/examples' modules to 'three/src' incl. all dependencies and available type definitions. This way they can be imported from 'three' and are treeshakable.
 - [vatro/my-app-svelthree-test-2](https://github.com/vatro/my-app-svelthree-test-2) - 
 - [marvelapp/y-redis](https://github.com/marvelapp/y-redis) - Redis persistence layer for Yjs
-- [homanp/superagent](https://github.com/homanp/superagent) - 🥷 The agent framework for large language models
+- [homanp/superagent](https://github.com/homanp/superagent) - 🥷 The agent framework for Large Language Models
 - [lukePeavey/quotable](https://github.com/lukePeavey/quotable) - Random Quotes API
 - [code-dexterous/grapesjs-example-html](https://github.com/code-dexterous/grapesjs-example-html) - 
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
@@ -167,6 +168,9 @@
 
 ## Python 
 
+- [zhengyuf/PointAvatar](https://github.com/zhengyuf/PointAvatar) - Official Repository for CVPR 2023 paper PointAvatar: Deformable Point-based Head Avatars from Videos.
+- [yerfor/GeneFace](https://github.com/yerfor/GeneFace) - GeneFace: Generalized and High-Fidelity 3D Talking Face Synthesis; ICLR 2023; Official code
+- [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [JacksonElia/DCS_Terminal](https://github.com/JacksonElia/DCS_Terminal) - Hacker stuff no more data camps for you
 - [emlynoregan/newaiexp](https://github.com/emlynoregan/newaiexp) - A general repo for short, cli based experiments with new AI tools, particularly from OpenAI
 - [Ruu3f/perplexityai](https://github.com/Ruu3f/perplexityai) - A better, simpler, and faster version of nathanrchn's PerplexityAI.
@@ -243,7 +247,7 @@
 - [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
 - [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - ⛓️ Langflow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
-- [chatarena/chatarena](https://github.com/chatarena/chatarena) - ChatArena (or Chat Arena) is a Multi-Agent Language Game Environments for LLMs. The goal is to develop communication and collaboration capabilities of AIs.
+- [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena) - ChatArena (or Chat Arena) is a Multi-Agent Language Game Environments for LLMs. The goal is to develop communication and collaboration capabilities of AIs.
 - [corca-ai/EVAL](https://github.com/corca-ai/EVAL) - [Corca / DEV] EVAL(Elastic Versatile Agent with Langchain) will execute all your requests. Just like an eval method!
 - [emcf/engshell](https://github.com/emcf/engshell) - An English-language shell for any OS, powered by LLMs
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
@@ -304,7 +308,7 @@
 - [tobran/DF-GAN](https://github.com/tobran/DF-GAN) - A Simple and Effective Baseline for Text-to-Image Synthesis (CVPR2022 oral)
 - [pygfx/wgpu-py](https://github.com/pygfx/wgpu-py) - Next generation GPU API for Python
 - [nidhaloff/deep-translator](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited python tool to translate between different languages in a simple way using multiple translators.
-- [s3prl/s3prl](https://github.com/s3prl/s3prl) - Audio Foundation Models (Self-Supervised Speech/Sound Pre-training and Representation Learning Toolkit)
+- [s3prl/s3prl](https://github.com/s3prl/s3prl) - Self-Supervised Speech Pre-training and Representation Learning Toolkit
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [ps1dr3x/greenpass-generator](https://github.com/ps1dr3x/greenpass-generator) - 
 - [THOSE-EYES/pdf_text_changer](https://github.com/THOSE-EYES/pdf_text_changer) - Replace text in PDF from the command line using Python.
