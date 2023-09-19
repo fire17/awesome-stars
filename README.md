@@ -84,6 +84,7 @@
 
 ## JavaScript 
 
+- [NordicPlayground/pc-xterm-lib](https://github.com/NordicPlayground/pc-xterm-lib) - 
 - [malik-tillman/Fluid-JS](https://github.com/malik-tillman/Fluid-JS) - A JavaScript library that allows for easy deployment of WebGL rendered fluid simulations.
 - [vatro/threeshake](https://github.com/vatro/threeshake) - migrate 'three/examples' modules to 'three/src' incl. all dependencies and available type definitions. This way they can be imported from 'three' and are treeshakable.
 - [vatro/my-app-svelthree-test-2](https://github.com/vatro/my-app-svelthree-test-2) - 
@@ -168,6 +169,9 @@
 
 ## Python 
 
+- [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
+- [olivier-salmon/py-tts-hebrew-sample-code](https://github.com/olivier-salmon/py-tts-hebrew-sample-code) - Python Sample code to send a voice message in Hebrew to a user
+- [carykh/lazykh](https://github.com/carykh/lazykh) - Source code for the automatic lip-syncing project described in this video! https://www.youtube.com/watch?v=y3B8YqeLCpY
 - [zhengyuf/PointAvatar](https://github.com/zhengyuf/PointAvatar) - Official Repository for CVPR 2023 paper PointAvatar: Deformable Point-based Head Avatars from Videos.
 - [yerfor/GeneFace](https://github.com/yerfor/GeneFace) - GeneFace: Generalized and High-Fidelity 3D Talking Face Synthesis; ICLR 2023; Official code
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
@@ -184,6 +188,7 @@
 - [collabora/WhisperLive](https://github.com/collabora/WhisperLive) - A nearly-live implementation of OpenAI's Whisper.
 - [nalbion/whisper-server](https://github.com/nalbion/whisper-server) - streaming speech to text server using Whisper
 - [rcbyron/hey-athena-client](https://github.com/rcbyron/hey-athena-client) - Your personal voice assistant
+- [langgenius/dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Use any LLM as a drop in replacement for GPT. Use Azure, OpenAI, Cohere, Anthropic, Ollama, VLLM, Sagemaker, HuggingFace, Replicate (100+ LLMs)
 - [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
@@ -407,7 +412,6 @@
 ## TypeScript 
 
 - [TienNHM/tiennhm.github.io](https://github.com/TienNHM/tiennhm.github.io) - Fullstack Developer
-- [langgenius/dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Python LLM apps in minutes ⚡️
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [FlowiseAI/FlowiseChatEmbed](https://github.com/FlowiseAI/FlowiseChatEmbed) - 
