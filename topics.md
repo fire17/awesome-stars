@@ -668,6 +668,7 @@
 
 ## markdown 
 
+- [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii) - An intuitive and type-safe Python library for converting lists to fancy ASCII tables for displaying in the terminal or code-blocks
 
@@ -758,6 +759,9 @@
 
 ## others 
 
+- [NordicPlayground/pc-xterm-lib](https://github.com/NordicPlayground/pc-xterm-lib) - 
+- [olivier-salmon/py-tts-hebrew-sample-code](https://github.com/olivier-salmon/py-tts-hebrew-sample-code) - Python Sample code to send a voice message in Hebrew to a user
+- [carykh/lazykh](https://github.com/carykh/lazykh) - Source code for the automatic lip-syncing project described in this video! https://www.youtube.com/watch?v=y3B8YqeLCpY
 - [zhengyuf/PointAvatar](https://github.com/zhengyuf/PointAvatar) - Official Repository for CVPR 2023 paper PointAvatar: Deformable Point-based Head Avatars from Videos.
 - [malik-tillman/Fluid-JS](https://github.com/malik-tillman/Fluid-JS) - A JavaScript library that allows for easy deployment of WebGL rendered fluid simulations.
 - [emlynoregan/newaiexp](https://github.com/emlynoregan/newaiexp) - A general repo for short, cli based experiments with new AI tools, particularly from OpenAI
@@ -1146,6 +1150,7 @@
 
 ## terminal 
 
+- [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
 - [JacksonElia/DCS_Terminal](https://github.com/JacksonElia/DCS_Terminal) - Hacker stuff no more data camps for you
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
