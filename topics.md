@@ -391,7 +391,7 @@
 
 ## data-structures 
 
-- [docarray/docarray](https://github.com/docarray/docarray) - 🧬 Represent, send, and store multimodal data · Neural Search · Vector Search · Document Store
+- [docarray/docarray](https://github.com/docarray/docarray) - Represent, send, store and search multimodal data
 
 ## database 
 
@@ -406,7 +406,7 @@
 - [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [opendilab/awesome-RLHF](https://github.com/opendilab/awesome-RLHF) - A curated list of reinforcement learning with human feedback resources (continually updated)
-- [docarray/docarray](https://github.com/docarray/docarray) - 🧬 Represent, send, and store multimodal data · Neural Search · Vector Search · Document Store
+- [docarray/docarray](https://github.com/docarray/docarray) - Represent, send, store and search multimodal data
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.
 - [salesforce/LAVIS](https://github.com/salesforce/LAVIS) - LAVIS - A One-stop Library for Language-Vision Intelligence
 - [kingyiusuen/clip-image-search](https://github.com/kingyiusuen/clip-image-search) - Search images with a text or image query, using Open AI's pretrained CLIP model.
@@ -648,7 +648,7 @@
 - [Ruu3f/perplexityai](https://github.com/Ruu3f/perplexityai) - A better, simpler, and faster version of nathanrchn's PerplexityAI.
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
-- [docarray/docarray](https://github.com/docarray/docarray) - 🧬 Represent, send, and store multimodal data · Neural Search · Vector Search · Document Store
+- [docarray/docarray](https://github.com/docarray/docarray) - Represent, send, store and search multimodal data
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Open Source Free ATS Tool to compare Resumes with Job Descriptions and create a score to rank them.
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.
 - [nateraw/stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos) - Create 🔥 videos with Stable Diffusion by exploring the latent space and morphing between text prompts
@@ -1018,7 +1018,7 @@
 - [yerfor/GeneFace](https://github.com/yerfor/GeneFace) - GeneFace: Generalized and High-Fidelity 3D Talking Face Synthesis; ICLR 2023; Official code
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
-- [docarray/docarray](https://github.com/docarray/docarray) - 🧬 Represent, send, and store multimodal data · Neural Search · Vector Search · Document Store
+- [docarray/docarray](https://github.com/docarray/docarray) - Represent, send, store and search multimodal data
 - [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [enhuiz/vall-e](https://github.com/enhuiz/vall-e) - An unofficial PyTorch implementation of the audio LM VALL-E
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
