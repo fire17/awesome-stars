@@ -94,7 +94,7 @@
 - [lukePeavey/quotable](https://github.com/lukePeavey/quotable) - Random Quotes API
 - [code-dexterous/grapesjs-example-html](https://github.com/code-dexterous/grapesjs-example-html) - 
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
 - [davila7/code-gpt-docs](https://github.com/davila7/code-gpt-docs) - Docusaurus page
 - [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
