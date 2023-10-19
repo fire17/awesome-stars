@@ -182,7 +182,7 @@
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [JacksonElia/DCS_Terminal](https://github.com/JacksonElia/DCS_Terminal) - Hacker stuff no more data camps for you
 - [emlynoregan/newaiexp](https://github.com/emlynoregan/newaiexp) - A general repo for short, cli based experiments with new AI tools, particularly from OpenAI
-- [ruu3f/perplexityai](https://github.com/ruu3f/perplexityai) - A better, simpler, and faster version of nathanrchn's PerplexityAI.
+- [Ruu3f/perplexityai](https://github.com/Ruu3f/perplexityai) - A better, simpler, and faster version of nathanrchn's PerplexityAI.
 - [nathanrchn/perplexityai](https://github.com/nathanrchn/perplexityai) - A python api to use perplexity.ai
 - [harveyf2801/pyUIauto](https://github.com/harveyf2801/pyUIauto) - Python UI Automation library for cross-platform applications using the accessibility API
 - [yinkaisheng/Python-UIAutomation-for-Windows](https://github.com/yinkaisheng/Python-UIAutomation-for-Windows) - (Donot use 3.7.6,3.8.1):snake:Python 3 wrapper of Microsoft UIAutomation. Support UIAutomation for MFC, WindowsForm, WPF, Modern UI(Metro UI), Qt, IE, Firefox, Chrome ...
