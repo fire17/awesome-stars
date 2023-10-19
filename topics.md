@@ -150,7 +150,7 @@
 
 ## ai 
 
-- [ruu3f/perplexityai](https://github.com/ruu3f/perplexityai) - A better, simpler, and faster version of nathanrchn's PerplexityAI.
+- [Ruu3f/perplexityai](https://github.com/Ruu3f/perplexityai) - A better, simpler, and faster version of nathanrchn's PerplexityAI.
 - [langgenius/dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://h2oai.github.io/h2o-llmstudio/
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
@@ -219,7 +219,7 @@
 
 ## artificial-intelligence 
 
-- [ruu3f/perplexityai](https://github.com/ruu3f/perplexityai) - A better, simpler, and faster version of nathanrchn's PerplexityAI.
+- [Ruu3f/perplexityai](https://github.com/Ruu3f/perplexityai) - A better, simpler, and faster version of nathanrchn's PerplexityAI.
 - [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
 - [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python) - The official Python API for ElevenLabs text-to-speech.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
@@ -406,7 +406,7 @@
 ## deep-learning 
 
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
-- [ruu3f/perplexityai](https://github.com/ruu3f/perplexityai) - A better, simpler, and faster version of nathanrchn's PerplexityAI.
+- [Ruu3f/perplexityai](https://github.com/Ruu3f/perplexityai) - A better, simpler, and faster version of nathanrchn's PerplexityAI.
 - [guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
@@ -653,7 +653,7 @@
 
 ## machine-learning 
 
-- [ruu3f/perplexityai](https://github.com/ruu3f/perplexityai) - A better, simpler, and faster version of nathanrchn's PerplexityAI.
+- [Ruu3f/perplexityai](https://github.com/Ruu3f/perplexityai) - A better, simpler, and faster version of nathanrchn's PerplexityAI.
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [docarray/docarray](https://github.com/docarray/docarray) - Represent, send, store and search multimodal data
@@ -953,7 +953,7 @@
 - [textstat/textstat](https://github.com/textstat/textstat) - :memo: python package to calculate readability statistics of a text object - paragraphs, sentences, articles.
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [JacksonElia/DCS_Terminal](https://github.com/JacksonElia/DCS_Terminal) - Hacker stuff no more data camps for you
-- [ruu3f/perplexityai](https://github.com/ruu3f/perplexityai) - A better, simpler, and faster version of nathanrchn's PerplexityAI.
+- [Ruu3f/perplexityai](https://github.com/Ruu3f/perplexityai) - A better, simpler, and faster version of nathanrchn's PerplexityAI.
 - [yinkaisheng/Python-UIAutomation-for-Windows](https://github.com/yinkaisheng/Python-UIAutomation-for-Windows) - (Donot use 3.7.6,3.8.1):snake:Python 3 wrapper of Microsoft UIAutomation. Support UIAutomation for MFC, WindowsForm, WPF, Modern UI(Metro UI), Qt, IE, Firefox, Chrome ...
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [langgenius/dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
