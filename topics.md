@@ -129,6 +129,7 @@
 - [software](#software)
 - [sql](#sql)
 - [sql-server](#sql-server)
+- [sqlite](#sqlite)
 - [support](#support)
 - [svelte](#svelte)
 - [swift](#swift)
@@ -1241,6 +1242,10 @@
 ## sql-server 
 
 - [TienNHM/tiennhm.github.io](https://github.com/TienNHM/tiennhm.github.io) - Fullstack Developer
+
+## sqlite 
+
+- [michael/editable-website](https://github.com/michael/editable-website) - A SvelteKit template for building CMS-free editable websites
 
 ## support 
 
