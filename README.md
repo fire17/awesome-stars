@@ -105,11 +105,10 @@
 - [vatro/threeshake](https://github.com/vatro/threeshake) - migrate 'three/examples' modules to 'three/src' incl. all dependencies and available type definitions. This way they can be imported from 'three' and are treeshakable.
 - [vatro/my-app-svelthree-test-2](https://github.com/vatro/my-app-svelthree-test-2) - 
 - [marvelapp/y-redis](https://github.com/marvelapp/y-redis) - Redis persistence layer for Yjs
-- [homanp/superagent](https://github.com/homanp/superagent) - 🥷 The open framework for building AI Assistants
 - [lukePeavey/quotable](https://github.com/lukePeavey/quotable) - Random Quotes API
 - [code-dexterous/grapesjs-example-html](https://github.com/code-dexterous/grapesjs-example-html) - 
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
 - [davila7/code-gpt-docs](https://github.com/davila7/code-gpt-docs) - Docusaurus page
 - [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
@@ -122,7 +121,7 @@
 - [sturdy-dev/codereview.gpt](https://github.com/sturdy-dev/codereview.gpt) - Reviews your Pull/Merge Requests using ChatGPT
 - [mohalobaidi/EnhancedChatGPT](https://github.com/mohalobaidi/EnhancedChatGPT) - 
 - [Seneca-CDOT/my-photohub](https://github.com/Seneca-CDOT/my-photohub) - Making it easy to share your photos using GitHub Pages
-- [benf2004/AI-Prompt-Genius](https://github.com/benf2004/AI-Prompt-Genius) - Multi-purpose ChatGPT Chrome Extension
+- [benf2004/AI-Prompt-Genius](https://github.com/benf2004/AI-Prompt-Genius) - Curate a custom library of AI Prompts
 - [benjamineac/dev-hev](https://github.com/benjamineac/dev-hev) - chat app - svelte, socket.io, flask
 - [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
 - [twobucks/slack-message](https://github.com/twobucks/slack-message) - Send Slack messages from terminal.
@@ -479,6 +478,7 @@
 - [bostrot/telegram-support-bot](https://github.com/bostrot/telegram-support-bot) - A Telegram ticketing/supporting system.
 - [AndreMiras/gitpop3](https://github.com/AndreMiras/gitpop3) - Find the most popular fork on GitHub
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
+- [homanp/superagent](https://github.com/homanp/superagent) - 🥷 The open framework for building AI Assistants
 - [BuilderIO/ai-shell](https://github.com/BuilderIO/ai-shell) - A CLI that converts natural language to shell commands.
 - [Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio) - Community interface for generative AI
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
