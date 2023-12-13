@@ -702,6 +702,7 @@
 
 ## ios 
 
+- [XITRIX/iTorrent](https://github.com/XITRIX/iTorrent) - Torrent client for iOS 9.3+
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [zssz/BerkananSDK](https://github.com/zssz/BerkananSDK) - Bluetooth mesh messaging SDK for apps
