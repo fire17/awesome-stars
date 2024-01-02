@@ -220,6 +220,7 @@
 
 ## Python 
 
+- [aurelio-labs/semantic-router](https://github.com/aurelio-labs/semantic-router) - 
 - [hanjinliu/magic-class](https://github.com/hanjinliu/magic-class) - Generate multifunctional and macro recordable GUIs from Python classes
 - [anderspitman/SirTunnel](https://github.com/anderspitman/SirTunnel) - Minimal, self-hosted, 0-config alternative to ngrok. Caddy+OpenSSH+50 lines of Python.
 - [joshuavial/aider](https://github.com/joshuavial/aider) - aider is GPT powered coding in your terminal
@@ -294,7 +295,7 @@
 - [paulpierre/RasaGPT](https://github.com/paulpierre/RasaGPT) - 💬 RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. Built w/ Rasa, FastAPI, Langchain, LlamaIndex, SQLModel, pgvector, ngrok, telegram
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Easy-to-use LLM fine-tuning framework (LLaMA, BLOOM, Mistral, Baichuan, Qwen, ChatGLM)
 - [docarray/docarray](https://github.com/docarray/docarray) - Represent, send, store and search multimodal data
-- [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - Stanford DSPy: The framework for programming with foundation models
+- [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - Stanford DSPy: The framework for programming—not prompting—foundation models
 - [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python) - The official Python API for ElevenLabs text-to-speech.
 - [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid) - Advanced Multi-Featured Telegram UserBot, Built in Python Using Telethon lib.
 - [aiogram/aiogram](https://github.com/aiogram/aiogram) - aiogram is a modern and fully asynchronous framework for Telegram Bot API written in Python using asyncio
