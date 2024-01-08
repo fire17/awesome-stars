@@ -950,6 +950,9 @@
 
 ## others 
 
+- [MarkFzp/mobile-aloha](https://github.com/MarkFzp/mobile-aloha) - Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation
+- [MarkFzp/act-plus-plus](https://github.com/MarkFzp/act-plus-plus) - Imitation Learning algorithms with Co-traing for Mobile ALOHA: ACT, Diffusion Policy, VINN
+- [GregoryCannon/StackRabbit](https://github.com/GregoryCannon/StackRabbit) - An AI for playing NES Tetris at a high level. Based primarily on search & heuristic, with high quality board evaluation through value iteration.
 - [rafgraph/spa-github-pages](https://github.com/rafgraph/spa-github-pages) - Host single page apps with GitHub Pages
 - [natolambert/interconnects-tools](https://github.com/natolambert/interconnects-tools) - Python tools for easily translating your blog content to podcasts & YouTube
 - [aurelio-labs/semantic-router](https://github.com/aurelio-labs/semantic-router) - 
