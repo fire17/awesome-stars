@@ -51,6 +51,7 @@
 
 ## C++ 
 
+- [GregoryCannon/StackRabbit](https://github.com/GregoryCannon/StackRabbit) - An AI for playing NES Tetris at a high level. Based primarily on search & heuristic, with high quality board evaluation through value iteration.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 - [NickEngmann/in-plants](https://github.com/NickEngmann/in-plants) - 🌱 Mesh Network enabled, lower power, IoT plants monitoring 🌱
 - [unum-cloud/usearch](https://github.com/unum-cloud/usearch) - Fast Open-Source Search & Clustering engine × for Vectors & 🔜 Strings × in C++, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram 🔍
@@ -165,6 +166,7 @@
 
 ## Jupyter Notebook 
 
+- [MarkFzp/mobile-aloha](https://github.com/MarkFzp/mobile-aloha) - Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation
 - [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
 - [jxnl/instructor](https://github.com/jxnl/instructor) - structured outputs for llms
 - [lablab-ai/redis-langchain-ecommerce-chatbot](https://github.com/lablab-ai/redis-langchain-ecommerce-chatbot) - In this tutorial, we will build an e-commerce chatbot that can query Amazon product embeddings using Redis and generate nice responses with Langchain. Our chatbot will take user input, find relevant p
@@ -221,6 +223,7 @@
 
 ## Python 
 
+- [MarkFzp/act-plus-plus](https://github.com/MarkFzp/act-plus-plus) - Imitation Learning algorithms with Co-traing for Mobile ALOHA: ACT, Diffusion Policy, VINN
 - [zmqless/zeroless-tools](https://github.com/zmqless/zeroless-tools) - ZeroMQ CLI Tools™
 - [natolambert/interconnects-tools](https://github.com/natolambert/interconnects-tools) - Python tools for easily translating your blog content to podcasts & YouTube
 - [aurelio-labs/semantic-router](https://github.com/aurelio-labs/semantic-router) - 
