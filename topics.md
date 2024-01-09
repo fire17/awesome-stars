@@ -976,7 +976,7 @@
 - [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
 - [ggerganov/seamless_communication](https://github.com/ggerganov/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
 - [MamczurMiroslaw/best_ai_knowledge_repos](https://github.com/MamczurMiroslaw/best_ai_knowledge_repos) - The best of the best AI knowledge repositories
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React)
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [ArielYat/Whatsapp-bot-Project](https://github.com/ArielYat/Whatsapp-bot-Project) - WhatsApp Bot 🌟 - for groups and individuals
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
