@@ -97,7 +97,7 @@
 - [keyval-dev/odigos](https://github.com/keyval-dev/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
 - [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
 - [binarycraft007/perplexity](https://github.com/binarycraft007/perplexity) - perplexity.ai golang sdk
-- [ekkinox/yai](https://github.com/ekkinox/yai) - Your AI powered terminal assistant
+- [ekkinox/yai](https://github.com/ekkinox/yai) - Your AI powered terminal assistant.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chat in terminal without needing API keys
 - [tusharsadhwani/micro](https://github.com/tusharsadhwani/micro) - A modern and intuitive terminal-based text editor
