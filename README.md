@@ -114,6 +114,7 @@
 
 ## Java 
 
+- [LemonFoxmere/3d-Renderer-V1](https://github.com/LemonFoxmere/3d-Renderer-V1) - Uses 3rd person rendering technique to render 3d verticies, lines, and objects.
 - [chat2db/Chat2DB](https://github.com/chat2db/Chat2DB) - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。
@@ -121,6 +122,9 @@
 
 ## JavaScript 
 
+- [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
+- [jwagner/smartcrop.js](https://github.com/jwagner/smartcrop.js) - Content aware image cropping
+- [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
 - [0dataapp/0datawrap](https://github.com/0dataapp/0datawrap) - Unified JavaScript API for Fission + remoteStorage.
 - [rosano/hyperdraft](https://github.com/rosano/hyperdraft) - Turn your notes into a website.
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
@@ -228,6 +232,10 @@
 
 ## Python 
 
+- [microsoft/LLMLingua](https://github.com/microsoft/LLMLingua) - To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss.
+- [ali-vilab/dreamtalk](https://github.com/ali-vilab/dreamtalk) - Official implementations for paper: DreamTalk: When Expressive Talking Head Generation Meets Diffusion Probabilistic Models
+- [magic-research/magic-animate](https://github.com/magic-research/magic-animate) - MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model
+- [Codium-ai/AlphaCodium](https://github.com/Codium-ai/AlphaCodium) - code generation tool that surpasses most human competitors in CodeContests
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
 - [MarkFzp/act-plus-plus](https://github.com/MarkFzp/act-plus-plus) - Imitation learning algorithms with Co-training for Mobile ALOHA: ACT, Diffusion Policy, VINN
 - [zmqless/zeroless-tools](https://github.com/zmqless/zeroless-tools) - ZeroMQ CLI Tools™
@@ -535,6 +543,7 @@
 
 ## TypeScript 
 
+- [jwagner/kalman-ts](https://github.com/jwagner/kalman-ts) - A simplistic library for implementing kalman filters using javascript/typescript.
 - [dxos/arena-app](https://github.com/dxos/arena-app) - Peer to peer game arena
 - [dxos/template-plugin](https://github.com/dxos/template-plugin) - Simple template for inspiration for building plugins in Composer.
 - [dxos/dxos](https://github.com/dxos/dxos) - TypeScript implementation of the DXOS protocols, SDK, and toolchain.
