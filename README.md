@@ -240,6 +240,13 @@
 
 ## Python 
 
+- [python-social-auth/social-examples](https://github.com/python-social-auth/social-examples) - Python Social Auth - Examples
+- [casbin/pycasbin](https://github.com/casbin/pycasbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Python
+- [shonenada/flask-rbac](https://github.com/shonenada/flask-rbac) - Flask-RBAC
+- [muratgozel/py-rbac](https://github.com/muratgozel/py-rbac) - Python implementation of the NIST model for role based access control (RBAC).
+- [YosaiProject/yosai](https://github.com/YosaiProject/yosai) - A Security Framework for Python applications featuring Authorization (rbac permissions and roles), Authentication (2fa totp), Session Management and an extensive Audit Trail
+- [tasdikrahman/easyrbac](https://github.com/tasdikrahman/easyrbac) - RBAC0 implementation (core part)
+- [dpgaspar/Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome
 - [amitt001/pygmy](https://github.com/amitt001/pygmy) - An open-source, feature rich & extensible url-shortener + analytics written in Python :cookie:
 - [daveebbelaar/python-whatsapp-bot](https://github.com/daveebbelaar/python-whatsapp-bot) - Build AI WhatsApp Bots with Pure Python
 - [Nuked88/SlashX](https://github.com/Nuked88/SlashX) - The Slash OSINT Tool With Improved Speed and Features
