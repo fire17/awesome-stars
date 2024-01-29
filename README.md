@@ -128,6 +128,7 @@
 
 ## JavaScript 
 
+- [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Local file sharing in your browser. Inspired by Apple's AirDrop. Fork of Snapdrop.
 - [Just-Moh-it/Pckd](https://github.com/Just-Moh-it/Pckd) - The ⚡️ analytics-intensive, self-hostable link-shortener with a beautiful UI | AKA free bit.ly alternative 🚀
 - [Harry260/WhatsApp-Plus](https://github.com/Harry260/WhatsApp-Plus) - Send overpowered WhatsApp messages!
 - [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
@@ -505,6 +506,7 @@
 
 ## Rust 
 
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [mdolr/mind-overflow](https://github.com/mdolr/mind-overflow) - Open-source Rewind.ai clone written in Rust and Vue running 100% locally with whisper.cpp
@@ -596,7 +598,7 @@
 - [bostrot/telegram-support-bot](https://github.com/bostrot/telegram-support-bot) - A Telegram ticketing/supporting system.
 - [AndreMiras/gitpop3](https://github.com/AndreMiras/gitpop3) - Find the most popular fork on GitHub
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [homanp/superagent](https://github.com/homanp/superagent) - 🥷 The open source alternative to  OpenAI Assistants API
+- [homanp/superagent](https://github.com/homanp/superagent) - 🥷 The Open Source AI Assistant Framework & API
 - [BuilderIO/ai-shell](https://github.com/BuilderIO/ai-shell) - A CLI that converts natural language to shell commands.
 - [Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio) - Community interface for generative AI
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
