@@ -54,6 +54,7 @@
 
 ## C++ 
 
+- [johnBuffer/NoCol](https://github.com/johnBuffer/NoCol) - Trajectories finder
 - [Nuked88/llama.http](https://github.com/Nuked88/llama.http) - Port of Facebook's LLaMA model in C/C++ with HTTP GET/POST requests
 - [GregoryCannon/StackRabbit](https://github.com/GregoryCannon/StackRabbit) - An AI for playing NES Tetris at a high level. Based primarily on search & heuristic, with high quality board evaluation through value iteration.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
@@ -244,6 +245,7 @@
 
 ## Python 
 
+- [stanford-futuredata/ColBERT](https://github.com/stanford-futuredata/ColBERT) - ColBERT: state-of-the-art neural search (SIGIR'20, TACL'21, NeurIPS'21, NAACL'22, CIKM'22, ACL'23, EMNLP'23)
 - [python-social-auth/social-examples](https://github.com/python-social-auth/social-examples) - Python Social Auth - Examples
 - [casbin/pycasbin](https://github.com/casbin/pycasbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Python
 - [shonenada/flask-rbac](https://github.com/shonenada/flask-rbac) - Flask-RBAC
@@ -570,6 +572,7 @@
 
 ## TypeScript 
 
+- [KonradLinkowski/AntiCollision](https://github.com/KonradLinkowski/AntiCollision) - Collision detection bug
 - [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
