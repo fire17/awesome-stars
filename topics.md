@@ -300,6 +300,7 @@
 
 ## awesome-list 
 
+- [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -455,6 +456,7 @@
 
 ## computer-vision 
 
+- [rohintangirala/eulerian-remote-heartrate-detection](https://github.com/rohintangirala/eulerian-remote-heartrate-detection) - Remote heart rate detection through Eulerian magnification of face videos
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [kingyiusuen/clip-image-search](https://github.com/kingyiusuen/clip-image-search) - Search images with a text or image query, using Open AI's pretrained CLIP model.
 
@@ -579,6 +581,7 @@
 
 ## electron 
 
+- [vcync/modV](https://github.com/vcync/modV) - modular audio visualisation powered by JavaScript
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [jina-ai/auto-gpt-web](https://github.com/jina-ai/auto-gpt-web) - Set Your Goals, AI Achieves Them.
 
@@ -707,6 +710,7 @@
 
 ## hacktoberfest 
 
+- [workadventure/workadventure](https://github.com/workadventure/workadventure) - A collaborative web application (virtual office) presented as a 16-bit RPG video game
 - [KonradLinkowski/AntiCollision](https://github.com/KonradLinkowski/AntiCollision) - Collision detection bug
 - [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
@@ -791,6 +795,8 @@
 
 ## javascript 
 
+- [vcync/modV](https://github.com/vcync/modV) - modular audio visualisation powered by JavaScript
+- [jasonwebb/2d-space-colonization-experiments](https://github.com/jasonwebb/2d-space-colonization-experiments) - Visual experiments exploring space colonization as a 2D morphogenesis tool.
 - [ohmjs/ohm](https://github.com/ohmjs/ohm) - A library and language for building parsers, interpreters, compilers, etc.
 - [Just-Moh-it/Pckd](https://github.com/Just-Moh-it/Pckd) - The ⚡️ analytics-intensive, self-hostable link-shortener with a beautiful UI | AKA free bit.ly alternative 🚀
 - [jwagner/smartcrop.js](https://github.com/jwagner/smartcrop.js) - Content aware image cropping
@@ -911,6 +917,8 @@
 
 ## music 
 
+- [bitfieldaudio/OTTO](https://github.com/bitfieldaudio/OTTO) - Sampler, Sequencer, Multi-engine synth and effects - in a box! [WIP]
+- [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [icidasset/diffuse](https://github.com/icidasset/diffuse) - A music player that connects to your cloud/distributed storage.
 - [bytedance/SALMONN](https://github.com/bytedance/SALMONN) - SALMONN: Speech Audio Language Music Open Neural Network
 - [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
@@ -983,6 +991,7 @@
 
 ## numpy 
 
+- [rohintangirala/eulerian-remote-heartrate-detection](https://github.com/rohintangirala/eulerian-remote-heartrate-detection) - Remote heart rate detection through Eulerian magnification of face videos
 - [Nikorasu/LiveWhisper](https://github.com/Nikorasu/LiveWhisper) - A nearly-live implementation of OpenAI's Whisper, using sounddevice. Requires existing Whisper install.
 - [iZucked/Matrix-Rain-An-Image](https://github.com/iZucked/Matrix-Rain-An-Image) - Python pygame project that turns your images to matrix rain
 
@@ -997,6 +1006,8 @@
 
 ## opencv 
 
+- [tschnz/Live-Video-Magnification](https://github.com/tschnz/Live-Video-Magnification) - An OpenCV/Qt based realtime application for Eulerian Video Magnification / Motion Magnification. Works with multiple videos and cameras at the same time and let's you export the magnified videos.
+- [rohintangirala/eulerian-remote-heartrate-detection](https://github.com/rohintangirala/eulerian-remote-heartrate-detection) - Remote heart rate detection through Eulerian magnification of face videos
 - [iZucked/Matrix-Rain-An-Image](https://github.com/iZucked/Matrix-Rain-An-Image) - Python pygame project that turns your images to matrix rain
 
 ## osint 
@@ -1005,6 +1016,20 @@
 
 ## others 
 
+- [stuffmatic/fSpy](https://github.com/stuffmatic/fSpy) - A cross platform app for quick and easy still image camera matching
+- [IntentDev/Luminosity](https://github.com/IntentDev/Luminosity) - Front-end for TouchDesigner aimed at providing operators with an efficient interface to perform, control, and distribute realtime media while retaining the open-ended programmability of TouchDesigner.
+- [janivanecky/Physarum](https://github.com/janivanecky/Physarum) - 
+- [HackerPoet/NonEuclidean](https://github.com/HackerPoet/NonEuclidean) - A Non-Euclidean Rendering Engine for 3D scenes.
+- [collective-soundworks/soundworks](https://github.com/collective-soundworks/soundworks) - Creative coding framework for distributed applications based on Web technologies.
+- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
+- [raganmd/TD-Examples](https://github.com/raganmd/TD-Examples) - TouchDesigner Examples
+- [jcjohnson/fast-neural-style](https://github.com/jcjohnson/fast-neural-style) - Feedforward style transfer
+- [jasonwebb/morphogenesis-resources](https://github.com/jasonwebb/morphogenesis-resources) - Resources on the topic of digital morphogenesis (creating form with code). Includes links to major articles, code repos, creative projects, books, software, and more.
+- [cacheflowe/creative-coding-notes](https://github.com/cacheflowe/creative-coding-notes) - Some text and links about the wide world of creative coding
+- [googlesamples/mediapipe](https://github.com/googlesamples/mediapipe) - 
+- [collective-soundworks/soundworks-template](https://github.com/collective-soundworks/soundworks-template) - application template for the soundworks framework
+- [Terranlee/Realtime_EVM](https://github.com/Terranlee/Realtime_EVM) - A Realtime Eulerian Video Magnification
+- [flyingzhao/PyEVM](https://github.com/flyingzhao/PyEVM) - Python implementation of EVM(Eulerian Video Magnification)
 - [johnBuffer/NoCol](https://github.com/johnBuffer/NoCol) - Trajectories finder
 - [stanford-futuredata/ColBERT](https://github.com/stanford-futuredata/ColBERT) - ColBERT: state-of-the-art neural search (SIGIR'20, TACL'21, NeurIPS'21, NAACL'22, CIKM'22, ACL'23, EMNLP'23)
 - [bmdavis419/SvelteKit-Ecommerce](https://github.com/bmdavis419/SvelteKit-Ecommerce) - An opensource, fullstack e-commerce app build with SvelteKit
@@ -1066,7 +1091,7 @@
 - [danielgross/localpilot](https://github.com/danielgross/localpilot) - 
 - [Flipper-XFW/Xtreme-Firmware](https://github.com/Flipper-XFW/Xtreme-Firmware) - The Dom amongst the Flipper Zero Firmware. Give your Flipper the power and freedom it is really craving. Let it show you its true form. Dont delay, switch to the one and only true Master today!
 - [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
-- [AI-Citizen/SolidGPT](https://github.com/AI-Citizen/SolidGPT) - Chat everything with your code repository, ask repository level code questions, and discuss your requirements. AI Scan and learning your code repository,  provide you code repository level answer🧱 🧱
+- [AI-Citizen/SolidGPT](https://github.com/AI-Citizen/SolidGPT) - Effortlessly build, host, and maintain SaaS with AI.
 - [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [faydr/QMesh](https://github.com/faydr/QMesh) - QMesh: a synchronized flooded mesh network for voice over LoRa
@@ -1144,7 +1169,7 @@
 - [tusharsadhwani/asd](https://github.com/tusharsadhwani/asd) - A place to keep all the test codes I make that don't deserve their own repository but might come handy someday.
 - [davila7/code-gpt-docs](https://github.com/davila7/code-gpt-docs) - Docusaurus page
 - [ml4a/ml4a](https://github.com/ml4a/ml4a) - A python library and collection of notebooks for making art with machine learning.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [ocropus-archive/DUP-ocropy](https://github.com/ocropus-archive/DUP-ocropy) - Python-based tools for document analysis and OCR
 - [Animenosekai/googlesearch](https://github.com/Animenosekai/googlesearch) - An unofficial Google Search Python API working by parsing the website
 - [lyyka/google-maps-businesses-scraper](https://github.com/lyyka/google-maps-businesses-scraper) - Built with Python running Selenium, this app allows you to scrape places info from the google maps search results
@@ -1281,6 +1306,9 @@
 
 ## python 
 
+- [DBraun/TouchDesigner_Shared](https://github.com/DBraun/TouchDesigner_Shared) - TouchDesigner toxes and small projects
+- [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
+- [rohintangirala/eulerian-remote-heartrate-detection](https://github.com/rohintangirala/eulerian-remote-heartrate-detection) - Remote heart rate detection through Eulerian magnification of face videos
 - [casbin/pycasbin](https://github.com/casbin/pycasbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Python
 - [shonenada/flask-rbac](https://github.com/shonenada/flask-rbac) - Flask-RBAC
 - [muratgozel/py-rbac](https://github.com/muratgozel/py-rbac) - Python implementation of the NIST model for role based access control (RBAC).
@@ -1402,12 +1430,14 @@
 
 ## qt 
 
+- [tschnz/Live-Video-Magnification](https://github.com/tschnz/Live-Video-Magnification) - An OpenCV/Qt based realtime application for Eulerian Video Magnification / Motion Magnification. Works with multiple videos and cameras at the same time and let's you export the magnified videos.
 - [hanjinliu/magic-class](https://github.com/hanjinliu/magic-class) - Generate multifunctional and macro recordable GUIs from Python classes
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [pyedifice/pyedifice](https://github.com/pyedifice/pyedifice) - Declarative GUI framework for Python and Qt
 
 ## raspberry-pi 
 
+- [bitfieldaudio/OTTO](https://github.com/bitfieldaudio/OTTO) - Sampler, Sequencer, Multi-engine synth and effects - in a box! [WIP]
 - [warchildmd/google-assistant-hotword-raspi](https://github.com/warchildmd/google-assistant-hotword-raspi) - Simple Google Assistant with hotword activation from Snowboy setup for my Pi Zero W.
 - [t1m0thyj/AssistantPi](https://github.com/t1m0thyj/AssistantPi) - Unofficial installer for Google Assistant on Raspbian
 
@@ -1613,6 +1643,7 @@
 
 ## typescript 
 
+- [workadventure/workadventure](https://github.com/workadventure/workadventure) - A collaborative web application (virtual office) presented as a 16-bit RPG video game
 - [ohmjs/ohm](https://github.com/ohmjs/ohm) - A library and language for building parsers, interpreters, compilers, etc.
 - [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
 - [jorishermans/storagestack](https://github.com/jorishermans/storagestack) - A decentralized storage abstraction middleware framework
@@ -1634,6 +1665,7 @@
 
 ## vue 
 
+- [vcync/modV](https://github.com/vcync/modV) - modular audio visualisation powered by JavaScript
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [TanStack/virtual](https://github.com/TanStack/virtual) - 🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
