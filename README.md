@@ -114,7 +114,7 @@
 - [binarycraft007/perplexity](https://github.com/binarycraft007/perplexity) - perplexity.ai golang sdk
 - [ekkinox/yai](https://github.com/ekkinox/yai) - Your AI powered terminal assistant.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chat in terminal without needing API keys
+- [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [tusharsadhwani/micro](https://github.com/tusharsadhwani/micro) - A modern and intuitive terminal-based text editor
 - [tanaikech/goris](https://github.com/tanaikech/goris) - This is a CLI tool to search for images with Google Reverse Image Search (goris).
 - [openfaas/faasd](https://github.com/openfaas/faasd) - A lightweight & portable faas engine
@@ -236,7 +236,6 @@
 - [jasonwebb/morphogenesis-resources](https://github.com/jasonwebb/morphogenesis-resources) - Resources on the topic of digital morphogenesis (creating form with code). Includes links to major articles, code repos, creative projects, books, software, and more.
 - [cacheflowe/creative-coding-notes](https://github.com/cacheflowe/creative-coding-notes) - Some text and links about the wide world of creative coding
 - [s2underground/GhostNet](https://github.com/s2underground/GhostNet) - GhostNet
-- [Nuked88/DreamingAI](https://github.com/Nuked88/DreamingAI) - Repo of the YT Channel
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates & updates markdown content (like your README.md)
 - [MamczurMiroslaw/best_ai_knowledge_repos](https://github.com/MamczurMiroslaw/best_ai_knowledge_repos) - The best of the best AI knowledge repositories
 - [opendilab/awesome-RLHF](https://github.com/opendilab/awesome-RLHF) - A curated list of reinforcement learning with human feedback resources (continually updated)
@@ -268,6 +267,8 @@
 
 ## Python 
 
+- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - Accurate line-level text detection and recognition (OCR) in any language
+- [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) - Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception
 - [DBraun/TouchDesigner_Shared](https://github.com/DBraun/TouchDesigner_Shared) - TouchDesigner toxes and small projects
 - [IntentDev/Luminosity](https://github.com/IntentDev/Luminosity) - Front-end for TouchDesigner aimed at providing operators with an efficient interface to perform, control, and distribute realtime media while retaining the open-ended programmability of TouchDesigner.
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
@@ -284,6 +285,7 @@
 - [dpgaspar/Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome
 - [amitt001/pygmy](https://github.com/amitt001/pygmy) - An open-source, feature rich & extensible url-shortener + analytics written in Python :cookie:
 - [daveebbelaar/python-whatsapp-bot](https://github.com/daveebbelaar/python-whatsapp-bot) - Build AI WhatsApp Bots with Pure Python
+- [Nuked88/DreamingAI](https://github.com/Nuked88/DreamingAI) - Repo of the YT Channel
 - [Nuked88/SlashX](https://github.com/Nuked88/SlashX) - The Slash OSINT Tool With Improved Speed and Features
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
