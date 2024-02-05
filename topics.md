@@ -205,7 +205,7 @@
 - [enoki-inc/aither](https://github.com/enoki-inc/aither) - Collaborate with friends in real-time on an AI-enabled desktop in the browser
 - [Nikorasu/LiveWhisper](https://github.com/Nikorasu/LiveWhisper) - A nearly-live implementation of OpenAI's Whisper, using sounddevice. Requires existing Whisper install.
 - [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.
-- [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chat in terminal without needing API keys
+- [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
 - [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena) - ChatArena (or Chat Arena) is a Multi-Agent Language Game Environments for LLMs. The goal is to develop communication and collaboration capabilities of AIs.
 - [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - Lord of Large Language Models Web User Interface
@@ -383,7 +383,7 @@
 - [alexkorol/repo2GPT](https://github.com/alexkorol/repo2GPT) - Repo2GPT is a Python application that clones a GitHub repository and generates a tree diagram of the repository's file structure and a consolidated text file containing all the code files in the repos
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [OpenGVLab/Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) - [VideoChatGPT] ChatGPT with video understanding! And many more supported LMs such as miniGPT4, StableLM, and MOSS.
-- [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chat in terminal without needing API keys
+- [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [farizrahman4u/loopgpt](https://github.com/farizrahman4u/loopgpt) - Modular Auto-GPT Framework
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - ⛓️ Langflow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
@@ -431,7 +431,7 @@
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-- [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chat in terminal without needing API keys
+- [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [tanaikech/goris](https://github.com/tanaikech/goris) - This is a CLI tool to search for images with Google Reverse Image Search (goris).
 - [RuthGnz/SpyScrap](https://github.com/RuthGnz/SpyScrap) - CLI and GUI for OSINT.  Are you very exhibited on the Internet? Check it!  Twitter, Tinder, Facebook, Google, Yandex, BOE. It uses facial recognition to provide more accurate results.
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
@@ -676,7 +676,7 @@
 
 - [keyval-dev/odigos](https://github.com/keyval-dev/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chat in terminal without needing API keys
+- [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟
 
@@ -684,7 +684,7 @@
 
 - [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
 - [ekkinox/yai](https://github.com/ekkinox/yai) - Your AI powered terminal assistant.
-- [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chat in terminal without needing API keys
+- [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [tanaikech/goris](https://github.com/tanaikech/goris) - This is a CLI tool to search for images with Google Reverse Image Search (goris).
 - [openfaas/faasd](https://github.com/openfaas/faasd) - A lightweight & portable faas engine
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟
@@ -857,7 +857,7 @@
 - [Nikorasu/MatrixCode](https://github.com/Nikorasu/MatrixCode) - Matrix-style code-rain terminal animations!
 - [enoki-inc/aither](https://github.com/enoki-inc/aither) - Collaborate with friends in real-time on an AI-enabled desktop in the browser
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
-- [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chat in terminal without needing API keys
+- [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [xemle/home-gallery](https://github.com/xemle/home-gallery) - Self-hosted open-source web gallery to view your photos and videos featuring mobile-friendly, tagging and AI powered image discovery
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [vidify/vidify](https://github.com/vidify/vidify) - Detect the songs playing on your device and play their music videos anywhere
@@ -880,7 +880,7 @@
 ## macos 
 
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
-- [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chat in terminal without needing API keys
+- [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [xemle/home-gallery](https://github.com/xemle/home-gallery) - Self-hosted open-source web gallery to view your photos and videos featuring mobile-friendly, tagging and AI powered image discovery
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -1016,6 +1016,8 @@
 
 ## others 
 
+- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - Accurate line-level text detection and recognition (OCR) in any language
+- [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) - Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception
 - [stuffmatic/fSpy](https://github.com/stuffmatic/fSpy) - A cross platform app for quick and easy still image camera matching
 - [IntentDev/Luminosity](https://github.com/IntentDev/Luminosity) - Front-end for TouchDesigner aimed at providing operators with an efficient interface to perform, control, and distribute realtime media while retaining the open-ended programmability of TouchDesigner.
 - [janivanecky/Physarum](https://github.com/janivanecky/Physarum) - 
@@ -1620,7 +1622,7 @@
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-- [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chat in terminal without needing API keys
+- [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii) - An intuitive and type-safe Python library for converting lists to fancy ASCII tables for displaying in the terminal or code-blocks
 - [MahdeenSky/ChatGPT-Terminal-Completion](https://github.com/MahdeenSky/ChatGPT-Terminal-Completion) - Attempt at using ChatGPT to issue commands based on comments in the terminal.
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
@@ -1702,7 +1704,7 @@
 - [yinkaisheng/Python-UIAutomation-for-Windows](https://github.com/yinkaisheng/Python-UIAutomation-for-Windows) - (Donot use 3.7.6,3.8.1):snake:Python 3 wrapper of Microsoft UIAutomation. Support UIAutomation for MFC, WindowsForm, WPF, Modern UI(Metro UI), Qt, IE, Firefox, Chrome ...
 - [Nikorasu/MatrixCode](https://github.com/Nikorasu/MatrixCode) - Matrix-style code-rain terminal animations!
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
-- [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chat in terminal without needing API keys
+- [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [Decimation/SmartImage](https://github.com/Decimation/SmartImage) - Reverse image search tool (SauceNao, IQDB, Ascii2D, trace.moe, and more)
 - [xemle/home-gallery](https://github.com/xemle/home-gallery) - Self-hosted open-source web gallery to view your photos and videos featuring mobile-friendly, tagging and AI powered image discovery
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
