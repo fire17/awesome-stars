@@ -142,6 +142,7 @@
 
 ## JavaScript 
 
+- [yotamorimoto/asg](https://github.com/yotamorimoto/asg) - ambient sound generator
 - [collective-soundworks/soundworks](https://github.com/collective-soundworks/soundworks) - Creative coding framework for distributed applications based on Web technologies.
 - [jasonwebb/2d-space-colonization-experiments](https://github.com/jasonwebb/2d-space-colonization-experiments) - Visual experiments exploring space colonization as a 2D morphogenesis tool.
 - [collective-soundworks/soundworks-template](https://github.com/collective-soundworks/soundworks-template) - application template for the soundworks framework
