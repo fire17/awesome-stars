@@ -1040,6 +1040,7 @@
 
 ## others 
 
+- [yotamorimoto/asg](https://github.com/yotamorimoto/asg) - ambient sound generator
 - [mkrd/SuperPy](https://github.com/mkrd/SuperPy) - 
 - [marcel-dempers/docker-development-youtube-series](https://github.com/marcel-dempers/docker-development-youtube-series) - 
 - [FernandoBLima/python-prometheus-grafana](https://github.com/FernandoBLima/python-prometheus-grafana) - Project contains a Python service example with Prometheus and Grafana.
