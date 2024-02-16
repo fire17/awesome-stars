@@ -106,6 +106,7 @@
 
 ## Go 
 
+- [Contextualist/acp](https://github.com/Contextualist/acp) - Make terminal personal file transfers as simple as `cp`
 - [marcel-dempers/docker-development-youtube-series](https://github.com/marcel-dempers/docker-development-youtube-series) - 
 - [anyproto/any-sync](https://github.com/anyproto/any-sync) - An open-source protocol designed to create high-performance, local-first, peer-to-peer, end-to-end encrypted applications that facilitate seamless collaboration among multiple users and devices
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼
@@ -272,6 +273,7 @@
 
 ## Python 
 
+- [dwoz/python-nat-hole-punching](https://github.com/dwoz/python-nat-hole-punching) - UDP and TCP NAT hole punching examples in python
 - [aniketrajnish/MultiWindowSync-PyQt](https://github.com/aniketrajnish/MultiWindowSync-PyQt) - Windows GUI multiple window synchronization using pyqtSignal
 - [mkrd/SuperPy](https://github.com/mkrd/SuperPy) - 
 - [FernandoBLima/python-prometheus-grafana](https://github.com/FernandoBLima/python-prometheus-grafana) - Project contains a Python service example with Prometheus and Grafana.
@@ -638,7 +640,7 @@
 - [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts) - Official Anytype client for MacOS, Linux, and Windows
 - [fal-ai/tldraw-fal](https://github.com/fal-ai/tldraw-fal) - 
 - [tldraw/make-real](https://github.com/tldraw/make-real) - Draw a ui and make it real
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, Op
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plug
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
