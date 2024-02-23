@@ -275,6 +275,9 @@
 
 ## Python 
 
+- [groq/groqflow](https://github.com/groq/groqflow) - GroqFlow provides an automated tool flow for compiling machine learning and linear algebra workloads into Groq programs and executing those programs on GroqChip™ processors.
+- [bsima/marge-bot](https://github.com/bsima/marge-bot) - 
+- [groq/groq-python](https://github.com/groq/groq-python) - The official Python Library for the Groq API
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
 - [dwoz/python-nat-hole-punching](https://github.com/dwoz/python-nat-hole-punching) - UDP and TCP NAT hole punching examples in python
 - [aniketrajnish/MultiWindowSync-PyQt](https://github.com/aniketrajnish/MultiWindowSync-PyQt) - Windows GUI multiple window synchronization using pyqtSignal
@@ -453,7 +456,7 @@
 - [corca-ai/EVAL](https://github.com/corca-ai/EVAL) - [Corca / DEV] EVAL(Elastic Versatile Agent with Langchain) will execute all your requests. Just like an eval method!
 - [emcf/engshell](https://github.com/emcf/engshell) - An English-language shell for any OS, powered by LLMs
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
 - [WASasquatch/was-node-suite-comfyui](https://github.com/WASasquatch/was-node-suite-comfyui) - An extensive node suite for ComfyUI with over 190 new nodes
 - [wunderwuzzi23/yolo-ai-cmdbot](https://github.com/wunderwuzzi23/yolo-ai-cmdbot) - AI bot that translates your question to a command and executes it yolo style
@@ -630,6 +633,7 @@
 
 ## TypeScript 
 
+- [reorproject/reor](https://github.com/reorproject/reor) - AI note-taking app that runs models locally.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [stuffmatic/fSpy](https://github.com/stuffmatic/fSpy) - A cross platform app for quick and easy still image camera matching
