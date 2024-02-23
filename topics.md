@@ -178,6 +178,7 @@
 
 ## ai 
 
+- [reorproject/reor](https://github.com/reorproject/reor) - AI note-taking app that runs models locally.
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - Use GPT-4(V), Gemini, LocalAI, Ollama and other LLMs in the terminal.
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
@@ -241,6 +242,7 @@
 
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
+- [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) - Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
 - [ReVanced/revanced-patches-template](https://github.com/ReVanced/revanced-patches-template) - 👋🧩ReVanced Patches template
@@ -295,13 +297,14 @@
 ## automation 
 
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
+- [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) - Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [JacksonElia/DCS_Terminal](https://github.com/JacksonElia/DCS_Terminal) - Hacker stuff no more data camps for you
 - [yinkaisheng/Python-UIAutomation-for-Windows](https://github.com/yinkaisheng/Python-UIAutomation-for-Windows) - (Donot use 3.7.6,3.8.1):snake:Python 3 wrapper of Microsoft UIAutomation. Support UIAutomation for MFC, WindowsForm, WPF, Modern UI(Metro UI), Qt, IE, Firefox, Chrome ...
 
 ## awesome 
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 
@@ -925,6 +928,7 @@
 
 ## markdown 
 
+- [reorproject/reor](https://github.com/reorproject/reor) - AI note-taking app that runs models locally.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -937,6 +941,7 @@
 ## mobile 
 
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
+- [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) - Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception
 - [xemle/home-gallery](https://github.com/xemle/home-gallery) - Self-hosted open-source web gallery to view your photos and videos featuring mobile-friendly, tagging and AI powered image discovery
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
@@ -1052,6 +1057,9 @@
 
 ## others 
 
+- [groq/groqflow](https://github.com/groq/groqflow) - GroqFlow provides an automated tool flow for compiling machine learning and linear algebra workloads into Groq programs and executing those programs on GroqChip™ processors.
+- [bsima/marge-bot](https://github.com/bsima/marge-bot) - 
+- [groq/groq-python](https://github.com/groq/groq-python) - The official Python Library for the Groq API
 - [haixiangyan/wtf-cli](https://github.com/haixiangyan/wtf-cli) - A command tool for looking up abbreviation.
 - [elliottminns/dotfiles](https://github.com/elliottminns/dotfiles) - 
 - [magicvideov2/magicvideov2.github.io](https://github.com/magicvideov2/magicvideov2.github.io) - 
@@ -1069,7 +1077,6 @@
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - 
 - [MarkFzp/act-plus-plus](https://github.com/MarkFzp/act-plus-plus) - Imitation learning algorithms with Co-training for Mobile ALOHA: ACT, Diffusion Policy, VINN
 - [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR and line detection in 90+ languages
-- [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) - Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception
 - [stuffmatic/fSpy](https://github.com/stuffmatic/fSpy) - A cross platform app for quick and easy still image camera matching
 - [IntentDev/Luminosity](https://github.com/IntentDev/Luminosity) - Front-end for TouchDesigner aimed at providing operators with an efficient interface to perform, control, and distribute realtime media while retaining the open-ended programmability of TouchDesigner.
 - [janivanecky/Physarum](https://github.com/janivanecky/Physarum) - 
@@ -1425,7 +1432,7 @@
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
 - [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena) - ChatArena (or Chat Arena) is a Multi-Agent Language Game Environments for LLMs. The goal is to develop communication and collaboration capabilities of AIs.
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [aymanimtyaz/StateEngine](https://github.com/aymanimtyaz/StateEngine) - Finite State Machines in Pure Python!
 - [tusharsadhwani/python-starter](https://github.com/tusharsadhwani/python-starter) - A straightforward starter template for Python packages.
