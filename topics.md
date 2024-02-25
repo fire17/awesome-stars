@@ -1058,6 +1058,7 @@
 
 ## others 
 
+- [withastro/houston.astro.build](https://github.com/withastro/houston.astro.build) - Experimental AI assistant trained on the Astro docs
 - [groq/groqflow](https://github.com/groq/groqflow) - GroqFlow provides an automated tool flow for compiling machine learning and linear algebra workloads into Groq programs and executing those programs on GroqChip™ processors.
 - [bsima/marge-bot](https://github.com/bsima/marge-bot) - 
 - [groq/groq-python](https://github.com/groq/groq-python) - The official Python Library for the Groq API
