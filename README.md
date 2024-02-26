@@ -280,6 +280,8 @@
 
 ## Python 
 
+- [eliasdorneles/upiano](https://github.com/eliasdorneles/upiano) - A Piano in your terminal
+- [Textualize/textual-web](https://github.com/Textualize/textual-web) - Run TUIs and terminals in your browser
 - [groq/groqflow](https://github.com/groq/groqflow) - GroqFlow provides an automated tool flow for compiling machine learning and linear algebra workloads into Groq programs and executing those programs on GroqChip™ processors.
 - [bsima/marge-bot](https://github.com/bsima/marge-bot) - 
 - [groq/groq-python](https://github.com/groq/groq-python) - The official Python Library for the Groq API
@@ -376,7 +378,6 @@
 - [bytedance/SALMONN](https://github.com/bytedance/SALMONN) - SALMONN: Speech Audio Language Music Open Neural Network
 - [textstat/textstat](https://github.com/textstat/textstat) - :memo: python package to calculate readability statistics of a text object - paragraphs, sentences, articles.
 - [Nipun1212/Claude_api](https://github.com/Nipun1212/Claude_api) - Claude_api is a Python package that provides a convenient way to interact with Claude 2  from Anthropic.
-- [Textualize/textual-web](https://github.com/Textualize/textual-web) - Run TUIs and terminals in your browser
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
 - [olivier-salmon/py-tts-hebrew-sample-code](https://github.com/olivier-salmon/py-tts-hebrew-sample-code) - Python Sample code to send a voice message in Hebrew to a user
 - [carykh/lazykh](https://github.com/carykh/lazykh) - Source code for the automatic lip-syncing project described in this video! https://www.youtube.com/watch?v=y3B8YqeLCpY
