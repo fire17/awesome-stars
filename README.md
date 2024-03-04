@@ -42,6 +42,7 @@
 
 ## C 
 
+- [brilliantlabsAR/frame-codebase](https://github.com/brilliantlabsAR/frame-codebase) - The complete codebase for Frame
 - [ggerganov/seamless_communication](https://github.com/ggerganov/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
 - [Flipper-XFW/Xtreme-Firmware](https://github.com/Flipper-XFW/Xtreme-Firmware) - The Dom amongst the Flipper Zero Firmware. Give your Flipper the power and freedom it is really craving. Let it show you its true form. Dont delay, switch to the one and only true Master today!
 - [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark
@@ -280,6 +281,7 @@
 
 ## Python 
 
+- [brilliantlabsAR/frame-utilities-for-python](https://github.com/brilliantlabsAR/frame-utilities-for-python) - Useful Python utilities for Frame! Available on pip
 - [mlcommons/inference](https://github.com/mlcommons/inference) - Reference implementations of MLPerf™ inference benchmarks
 - [eliasdorneles/upiano](https://github.com/eliasdorneles/upiano) - A Piano in your terminal
 - [Textualize/textual-web](https://github.com/Textualize/textual-web) - Run TUIs and terminals in your browser
