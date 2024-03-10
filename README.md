@@ -216,6 +216,7 @@
 
 ## Jupyter Notebook 
 
+- [rajabia/MDTD](https://github.com/rajabia/MDTD) - 
 - [googlesamples/mediapipe](https://github.com/googlesamples/mediapipe) - 
 - [MarkFzp/mobile-aloha](https://github.com/MarkFzp/mobile-aloha) - Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation
 - [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
