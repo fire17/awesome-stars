@@ -1099,6 +1099,8 @@
 
 ## others 
 
+- [stretta/TextureExplorer](https://github.com/stretta/TextureExplorer) - A utility for generating audio textures, environments and aleatoric expressions.
+- [stretta/Stretta-Inspiration-Tools](https://github.com/stretta/Stretta-Inspiration-Tools) - A collection of useful devices for Ableton Live
 - [MusicLang/musiclang_predict](https://github.com/MusicLang/musiclang_predict) - AI Prediction api of the MusicLang package
 - [MusicLang/musiclang](https://github.com/MusicLang/musiclang) - 
 - [rajabia/MDTD](https://github.com/rajabia/MDTD) - 
