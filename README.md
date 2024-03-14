@@ -22,6 +22,7 @@
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [Makefile](#makefile)
+- [Max](#max)
 - [Others](#others)
 - [PHP](#php)
 - [Python](#python)
@@ -246,8 +247,13 @@
 
 - [Terranlee/Realtime_EVM](https://github.com/Terranlee/Realtime_EVM) - A Realtime Eulerian Video Magnification
 
+## Max 
+
+- [stretta/TextureExplorer](https://github.com/stretta/TextureExplorer) - A utility for generating audio textures, environments and aleatoric expressions.
+
 ## Others 
 
+- [stretta/Stretta-Inspiration-Tools](https://github.com/stretta/Stretta-Inspiration-Tools) - A collection of useful devices for Ableton Live
 - [jasonwebb/morphogenesis-resources](https://github.com/jasonwebb/morphogenesis-resources) - Resources on the topic of digital morphogenesis (creating form with code). Includes links to major articles, code repos, creative projects, books, software, and more.
 - [cacheflowe/creative-coding-notes](https://github.com/cacheflowe/creative-coding-notes) - Some text and links about the wide world of creative coding
 - [s2underground/GhostNet](https://github.com/s2underground/GhostNet) - GhostNet
