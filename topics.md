@@ -1099,6 +1099,10 @@
 
 ## others 
 
+- [johndpope/Emote-hack](https://github.com/johndpope/Emote-hack) - using chatgpt (now Claude 3) to reverse engineer code from Emote white paper. WIP
+- [kadirnar/whisper-plus](https://github.com/kadirnar/whisper-plus) - WhisperPlus: Advancing Speech-to-Text Processing 🚀
+- [ochen1/insanely-fast-whisper-cli](https://github.com/ochen1/insanely-fast-whisper-cli) - The fastest Whisper optimization for automatic speech recognition as a command-line interface ⚡️
+- [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
 - [stretta/TextureExplorer](https://github.com/stretta/TextureExplorer) - A utility for generating audio textures, environments and aleatoric expressions.
 - [stretta/Stretta-Inspiration-Tools](https://github.com/stretta/Stretta-Inspiration-Tools) - A collection of useful devices for Ableton Live
 - [MusicLang/musiclang_predict](https://github.com/MusicLang/musiclang_predict) - AI Prediction api of the MusicLang package
