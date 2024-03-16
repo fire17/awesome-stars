@@ -63,6 +63,7 @@
 
 ## C++ 
 
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [ChrisBLong/POV](https://github.com/ChrisBLong/POV) - Draws old-school 8-bit style pixel graphics. For a YouTube video.
 - [bitfieldaudio/OTTO](https://github.com/bitfieldaudio/OTTO) - Sampler, Sequencer, Multi-engine synth and effects - in a box! [WIP]
 - [janivanecky/Physarum](https://github.com/janivanecky/Physarum) - 
@@ -113,7 +114,6 @@
 
 ## Go 
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [Contextualist/acp](https://github.com/Contextualist/acp) - Make terminal personal file transfers as simple as `cp`
 - [marcel-dempers/docker-development-youtube-series](https://github.com/marcel-dempers/docker-development-youtube-series) - 
 - [anyproto/any-sync](https://github.com/anyproto/any-sync) - An open-source protocol designed to create high-performance, local-first, peer-to-peer, end-to-end encrypted applications that facilitate seamless collaboration among multiple users and devices
@@ -155,6 +155,7 @@
 
 ## JavaScript 
 
+- [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar) - 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT
 - [haixiangyan/wtf-cli](https://github.com/haixiangyan/wtf-cli) - A command tool for looking up abbreviation.
 - [magicvideov2/magicvideov2.github.io](https://github.com/magicvideov2/magicvideov2.github.io) - 
 - [yotamorimoto/asg](https://github.com/yotamorimoto/asg) - ambient sound generator
@@ -346,7 +347,7 @@
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
 - [zmqless/zeroless-tools](https://github.com/zmqless/zeroless-tools) - ZeroMQ CLI Tools™
 - [natolambert/interconnects-tools](https://github.com/natolambert/interconnects-tools) - Python tools for easily translating your blog content to podcasts & YouTube
-- [aurelio-labs/semantic-router](https://github.com/aurelio-labs/semantic-router) - 
+- [aurelio-labs/semantic-router](https://github.com/aurelio-labs/semantic-router) - Superfast AI decision making and intelligent processing of multi-modal data.
 - [hanjinliu/magic-class](https://github.com/hanjinliu/magic-class) - Generate multifunctional and macro recordable GUIs from Python classes
 - [anderspitman/SirTunnel](https://github.com/anderspitman/SirTunnel) - Minimal, self-hosted, 0-config alternative to ngrok. Caddy+OpenSSH+50 lines of Python.
 - [joshuavial/aider](https://github.com/joshuavial/aider) - aider is GPT powered coding in your terminal
@@ -383,7 +384,7 @@
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [jxnl/instructor](https://github.com/jxnl/instructor) - structured outputs for llms
 - [imoneoi/openchat](https://github.com/imoneoi/openchat) - OpenChat: Advancing Open-source Language Models with Imperfect Data
-- [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation
+- [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [reactive-python/reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python
 - [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
 - [AI-Citizen/SolidGPT](https://github.com/AI-Citizen/SolidGPT) - Effortlessly build, host, and maintain SaaS with AI.
@@ -484,7 +485,6 @@
 - [WASasquatch/was-node-suite-comfyui](https://github.com/WASasquatch/was-node-suite-comfyui) - An extensive node suite for ComfyUI with over 190 new nodes
 - [wunderwuzzi23/yolo-ai-cmdbot](https://github.com/wunderwuzzi23/yolo-ai-cmdbot) - AI bot that translates your question to a command and executes it yolo style
 - [aymanimtyaz/StateEngine](https://github.com/aymanimtyaz/StateEngine) - Finite State Machines in Pure Python!
-- [daveshap/raven](https://github.com/daveshap/raven) - RAVEN (Realtime Assistant Voice Enabled Network) Open Source Software (OSS) community repo
 - [tusharsadhwani/flake8-comprehensions](https://github.com/tusharsadhwani/flake8-comprehensions) - ❄️ A flake8 plugin to help you write better list/set/dict comprehensions.
 - [tusharsadhwani/oneliners](https://github.com/tusharsadhwani/oneliners) - 
 - [tusharsadhwani/python-starter](https://github.com/tusharsadhwani/python-starter) - A straightforward starter template for Python packages.
