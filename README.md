@@ -219,6 +219,7 @@
 
 ## Jupyter Notebook 
 
+- [mshumer/gpt-investor](https://github.com/mshumer/gpt-investor) - 
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
 - [rajabia/MDTD](https://github.com/rajabia/MDTD) - 
 - [googlesamples/mediapipe](https://github.com/googlesamples/mediapipe) - 
