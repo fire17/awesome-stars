@@ -1182,7 +1182,7 @@
 - [MarkFzp/mobile-aloha](https://github.com/MarkFzp/mobile-aloha) - Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation
 - [GregoryCannon/StackRabbit](https://github.com/GregoryCannon/StackRabbit) - An AI for playing NES Tetris at a high level. Based primarily on search & heuristic, with high quality board evaluation through value iteration.
 - [rafgraph/spa-github-pages](https://github.com/rafgraph/spa-github-pages) - Host single page apps with GitHub Pages
-- [natolambert/interconnects-tools](https://github.com/natolambert/interconnects-tools) - Python tools for easily translating your blog content to podcasts & YouTube
+- [natolambert/blogcaster](https://github.com/natolambert/blogcaster) - Python tools for easily translating your blog content to podcasts & YouTube
 - [0dataapp/0datawrap](https://github.com/0dataapp/0datawrap) - Unified JavaScript API for Fission + remoteStorage.
 - [rosano/hyperdraft](https://github.com/rosano/hyperdraft) - Turn your notes into a website.
 - [dineshsonachalam/markdown-autodocs](https://github.com/dineshsonachalam/markdown-autodocs) - ✨ A GitHub Action that automatically generates & updates markdown content (like your README.md) from external or remote files.
