@@ -1228,7 +1228,6 @@
 - [emlynoregan/newaiexp](https://github.com/emlynoregan/newaiexp) - A general repo for short, cli based experiments with new AI tools, particularly from OpenAI
 - [binarycraft007/perplexity](https://github.com/binarycraft007/perplexity) - perplexity.ai golang sdk
 - [nathanrchn/perplexityai](https://github.com/nathanrchn/perplexityai) - A python api to use perplexity.ai
-- [harveyf2801/pyUIauto](https://github.com/harveyf2801/pyUIauto) - Python UI Automation library for cross-platform applications using the accessibility API
 - [ariyuan/pywinauto_inspector](https://github.com/ariyuan/pywinauto_inspector) - spy tool for pywinauto
 - [collabora/WhisperLive](https://github.com/collabora/WhisperLive) - A nearly-live implementation of OpenAI's Whisper.
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
@@ -1470,6 +1469,7 @@
 - [textstat/textstat](https://github.com/textstat/textstat) - :memo: python package to calculate readability statistics of a text object - paragraphs, sentences, articles.
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [JacksonElia/DCS_Terminal](https://github.com/JacksonElia/DCS_Terminal) - Hacker stuff no more data camps for you
+- [harveyf2801/pyUIauto](https://github.com/harveyf2801/pyUIauto) - pyUIauto | A Python UI Automation library used to test application across various platforms using the accessibility API.
 - [yinkaisheng/Python-UIAutomation-for-Windows](https://github.com/yinkaisheng/Python-UIAutomation-for-Windows) - (Donot use 3.7.6,3.8.1):snake:Python 3 wrapper of Microsoft UIAutomation. Support UIAutomation for MFC, WindowsForm, WPF, Modern UI(Metro UI), Qt, IE, Firefox, Chrome ...
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [langgenius/dify](https://github.com/langgenius/dify) - An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack requ
