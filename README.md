@@ -419,7 +419,7 @@
 - [collabora/WhisperLive](https://github.com/collabora/WhisperLive) - A nearly-live implementation of OpenAI's Whisper.
 - [nalbion/whisper-server](https://github.com/nalbion/whisper-server) - streaming speech to text server using Whisper
 - [rcbyron/hey-athena-client](https://github.com/rcbyron/hey-athena-client) - Your personal voice assistant
-- [langgenius/dify](https://github.com/langgenius/dify) - An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack requ
+- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app building platform. It has the core tech required to build AI-native apps, including RAG, agent capabilities, model management, observability and more, packaged into one 
 - [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://h2oai.github.io/h2o-llmstudio/
@@ -646,7 +646,7 @@
 - [bmdavis419/SvelteKit-Ecommerce](https://github.com/bmdavis419/SvelteKit-Ecommerce) - An opensource, fullstack e-commerce app build with SvelteKit
 - [dnass/svelte-canvas](https://github.com/dnass/svelte-canvas) - 🎨 Reactive canvas rendering with Svelte.
 - [michael/editable-website](https://github.com/michael/editable-website) - A SvelteKit template for building CMS-free editable websites
-- [brean/svelte-3d-urdf](https://github.com/brean/svelte-3d-urdf) - parse robot URDF and show it in svelte using Svelthree
+- [brean/svelte-3d-urdf](https://github.com/brean/svelte-3d-urdf) - parse robot URDF and show it in svelte using threlte.xyz
 - [francoislanc/galileo-satellites-visualizer](https://github.com/francoislanc/galileo-satellites-visualizer) - Visualize Galileo satellites in orbit using svelthree
 - [rgossiaux/svelte-headlessui](https://github.com/rgossiaux/svelte-headlessui) - Unofficial Svelte port of the Headless UI component library
 - [sinedie/Flask-Svelte-Websockets-Nginx-Docker](https://github.com/sinedie/Flask-Svelte-Websockets-Nginx-Docker) - Quick development template for flask-socketio projects with heavy computation task
