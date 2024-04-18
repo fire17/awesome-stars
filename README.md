@@ -221,6 +221,7 @@
 
 ## Jupyter Notebook 
 
+- [ruddhaani/Brahma-Naad](https://github.com/ruddhaani/Brahma-Naad) - An ML model that converts Sign Language(ASL) to Audio
 - [Coding-Crashkurse/Voice-Order-Assistant](https://github.com/Coding-Crashkurse/Voice-Order-Assistant) - 
 - [mshumer/gpt-investor](https://github.com/mshumer/gpt-investor) - 
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
@@ -668,6 +669,7 @@
 
 ## TypeScript 
 
+- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.
