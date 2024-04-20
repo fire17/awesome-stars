@@ -227,7 +227,7 @@
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
 - [rajabia/MDTD](https://github.com/rajabia/MDTD) - 
 - [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
-- [googlesamples/mediapipe](https://github.com/googlesamples/mediapipe) - 
+- [google-edge-ai/mediapipe-samples](https://github.com/google-edge-ai/mediapipe-samples) - 
 - [MarkFzp/mobile-aloha](https://github.com/MarkFzp/mobile-aloha) - Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation
 - [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
 - [lablab-ai/redis-langchain-ecommerce-chatbot](https://github.com/lablab-ai/redis-langchain-ecommerce-chatbot) - In this tutorial, we will build an e-commerce chatbot that can query Amazon product embeddings using Redis and generate nice responses with Langchain. Our chatbot will take user input, find relevant p
@@ -297,6 +297,7 @@
 
 ## Python 
 
+- [prompt-security/ps-fuzz](https://github.com/prompt-security/ps-fuzz) - Make your GenAI Apps Safe & Secure :rocket: Test & harden your system prompt
 - [jvkersch/pyconcorde](https://github.com/jvkersch/pyconcorde) - Python wrapper around the Concorde TSP solver
 - [nus-apr/auto-code-rover](https://github.com/nus-apr/auto-code-rover) - A project structure aware autonomous software engineer aiming for autonomous program improvement. Resolved 15.95% tasks in full SWE-bench
 - [resemble-ai/resemble-enhance](https://github.com/resemble-ai/resemble-enhance) - AI powered speech denoising and enhancement
