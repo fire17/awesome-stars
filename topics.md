@@ -74,6 +74,7 @@
 - [github-api](#github-api)
 - [go](#go)
 - [golang](#golang)
+- [good-first-issue](#good-first-issue)
 - [google](#google)
 - [graphql](#graphql)
 - [hacking](#hacking)
@@ -108,6 +109,7 @@
 - [mysql](#mysql)
 - [natural-language-processing](#natural-language-processing)
 - [neovim](#neovim)
+- [nestjs](#nestjs)
 - [neural-network](#neural-network)
 - [nextjs](#nextjs)
 - [nlp](#nlp)
@@ -183,6 +185,10 @@
 
 ## ai 
 
+- [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
+- [TensorOpsAI/LLMstudio](https://github.com/TensorOpsAI/LLMstudio) - Framework to bring LLM applications to production
+- [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI.
+- [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - [prompt-security/ps-fuzz](https://github.com/prompt-security/ps-fuzz) - Make your GenAI Apps Safe & Secure :rocket: Test & harden your system prompt
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown
 - [brilliantlabsAR/frame-codebase](https://github.com/brilliantlabsAR/frame-codebase) - The complete codebase for Frame
@@ -292,6 +298,7 @@
 
 ## artificial-intelligence 
 
+- [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - [lucidrains/x-transformers](https://github.com/lucidrains/x-transformers) - A simple but complete full-attention transformer with a set of promising experimental features from various papers
 - [aurelio-labs/semantic-router](https://github.com/aurelio-labs/semantic-router) - Superfast AI decision making and intelligent processing of multi-modal data.
 - [Ruu3f/perplexityai](https://github.com/Ruu3f/perplexityai) - A simple module to use Perplexity AI in Python.
@@ -316,12 +323,14 @@
 
 ## awesome 
 
+- [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 
 ## awesome-list 
 
+- [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
@@ -380,7 +389,7 @@
 
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.
-- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one chat and copilot CLI that integrates 10+ AI platforms, including OpenAI, Azure-OpenAI, Gemini, VertexAI, Claude, Mistral, Cohere, Ollama, Ernie, Qianwen, Moonshot...
+- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one AI-Powered CLI Chat & Copilot that integrates 10+ AI platforms, including OpenAI, Azure-OpenAI, Gemini, VertexAI, Claude, Mistral, Cohere, Ollama, Ernie, Qianwen...
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [embedchain/embedchain](https://github.com/embedchain/embedchain) - Personalizing LLM Responses
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, Ch
@@ -522,6 +531,7 @@
 
 ## data-science 
 
+- [raptor-ml/raptor](https://github.com/raptor-ml/raptor) - Transform your pythonic research to an artifact that engineers can deploy easily.
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.
 
@@ -733,6 +743,10 @@
 - [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2023 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 
+## good-first-issue 
+
+- [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your LLM application, based on OpenTelemetry
+
 ## google 
 
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, Ch
@@ -752,6 +766,7 @@
 
 ## hacktoberfest 
 
+- [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
 - [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
@@ -850,6 +865,7 @@
 
 ## javascript 
 
+- [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
@@ -896,6 +912,7 @@
 
 ## kubernetes 
 
+- [raptor-ml/raptor](https://github.com/raptor-ml/raptor) - Transform your pythonic research to an artifact that engineers can deploy easily.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
 - [keyval-dev/odigos](https://github.com/keyval-dev/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
 - [genia-dev/GeniA](https://github.com/genia-dev/GeniA) - Your Engineering Gen AI Team member 🧬🤖💻
@@ -934,6 +951,7 @@
 
 ## machine-learning 
 
+- [raptor-ml/raptor](https://github.com/raptor-ml/raptor) - Transform your pythonic research to an artifact that engineers can deploy easily.
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [aurelio-labs/semantic-router](https://github.com/aurelio-labs/semantic-router) - Superfast AI decision making and intelligent processing of multi-modal data.
@@ -995,6 +1013,8 @@
 
 ## monitoring 
 
+- [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
+- [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your LLM application, based on OpenTelemetry
 - [keyval-dev/odigos](https://github.com/keyval-dev/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
 
 ## music 
@@ -1027,6 +1047,10 @@
 
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
+
+## nestjs 
+
+- [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 
 ## neural-network 
 
@@ -1065,6 +1089,7 @@
 
 ## nodejs 
 
+- [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Local file sharing in your browser. Inspired by Apple's AirDrop. Fork of Snapdrop.
 - [Just-Moh-it/Pckd](https://github.com/Just-Moh-it/Pckd) - The ⚡️ analytics-intensive, self-hostable link-shortener with a beautiful UI | AKA free bit.ly alternative 🚀
@@ -1095,6 +1120,7 @@
 
 ## open-source 
 
+- [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your LLM application, based on OpenTelemetry
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
@@ -1116,6 +1142,9 @@
 
 ## others 
 
+- [dair-ai/AI-Product-Index](https://github.com/dair-ai/AI-Product-Index) - A curated index to track AI-powered products.
+- [personoids/personoids-lite](https://github.com/personoids/personoids-lite) - "The Power of Autonomy in Every Chat." - Transform ChatGPT into a powerful autonomous agent that can independently accomplish complex tasks.
+- [pywebagent/pywebagent](https://github.com/pywebagent/pywebagent) - AI that turns website functionality into python APIs! Control websites through python and AI!
 - [ruddhaani/Brahma-Naad](https://github.com/ruddhaani/Brahma-Naad) - An ML model that converts Sign Language(ASL) to Audio
 - [jvkersch/pyconcorde](https://github.com/jvkersch/pyconcorde) - Python wrapper around the Concorde TSP solver
 - [nus-apr/auto-code-rover](https://github.com/nus-apr/auto-code-rover) - A project structure aware autonomous software engineer aiming for autonomous program improvement. Resolved 15.95% tasks in full SWE-bench
@@ -1233,7 +1262,7 @@
 - [danielgross/localpilot](https://github.com/danielgross/localpilot) - 
 - [Flipper-XFW/Xtreme-Firmware](https://github.com/Flipper-XFW/Xtreme-Firmware) - The Dom amongst the Flipper Zero Firmware. Give your Flipper the power and freedom it is really craving. Let it show you its true form. Dont delay, switch to the one and only true Master today!
 - [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
-- [AI-Citizen/SolidGPT](https://github.com/AI-Citizen/SolidGPT) - AI searching assistant for developer that helps code and workspace semantic search
+- [AI-Citizen/SolidGPT](https://github.com/AI-Citizen/SolidGPT) - Developer AI Persona Search Agent
 - [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [faydr/QMesh](https://github.com/faydr/QMesh) - QMesh: a synchronized flooded mesh network for voice over LoRa
@@ -1441,6 +1470,8 @@
 
 ## python 
 
+- [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
+- [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your LLM application, based on OpenTelemetry
 - [apocas/restai](https://github.com/apocas/restai) - RestAI is an AIaaS (AI as a Service) open-source platform. Built on top of LlamaIndex, Ollama and HF Pipelines. Supports any public LLM supported by LlamaIndex and any local LLM suported by Ollama. Pr
 - [builtree/handwrite](https://github.com/builtree/handwrite) - Handwrite generates a custom font based on your handwriting sample.
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
@@ -1817,6 +1848,7 @@
 
 ## typescript 
 
+- [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [workadventure/workadventure](https://github.com/workadventure/workadventure) - A collaborative web application (virtual office) presented as a 16-bit RPG video game
