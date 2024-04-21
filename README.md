@@ -114,6 +114,7 @@
 
 ## Go 
 
+- [raptor-ml/raptor](https://github.com/raptor-ml/raptor) - Transform your pythonic research to an artifact that engineers can deploy easily.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 - [Contextualist/acp](https://github.com/Contextualist/acp) - Make terminal personal file transfers as simple as `cp`
 - [marcel-dempers/docker-development-youtube-series](https://github.com/marcel-dempers/docker-development-youtube-series) - 
@@ -156,6 +157,8 @@
 
 ## JavaScript 
 
+- [personoids/personoids-lite](https://github.com/personoids/personoids-lite) - "The Power of Autonomy in Every Chat." - Transform ChatGPT into a powerful autonomous agent that can independently accomplish complex tasks.
+- [pywebagent/pywebagent](https://github.com/pywebagent/pywebagent) - AI that turns website functionality into python APIs! Control websites through python and AI!
 - [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar) - 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT
 - [haixiangyan/wtf-cli](https://github.com/haixiangyan/wtf-cli) - A command tool for looking up abbreviation.
 - [magicvideov2/magicvideov2.github.io](https://github.com/magicvideov2/magicvideov2.github.io) - 
@@ -262,6 +265,8 @@
 
 ## Others 
 
+- [dair-ai/AI-Product-Index](https://github.com/dair-ai/AI-Product-Index) - A curated index to track AI-powered products.
+- [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - [stretta/Stretta-Inspiration-Tools](https://github.com/stretta/Stretta-Inspiration-Tools) - A collection of useful devices for Ableton Live
 - [jasonwebb/morphogenesis-resources](https://github.com/jasonwebb/morphogenesis-resources) - Resources on the topic of digital morphogenesis (creating form with code). Includes links to major articles, code repos, creative projects, books, software, and more.
 - [cacheflowe/creative-coding-notes](https://github.com/cacheflowe/creative-coding-notes) - Some text and links about the wide world of creative coding
@@ -297,6 +302,7 @@
 
 ## Python 
 
+- [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your LLM application, based on OpenTelemetry
 - [prompt-security/ps-fuzz](https://github.com/prompt-security/ps-fuzz) - Make your GenAI Apps Safe & Secure :rocket: Test & harden your system prompt
 - [jvkersch/pyconcorde](https://github.com/jvkersch/pyconcorde) - Python wrapper around the Concorde TSP solver
 - [nus-apr/auto-code-rover](https://github.com/nus-apr/auto-code-rover) - A project structure aware autonomous software engineer aiming for autonomous program improvement. Resolved 15.95% tasks in full SWE-bench
@@ -403,7 +409,7 @@
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [reactive-python/reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python
 - [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
-- [AI-Citizen/SolidGPT](https://github.com/AI-Citizen/SolidGPT) - AI searching assistant for developer that helps code and workspace semantic search
+- [AI-Citizen/SolidGPT](https://github.com/AI-Citizen/SolidGPT) - Developer AI Persona Search Agent
 - [xlang-ai/OpenAgents](https://github.com/xlang-ai/OpenAgents) - OpenAgents: An Open Platform for Language Agents in the Wild
 - [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving
 - [genia-dev/GeniA](https://github.com/genia-dev/GeniA) - Your Engineering Gen AI Team member 🧬🤖💻
@@ -605,7 +611,7 @@
 ## Rust 
 
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
-- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one chat and copilot CLI that integrates 10+ AI platforms, including OpenAI, Azure-OpenAI, Gemini, VertexAI, Claude, Mistral, Cohere, Ollama, Ernie, Qianwen, Moonshot...
+- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one AI-Powered CLI Chat & Copilot that integrates 10+ AI platforms, including OpenAI, Azure-OpenAI, Gemini, VertexAI, Claude, Mistral, Cohere, Ollama, Ernie, Qianwen...
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
@@ -670,6 +676,9 @@
 
 ## TypeScript 
 
+- [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
+- [TensorOpsAI/LLMstudio](https://github.com/TensorOpsAI/LLMstudio) - Framework to bring LLM applications to production
+- [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI.
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
