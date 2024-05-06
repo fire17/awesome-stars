@@ -122,7 +122,7 @@
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [getzep/zep](https://github.com/getzep/zep) - Zep: Long-Term Memory for ‍AI Assistants.
-- [keyval-dev/odigos](https://github.com/keyval-dev/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
+- [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
 - [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
 - [binarycraft007/perplexity](https://github.com/binarycraft007/perplexity) - perplexity.ai golang sdk
 - [ekkinox/yai](https://github.com/ekkinox/yai) - Your AI powered terminal assistant.
@@ -478,7 +478,7 @@
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
 - [Nikorasu/MatrixCode](https://github.com/Nikorasu/MatrixCode) - Matrix-style code-rain terminal animations!
-- [darrenburns/elia](https://github.com/darrenburns/elia) - A terminal ChatGPT client built with Textual
+- [darrenburns/elia](https://github.com/darrenburns/elia) - Interact with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more from a powerful terminal user interface.
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
 - [Torantulino/AI-Functions](https://github.com/Torantulino/AI-Functions) - AI-Powered Function Magic: Never code again with GPT models!
 - [Nikorasu/LiveWhisper](https://github.com/Nikorasu/LiveWhisper) - A nearly-live implementation of OpenAI's Whisper, using sounddevice. Requires existing Whisper install.
@@ -690,7 +690,7 @@
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
-- [reorproject/reor](https://github.com/reorproject/reor) - Self-organizing AI note-taking app that runs models locally.
+- [reorproject/reor](https://github.com/reorproject/reor) - Private & offline AI personal knowledge management app.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [stuffmatic/fSpy](https://github.com/stuffmatic/fSpy) - A cross platform app for quick and easy still image camera matching
