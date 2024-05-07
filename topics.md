@@ -194,7 +194,7 @@
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown
 - [brilliantlabsAR/frame-codebase](https://github.com/brilliantlabsAR/frame-codebase) - The complete codebase for Frame
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.
-- [reorproject/reor](https://github.com/reorproject/reor) - Private & offline AI personal knowledge management app.
+- [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app.
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [daveebbelaar/python-whatsapp-bot](https://github.com/daveebbelaar/python-whatsapp-bot) - Build AI WhatsApp Bots with Pure Python
@@ -223,7 +223,7 @@
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unify Efficient Fine-Tuning of 100+ LLMs
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [superagent-ai/superagent](https://github.com/superagent-ai/superagent) - 🥷 Run AI-agents with an API
-- [darrenburns/elia](https://github.com/darrenburns/elia) - Interact with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more from a powerful terminal user interface.
+- [darrenburns/elia](https://github.com/darrenburns/elia) - Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more from a powerful terminal user interface.
 - [enoki-inc/aither](https://github.com/enoki-inc/aither) - Collaborate with friends in real-time on an AI-enabled desktop in the browser
 - [Nikorasu/LiveWhisper](https://github.com/Nikorasu/LiveWhisper) - A nearly-live implementation of OpenAI's Whisper, using sounddevice. Requires existing Whisper install.
 - [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.
@@ -410,7 +410,7 @@
 - [GAIR-NLP/factool](https://github.com/GAIR-NLP/factool) - FacTool: Factuality Detection in Generative AI
 - [ricklamers/gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) - An open source implementation of OpenAI's ChatGPT Code interpreter
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
-- [darrenburns/elia](https://github.com/darrenburns/elia) - Interact with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more from a powerful terminal user interface.
+- [darrenburns/elia](https://github.com/darrenburns/elia) - Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more from a powerful terminal user interface.
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
 - [Torantulino/AI-Functions](https://github.com/Torantulino/AI-Functions) - AI-Powered Function Magic: Never code again with GPT models!
 - [ekkinox/yai](https://github.com/ekkinox/yai) - Your AI powered terminal assistant.
@@ -984,7 +984,7 @@
 ## markdown 
 
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown
-- [reorproject/reor](https://github.com/reorproject/reor) - Private & offline AI personal knowledge management app.
+- [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -1539,7 +1539,7 @@
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 - [superagent-ai/superagent](https://github.com/superagent-ai/superagent) - 🥷 Run AI-agents with an API
-- [darrenburns/elia](https://github.com/darrenburns/elia) - Interact with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more from a powerful terminal user interface.
+- [darrenburns/elia](https://github.com/darrenburns/elia) - Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more from a powerful terminal user interface.
 - [Torantulino/AI-Functions](https://github.com/Torantulino/AI-Functions) - AI-Powered Function Magic: Never code again with GPT models!
 - [Nikorasu/LiveWhisper](https://github.com/Nikorasu/LiveWhisper) - A nearly-live implementation of OpenAI's Whisper, using sounddevice. Requires existing Whisper install.
 - [iZucked/Matrix-Rain-An-Image](https://github.com/iZucked/Matrix-Rain-An-Image) - Python pygame project that turns your images to matrix rain
@@ -1826,7 +1826,7 @@
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [st3w/neo](https://github.com/st3w/neo) - Simulates the digital rain from "The Matrix" (CMatrix clone with 32-bit color and Unicode support)
 - [Nikorasu/MatrixCode](https://github.com/Nikorasu/MatrixCode) - Matrix-style code-rain terminal animations!
-- [darrenburns/elia](https://github.com/darrenburns/elia) - Interact with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more from a powerful terminal user interface.
+- [darrenburns/elia](https://github.com/darrenburns/elia) - Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more from a powerful terminal user interface.
 - [enoki-inc/aither](https://github.com/enoki-inc/aither) - Collaborate with friends in real-time on an AI-enabled desktop in the browser
 - [ekkinox/yai](https://github.com/ekkinox/yai) - Your AI powered terminal assistant.
 - [Nikorasu/LiveWhisper](https://github.com/Nikorasu/LiveWhisper) - A nearly-live implementation of OpenAI's Whisper, using sounddevice. Requires existing Whisper install.
