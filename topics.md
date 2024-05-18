@@ -183,7 +183,7 @@
 - [swift502/Sketchbook](https://github.com/swift502/Sketchbook) - 3D playground built on three.js and cannon.js.
 - [jagenjo/webglstudio.js](https://github.com/jagenjo/webglstudio.js) - A full open source 3D graphics editor in the browser, with scene editor, coding pad, graph editor, virtual file system, and many features more.
 - [juniorxsound/THREE.Multiplayer](https://github.com/juniorxsound/THREE.Multiplayer) - 🤼‍♂️ A boilerplate server and client setup for Three.js multiplayer using Socket.io
-- [pygfx/pygfx](https://github.com/pygfx/pygfx) - Powerful and reliable visualization for Python.
+- [pygfx/pygfx](https://github.com/pygfx/pygfx) - Powerful and versatile visualization for Python.
 
 ## ai 
 
@@ -1636,7 +1636,7 @@
 - [clnnn/chat-summarizer](https://github.com/clnnn/chat-summarizer) - 💬 Real-time chat application prototype that can summarise the entire chat log
 - [pyedifice/pyedifice](https://github.com/pyedifice/pyedifice) - Declarative GUI framework for Python and Qt
 - [gaogaotiantian/objprint](https://github.com/gaogaotiantian/objprint) - A library that can print Python objects in human readable format
-- [pygfx/pygfx](https://github.com/pygfx/pygfx) - Powerful and reliable visualization for Python.
+- [pygfx/pygfx](https://github.com/pygfx/pygfx) - Powerful and versatile visualization for Python.
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [comtravo/ctparse](https://github.com/comtravo/ctparse) - Parse natural language time expressions in python
