@@ -404,7 +404,7 @@
 - [jbr-ai-labs/mamba](https://github.com/jbr-ai-labs/mamba) - This code accompanies the paper "Scalable Multi-Agent Model-Based Reinforcement Learning".
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
 - [es7s/holms](https://github.com/es7s/holms) - CLI UTF-8 to Unicode code points decomposer
-- [embedchain/embedchain](https://github.com/embedchain/embedchain) - Personalizing LLM Responses
+- [embedchain/embedchain](https://github.com/embedchain/embedchain) - Memory for AI agents
 - [shailshouryya/save-thread-result](https://github.com/shailshouryya/save-thread-result) - Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python. Exact same interface as `threading.Thread`! 🌟 Star this repo if you found it useful! 🌟
 - [nils-werner/zget](https://github.com/nils-werner/zget) - Filename based peer to peer file transfer
 - [pachterlab/gget](https://github.com/pachterlab/gget) - 🧬 gget enables efficient querying of genomic reference databases
@@ -566,6 +566,8 @@
 - [nicholasjconn/python-alexa-voice-service](https://github.com/nicholasjconn/python-alexa-voice-service) - A Python implementation of Amazon's Alexa Voice Service.
 - [open-wa/wa-automate-socket-client-python](https://github.com/open-wa/wa-automate-socket-client-python) - 🔌 🛠 The wa-automate socket client allows you to easily connect to remote EASY API instances. Be sure to 🌟 this repository for updates!
 - [RedFantom/python-rgbkeyboards](https://github.com/RedFantom/python-rgbkeyboards) - Wrappers for various RGB keyboard SDKs in Python
+- [sagieppel/Fully-convolutional-neural-network-FCN-for-semantic-segmentation-with-pytorch](https://github.com/sagieppel/Fully-convolutional-neural-network-FCN-for-semantic-segmentation-with-pytorch) - Fully convolutional neural network (FCN) for pixelwise annotation (semantic segmentation) of images implemented on python pytorch.
+- [sagieppel/Detecting-and-segmenting-and-classifying-materials-inside-vessels-in-images-using-convolutional-net](https://github.com/sagieppel/Detecting-and-segmenting-and-classifying-materials-inside-vessels-in-images-using-convolutional-net) - Detecting and segmenting and classifying materials inside mostly transparent vessels in images using a fully convolutional neural net for chemistry lab and other general setting
 - [TeamVanced/Vanced](https://github.com/TeamVanced/Vanced) - Vanced Issues/Docs repo
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
