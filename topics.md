@@ -1256,7 +1256,7 @@
 - [mshumer/gpt-investor](https://github.com/mshumer/gpt-investor) - 
 - [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All
 - [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar) - 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT
-- [johndpope/Emote-hack](https://github.com/johndpope/Emote-hack) - using chatgpt (now Claude 3) to reverse engineer code from Emote white paper. (abandoned)
+- [johndpope/Emote-hack](https://github.com/johndpope/Emote-hack) - Emote Portrait Alive - using ai to reverse engineer code from white paper. (abandoned)
 - [kadirnar/whisper-plus](https://github.com/kadirnar/whisper-plus) - WhisperPlus: Faster, Smarter, and More Capable 🚀
 - [ochen1/insanely-fast-whisper-cli](https://github.com/ochen1/insanely-fast-whisper-cli) - The fastest Whisper optimization for automatic speech recognition as a command-line interface ⚡️
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
