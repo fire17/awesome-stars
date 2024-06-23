@@ -231,6 +231,7 @@
 
 ## Jupyter Notebook 
 
+- [dscripka/openWakeWord](https://github.com/dscripka/openWakeWord) - An open-source audio wake word (or phrase) detection framework with a focus on performance and simplicity.
 - [ruddhaani/Brahma-Naad](https://github.com/ruddhaani/Brahma-Naad) - An ML model that converts Sign Language(ASL) to Audio
 - [Coding-Crashkurse/Voice-Order-Assistant](https://github.com/Coding-Crashkurse/Voice-Order-Assistant) - 
 - [mshumer/gpt-investor](https://github.com/mshumer/gpt-investor) - 
@@ -313,6 +314,7 @@
 
 ## Python 
 
+- [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) - A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.
 - [zmqless/python-zeroless](https://github.com/zmqless/python-zeroless) - ZeroMQ for Pythonistas™
 - [NilsHellwig/TheImageFetcher](https://github.com/NilsHellwig/TheImageFetcher) - Download images from Google Images - TheImageFetcher is a high-performance tool that allows you to quickly extract large amounts of images from Google Images. Depending on the internet connection, it 
 - [argmaxinc/DiffusionKit](https://github.com/argmaxinc/DiffusionKit) - On-device Inference of Diffusion Models for Apple Silicon
