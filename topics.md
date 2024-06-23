@@ -1148,6 +1148,7 @@
 - [icidasset/diffuse](https://github.com/icidasset/diffuse) - A music player that connects to your cloud/distributed storage.
 - [bytedance/SALMONN](https://github.com/bytedance/SALMONN) - SALMONN: Speech Audio Language Music Open Neural Network
 - [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
+- [schismtracker/schismtracker](https://github.com/schismtracker/schismtracker) - An oldschool sample-based music composition tool.
 - [DhimanGhosh/Audio-Made-Easy](https://github.com/DhimanGhosh/Audio-Made-Easy) - Let's learn music with your voice...
 - [gefenk9/lyrics-to-chords-generator](https://github.com/gefenk9/lyrics-to-chords-generator) - Generate chords to a given lyrics using LSTM
 - [vidify/vidify](https://github.com/vidify/vidify) - Detect the songs playing on your device and play their music videos anywhere
@@ -1272,6 +1273,7 @@
 
 ## others 
 
+- [dscripka/openWakeWord](https://github.com/dscripka/openWakeWord) - An open-source audio wake word (or phrase) detection framework with a focus on performance and simplicity.
 - [NilsHellwig/TheImageFetcher](https://github.com/NilsHellwig/TheImageFetcher) - Download images from Google Images - TheImageFetcher is a high-performance tool that allows you to quickly extract large amounts of images from Google Images. Depending on the internet connection, it 
 - [KM8Oz/Google-Images-Api-replacment](https://github.com/KM8Oz/Google-Images-Api-replacment) - get all you need from google image by just a simple javascript class that returne array of direct url's for your reseached query
 - [argmaxinc/DiffusionKit](https://github.com/argmaxinc/DiffusionKit) - On-device Inference of Diffusion Models for Apple Silicon
@@ -1490,7 +1492,6 @@
 - [hackingthemarkets/openai-whisper-live-transcription](https://github.com/hackingthemarkets/openai-whisper-live-transcription) - near real-time transcription of audio from microphone
 - [openai/spinningup](https://github.com/openai/spinningup) - An educational resource to help anyone learn deep reinforcement learning.
 - [shabie/docformer](https://github.com/shabie/docformer) - Implementation of DocFormer: End-to-End Transformer for Document Understanding, a multi-modal transformer based architecture for the task of Visual Document Understanding (VDU)
-- [schismtracker/schismtracker](https://github.com/schismtracker/schismtracker) - An oldschool sample-based music composition tool.
 - [zpix1/yt-anti-translate](https://github.com/zpix1/yt-anti-translate) - Chrome extension to disable youtube video titles autotranslation
 - [mohalobaidi/EnhancedChatGPT](https://github.com/mohalobaidi/EnhancedChatGPT) - 
 - [DenverCoder1/awesome-stars](https://github.com/DenverCoder1/awesome-stars) - My Awesome List. List of repositories starred by Jonah Lawrence.
@@ -1623,6 +1624,7 @@
 
 ## python 
 
+- [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) - A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.
 - [zmqless/python-zeroless](https://github.com/zmqless/python-zeroless) - ZeroMQ for Pythonistas™
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [truefoundry/cognita](https://github.com/truefoundry/cognita) - RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry
