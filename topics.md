@@ -89,6 +89,7 @@
 - [java](#java)
 - [javascript](#javascript)
 - [jekyll](#jekyll)
+- [jquery](#jquery)
 - [js](#js)
 - [json](#json)
 - [kotlin](#kotlin)
@@ -124,6 +125,7 @@
 - [objective-c](#objective-c)
 - [open-source](#open-source)
 - [opencv](#opencv)
+- [operating-system](#operating-system)
 - [osint](#osint)
 - [others](#others)
 - [p2p](#p2p)
@@ -321,6 +323,7 @@
 
 ## artificial-intelligence 
 
+- [noduslabs/eightos](https://github.com/noduslabs/eightos) - Bodymind Operating System
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [jgravelle/AutoGroq](https://github.com/jgravelle/AutoGroq) - AutoGroq is a groundbreaking tool that revolutionizes the way users interact with Autogen™ and other AI assistants. By dynamically generating tailored teams of AI agents based on your project requirem
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
@@ -826,6 +829,7 @@
 
 ## hacktoberfest 
 
+- [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
@@ -882,6 +886,7 @@
 
 ## html 
 
+- [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
 - [soulehshaikh99/create-svelte-electron-app](https://github.com/soulehshaikh99/create-svelte-electron-app) - Discover the easiest way to get started with the blend of Svelte and Electron JS App
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
@@ -958,6 +963,10 @@
 ## jekyll 
 
 - [sdasrc/editorial-website-extended](https://github.com/sdasrc/editorial-website-extended) - Modified Editorial website template. Based on Editorial theme in html5up.net, adapted for Jekyll by Andrew Bancich.
+
+## jquery 
+
+- [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
 
 ## js 
 
@@ -1154,6 +1163,7 @@
 
 ## music 
 
+- [noduslabs/eightos](https://github.com/noduslabs/eightos) - Bodymind Operating System
 - [riffusion/riffusion-app](https://github.com/riffusion/riffusion-app) - Stable diffusion for real-time music generation (web app)
 - [bitfieldaudio/OTTO](https://github.com/bitfieldaudio/OTTO) - Sampler, Sequencer, Multi-engine synth and effects - in a box! [WIP]
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
@@ -1283,6 +1293,10 @@
 - [rohintangirala/eulerian-remote-heartrate-detection](https://github.com/rohintangirala/eulerian-remote-heartrate-detection) - Remote heart rate detection through Eulerian magnification of face videos
 - [iZucked/Matrix-Rain-An-Image](https://github.com/iZucked/Matrix-Rain-An-Image) - Python pygame project that turns your images to matrix rain
 
+## operating-system 
+
+- [noduslabs/eightos](https://github.com/noduslabs/eightos) - Bodymind Operating System
+
 ## osint 
 
 - [m8sec/subscraper](https://github.com/m8sec/subscraper) - Subdomain and target enumeration tool built for offensive security testing
@@ -1290,6 +1304,8 @@
 
 ## others 
 
+- [noduslabs/graphdbmodel](https://github.com/noduslabs/graphdbmodel) - A basic data model for graph databases for a variety of uses.
+- [noduslabs/generate-fractal-signal](https://github.com/noduslabs/generate-fractal-signal) - Generates fractal signal and time series
 - [fudan-generative-vision/hallo](https://github.com/fudan-generative-vision/hallo) - Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation
 - [chenxin415/flowstar](https://github.com/chenxin415/flowstar) - The latest source code of the tool Flow*
 - [anonymous19283746/TTS](https://github.com/anonymous19283746/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
