@@ -367,7 +367,7 @@
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
 - [ToonCrafter/ToonCrafter](https://github.com/ToonCrafter/ToonCrafter) - a research paper for generative cartoon interpolation
 - [weaviate/Verba](https://github.com/weaviate/Verba) - Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
-- [VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
+- [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Assistants with memory, knowledge and tools.
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 - [jgravelle/AutoGroq](https://github.com/jgravelle/AutoGroq) - AutoGroq is a groundbreaking tool that revolutionizes the way users interact with Autogen™ and other AI assistants. By dynamically generating tailored teams of AI agents based on your project requirem
@@ -626,7 +626,7 @@
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [S-aiueo32/srntt-pytorch](https://github.com/S-aiueo32/srntt-pytorch) - A PyTorch implementation of SRNTT, which is a novel RefSR method.
 - [revoxhere/duino-coin](https://github.com/revoxhere/duino-coin) - ᕲ Duino-Coin is a coin that can be mined with almost everything, including Arduino boards.
-- [tobran/DF-GAN](https://github.com/tobran/DF-GAN) - A Simple and Effective Baseline for Text-to-Image Synthesis (CVPR2022 oral)
+- [tobran/DF-GAN](https://github.com/tobran/DF-GAN) - [CVPR2022 oral] A Simple and Effective Baseline for Text-to-Image Synthesis
 - [pygfx/wgpu-py](https://github.com/pygfx/wgpu-py) - The next generation GPU API for Python
 - [nidhaloff/deep-translator](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited python tool to translate between different languages in a simple way using multiple translators.
 - [s3prl/s3prl](https://github.com/s3prl/s3prl) - Self-Supervised Speech Pre-training and Representation Learning Toolkit
@@ -690,7 +690,7 @@
 - [shadowfax92/Fyin](https://github.com/shadowfax92/Fyin) - Open source alternative to Perplexity AI with ability to run locally
 - [twitchax/lucidity](https://github.com/twitchax/lucidity) - A distributed execution framework built upon lunatic.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
-- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one AI CLI tool that integrates 20+ AI platforms, including OpenAI, Azure-OpenAI, Gemini, Claude, Mistral, Cohere, VertexAI, Bedrock, Ollama, Ernie, Qianwen, Deepseek...
+- [sigoden/aichat](https://github.com/sigoden/aichat) - AIChat is an all-in-one AI CLI tool featuring Chat-REPL, Shell Assistant, RAG, Tool Use, AI Agent, and More.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [mdolr/mind-overflow](https://github.com/mdolr/mind-overflow) - Open-source Rewind.ai clone written in Rust and Vue running 100% locally with whisper.cpp
