@@ -430,7 +430,7 @@
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.
-- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one AI CLI tool that integrates 20+ AI platforms, including OpenAI, Azure-OpenAI, Gemini, Claude, Mistral, Cohere, VertexAI, Bedrock, Ollama, Ernie, Qianwen, Deepseek...
+- [sigoden/aichat](https://github.com/sigoden/aichat) - AIChat is an all-in-one AI CLI tool featuring Chat-REPL, Shell Assistant, RAG, Tool Use, AI Agent, and More.
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [embedchain/embedchain](https://github.com/embedchain/embedchain) - Memory for AI agents
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, Ch
@@ -1020,7 +1020,7 @@
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our clou
 - [philfung/perplexed](https://github.com/philfung/perplexed) - Open-source RAG application inspired by Perplexity.
 - [shadowfax92/Fyin](https://github.com/shadowfax92/Fyin) - Open source alternative to Perplexity AI with ability to run locally
-- [VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
+- [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Assistants with memory, knowledge and tools.
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 - [jgravelle/AutoGroq](https://github.com/jgravelle/AutoGroq) - AutoGroq is a groundbreaking tool that revolutionizes the way users interact with Autogen™ and other AI assistants. By dynamically generating tailored teams of AI agents based on your project requirem
@@ -1089,7 +1089,7 @@
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [truefoundry/cognita](https://github.com/truefoundry/cognita) - RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
-- [VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
+- [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [raptor-ml/raptor](https://github.com/raptor-ml/raptor) - Transform your pythonic research to an artifact that engineers can deploy easily.
 - [mlcommons/inference](https://github.com/mlcommons/inference) - Reference implementations of MLPerf™ inference benchmarks
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
@@ -1556,7 +1556,7 @@
 - [sagieppel/Detecting-and-segmenting-and-classifying-materials-inside-vessels-in-images-using-convolutional-net](https://github.com/sagieppel/Detecting-and-segmenting-and-classifying-materials-inside-vessels-in-images-using-convolutional-net) - Detecting and segmenting and classifying materials inside mostly transparent vessels in images using a fully convolutional neural net for chemistry lab and other general setting
 - [TeamVanced/Vanced](https://github.com/TeamVanced/Vanced) - Vanced Issues/Docs repo
 - [anza-xyz/solana-pay](https://github.com/anza-xyz/solana-pay) - A new standard for decentralized payments.
-- [tobran/DF-GAN](https://github.com/tobran/DF-GAN) - A Simple and Effective Baseline for Text-to-Image Synthesis (CVPR2022 oral)
+- [tobran/DF-GAN](https://github.com/tobran/DF-GAN) - [CVPR2022 oral] A Simple and Effective Baseline for Text-to-Image Synthesis
 - [pAulseperformance/awesome-pinescript](https://github.com/pAulseperformance/awesome-pinescript) - A Comprehensive Collection of Everything Related to Tradingview Pine Script.
 - [mame/doublehelix](https://github.com/mame/doublehelix) - doublehelix obfuscates Ruby codes in Double-helix style
 - [mame/quine-relay](https://github.com/mame/quine-relay) - An uroboros program with 100+ programming languages
