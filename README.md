@@ -28,6 +28,7 @@
 - [PHP](#php)
 - [Perl](#perl)
 - [PowerShell](#powershell)
+- [Processing](#processing)
 - [Python](#python)
 - [Rich Text Format](#rich-text-format)
 - [Ruby](#ruby)
@@ -68,6 +69,7 @@
 
 ## C++ 
 
+- [kitschpatrol/Brain](https://github.com/kitschpatrol/Brain) - Arduino library for reading Neurosky EEG brainwave data. (Tested with the MindFlex and Force Trainer toys.)
 - [chenxin415/flowstar](https://github.com/chenxin415/flowstar) - The latest source code of the tool Flow*
 - [trishume/PolyMouse](https://github.com/trishume/PolyMouse) - Fusion of gaze and head tracking for fast & accurate hands-free pointing
 - [ChrisBLong/POV](https://github.com/ChrisBLong/POV) - Draws old-school 8-bit style pixel graphics. For a YouTube video.
@@ -336,6 +338,10 @@
 ## PowerShell 
 
 - [BloodHoundAD/BloodHound](https://github.com/BloodHoundAD/BloodHound) - Six Degrees of Domain Admin
+
+## Processing 
+
+- [kitschpatrol/BrainGrapher](https://github.com/kitschpatrol/BrainGrapher) - Processing-based visualizer for NeuroSky EEG brainwave data  output from the Arduino Brain library.
 
 ## Python 
 
