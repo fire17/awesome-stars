@@ -1317,6 +1317,8 @@
 
 ## others 
 
+- [kitschpatrol/BrainGrapher](https://github.com/kitschpatrol/BrainGrapher) - Processing-based visualizer for NeuroSky EEG brainwave data  output from the Arduino Brain library.
+- [kitschpatrol/Brain](https://github.com/kitschpatrol/Brain) - Arduino library for reading Neurosky EEG brainwave data. (Tested with the MindFlex and Force Trainer toys.)
 - [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life!
 - [noduslabs/graphdbmodel](https://github.com/noduslabs/graphdbmodel) - A basic data model for graph databases for a variety of uses.
 - [noduslabs/generate-fractal-signal](https://github.com/noduslabs/generate-fractal-signal) - Generates fractal signal and time series
