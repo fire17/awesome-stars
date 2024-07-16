@@ -469,7 +469,7 @@
 - [jbr-ai-labs/mamba](https://github.com/jbr-ai-labs/mamba) - This code accompanies the paper "Scalable Multi-Agent Model-Based Reinforcement Learning".
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
 - [es7s/holms](https://github.com/es7s/holms) - CLI UTF-8 to Unicode code points decomposer
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Long-term memory for LLMs
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The memory layer for Personalized AI
 - [shailshouryya/save-thread-result](https://github.com/shailshouryya/save-thread-result) - Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python. Exact same interface as `threading.Thread`! 🌟 Star this repo if you found it useful! 🌟
 - [nils-werner/zget](https://github.com/nils-werner/zget) - Filename based peer to peer file transfer
 - [pachterlab/gget](https://github.com/pachterlab/gget) - 🧬 gget enables efficient querying of genomic reference databases
