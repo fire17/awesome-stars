@@ -23,7 +23,6 @@
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Max](#max)
-- [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
@@ -285,10 +284,6 @@
 ## Max 
 
 - [stretta/TextureExplorer](https://github.com/stretta/TextureExplorer) - A utility for generating audio textures, environments and aleatoric expressions.
-
-## Objective-C 
-
-- [XITRIX/iTorrent](https://github.com/XITRIX/iTorrent) - Torrent client for iOS 15+
 
 ## Others 
 
@@ -759,6 +754,7 @@
 
 ## Swift 
 
+- [XITRIX/iTorrent](https://github.com/XITRIX/iTorrent) - Torrent client for iOS 15+
 - [foxt/watcHTTP](https://github.com/foxt/watcHTTP) - watcHTTP is a watchOS app to send HTTP requests from your wrist.
 - [zssz/BerkananSDK](https://github.com/zssz/BerkananSDK) - Bluetooth mesh messaging SDK for apps
 - [mark-randall/AppleTVQuizGame](https://github.com/mark-randall/AppleTVQuizGame) - TVOS / iOS Bluetooth LE Fun
