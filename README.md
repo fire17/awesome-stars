@@ -754,7 +754,7 @@
 
 ## Swift 
 
-- [XITRIX/iTorrent](https://github.com/XITRIX/iTorrent) - Torrent client for iOS 15+
+- [XITRIX/iTorrent](https://github.com/XITRIX/iTorrent) - Torrent client for iOS 16+
 - [foxt/watcHTTP](https://github.com/foxt/watcHTTP) - watcHTTP is a watchOS app to send HTTP requests from your wrist.
 - [zssz/BerkananSDK](https://github.com/zssz/BerkananSDK) - Bluetooth mesh messaging SDK for apps
 - [mark-randall/AppleTVQuizGame](https://github.com/mark-randall/AppleTVQuizGame) - TVOS / iOS Bluetooth LE Fun
