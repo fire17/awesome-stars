@@ -168,6 +168,7 @@
 
 ## JavaScript 
 
+- [pickles976/GalaxyThreeJS](https://github.com/pickles976/GalaxyThreeJS) - 
 - [noduslabs/generate-fractal-signal](https://github.com/noduslabs/generate-fractal-signal) - Generates fractal signal and time series
 - [KM8Oz/Google-Images-Api-replacment](https://github.com/KM8Oz/Google-Images-Api-replacment) - get all you need from google image by just a simple javascript class that returne array of direct url's for your reseached query
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
@@ -341,6 +342,7 @@
 
 ## Python 
 
+- [HackerPoet/PySpace](https://github.com/HackerPoet/PySpace) - GLSL Fractal Ray Marcher in Python
 - [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life!
 - [snakers4/silero-vad](https://github.com/snakers4/silero-vad) - Silero VAD: pre-trained enterprise-grade Voice Activity Detector
 - [netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice) - EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine
@@ -762,6 +764,7 @@
 
 ## TypeScript 
 
+- [GhostCatcg/3d-earth](https://github.com/GhostCatcg/3d-earth) - Create a 3D Earth using Three.js and TypeScript.
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
 - [craftgen/craftgen](https://github.com/craftgen/craftgen) - Integrating AI into every workflow with our open-source, no-code platform, powered by the actor model for dynamic, graph-based solutions.
 - [heurist-network/gpt-search-web](https://github.com/heurist-network/gpt-search-web) - AI-powered search engine. Open-source alternative to Perplexity.
