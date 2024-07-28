@@ -46,7 +46,7 @@
 
 ## C 
 
-- [fbiego/esp32-c3-mini](https://github.com/fbiego/esp32-c3-mini) - A demo LVGL Watch project for ESP32 C3 mini 240*240 touch display development board. Can also be built natively to test the LVGL UI.
+- [fbiego/esp32-c3-mini](https://github.com/fbiego/esp32-c3-mini) - LVGL UI for ESP32 C3 mini 240*240  board.
 - [brilliantlabsAR/frame-codebase](https://github.com/brilliantlabsAR/frame-codebase) - The complete codebase for Frame
 - [ggerganov/seamless_communication](https://github.com/ggerganov/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
 - [Flipper-XFW/Xtreme-Firmware](https://github.com/Flipper-XFW/Xtreme-Firmware) - The Dom amongst the Flipper Zero Firmware. Give your Flipper the power and freedom it is really craving. Let it show you its true form. Dont delay, switch to the one and only true Master today!
@@ -213,7 +213,7 @@
 - [code-dexterous/grapesjs-example-html](https://github.com/code-dexterous/grapesjs-example-html) - 
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow is a visual framework for building multi-agent and RAG applications. It's open-source, Python-powered, fully customizable, model and vector store agnostic.
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate awesome commits with AI in 1 second 🤯🔫
 - [JudiniLabs/code-gpt-docs](https://github.com/JudiniLabs/code-gpt-docs) - Docusaurus page
 - [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
 - [xemle/home-gallery](https://github.com/xemle/home-gallery) - Self-hosted open-source web gallery to view your photos and videos featuring mobile-friendly, tagging and AI powered image discovery
