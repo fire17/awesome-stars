@@ -1321,6 +1321,14 @@
 
 ## others 
 
+- [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
+- [adamwbull/llama-fs](https://github.com/adamwbull/llama-fs) - A self-organizing file system with llama 3
+- [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - JAILBREAK PROMPTS FOR ALL MAJOR AI MODELS
+- [elder-plinius/Grok-System-Prompt-Leak](https://github.com/elder-plinius/Grok-System-Prompt-Leak) - Grok by X (Twitter) System Prompt Leak
+- [elder-plinius/Bing-Prompt-Leak](https://github.com/elder-plinius/Bing-Prompt-Leak) - Prompt leak technique for Bing Chat
+- [elder-plinius/AutoTemp](https://github.com/elder-plinius/AutoTemp) - A trial-and-error approach to temperature opimization for LLMs. Runs the same prompt at many temperatures and selects the best output automatically.
+- [elder-plinius/Leda](https://github.com/elder-plinius/Leda) - 
+- [BASI-LABS/parseltongue](https://github.com/BASI-LABS/parseltongue) - Parseltongue is a powerful prompt hacking tool/browser extension for real-time tokenization visualization and seamless text conversion, supporting formats like binary, base64, leetspeak, special chara
 - [pickles976/GalaxyThreeJS](https://github.com/pickles976/GalaxyThreeJS) - 
 - [HackerPoet/PySpace](https://github.com/HackerPoet/PySpace) - GLSL Fractal Ray Marcher in Python
 - [kitschpatrol/BrainGrapher](https://github.com/kitschpatrol/BrainGrapher) - Processing-based visualizer for NeuroSky EEG brainwave data  output from the Arduino Brain library.
