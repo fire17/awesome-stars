@@ -346,6 +346,7 @@
 
 ## Python 
 
+- [frdel/agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
 - [elder-plinius/AutoTemp](https://github.com/elder-plinius/AutoTemp) - A trial-and-error approach to temperature opimization for LLMs. Runs the same prompt at many temperatures and selects the best output automatically.
 - [elder-plinius/Leda](https://github.com/elder-plinius/Leda) - 
 - [HackerPoet/PySpace](https://github.com/HackerPoet/PySpace) - GLSL Fractal Ray Marcher in Python
