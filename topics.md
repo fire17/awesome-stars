@@ -1321,6 +1321,7 @@
 
 ## others 
 
+- [frdel/agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 - [adamwbull/llama-fs](https://github.com/adamwbull/llama-fs) - A self-organizing file system with llama 3
 - [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - JAILBREAK PROMPTS FOR ALL MAJOR AI MODELS
