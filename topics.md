@@ -250,7 +250,7 @@
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [paulpierre/RasaGPT](https://github.com/paulpierre/RasaGPT) - 💬 RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. Built w/ Rasa, FastAPI, Langchain, LlamaIndex, SQLModel, pgvector, ngrok, telegram
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024)
-- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
+- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - OG CLI codegen project. Specify what you want it to build, the AI asks for clarification, and then builds it. Not actively maintained.
 - [superagent-ai/superagent](https://github.com/superagent-ai/superagent) - 🥷 Run AI-agents with an API
 - [enoki-inc/aither](https://github.com/enoki-inc/aither) - Collaborate with friends in real-time on an AI-enabled desktop in the browser
 - [Nikorasu/LiveWhisper](https://github.com/Nikorasu/LiveWhisper) - A nearly-live implementation of OpenAI's Whisper, using sounddevice. Requires existing Whisper install.
@@ -1778,7 +1778,7 @@
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
+- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - OG CLI codegen project. Specify what you want it to build, the AI asks for clarification, and then builds it. Not actively maintained.
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 - [superagent-ai/superagent](https://github.com/superagent-ai/superagent) - 🥷 Run AI-agents with an API
 - [Torantulino/AI-Functions](https://github.com/Torantulino/AI-Functions) - AI-Powered Function Magic: Never code again with GPT models!
@@ -1851,7 +1851,7 @@
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [docarray/docarray](https://github.com/docarray/docarray) - Represent, send, store and search multimodal data
-- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
+- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [enhuiz/vall-e](https://github.com/enhuiz/vall-e) - An unofficial PyTorch implementation of the audio LM VALL-E
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -2029,7 +2029,7 @@
 - [riffusion/riffusion-app-hobby](https://github.com/riffusion/riffusion-app-hobby) - Stable diffusion for real-time music generation (web app)
 - [apocas/restai](https://github.com/apocas/restai) - RestAI is an AIaaS (AI as a Service) open-source platform. Built on top of LlamaIndex, Ollama and HF Pipelines. Supports any public LLM supported by LlamaIndex and any local LLM suported by Ollama. Pr
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
-- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
+- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio) - Community interface for generative AI
 - [qunash/stable-diffusion-2-gui](https://github.com/qunash/stable-diffusion-2-gui) - Lightweight Stable Diffusion v 2.1 web UI: txt2img, img2img, depth2img, inpaint and upscale4x.
 - [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion + DreamBooth
