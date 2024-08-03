@@ -532,7 +532,7 @@
 - [rcbyron/hey-athena-client](https://github.com/rcbyron/hey-athena-client) - Your personal voice assistant
 - [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
-- [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://h2oai.github.io/h2o-llmstudio/
+- [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
 - [microsoft/DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples) - Example models using DeepSpeed
 - [togethercomputer/OpenChatKit](https://github.com/togethercomputer/OpenChatKit) - 
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
@@ -563,7 +563,7 @@
 - [miguelgrinberg/flask-oauth-example](https://github.com/miguelgrinberg/flask-oauth-example) - Example code from my "OAuth Authentication with Flask" article.
 - [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 12+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.
-- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - OG CLI codegen project. Specify what you want it to build, the AI asks for clarification, and then builds it. Not actively maintained.
+- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. Not actively maintained.
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -706,7 +706,7 @@
 - [shadowfax92/Fyin](https://github.com/shadowfax92/Fyin) - Open source alternative to Perplexity AI with ability to run locally
 - [twitchax/lucidity](https://github.com/twitchax/lucidity) - A distributed execution framework built upon lunatic.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
-- [sigoden/aichat](https://github.com/sigoden/aichat) - AIChat is an all-in-one AI CLI tool featuring Chat-REPL, Shell Assistant, RAG, Function Calling, AI Agents, and More.
+- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one AI CLI tool featuring Chat-REPL, Shell Assistant, RAG, AI tools & agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [mdolr/mind-overflow](https://github.com/mdolr/mind-overflow) - Open-source Rewind.ai clone written in Rust and Vue running 100% locally with whisper.cpp
