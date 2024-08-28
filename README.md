@@ -347,6 +347,8 @@
 
 ## Python 
 
+- [jgravelle/Groqqle](https://github.com/jgravelle/Groqqle) - 
+- [tonyoconnell/Groqqle](https://github.com/tonyoconnell/Groqqle) - 
 - [frdel/agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
 - [elder-plinius/AutoTemp](https://github.com/elder-plinius/AutoTemp) - A trial-and-error approach to temperature opimization for LLMs. Runs the same prompt at many temperatures and selects the best output automatically.
 - [elder-plinius/Leda](https://github.com/elder-plinius/Leda) - 
@@ -368,7 +370,7 @@
 - [zmqless/python-zeroless](https://github.com/zmqless/python-zeroless) - ZeroMQ for Pythonistas™
 - [NilsHellwig/TheImageFetcher](https://github.com/NilsHellwig/TheImageFetcher) - Download images from Google Images - TheImageFetcher is a high-performance tool that allows you to quickly extract large amounts of images from Google Images. Depending on the internet connection, it 
 - [argmaxinc/DiffusionKit](https://github.com/argmaxinc/DiffusionKit) - On-device Inference of Diffusion Models for Apple Silicon
-- [dataelement/bisheng](https://github.com/dataelement/bisheng) - BISHENG is an open LLM devops platform for next generation Enterprise AI applications.
+- [dataelement/bisheng](https://github.com/dataelement/bisheng) - BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SF
 - [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-V 2.6: A GPT-4V Level MLLM for Single Image, Multi Image and Video on Your Phone
 - [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - Brand new TTS solution
 - [OpenGVLab/InternVL](https://github.com/OpenGVLab/InternVL) - [CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4o.  接近GPT-4o表现的开源多模态对话模型
