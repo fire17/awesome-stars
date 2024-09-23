@@ -177,7 +177,7 @@
 - [noduslabs/generate-fractal-signal](https://github.com/noduslabs/generate-fractal-signal) - Generates fractal signal and time series
 - [KM8Oz/Google-Images-Api-replacment](https://github.com/KM8Oz/Google-Images-Api-replacment) - get all you need from google image by just a simple javascript class that returne array of direct url's for your reseached query
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
-- [philfung/perplexed](https://github.com/philfung/perplexed) - Perplexity-inspired open-source RAG application.
+- [philfung/perplexed](https://github.com/philfung/perplexed) - Perplexity-inspired RAG application.
 - [soulehshaikh99/create-svelte-electron-app](https://github.com/soulehshaikh99/create-svelte-electron-app) - Discover the easiest way to get started with the blend of Svelte and Electron JS App
 - [aj47/clickolas-cage](https://github.com/aj47/clickolas-cage) - a chrome extension that performs web browsing actions autonomously to complete a given goal/task (using LLM as brain).
 - [jasonlong/isometric-contributions](https://github.com/jasonlong/isometric-contributions) - Browser extension for rendering an isometric pixel art version of your GitHub contribution graph.
