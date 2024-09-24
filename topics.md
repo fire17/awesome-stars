@@ -362,6 +362,7 @@
 
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) - Mobile-Agent: The Powerful Mobile Device Operation Assistant Family
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that does online comprehensive research on any given topic
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [JacksonElia/DCS_Terminal](https://github.com/JacksonElia/DCS_Terminal) - Hacker stuff no more data camps for you
 - [yinkaisheng/Python-UIAutomation-for-Windows](https://github.com/yinkaisheng/Python-UIAutomation-for-Windows) - 🐍Python 3 wrapper of Microsoft UIAutomation. Support UIAutomation for MFC, WindowsForm, WPF, Modern UI(Metro UI), Qt, IE, Firefox, Chrome ...
@@ -897,6 +898,8 @@
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that does online comprehensive research on any given topic
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
@@ -1464,7 +1467,7 @@
 - [yoheinakajima/instagraph](https://github.com/yoheinakajima/instagraph) - Converts text input or URL into knowledge graph and displays
 - [Doriandarko/maestro](https://github.com/Doriandarko/maestro) - A framework for Claude Opus to intelligently orchestrate subagents.
 - [aj47/clickolas-cage](https://github.com/aj47/clickolas-cage) - a chrome extension that performs web browsing actions autonomously to complete a given goal/task (using LLM as brain).
-- [EZ-hwh/AutoCrawler](https://github.com/EZ-hwh/AutoCrawler) - Official implement of paper "AutoCrawler: A Progressive Understanding Web Agent for Web Crawler Generation"
+- [EZ-hwh/AutoScraper](https://github.com/EZ-hwh/AutoScraper) - Official implement of paper "AutoCrawler: A Progressive Understanding Web Agent for Web Crawler Generation"
 - [magic-research/PLLaVA](https://github.com/magic-research/PLLaVA) - Official repository for the paper PLLaVA
 - [LucidAi/nlcd](https://github.com/LucidAi/nlcd) - News Life Cycle Detector
 - [twitchax/lucidity](https://github.com/twitchax/lucidity) - A distributed execution framework built upon lunatic.
