@@ -407,7 +407,7 @@
 - [Doriandarko/gptweather](https://github.com/Doriandarko/gptweather) - A simple ChatGPT Plugin to check on the weather deployed on Replit.
 - [yoheinakajima/instagraph](https://github.com/yoheinakajima/instagraph) - Converts text input or URL into knowledge graph and displays
 - [Doriandarko/maestro](https://github.com/Doriandarko/maestro) - A framework for Claude Opus to intelligently orchestrate subagents.
-- [EZ-hwh/AutoCrawler](https://github.com/EZ-hwh/AutoCrawler) - Official implement of paper "AutoCrawler: A Progressive Understanding Web Agent for Web Crawler Generation"
+- [EZ-hwh/AutoScraper](https://github.com/EZ-hwh/AutoScraper) - Official implement of paper "AutoCrawler: A Progressive Understanding Web Agent for Web Crawler Generation"
 - [YoongiKim/AutoCrawler](https://github.com/YoongiKim/AutoCrawler) - Google, Naver multiprocess image web crawler (Selenium)
 - [magic-research/PLLaVA](https://github.com/magic-research/PLLaVA) - Official repository for the paper PLLaVA
 - [LucidAi/nlcd](https://github.com/LucidAi/nlcd) - News Life Cycle Detector
