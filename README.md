@@ -298,7 +298,7 @@
 
 ## Others 
 
-- [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - JAILBREAK PROMPTS FOR ALL MAJOR AI MODELS
+- [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - JAILBREAK PROMPTS FOR LIBERATING AI MODELS
 - [elder-plinius/Grok-System-Prompt-Leak](https://github.com/elder-plinius/Grok-System-Prompt-Leak) - Grok by X (Twitter) System Prompt Leak
 - [elder-plinius/Bing-Prompt-Leak](https://github.com/elder-plinius/Bing-Prompt-Leak) - Prompt leak technique for Bing Chat
 - [noduslabs/eightos](https://github.com/noduslabs/eightos) - Bodymind Operating System
