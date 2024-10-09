@@ -74,6 +74,7 @@
 - [kitschpatrol/Brain](https://github.com/kitschpatrol/Brain) - Arduino library for reading Neurosky EEG brainwave data. (Tested with the MindFlex and Force Trainer toys.)
 - [chenxin415/flowstar](https://github.com/chenxin415/flowstar) - The latest source code of the tool Flow*
 - [trishume/PolyMouse](https://github.com/trishume/PolyMouse) - Fusion of gaze and head tracking for fast & accurate hands-free pointing
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [ChrisBLong/POV](https://github.com/ChrisBLong/POV) - Draws old-school 8-bit style pixel graphics. For a YouTube video.
 - [bitfieldaudio/OTTO](https://github.com/bitfieldaudio/OTTO) - Sampler, Sequencer, Multi-engine synth and effects - in a box! [WIP]
 - [janivanecky/Physarum](https://github.com/janivanecky/Physarum) - 
@@ -127,7 +128,6 @@
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
 - [raptor-ml/raptor](https://github.com/raptor-ml/raptor) - Transform your pythonic research to an artifact that engineers can deploy easily.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [Contextualist/acp](https://github.com/Contextualist/acp) - Make terminal personal file transfers as simple as `cp`
 - [marcel-dempers/docker-development-youtube-series](https://github.com/marcel-dempers/docker-development-youtube-series) - 
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
@@ -553,7 +553,7 @@
 - [togethercomputer/OpenChatKit](https://github.com/togethercomputer/OpenChatKit) - 
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [paulpierre/RasaGPT](https://github.com/paulpierre/RasaGPT) - 💬 RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. Built w/ Rasa, FastAPI, Langchain, LlamaIndex, SQLModel, pgvector, ngrok, telegram
-- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Efficiently Fine-Tune 100+ LLMs in WebUI (ACL 2024)
+- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs (ACL 2024)
 - [docarray/docarray](https://github.com/docarray/docarray) - Represent, send, store and search multimodal data
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models
 - [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python) - The official Python API for ElevenLabs Text to Speech.
