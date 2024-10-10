@@ -227,7 +227,7 @@
 - [prompt-security/ps-fuzz](https://github.com/prompt-security/ps-fuzz) - Make your GenAI Apps Safe & Secure :rocket: Test & harden your system prompt
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
-- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges.
+- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - [NeurIPS 2024] SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges
 - [brilliantlabsAR/frame-codebase](https://github.com/brilliantlabsAR/frame-codebase) - The complete codebase for Frame
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app.
@@ -620,7 +620,7 @@
 
 ## cybersecurity 
 
-- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges.
+- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - [NeurIPS 2024] SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges
 
 ## dart 
 
@@ -1098,7 +1098,7 @@
 - [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI.
 - [prompt-security/ps-fuzz](https://github.com/prompt-security/ps-fuzz) - Make your GenAI Apps Safe & Secure :rocket: Test & harden your system prompt
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
-- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges.
+- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - [NeurIPS 2024] SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges
 - [apocas/restai](https://github.com/apocas/restai) - RestAI is an AIaaS (AI as a Service) open-source platform. Built on top of LlamaIndex, Ollama and HF Pipelines. Supports any public LLM supported by LlamaIndex and any local LLM suported by Ollama. Pr
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
@@ -1526,7 +1526,7 @@
 - [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs.
-- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, reading order, line detection in 90+ languages
+- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
 - [stuffmatic/fSpy](https://github.com/stuffmatic/fSpy) - A cross platform app for quick and easy still image camera matching
 - [IntentDev/Luminosity](https://github.com/IntentDev/Luminosity) - Front-end for TouchDesigner aimed at providing operators with an efficient interface to perform, control, and distribute realtime media while retaining the open-ended programmability of TouchDesigner.
 - [janivanecky/Physarum](https://github.com/janivanecky/Physarum) - 
