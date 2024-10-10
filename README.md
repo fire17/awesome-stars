@@ -74,7 +74,6 @@
 - [kitschpatrol/Brain](https://github.com/kitschpatrol/Brain) - Arduino library for reading Neurosky EEG brainwave data. (Tested with the MindFlex and Force Trainer toys.)
 - [chenxin415/flowstar](https://github.com/chenxin415/flowstar) - The latest source code of the tool Flow*
 - [trishume/PolyMouse](https://github.com/trishume/PolyMouse) - Fusion of gaze and head tracking for fast & accurate hands-free pointing
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [ChrisBLong/POV](https://github.com/ChrisBLong/POV) - Draws old-school 8-bit style pixel graphics. For a YouTube video.
 - [bitfieldaudio/OTTO](https://github.com/bitfieldaudio/OTTO) - Sampler, Sequencer, Multi-engine synth and effects - in a box! [WIP]
 - [janivanecky/Physarum](https://github.com/janivanecky/Physarum) - 
@@ -128,6 +127,7 @@
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
 - [raptor-ml/raptor](https://github.com/raptor-ml/raptor) - Transform your pythonic research to an artifact that engineers can deploy easily.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [Contextualist/acp](https://github.com/Contextualist/acp) - Make terminal personal file transfers as simple as `cp`
 - [marcel-dempers/docker-development-youtube-series](https://github.com/marcel-dempers/docker-development-youtube-series) - 
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
@@ -419,7 +419,7 @@
 - [resemble-ai/resemble-enhance](https://github.com/resemble-ai/resemble-enhance) - AI powered speech denoising and enhancement
 - [lucidrains/x-transformers](https://github.com/lucidrains/x-transformers) - A concise but complete full-attention transformer with a set of promising experimental features from various papers
 - [Zejun-Yang/AniPortrait](https://github.com/Zejun-Yang/AniPortrait) - AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation
-- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges.
+- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - [NeurIPS 2024] SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges
 - [apocas/restai](https://github.com/apocas/restai) - RestAI is an AIaaS (AI as a Service) open-source platform. Built on top of LlamaIndex, Ollama and HF Pipelines. Supports any public LLM supported by LlamaIndex and any local LLM suported by Ollama. Pr
 - [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All
 - [builtree/handwrite](https://github.com/builtree/handwrite) - Handwrite generates a custom font based on your handwriting sample.
@@ -449,7 +449,7 @@
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs.
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [MarkFzp/act-plus-plus](https://github.com/MarkFzp/act-plus-plus) - Imitation learning algorithms with Co-training for Mobile ALOHA: ACT, Diffusion Policy, VINN
-- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, reading order, line detection in 90+ languages
+- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
 - [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) - Mobile-Agent: The Powerful Mobile Device Operation Assistant Family
 - [DBraun/TouchDesigner_Shared](https://github.com/DBraun/TouchDesigner_Shared) - TouchDesigner toxes and small projects
 - [IntentDev/Luminosity](https://github.com/IntentDev/Luminosity) - Front-end for TouchDesigner aimed at providing operators with an efficient interface to perform, control, and distribute realtime media while retaining the open-ended programmability of TouchDesigner.
