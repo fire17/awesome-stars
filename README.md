@@ -298,7 +298,7 @@
 
 ## Others 
 
-- [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - TOTALLY HARMLESS PROMPTS FOR GOOD LIL AI'S
+- [elder-plinius/L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S) - TOTALLY HARMLESS PROMPTS FOR GOOD LIL AI'S
 - [elder-plinius/Grok-System-Prompt-Leak](https://github.com/elder-plinius/Grok-System-Prompt-Leak) - Grok by X (Twitter) System Prompt Leak
 - [elder-plinius/Bing-Prompt-Leak](https://github.com/elder-plinius/Bing-Prompt-Leak) - Prompt leak technique for Bing Chat
 - [noduslabs/eightos](https://github.com/noduslabs/eightos) - Bodymind Operating System
@@ -723,7 +723,7 @@
 - [shadowfax92/Fyin](https://github.com/shadowfax92/Fyin) - Open source alternative to Perplexity AI with ability to run locally
 - [twitchax/lucidity](https://github.com/twitchax/lucidity) - A distributed execution framework built upon lunatic.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
-- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one AI CLI tool featuring Chat-REPL, Shell Assistant, RAG, AI tools & agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
+- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI tools & agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [mdolr/mind-overflow](https://github.com/mdolr/mind-overflow) - Open-source Rewind.ai clone written in Rust and Vue running 100% locally with whisper.cpp
