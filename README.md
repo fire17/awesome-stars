@@ -81,7 +81,6 @@
 - [johnBuffer/NoCol](https://github.com/johnBuffer/NoCol) - Trajectories finder
 - [Nuked88/llama.http](https://github.com/Nuked88/llama.http) - Port of Facebook's LLaMA model in C/C++ with HTTP GET/POST requests
 - [GregoryCannon/StackRabbit](https://github.com/GregoryCannon/StackRabbit) - An AI for playing NES Tetris at a high level. Based primarily on search & heuristic, with high quality board evaluation through value iteration.
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [NickEngmann/in-plants](https://github.com/NickEngmann/in-plants) - 🌱 Mesh Network enabled, lower power, IoT plants monitoring 🌱
 - [unum-cloud/usearch](https://github.com/unum-cloud/usearch) - Fast Open-Source Search & Clustering engine × for Vectors & 🔜 Strings × in C++, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram 🔍
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
@@ -97,6 +96,7 @@
 
 ## CSS 
 
+- [MichaelBarney/LinkFree](https://github.com/MichaelBarney/LinkFree) - A free and open source alternative to LinkTree
 - [zce/html5up](https://github.com/zce/html5up) - HTML5 UP! Responsive HTML5 and CSS3 Site Templates
 - [sdasrc/editorial-website-extended](https://github.com/sdasrc/editorial-website-extended) - Modified Editorial website template. Based on Editorial theme in html5up.net, adapted for Jekyll by Andrew Bancich.
 - [johnggli/linktree](https://github.com/johnggli/linktree) - Simple site to group all my profiles on social networks in one place. A free Linktree alternative.
@@ -131,6 +131,7 @@
 - [Contextualist/acp](https://github.com/Contextualist/acp) - Make terminal personal file transfers as simple as `cp`
 - [marcel-dempers/docker-development-youtube-series](https://github.com/marcel-dempers/docker-development-youtube-series) - 
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [anyproto/any-sync](https://github.com/anyproto/any-sync) - An open-source protocol designed to create high-performance, local-first, peer-to-peer, end-to-end encrypted applications that facilitate seamless collaboration among multiple users and devices
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
@@ -811,7 +812,7 @@
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
-- [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy thinkers.
+- [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [elliottminns/dotfiles](https://github.com/elliottminns/dotfiles) - 
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
