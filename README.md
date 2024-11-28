@@ -828,7 +828,7 @@
 - [jwagner/kalman-ts](https://github.com/jwagner/kalman-ts) - A simplistic library for implementing kalman filters using javascript/typescript.
 - [dxos/arena](https://github.com/dxos/arena) - Peer to peer game arena
 - [dxos/template-plugin](https://github.com/dxos/template-plugin) - Simple template for inspiration for building plugins in Composer.
-- [dxos/dxos](https://github.com/dxos/dxos) - TypeScript implementation of the DXOS protocols, SDK, and toolchain.
+- [dxos/dxos](https://github.com/dxos/dxos) - TypeScript implementation of the DXOS protocols, SDK, toolchain and Composer.
 - [rafgraph/spa-github-pages](https://github.com/rafgraph/spa-github-pages) - Host single page apps with GitHub Pages
 - [jorishermans/storagestack](https://github.com/jorishermans/storagestack) - A decentralized storage abstraction middleware framework
 - [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts) - Official Anytype client for MacOS, Linux, and Windows
