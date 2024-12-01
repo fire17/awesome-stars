@@ -46,6 +46,7 @@
 
 ## C 
 
+- [bitluni/LaserCRT](https://github.com/bitluni/LaserCRT) - 
 - [fbiego/esp32-c3-mini](https://github.com/fbiego/esp32-c3-mini) - LVGL UI for ESP32 C3 mini 240*240  board (ESP32-2424S012)
 - [brilliantlabsAR/frame-codebase](https://github.com/brilliantlabsAR/frame-codebase) - The complete codebase for Frame
 - [ggerganov/seamless_communication](https://github.com/ggerganov/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
@@ -180,7 +181,7 @@
 - [noduslabs/generate-fractal-signal](https://github.com/noduslabs/generate-fractal-signal) - Generates fractal signal and time series
 - [KM8Oz/Google-Images-Api-replacment](https://github.com/KM8Oz/Google-Images-Api-replacment) - get all you need from google image by just a simple javascript class that returne array of direct url's for your reseached query
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
-- [philfung/perplexed](https://github.com/philfung/perplexed) - Open-source RAG app inspired by Perplexity.
+- [philfung/perplexed](https://github.com/philfung/perplexed) - Open-source Perplexity-like RAG app.
 - [soulehshaikh99/create-svelte-electron-app](https://github.com/soulehshaikh99/create-svelte-electron-app) - Discover the easiest way to get started with the blend of Svelte and Electron JS App
 - [aj47/clickolas-cage](https://github.com/aj47/clickolas-cage) - a chrome extension that performs web browsing actions autonomously to complete a given goal/task (using LLM as brain).
 - [jasonlong/isometric-contributions](https://github.com/jasonlong/isometric-contributions) - Browser extension for rendering an isometric pixel art version of your GitHub contribution graph.
@@ -302,6 +303,7 @@
 
 ## Others 
 
+- [laserpilot/Guide_To_Projectors_For_Interactive_Installations](https://github.com/laserpilot/Guide_To_Projectors_For_Interactive_Installations) - Article Repo for a Guide to Projectors
 - [elder-plinius/L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S) - TOTALLY HARMLESS LIBERATION PROMPTS FOR GOOD LIL AI'S
 - [elder-plinius/Grok-System-Prompt-Leak](https://github.com/elder-plinius/Grok-System-Prompt-Leak) - Grok by X (Twitter) System Prompt Leak
 - [elder-plinius/Bing-Prompt-Leak](https://github.com/elder-plinius/Bing-Prompt-Leak) - Prompt leak technique for Bing Chat
