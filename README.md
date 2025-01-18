@@ -69,6 +69,7 @@
 
 ## C++ 
 
+- [OpenBMB/llama.cpp](https://github.com/OpenBMB/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [memgraph/memgraph](https://github.com/memgraph/memgraph) - Open-source graph database, tuned for dynamic analytics environments. Easy to adopt, scale and own.
 - [kitschpatrol/Brain](https://github.com/kitschpatrol/Brain) - Arduino library for reading Neurosky EEG brainwave data. (Tested with the MindFlex and Force Trainer toys.)
 - [chenxin415/flowstar](https://github.com/chenxin415/flowstar) - The latest source code of the tool Flow*
@@ -311,6 +312,7 @@
 
 ## Others 
 
+- [Masudbro94/python-hacked-mobile-phone-](https://github.com/Masudbro94/python-hacked-mobile-phone-) - Open in app Get started   ITNEXT Published in ITNEXT  You have 2 free member-only stories left this month. Sign up for Medium and get an extra one  Kush Kush Follow Apr 15, 2021  · 7 min read ·  Liste
 - [laserpilot/Guide_To_Projectors_For_Interactive_Installations](https://github.com/laserpilot/Guide_To_Projectors_For_Interactive_Installations) - Article Repo for a Guide to Projectors
 - [elder-plinius/L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S) - TOTALLY HARMLESS LIBERATION PROMPTS FOR GOOD LIL AI'S
 - [elder-plinius/Grok-System-Prompt-Leak](https://github.com/elder-plinius/Grok-System-Prompt-Leak) - Grok by X (Twitter) System Prompt Leak
@@ -367,6 +369,10 @@
 
 ## Python 
 
+- [rhsimplex/image-match](https://github.com/rhsimplex/image-match) - 🎇 Quickly search over billions of images
+- [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
+- [MiniMax-AI/MiniMax-01](https://github.com/MiniMax-AI/MiniMax-01) - 
+- [jonas-hurst/touchcontrol](https://github.com/jonas-hurst/touchcontrol) - Simple python library for simulating touchscreen interactions in windows
 - [fkryan/gazelle](https://github.com/fkryan/gazelle) - Gaze-LLE: Gaze Target Estimation via Large-Scale Learned Encoders
 - [gpt-omni/mini-omni2](https://github.com/gpt-omni/mini-omni2) - Towards Open-source GPT-4o with Vision, Speech and Duplex Capabilities。
 - [xorbitsai/inference](https://github.com/xorbitsai/inference) - Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any
