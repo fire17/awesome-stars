@@ -312,6 +312,7 @@
 
 ## Others 
 
+- [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [Masudbro94/python-hacked-mobile-phone-](https://github.com/Masudbro94/python-hacked-mobile-phone-) - Open in app Get started   ITNEXT Published in ITNEXT  You have 2 free member-only stories left this month. Sign up for Medium and get an extra one  Kush Kush Follow Apr 15, 2021  · 7 min read ·  Liste
 - [laserpilot/Guide_To_Projectors_For_Interactive_Installations](https://github.com/laserpilot/Guide_To_Projectors_For_Interactive_Installations) - Article Repo for a Guide to Projectors
 - [elder-plinius/L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S) - TOTALLY HARMLESS LIBERATION PROMPTS FOR GOOD LIL AI'S
@@ -750,7 +751,7 @@
 
 ## Rust 
 
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [Erk-/programmable-fonts](https://github.com/Erk-/programmable-fonts) - Code and slides about programmable fonts.
 - [shadowfax92/Fyin](https://github.com/shadowfax92/Fyin) - Open source alternative to Perplexity AI with ability to run locally
 - [twitchax/lucidity](https://github.com/twitchax/lucidity) - A distributed execution framework built upon lunatic.
