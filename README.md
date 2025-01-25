@@ -19,6 +19,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [KiCad Layout](#kicad-layout)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [Makefile](#makefile)
@@ -69,6 +70,7 @@
 
 ## C++ 
 
+- [gigablast/open-source-search-engine](https://github.com/gigablast/open-source-search-engine) - Nov 20 2017 -- A distributed open source search engine and spider/crawler written in C/C++ for Linux on Intel/AMD. From gigablast dot com, which has binaries for download. See the README.md file at th
 - [OpenBMB/llama.cpp](https://github.com/OpenBMB/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [memgraph/memgraph](https://github.com/memgraph/memgraph) - Open-source graph database, tuned for dynamic analytics environments. Easy to adopt, scale and own.
 - [kitschpatrol/Brain](https://github.com/kitschpatrol/Brain) - Arduino library for reading Neurosky EEG brainwave data. (Tested with the MindFlex and Force Trainer toys.)
@@ -288,6 +290,10 @@
 - [Mphasis-ML-Marketplace/Mphasis-DeepInsights-Text-Summarizer](https://github.com/Mphasis-ML-Marketplace/Mphasis-DeepInsights-Text-Summarizer) - Text Summarizer solution is an optimal way to tackle the problem of information overload by reducing the size of long documents into a few sentences . Neural-network-based models have the ability to a
 - [zhanghang1989/PyTorch-Multi-Style-Transfer](https://github.com/zhanghang1989/PyTorch-Multi-Style-Transfer) - Neural Style and MSG-Net
 
+## KiCad Layout 
+
+- [Hello9999901/laptop](https://github.com/Hello9999901/laptop) - A highly integrated, high end, open source laptop. Attempt the impossible.
+
 ## Kotlin 
 
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
@@ -370,6 +376,9 @@
 
 ## Python 
 
+- [diffbot/spacy-diffbot-nlapi](https://github.com/diffbot/spacy-diffbot-nlapi) - spaCy wrapper for Diffbot Natural Language API
+- [diffbot/diffbot-llm-inference](https://github.com/diffbot/diffbot-llm-inference) - DIffbot LLM Inference Server
+- [SakanaAI/self-adaptive-llms](https://github.com/SakanaAI/self-adaptive-llms) - A Self-adaptation Framework🐙 that adapts LLMs for unseen tasks in real-time!
 - [rhsimplex/image-match](https://github.com/rhsimplex/image-match) - 🎇 Quickly search over billions of images
 - [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
 - [MiniMax-AI/MiniMax-01](https://github.com/MiniMax-AI/MiniMax-01) - 
