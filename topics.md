@@ -67,6 +67,7 @@
 - [emoji](#emoji)
 - [english](#english)
 - [ethereum](#ethereum)
+- [facebook](#facebook)
 - [finance](#finance)
 - [firebase](#firebase)
 - [firefox](#firefox)
@@ -784,6 +785,10 @@
 ## ethereum 
 
 - [rotki/rotki](https://github.com/rotki/rotki) - A portfolio tracking, analytics, accounting and management application that protects your privacy
+
+## facebook 
+
+- [RuthGnz/SpyScrap](https://github.com/RuthGnz/SpyScrap) - CLI and GUI for OSINT.  Are you very exhibited on the Internet? Check it!  Twitter, Tinder, Facebook, Google, Yandex, BOE. It uses facial recognition to provide more accurate results.
 
 ## finance 
 
