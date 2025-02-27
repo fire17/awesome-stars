@@ -1542,7 +1542,7 @@
 - [jonas-hurst/touchcontrol](https://github.com/jonas-hurst/touchcontrol) - Simple python library for simulating touchscreen interactions in windows
 - [CHENJIAMIAN/CesiumLoadGoogleEarth](https://github.com/CHENJIAMIAN/CesiumLoadGoogleEarth) - Cesium加载谷歌地球影像
 - [wthorp/AGES](https://github.com/wthorp/AGES) - Another Google Earth Server - A simple alternative to GEE Fusion in Golang
-- [fkryan/gazelle](https://github.com/fkryan/gazelle) - Gaze-LLE: Gaze Target Estimation via Large-Scale Learned Encoders
+- [fkryan/gazelle](https://github.com/fkryan/gazelle) - Gaze-LLE: Gaze Target Estimation via Large-Scale Learned Encoders (CVPR 2025)
 - [gpt-omni/mini-omni2](https://github.com/gpt-omni/mini-omni2) - Towards Open-source GPT-4o with Vision, Speech and Duplex Capabilities。
 - [THUDM/CogVLM2](https://github.com/THUDM/CogVLM2) - GPT4V-level open-source multi-modal model based on Llama3-8B
 - [THUDM/CogVLM](https://github.com/THUDM/CogVLM) - a state-of-the-art-level open visual language model | 多模态预训练模型
