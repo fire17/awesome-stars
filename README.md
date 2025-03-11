@@ -37,7 +37,6 @@
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Shell](#shell)
-- [Starlark](#starlark)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TypeScript](#typescript)
@@ -722,6 +721,7 @@
 - [nicholasjconn/python-alexa-voice-service](https://github.com/nicholasjconn/python-alexa-voice-service) - A Python implementation of Amazon's Alexa Voice Service.
 - [open-wa/wa-automate-socket-client-python](https://github.com/open-wa/wa-automate-socket-client-python) - 🔌 🛠 The wa-automate socket client allows you to easily connect to remote EASY API instances. Be sure to 🌟 this repository for updates!
 - [RedFantom/python-rgbkeyboards](https://github.com/RedFantom/python-rgbkeyboards) - Wrappers for various RGB keyboard SDKs in Python
+- [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language
 - [sagieppel/Fully-convolutional-neural-network-FCN-for-semantic-segmentation-with-pytorch](https://github.com/sagieppel/Fully-convolutional-neural-network-FCN-for-semantic-segmentation-with-pytorch) - Fully convolutional neural network (FCN) for pixelwise annotation (semantic segmentation) of images implemented on python pytorch.
 - [sagieppel/Detecting-and-segmenting-and-classifying-materials-inside-vessels-in-images-using-convolutional-net](https://github.com/sagieppel/Detecting-and-segmenting-and-classifying-materials-inside-vessels-in-images-using-convolutional-net) - Detecting and segmenting and classifying materials inside mostly transparent vessels in images using a fully convolutional neural net for chemistry lab and other general setting
 - [TeamVanced/Vanced](https://github.com/TeamVanced/Vanced) - Vanced Issues/Docs repo
@@ -837,10 +837,6 @@
 - [estherjk/ok-google-pi-zero](https://github.com/estherjk/ok-google-pi-zero) - Using the Google Assistant SDK on a Raspberry Pi Zero W
 - [t1m0thyj/AssistantPi](https://github.com/t1m0thyj/AssistantPi) - Unofficial installer for Google Assistant on Raspbian
 
-## Starlark 
-
-- [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language
-
 ## Svelte 
 
 - [threlte/three-inspect](https://github.com/threlte/three-inspect) - An inspector and debugger for Three.js
@@ -925,7 +921,7 @@
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and
 - [eylonmiz/react-agent](https://github.com/eylonmiz/react-agent) - The open-source React.js Autonomous LLM Agent
 - [TienNHM/tiennhm.github.io](https://github.com/TienNHM/tiennhm.github.io) - Fullstack Developer
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
