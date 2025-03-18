@@ -412,7 +412,7 @@
 - [SakanaAI/self-adaptive-llms](https://github.com/SakanaAI/self-adaptive-llms) - A Self-adaptation Framework🐙 that adapts LLMs for unseen tasks in real-time!
 - [rhsimplex/image-match](https://github.com/rhsimplex/image-match) - 🎇 Quickly search over billions of images
 - [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
-- [MiniMax-AI/MiniMax-01](https://github.com/MiniMax-AI/MiniMax-01) - 
+- [MiniMax-AI/MiniMax-01](https://github.com/MiniMax-AI/MiniMax-01) - The official repo of MiniMax-Text-01 and MiniMax-VL-01, large-language-model & vision-language-model based on Linear Attention
 - [jonas-hurst/touchcontrol](https://github.com/jonas-hurst/touchcontrol) - Simple python library for simulating touchscreen interactions in windows
 - [fkryan/gazelle](https://github.com/fkryan/gazelle) - Gaze-LLE: Gaze Target Estimation via Large-Scale Learned Encoders (CVPR 2025)
 - [gpt-omni/mini-omni2](https://github.com/gpt-omni/mini-omni2) - Towards Open-source GPT-4o with Vision, Speech and Duplex Capabilities。
@@ -822,7 +822,7 @@
 
 ## Shell 
 
-- [trypear/pearai-master](https://github.com/trypear/pearai-master) - VSCode for the new age of AI.
+- [trypear/pearai-master](https://github.com/trypear/pearai-master) - Master Repo For PearAI
 - [Myzel394/zsh-copilot](https://github.com/Myzel394/zsh-copilot) - How we all expected GitHub Copilot in the CLI to be. No `suggest` bullshit
 - [lbltavares/open-cli-copilot-ollama](https://github.com/lbltavares/open-cli-copilot-ollama) - Copilot-like autosuggestions generation for zsh. (Ollama support)
 - [OskarSzafer/open-cli-copilot](https://github.com/OskarSzafer/open-cli-copilot) - Copilot-like autosuggestions generation for zsh.
