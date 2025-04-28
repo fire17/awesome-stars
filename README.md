@@ -61,6 +61,7 @@
 
 ## C# # 
 
+- [memstechtips/Winhance](https://github.com/memstechtips/Winhance) - PowerShell GUI application designed to optimize and customize your Windows experience.
 - [OptiKey/OptiKey](https://github.com/OptiKey/OptiKey) - OptiKey - Full computer control and speech with your eyes
 - [jgravelle/GetCodeAsPdf](https://github.com/jgravelle/GetCodeAsPdf) - Run from *.SLN directory to put all code into a PDF
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
@@ -378,7 +379,6 @@
 
 ## PowerShell 
 
-- [memstechtips/Winhance](https://github.com/memstechtips/Winhance) - PowerShell GUI application designed to optimize and customize your Windows experience.
 - [SpecterOps/BloodHound-Legacy](https://github.com/SpecterOps/BloodHound-Legacy) - Six Degrees of Domain Admin
 
 ## Processing 
