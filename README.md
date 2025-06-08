@@ -64,7 +64,7 @@
 - [memstechtips/Winhance](https://github.com/memstechtips/Winhance) - Application designed to optimize and customize your Windows experience.
 - [OptiKey/OptiKey](https://github.com/OptiKey/OptiKey) - OptiKey - Full computer control and speech with your eyes
 - [jgravelle/GetCodeAsPdf](https://github.com/jgravelle/GetCodeAsPdf) - Run from *.SLN directory to put all code into a PDF
-- [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
+- [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t
 - [Nuked88/HorusSearch](https://github.com/Nuked88/HorusSearch) - Search Bar Spotlight-like for Windows 10
 - [Decimation/SmartImage](https://github.com/Decimation/SmartImage) - Reverse image search tool (SauceNao, IQDB, Ascii2D, trace.moe, and more)
 - [anas-899/2D-Bin-Packing-with-Genetic-Algorithm](https://github.com/anas-899/2D-Bin-Packing-with-Genetic-Algorithm) - C# based project explain all steps of genetic algorithm on a simple application for 2D-bin-packing
@@ -272,7 +272,6 @@
 
 - [merveenoyan/smol-vision](https://github.com/merveenoyan/smol-vision) - Recipes for shrinking, optimizing, customizing cutting edge vision models. 💜
 - [Emotional-Text-to-Speech/dl-for-emo-tts](https://github.com/Emotional-Text-to-Speech/dl-for-emo-tts) - :computer: :robot: A summary on our attempts at using Deep Learning approaches for Emotional Text to Speech :speaker:
-- [maxmelichov/Text-To-speech](https://github.com/maxmelichov/Text-To-speech) - Roboshaul
 - [dscripka/openWakeWord](https://github.com/dscripka/openWakeWord) - An open-source audio wake word (or phrase) detection framework with a focus on performance and simplicity.
 - [ruddhaani/Brahma-Naad](https://github.com/ruddhaani/Brahma-Naad) - An ML model that converts Sign Language(ASL) to Audio
 - [Coding-Crashkurse/Voice-Order-Assistant](https://github.com/Coding-Crashkurse/Voice-Order-Assistant) - 
@@ -446,6 +445,7 @@
 - [fudan-generative-vision/hallo](https://github.com/fudan-generative-vision/hallo) - Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation
 - [slp-rl/HebTTS](https://github.com/slp-rl/HebTTS) - The official implementation of "A Language Modeling Approach to Diacritic-Free Hebrew TTS"
 - [anonymous19283746/TTS](https://github.com/anonymous19283746/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
+- [maxmelichov/Text-To-speech](https://github.com/maxmelichov/Text-To-speech) - Roboshaul
 - [kongmunist/Webcam-Eyetracking](https://github.com/kongmunist/Webcam-Eyetracking) - Training scripts and data for a webcam-based, eye-tracking mouse
 - [luca-ant/gaze_tracker](https://github.com/luca-ant/gaze_tracker) - An experiment on gaze tracker system, based on OpenCV, which shows how to control mouse pointer using eyes and gaze estimation
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
@@ -823,7 +823,7 @@
 ## Shell 
 
 - [trypear/pearai-master](https://github.com/trypear/pearai-master) - Master Repo For PearAI
-- [Myzel394/zsh-copilot](https://github.com/Myzel394/zsh-copilot) - How we all expected GitHub Copilot in the CLI to be. No `suggest` bullshit
+- [Myzel394/zsh-copilot](https://github.com/Myzel394/zsh-copilot) - 🧠 The Copilot that lives in your shell. Type in your thoughts, press ^Z and let the AI do it's magic ✨
 - [lbltavares/open-cli-copilot-ollama](https://github.com/lbltavares/open-cli-copilot-ollama) - Copilot-like autosuggestions generation for zsh. (Ollama support)
 - [OskarSzafer/open-cli-copilot](https://github.com/OskarSzafer/open-cli-copilot) - Copilot-like autosuggestions generation for zsh.
 - [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
