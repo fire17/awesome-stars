@@ -355,7 +355,6 @@
 - [PhantasticUniverse/CollectiveGenius-AutoGPT-Agent-Hub](https://github.com/PhantasticUniverse/CollectiveGenius-AutoGPT-Agent-Hub) - A showcase of diverse AI agents, fostering innovation and collaboration across domains.
 - [wescosmic/AIA-Notes](https://github.com/wescosmic/AIA-Notes) - 
 - [daveshap/ImpliedCognition](https://github.com/daveshap/ImpliedCognition) - Public research about LLMs, Implied Cognition, experiments, tests, etc
-- [tldraw/tldraw-beta](https://github.com/tldraw/tldraw-beta) - A place to file issues for tldraw's beta version.
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [DenverCoder1/awesome-stars](https://github.com/DenverCoder1/awesome-stars) - My Awesome List. List of repositories starred by Jonah Lawrence.
 - [AUTOMATIC1111/stable-diffusion-webui-feature-showcase](https://github.com/AUTOMATIC1111/stable-diffusion-webui-feature-showcase) - Feature showcase for stable-diffusion-webui
