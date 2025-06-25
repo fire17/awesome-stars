@@ -1897,7 +1897,7 @@
 - [dwoz/python-nat-hole-punching](https://github.com/dwoz/python-nat-hole-punching) - UDP and TCP NAT hole punching examples in python
 - [dxos/dxos](https://github.com/dxos/dxos) - TypeScript implementation of the DXOS protocols, SDK, toolchain and Composer.
 - [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts) - Official Anytype client for MacOS, Linux, and Windows
-- [anyproto/any-sync](https://github.com/anyproto/any-sync) - An open-source protocol designed to create high-performance, local-first, peer-to-peer, end-to-end encrypted applications that facilitate seamless collaboration among multiple users and devices
+- [anyproto/any-sync](https://github.com/anyproto/any-sync) - An open-source protocol enabling high-performance, local-first, peer-to-peer, end-to-end encrypted collaborative apps.
 - [zssz/BerkananSDK](https://github.com/zssz/BerkananSDK) - Bluetooth mesh messaging SDK for apps
 
 ## package-manager 
@@ -1941,7 +1941,7 @@
 ## privacy 
 
 - [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts) - Official Anytype client for MacOS, Linux, and Windows
-- [anyproto/any-sync](https://github.com/anyproto/any-sync) - An open-source protocol designed to create high-performance, local-first, peer-to-peer, end-to-end encrypted applications that facilitate seamless collaboration among multiple users and devices
+- [anyproto/any-sync](https://github.com/anyproto/any-sync) - An open-source protocol enabling high-performance, local-first, peer-to-peer, end-to-end encrypted collaborative apps.
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 
