@@ -305,6 +305,7 @@
 
 ## Kotlin 
 
+- [Stypox/dicio-android](https://github.com/Stypox/dicio-android) - Dicio assistant app for Android
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
 - [ReVanced/revanced-patches-template](https://github.com/ReVanced/revanced-patches-template) - 👋🧩Template repository for ReVanced Patches
 
@@ -361,7 +362,7 @@
 - [DenverCoder1/awesome-stars](https://github.com/DenverCoder1/awesome-stars) - My Awesome List. List of repositories starred by Jonah Lawrence.
 - [AUTOMATIC1111/stable-diffusion-webui-feature-showcase](https://github.com/AUTOMATIC1111/stable-diffusion-webui-feature-showcase) - Feature showcase for stable-diffusion-webui
 - [Maks-s/sd-akashic](https://github.com/Maks-s/sd-akashic) - A compendium of informations regarding Stable Diffusion (SD)
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test
 - [pAulseperformance/awesome-pinescript](https://github.com/pAulseperformance/awesome-pinescript) - A Comprehensive Collection of Everything Related to Tradingview Pine Script.
 - [open-source-ideas/meta](https://github.com/open-source-ideas/meta) - Repo for discussions related to the ideas initiative itself
@@ -387,6 +388,7 @@
 
 ## Python 
 
+- [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [ace-step/ACE-Step](https://github.com/ace-step/ACE-Step) - ACE-Step: A Step Towards Music Generation Foundation Model
 - [SparkAudio/Spark-TTS](https://github.com/SparkAudio/Spark-TTS) - Spark-TTS Inference Code
 - [ESPARGOS/pyespargos](https://github.com/ESPARGOS/pyespargos) - The python library for working with the ESPARGOS WiFi channel sounder
