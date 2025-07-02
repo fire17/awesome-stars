@@ -327,6 +327,8 @@
 
 ## android 
 
+- [adriangl/OverlayHelper](https://github.com/adriangl/OverlayHelper) - Handle Android "draw over other apps" permissions and queries in a version-agnostic way
+- [Stypox/dicio-android](https://github.com/Stypox/dicio-android) - Dicio assistant app for Android
 - [vilassn/whisper_android](https://github.com/vilassn/whisper_android) - Offline Speech Recognition with OpenAI Whisper and TensorFlow Lite for Android
 - [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android (f/w 2.1+) on screen keyboard for multiple languages.
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
@@ -447,7 +449,7 @@
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 
 ## bitcoin 
 
@@ -1157,7 +1159,7 @@
 - [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [xemle/home-gallery](https://github.com/xemle/home-gallery) - Self-hosted open-source web gallery to view your photos and videos featuring mobile-friendly, tagging and AI powered image discovery
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [vidify/vidify](https://github.com/vidify/vidify) - Detect the songs playing on your device and play their music videos anywhere
 
 ## llm 
@@ -1276,7 +1278,7 @@
 - [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [xemle/home-gallery](https://github.com/xemle/home-gallery) - Self-hosted open-source web gallery to view your photos and videos featuring mobile-friendly, tagging and AI powered image discovery
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [vidify/vidify](https://github.com/vidify/vidify) - Detect the songs playing on your device and play their music videos anywhere
 - [zssz/BerkananSDK](https://github.com/zssz/BerkananSDK) - Bluetooth mesh messaging SDK for apps
@@ -1385,6 +1387,7 @@
 
 ## nlp 
 
+- [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [jgravelle/Groqqle](https://github.com/jgravelle/Groqqle) - Groqqle is a powerful web search and content summarization tool built with Python, leveraging Groq's LLM API for advanced natural language processing. It offers customizable web and news searches, ima
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [aurelio-labs/semantic-router](https://github.com/aurelio-labs/semantic-router) - Superfast AI decision making and intelligent processing of multi-modal data.
@@ -2241,7 +2244,7 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [vercel-community/rust](https://github.com/vercel-community/rust) - 🦀 Rust runtime for ▲ Vercel Serverless Functions
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [xou816/spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
 
 ## security 
@@ -2296,7 +2299,7 @@
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [tusharsadhwani/zxpy](https://github.com/tusharsadhwani/zxpy) - Shell scripts made simple 🐚
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [engineer-man/piston](https://github.com/engineer-man/piston) - A high performance general purpose code execution engine.
 
 ## sketch 
@@ -2415,7 +2418,7 @@
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii) - An intuitive and type-safe Python library for converting lists to fancy ASCII tables for displaying in the terminal or code-blocks
 - [MahdeenSky/ChatGPT-Terminal-Completion](https://github.com/MahdeenSky/ChatGPT-Terminal-Completion) - Attempt at using ChatGPT to issue commands based on comments in the terminal.
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 
 ## terraform 
