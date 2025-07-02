@@ -176,6 +176,7 @@
 
 ## Java 
 
+- [adriangl/OverlayHelper](https://github.com/adriangl/OverlayHelper) - Handle Android "draw over other apps" permissions and queries in a version-agnostic way
 - [openboard-team/openboard](https://github.com/openboard-team/openboard) - 
 - [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android (f/w 2.1+) on screen keyboard for multiple languages.
 - [KajanM/DirBuster](https://github.com/KajanM/DirBuster) - DirBuster is a multi threaded java application designed to brute force directories and files names on web/application servers.
