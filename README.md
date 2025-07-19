@@ -440,7 +440,7 @@
 - [philippbosch/ical2json](https://github.com/philippbosch/ical2json) - Simple web service to convert iCal data from an URL to JSON output.
 - [graphistry/pygraphistry](https://github.com/graphistry/pygraphistry) - PyGraphistry is a Python library to quickly load, shape, embed, and explore big graphs with the GPU-accelerated Graphistry visual graph analyzer
 - [tonyoconnell/Groqqle](https://github.com/tonyoconnell/Groqqle) - 
-- [frdel/agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
+- [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework
 - [elder-plinius/AutoTemp](https://github.com/elder-plinius/AutoTemp) - A trial-and-error approach to temperature opimization for LLMs. Runs the same prompt at many temperatures and selects the best output automatically.
 - [elder-plinius/Leda](https://github.com/elder-plinius/Leda) - 
 - [HackerPoet/PySpace](https://github.com/HackerPoet/PySpace) - GLSL Fractal Ray Marcher in Python
