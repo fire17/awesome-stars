@@ -857,7 +857,7 @@
 
 ## Swift 
 
-- [nfarina/whisper-dictate](https://github.com/nfarina/whisper-dictate) - Get the best dictation from the Whisper API everywhere on your Mac.
+- [nfarina/ramblr](https://github.com/nfarina/ramblr) - Get the best dictation from the Whisper API everywhere on your Mac.
 - [XITRIX/iTorrent](https://github.com/XITRIX/iTorrent) - Torrent client for iOS 16+
 - [foxt/watcHTTP](https://github.com/foxt/watcHTTP) - watcHTTP is a watchOS app to send HTTP requests from your wrist.
 - [zssz/BerkananSDK](https://github.com/zssz/BerkananSDK) - Bluetooth mesh messaging SDK for apps
