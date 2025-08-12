@@ -1595,7 +1595,7 @@
 - [ALucek/QuicKB](https://github.com/ALucek/QuicKB) - Optimize Document Retrieval with Fine-Tuned KnowledgeBases
 - [theocat0/Full-Whisper-Dictation-for-Mac](https://github.com/theocat0/Full-Whisper-Dictation-for-Mac) - For anyone unfortunate enough to stumble upon this, this is my first repository. I'm using OpenAI's Whisper model to replace Mac dictation. As a dyslexic coder, it's tough to type as fast as I speak, 
 - [foges/whisper-dictation](https://github.com/foges/whisper-dictation) - Dictation app based on the OpenAI speech-to-text models
-- [nfarina/whisper-dictate](https://github.com/nfarina/whisper-dictate) - Get the best dictation from the Whisper API everywhere on your Mac.
+- [nfarina/ramblr](https://github.com/nfarina/ramblr) - Get the best dictation from the Whisper API everywhere on your Mac.
 - [chrishayuk/chuk-math](https://github.com/chrishayuk/chuk-math) - 
 - [rbrown101010/yapsearch](https://github.com/rbrown101010/yapsearch) - 
 - [diffbot/spacy-diffbot-nlapi](https://github.com/diffbot/spacy-diffbot-nlapi) - spaCy wrapper for Diffbot Natural Language API
