@@ -135,6 +135,9 @@
 
 ## Go 
 
+- [tulir/whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API
+- [mautrix/whatsapp](https://github.com/mautrix/whatsapp) - A Matrix-WhatsApp puppeting bridge
+- [beeper/imessage](https://github.com/beeper/imessage) - A Matrix-iMessage puppeting bridge.
 - [wthorp/AGES](https://github.com/wthorp/AGES) - Another Google Earth Server - A simple alternative to GEE Fusion in Golang
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -389,6 +392,7 @@
 
 ## Python 
 
+- [beeper/aibot](https://github.com/beeper/aibot) - A ChatGPT bot for Matrix
 - [vossenwout/free-llm-apis](https://github.com/vossenwout/free-llm-apis) - Scripts showing how to connect to a variety of llm providers with a free thier
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [ace-step/ACE-Step](https://github.com/ace-step/ACE-Step) - ACE-Step: A Step Towards Music Generation Foundation Model
