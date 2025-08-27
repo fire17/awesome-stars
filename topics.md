@@ -294,7 +294,7 @@
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-- [superagent-ai/superagent](https://github.com/superagent-ai/superagent) - 🥷 Run AI-agents with an API
+- [superagent-ai/superagent](https://github.com/superagent-ai/superagent) - The runtime firewall for AI, blocks LLM vulnerabilities in real time.
 - [BuilderIO/ai-shell](https://github.com/BuilderIO/ai-shell) - A CLI that converts natural language to shell commands.
 - [enoki-inc/aither](https://github.com/enoki-inc/aither) - Collaborate with friends in real-time on an AI-enabled desktop in the browser
 - [Nikorasu/LiveWhisper](https://github.com/Nikorasu/LiveWhisper) - A nearly-live implementation of OpenAI's Whisper, using sounddevice. Requires existing Whisper install.
@@ -628,7 +628,7 @@
 
 ## code-review 
 
-- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
+- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍 (For more advanced: check Qodo Merge)
 
 ## coding 
 
@@ -1265,7 +1265,7 @@
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
-- [superagent-ai/superagent](https://github.com/superagent-ai/superagent) - 🥷 Run AI-agents with an API
+- [superagent-ai/superagent](https://github.com/superagent-ai/superagent) - The runtime firewall for AI, blocks LLM vulnerabilities in real time.
 - [yuchenlin/LLM-Blender](https://github.com/yuchenlin/LLM-Blender) - [ACL2023] We introduce LLM-Blender, an innovative ensembling framework to attain consistently superior performance by leveraging the diverse strengths of multiple open-source LLMs. LLM-Blender cut the
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
 - [dsdanielpark/Bard-API](https://github.com/dsdanielpark/Bard-API) - The unofficial python package that returns response of Google Bard through cookie value.
@@ -1510,14 +1510,12 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [imoneoi/openchat](https://github.com/imoneoi/openchat) - OpenChat: Advancing Open-source Language Models with Imperfect Data
-- [superagent-ai/superagent](https://github.com/superagent-ai/superagent) - 🥷 Run AI-agents with an API
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [xemle/home-gallery](https://github.com/xemle/home-gallery) - Self-hosted open-source web gallery to view your photos and videos featuring mobile-friendly, tagging and AI powered image discovery
 - [open-source-ideas/ideas](https://github.com/open-source-ideas/ideas) - 💡 Looking for inspiration for your next open source project? Or perhaps you've got a brilliant idea you can't wait to share with others? Open Source Ideas is a community built specifically for this! 👋
 
 ## openai 
 
-- [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [vilassn/whisper_android](https://github.com/vilassn/whisper_android) - Offline Speech Recognition with OpenAI Whisper and TensorFlow Lite for Android
 - [dataelement/bisheng](https://github.com/dataelement/bisheng) - BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SF
@@ -1544,9 +1542,10 @@
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [paulpierre/RasaGPT](https://github.com/paulpierre/RasaGPT) - 💬 RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. Built w/ Rasa, FastAPI, Langchain, LlamaIndex, SQLModel, pgvector, ngrok, telegram
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
-- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
+- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍 (For more advanced: check Qodo Merge)
 - [ricklamers/gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) - An open source implementation of OpenAI's ChatGPT Code interpreter
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
+- [superagent-ai/superagent](https://github.com/superagent-ai/superagent) - The runtime firewall for AI, blocks LLM vulnerabilities in real time.
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [Torantulino/AI-Functions](https://github.com/Torantulino/AI-Functions) - AI-Powered Function Magic: Never code again with GPT models!
 - [ekkinox/yai](https://github.com/ekkinox/yai) - Your AI powered terminal assistant.
@@ -1592,6 +1591,7 @@
 - [ace-step/ACE-Step](https://github.com/ace-step/ACE-Step) - ACE-Step: A Step Towards Music Generation Foundation Model
 - [SparkAudio/Spark-TTS](https://github.com/SparkAudio/Spark-TTS) - Spark-TTS Inference Code
 - [michelle123lam/lloom](https://github.com/michelle123lam/lloom) - Concept Induction: Analyzing Unstructured Text with High-Level Concepts Using LLooM (CHI 2024 paper). LLooM automatically surfaces high-level concepts to analyze unstructured text.
+- [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.
 - [Zyphra/Zonos](https://github.com/Zyphra/Zonos) - Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS pro
 - [simplescaling/s1](https://github.com/simplescaling/s1) - s1: Simple test-time scaling
 - [Xe/structured-reasoning](https://github.com/Xe/structured-reasoning) - An implementation of s1: Simple test-time scaling with Ollama
@@ -1682,7 +1682,7 @@
 - [NilsHellwig/TheImageFetcher](https://github.com/NilsHellwig/TheImageFetcher) - Download images from Google Images - TheImageFetcher is a high-performance tool that allows you to quickly extract large amounts of images from Google Images. Depending on the internet connection, it 
 - [KM8Oz/Google-Images-Api-replacment](https://github.com/KM8Oz/Google-Images-Api-replacment) - get all you need from google image by just a simple javascript class that returne array of direct url's for your reseached query
 - [argmaxinc/DiffusionKit](https://github.com/argmaxinc/DiffusionKit) - On-device Image Generation for Apple Silicon
-- [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - MiniCPM-V 4.0: A GPT-4V Level MLLM for Single Image, Multi Image and Video on Your Phone
+- [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and Video Understanding on Your Phone
 - [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - SOTA Open Source TTS
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [Stability-AI/stable-audio-tools](https://github.com/Stability-AI/stable-audio-tools) - Generative models for conditional audio generation
@@ -2115,7 +2115,6 @@
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-- [superagent-ai/superagent](https://github.com/superagent-ai/superagent) - 🥷 Run AI-agents with an API
 - [Torantulino/AI-Functions](https://github.com/Torantulino/AI-Functions) - AI-Powered Function Magic: Never code again with GPT models!
 - [Nikorasu/LiveWhisper](https://github.com/Nikorasu/LiveWhisper) - A nearly-live implementation of OpenAI's Whisper, using sounddevice. Requires existing Whisper install.
 - [iZucked/Matrix-Rain-An-Image](https://github.com/iZucked/Matrix-Rain-An-Image) - Python pygame project that turns your images to matrix rain
