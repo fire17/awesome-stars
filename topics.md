@@ -217,6 +217,7 @@
 - [website](#website)
 - [windows](#windows)
 - [xml](#xml)
+- [zsh](#zsh)
 
 ## 3d 
 
@@ -692,7 +693,6 @@
 ## data 
 
 - [truefoundry/cognita](https://github.com/truefoundry/cognita) - RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
 - [pinecone-io/pinecone-datasets](https://github.com/pinecone-io/pinecone-datasets) - An open-source dataset library for pre-embedded dataset: create your own data catalog, or use Pinecone's public datasets.
 
 ## data-engineering 
@@ -2627,6 +2627,18 @@
 ## xml 
 
 - [fabiocaccamo/python-benedict](https://github.com/fabiocaccamo/python-benedict) - :blue_book: dict subclass with keylist/keypath support, built-in I/O operations (base64, csv, html, ini, json, pickle, plist, query-string, toml, xls, xml, yaml), s3 support and many utilities.
+
+## zsh 
+
+- [Myzel394/zsh-copilot](https://github.com/Myzel394/zsh-copilot) - 🧠 The Copilot that lives in your shell. Type in your thoughts, press ^Z and let the AI do it's magic ✨
+- [OskarSzafer/open-cli-copilot](https://github.com/OskarSzafer/open-cli-copilot) - Copilot-like autosuggestions generation for zsh.
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+- [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
+- [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - 🚀✨ Minimalistic, powerful and extremely customizable Zsh prompt
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
+- [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.
+- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 
 
 ## License
