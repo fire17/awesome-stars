@@ -220,6 +220,7 @@
 - [whatsapp-bot](#whatsapp-bot)
 - [windows](#windows)
 - [xml](#xml)
+- [youtube](#youtube)
 - [zsh](#zsh)
 
 ## 3d 
@@ -235,7 +236,7 @@
 
 - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically
 - [agno-agi/agent-ui](https://github.com/agno-agi/agent-ui) - A modern chat interface for AI agents built with Next.js, Tailwind CSS, and TypeScript.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - High-performance SDK and runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The fastest python framework and runtime for multi-agent systems.
 - [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simp
 - [trypear/pearai-master](https://github.com/trypear/pearai-master) - Master Repo For PearAI
 - [Ikaros-521/AI-Vtuber](https://github.com/Ikaros-521/AI-Vtuber) - AI Vtuber是一个由 【ChatterBot/ChatGPT/claude/langchain/chatglm/text-gen-webui/闻达/千问/kimi/ollama】 驱动的虚拟主播【Live2D/UE/xuniren】，可以在 【Bilibili/抖音/快手/微信视频号/拼多多/斗鱼/YouTube/twitch/TikTok】 直播中与观众实时互动 或 直接在本地进行聊天。它
@@ -532,7 +533,6 @@
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
-- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, code highlight
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
@@ -780,7 +780,7 @@
 
 ## developer-tools 
 
-- [agno-agi/agno](https://github.com/agno-agi/agno) - High-performance SDK and runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The fastest python framework and runtime for multi-agent systems.
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
@@ -924,7 +924,7 @@
 
 ## framework 
 
-- [agno-agi/agno](https://github.com/agno-agi/agno) - High-performance SDK and runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The fastest python framework and runtime for multi-agent systems.
 - [truefoundry/cognita](https://github.com/truefoundry/cognita) - RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [cheshire-cat-ai/core](https://github.com/cheshire-cat-ai/core) - AI agent microservice
@@ -1031,7 +1031,7 @@
 ## hacktoberfest 
 
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [agno-agi/agno](https://github.com/agno-agi/agno) - High-performance SDK and runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The fastest python framework and runtime for multi-agent systems.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [MichaelBarney/LinkFree](https://github.com/MichaelBarney/LinkFree) - A free and open source alternative to LinkTree
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
@@ -1550,7 +1550,6 @@
 - [dataelement/bisheng](https://github.com/dataelement/bisheng) - BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SF
 - [shadowfax92/Fyin](https://github.com/shadowfax92/Fyin) - Open source alternative to Perplexity AI with ability to run locally
 - [rapidpages/rapidpages](https://github.com/rapidpages/rapidpages) - Generate React and Tailwind components using AI
-- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, code highlight
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 - [TensorOpsAI/LLMstudio](https://github.com/TensorOpsAI/LLMstudio) - Framework to bring LLM applications to production
 - [apocas/restai](https://github.com/apocas/restai) - RESTai is an AIaaS (AI as a Service) open-source platform. Built on top of LlamaIndex & Langchain. Supports any public LLM supported by LlamaIndex and any local LLM suported by Ollama/vLLM/etc. Precis
@@ -1723,6 +1722,7 @@
 - [aurelio-labs/semantic-chunkers](https://github.com/aurelio-labs/semantic-chunkers) - 
 - [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 - [Doubiiu/ToonCrafter](https://github.com/Doubiiu/ToonCrafter) - [SIGGRAPH Asia 2024, Journal Track] ToonCrafter: Generative Cartoon Interpolation
+- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, 
 - [codesandbox/excalidraw-firebase](https://github.com/codesandbox/excalidraw-firebase) - Firebase service to sync your company Gmail to persisted Excalidraws
 - [weaviate/Verba](https://github.com/weaviate/Verba) - Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
 - [jgravelle/GetCodeAsPdf](https://github.com/jgravelle/GetCodeAsPdf) - Run from *.SLN directory to put all code into a PDF
@@ -2063,7 +2063,7 @@
 
 - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically
 - [ESPARGOS/pyespargos](https://github.com/ESPARGOS/pyespargos) - The python library for working with the ESPARGOS WiFi channel sounder
-- [agno-agi/agno](https://github.com/agno-agi/agno) - High-performance SDK and runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The fastest python framework and runtime for multi-agent systems.
 - [Ikaros-521/AI-Vtuber](https://github.com/Ikaros-521/AI-Vtuber) - AI Vtuber是一个由 【ChatterBot/ChatGPT/claude/langchain/chatglm/text-gen-webui/闻达/千问/kimi/ollama】 驱动的虚拟主播【Live2D/UE/xuniren】，可以在 【Bilibili/抖音/快手/微信视频号/拼多多/斗鱼/YouTube/twitch/TikTok】 直播中与观众实时互动 或 直接在本地进行聊天。它
 - [rhsimplex/image-match](https://github.com/rhsimplex/image-match) - 🎇 Quickly search over billions of images
 - [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
@@ -2413,7 +2413,6 @@
 
 - [Ikaros-521/AI-Vtuber](https://github.com/Ikaros-521/AI-Vtuber) - AI Vtuber是一个由 【ChatterBot/ChatGPT/claude/langchain/chatglm/text-gen-webui/闻达/千问/kimi/ollama】 驱动的虚拟主播【Live2D/UE/xuniren】，可以在 【Bilibili/抖音/快手/微信视频号/拼多多/斗鱼/YouTube/twitch/TikTok】 直播中与观众实时互动 或 直接在本地进行聊天。它
 - [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
-- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, code highlight
 - [riffusion/riffusion-app-hobby](https://github.com/riffusion/riffusion-app-hobby) - Stable diffusion for real-time music generation (web app)
 - [apocas/restai](https://github.com/apocas/restai) - RESTai is an AIaaS (AI as a Service) open-source platform. Built on top of LlamaIndex & Langchain. Supports any public LLM supported by LlamaIndex and any local LLM suported by Ollama/vLLM/etc. Precis
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
@@ -2567,7 +2566,6 @@
 ## ui 
 
 - [rapidpages/rapidpages](https://github.com/rapidpages/rapidpages) - Generate React and Tailwind components using AI
-- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, code highlight
 - [fbiego/esp32-c3-mini](https://github.com/fbiego/esp32-c3-mini) - LVGL UI for ESP32 C3 mini 240*240  board (ESP32-2424S012)
 - [xlang-ai/OpenAgents](https://github.com/xlang-ai/OpenAgents) - [COLM 2024] OpenAgents: An Open Platform for Language Agents in the Wild
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
@@ -2659,6 +2657,16 @@
 ## xml 
 
 - [fabiocaccamo/python-benedict](https://github.com/fabiocaccamo/python-benedict) - :blue_book: dict subclass with keylist/keypath support, built-in I/O operations (base64, csv, html, ini, json, pickle, plist, query-string, toml, xls, xml, yaml), s3 support and many utilities.
+
+## youtube 
+
+- [Ikaros-521/AI-Vtuber](https://github.com/Ikaros-521/AI-Vtuber) - AI Vtuber是一个由 【ChatterBot/ChatGPT/claude/langchain/chatglm/text-gen-webui/闻达/千问/kimi/ollama】 驱动的虚拟主播【Live2D/UE/xuniren】，可以在 【Bilibili/抖音/快手/微信视频号/拼多多/斗鱼/YouTube/twitch/TikTok】 直播中与观众实时互动 或 直接在本地进行聊天。它
+- [devspotyt/chat_with_yt](https://github.com/devspotyt/chat_with_yt) - A simple demonstration of how to use existing AI tools to "chat with youtube videos".
+- [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
+- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
+- [zpix1/yt-anti-translate](https://github.com/zpix1/yt-anti-translate) - Chrome extension to disable youtube video titles autotranslation
+- [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards) - Workflow for displaying recent YouTube videos as SVG cards in your readme
+- [vidify/vidify](https://github.com/vidify/vidify) - Detect the songs playing on your device and play their music videos anywhere
 
 ## zsh 
 
