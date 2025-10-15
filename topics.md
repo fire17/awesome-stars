@@ -788,7 +788,7 @@
 
 ## developer-tools 
 
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Incredibly fast multi-agent framework, runtime and UI.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The multi-agent framework, runtime and UI built for speed.
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
@@ -1038,13 +1038,14 @@
 ## hacktoberfest 
 
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Incredibly fast multi-agent framework, runtime and UI.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The multi-agent framework, runtime and UI built for speed.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [MichaelBarney/LinkFree](https://github.com/MichaelBarney/LinkFree) - A free and open source alternative to LinkTree
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
+- [fbiego/esp32-c3-mini](https://github.com/fbiego/esp32-c3-mini) - LVGL UI for ESP32 C3 mini 240*240  board (ESP32-2424S012)
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
 - [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
@@ -2069,7 +2070,7 @@
 
 - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically
 - [ESPARGOS/pyespargos](https://github.com/ESPARGOS/pyespargos) - The python library for working with the ESPARGOS WiFi channel sounder
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Incredibly fast multi-agent framework, runtime and UI.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The multi-agent framework, runtime and UI built for speed.
 - [Ikaros-521/AI-Vtuber](https://github.com/Ikaros-521/AI-Vtuber) - AI Vtuber是一个由 【ChatterBot/ChatGPT/claude/langchain/chatglm/text-gen-webui/闻达/千问/kimi/ollama】 驱动的虚拟主播【Live2D/UE/xuniren】，可以在 【Bilibili/抖音/快手/微信视频号/拼多多/斗鱼/YouTube/twitch/TikTok】 直播中与观众实时互动 或 直接在本地进行聊天。它
 - [rhsimplex/image-match](https://github.com/rhsimplex/image-match) - 🎇 Quickly search over billions of images
 - [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
