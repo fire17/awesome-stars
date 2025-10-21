@@ -528,7 +528,7 @@
 - [FernandoBLima/python-prometheus-grafana](https://github.com/FernandoBLima/python-prometheus-grafana) - Project contains a Python service example with Prometheus and Grafana.
 - [aroberge/ideas](https://github.com/aroberge/ideas) - Easy creation of custom import hooks to experiment on alternatives to Python's syntax; see https://aroberge.github.io/ideas/docs/html/
 - [mementum/backtrader](https://github.com/mementum/backtrader) - Python Backtesting library for trading strategies
-- [AbanteAI/rawdog](https://github.com/AbanteAI/rawdog) - Generate and auto-execute Python scripts in the cli
+- [granawkins/rawdog](https://github.com/granawkins/rawdog) - Generate and auto-execute Python scripts in the cli
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
@@ -822,7 +822,7 @@
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
-- [superagent-ai/superagent](https://github.com/superagent-ai/superagent) - Runtime protection for AI agents and copilots - inspect prompts, validate tool calls, and block threats in real time.
+- [superagent-ai/superagent](https://github.com/superagent-ai/superagent) - Purpose-trained models that secure your applications and keep them compliant — with low-latency, production-ready performance.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
