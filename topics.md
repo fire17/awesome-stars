@@ -282,7 +282,7 @@
 - [cheshire-cat-ai/core](https://github.com/cheshire-cat-ai/core) - AI agent microservice
 - [getzep/zep](https://github.com/getzep/zep) - Zep | Examples, Integrations, & More
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI coding assistant for JetBrains
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [pbj224/ResearchGPT](https://github.com/pbj224/ResearchGPT) - A happy medium between AI search and GPT Agents
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
@@ -331,7 +331,7 @@
 - [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, 
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 
 ## algorithm 
@@ -364,7 +364,7 @@
 - [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
 - [ReVanced/revanced-patches-template](https://github.com/ReVanced/revanced-patches-template) - 👋🧩Template repository for ReVanced Patches
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 - [JimSeker/wearable](https://github.com/JimSeker/wearable) - Android Wear/ Wear OS Examples
 - [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
 
@@ -468,7 +468,7 @@
 
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 
 ## bash 
 
@@ -546,7 +546,7 @@
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [pbj224/ResearchGPT](https://github.com/pbj224/ResearchGPT) - A happy medium between AI search and GPT Agents
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
@@ -843,7 +843,7 @@
 - [RuthGnz/SpyScrap](https://github.com/RuthGnz/SpyScrap) - CLI and GUI for OSINT.  Are you very exhibited on the Internet? Check it!  Twitter, Tinder, Facebook, Google, Yandex, BOE. It uses facial recognition to provide more accurate results.
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 
 ## documentation 
 
@@ -900,7 +900,7 @@
 ## firebase 
 
 - [TienNHM/tiennhm.github.io](https://github.com/TienNHM/tiennhm.github.io) - Fullstack Developer
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 
 ## firefox 
 
@@ -921,7 +921,7 @@
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 
 ## flutter-apps 
 
@@ -1058,7 +1058,7 @@
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
@@ -1083,7 +1083,6 @@
 - [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test
 - [duino-coin/duino-coin](https://github.com/duino-coin/duino-coin) - ᕲ Duino-Coin is a coin that can be mined with almost everything, including Arduino boards.
 - [nidhaloff/deep-translator](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited python tool to translate between different languages in a simple way using multiple translators.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [rotki/rotki](https://github.com/rotki/rotki) - A portfolio tracking, analytics, accounting and management application that protects your privacy
 - [mikaelbr/awesome-es2015-proxy](https://github.com/mikaelbr/awesome-es2015-proxy) - For learning how to use JavaScript Proxy, or just to see what is possible
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
@@ -1127,7 +1126,7 @@
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [XITRIX/iTorrent](https://github.com/XITRIX/iTorrent) - Torrent client for iOS 16+
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 - [zssz/BerkananSDK](https://github.com/zssz/BerkananSDK) - Bluetooth mesh messaging SDK for apps
 - [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
 
@@ -1173,7 +1172,7 @@
 - [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
 - [phcode-dev/phoenix](https://github.com/phcode-dev/phoenix) - The text editor designed to make coding as simple and fun as playing a video game
 - [kevinschaich/mintable](https://github.com/kevinschaich/mintable) - 🍃 Automate your personal finances – for free, with no ads, and no data collection.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 
 ## jekyll 
 
@@ -1275,7 +1274,7 @@
 - [devspotyt/chat_with_yt](https://github.com/devspotyt/chat_with_yt) - A simple demonstration of how to use existing AI tools to "chat with youtube videos".
 - [cheshire-cat-ai/core](https://github.com/cheshire-cat-ai/core) - AI agent microservice
 - [getzep/zep](https://github.com/getzep/zep) - Zep | Examples, Integrations, & More
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [IntelLabs/fastRAG](https://github.com/IntelLabs/fastRAG) - Efficient Retrieval Augmentation and Generation Framework
@@ -1462,7 +1461,7 @@
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [ElricLiu/AutoGPT-Next-Web](https://github.com/ElricLiu/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 
 ## nlp 
 
@@ -2116,7 +2115,7 @@
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
 - [es7s/holms](https://github.com/es7s/holms) - CLI UTF-8 to Unicode code points decomposer
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [shailshouryya/save-thread-result](https://github.com/shailshouryya/save-thread-result) - Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python. Exact same interface as `threading.Thread`! 🌟 Star this repo if you found it useful! 🌟
 - [nuclia/nucliadb](https://github.com/nuclia/nucliadb) - NucliaDB, The AI Search database for RAG
 - [pbj224/ResearchGPT](https://github.com/pbj224/ResearchGPT) - A happy medium between AI search and GPT Agents
@@ -2267,12 +2266,12 @@
 - [TanStack/virtual](https://github.com/TanStack/virtual) - 🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 
 ## react-native 
 
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 
 ## reactjs 
 
@@ -2362,7 +2361,7 @@
 - [taichunmin/docker-serveo-server](https://github.com/taichunmin/docker-serveo-server) - https://serveo.net is an alternative for ngrok. taichunmin/serveo-server can let you host your own serveo. And taichunmin/serveo can let you secure URL to your localhost server through any NAT or fire
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
 - [xemle/home-gallery](https://github.com/xemle/home-gallery) - Self-hosted open-source web gallery to view your photos and videos featuring mobile-friendly, tagging and AI powered image discovery
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 
 ## server 
 
@@ -2377,7 +2376,7 @@
 - [openfaas/faasd](https://github.com/openfaas/faasd) - Lightweight and portable version of OpenFaaS
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 
 ## shell 
 
@@ -2450,7 +2449,7 @@
 ## swift 
 
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 
 ## tailwind 
 
@@ -2629,7 +2628,7 @@
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 
 ## webapp 
 
