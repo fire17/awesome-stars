@@ -40,6 +40,7 @@
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TypeScript](#typescript)
+- [Vue](#vue)
 
 ## Astro 
 
@@ -230,7 +231,6 @@
 - [dineshsonachalam/markdown-autodocs](https://github.com/dineshsonachalam/markdown-autodocs) - ✨ A GitHub Action that automatically generates & updates markdown content (like your README.md) from external or remote files.
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
 - [unconv/gpt4v-browsing](https://github.com/unconv/gpt4v-browsing) - Web Scraping with GPT-4 Vision API and Puppeteer
-- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
 - [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - Free Open Source ERP CRM Software Accounting Invoicing | Node Js React
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
@@ -971,6 +971,10 @@
 - [hjjinx/chatting-app-react](https://github.com/hjjinx/chatting-app-react) - A vey simple online chat application.
 - [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - 💬 🤖  The most reliable tool for chatbots with advanced features. Be sure to 🌟 this repository for updates!
 - [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
+
+## Vue 
+
+- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 
 
 ## License
