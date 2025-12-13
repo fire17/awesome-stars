@@ -410,7 +410,7 @@
 - [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE) - YuE: Open Full-song Music Generation Foundation Model, something similar to Suno.ai but open
 - [ALucek/QuicKB](https://github.com/ALucek/QuicKB) - Optimize Document Retrieval with Fine-Tuned KnowledgeBases
 - [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus) - Janus-Series: Unified Multimodal Understanding and Generation Models
-- [theocat0/Full-Whisper-Dictation-for-Mac](https://github.com/theocat0/Full-Whisper-Dictation-for-Mac) - For anyone unfortunate enough to stumble upon this, this is my first repository. I'm using OpenAI's Whisper model to replace Mac dictation. As a dyslexic coder, it's tough to type as fast as I speak, 
+- [theos2node/Full-Whisper-Dictation-for-Mac](https://github.com/theos2node/Full-Whisper-Dictation-for-Mac) - For anyone unfortunate enough to stumble upon this, this is my first repository. I'm using OpenAI's Whisper model to replace Mac dictation. As a dyslexic coder, it's tough to type as fast as I speak, 
 - [foges/whisper-dictation](https://github.com/foges/whisper-dictation) - Dictation app based on the OpenAI speech-to-text models
 - [chrishayuk/chuk-math](https://github.com/chrishayuk/chuk-math) - 
 - [ALucek/NeedleInAVidStack](https://github.com/ALucek/NeedleInAVidStack) - Extract, timestamp, and analyze specific content from video collections using LLM-powered audio/video processing.
