@@ -105,6 +105,7 @@
 - [haskell](#haskell)
 - [html](#html)
 - [html-css-javascript](#html-css-javascript)
+- [html5](#html5)
 - [http](#http)
 - [image-processing](#image-processing)
 - [ios](#ios)
@@ -1183,6 +1184,10 @@
 
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 
+## html5 
+
+- [EmilStenstrom/justhtml](https://github.com/EmilStenstrom/justhtml) - A pure Python HTML5 parser that just works. No C extensions to compile. No system dependencies to install. No complex API to learn.
+
 ## http 
 
 - [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
@@ -1694,6 +1699,7 @@
 
 ## others 
 
+- [simonw/justjshtml](https://github.com/simonw/justjshtml) - JavaScript port of EmilStenstrom/justhtml
 - [Sider-ai/hatchify](https://github.com/Sider-ai/hatchify) - 
 - [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
 - [beeper/aibot](https://github.com/beeper/aibot) - A ChatGPT bot for Matrix
@@ -2144,6 +2150,7 @@
 
 ## python 
 
+- [EmilStenstrom/justhtml](https://github.com/EmilStenstrom/justhtml) - A pure Python HTML5 parser that just works. No C extensions to compile. No system dependencies to install. No complex API to learn.
 - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically
 - [ESPARGOS/pyespargos](https://github.com/ESPARGOS/pyespargos) - The python library for working with the ESPARGOS WiFi channel sounder
 - [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for multi-agent systems.
