@@ -40,6 +40,7 @@
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TypeScript](#typescript)
+- [Vue](#vue)
 
 ## Astro 
 
@@ -147,6 +148,7 @@
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [Contextualist/acp](https://github.com/Contextualist/acp) - Make terminal personal file transfers as simple as `cp`
 - [marcel-dempers/docker-development-youtube-series](https://github.com/marcel-dempers/docker-development-youtube-series) - 
+- [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [anyproto/any-sync](https://github.com/anyproto/any-sync) - An open-source protocol enabling high-performance, local-first, peer-to-peer, end-to-end encrypted collaborative apps.
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼
@@ -192,6 +194,7 @@
 
 ## JavaScript 
 
+- [simonw/justjshtml](https://github.com/simonw/justjshtml) - JavaScript port of EmilStenstrom/justhtml
 - [Xe/structured-reasoning](https://github.com/Xe/structured-reasoning) - An implementation of s1: Simple test-time scaling with Ollama
 - [hexgrad/kokoro](https://github.com/hexgrad/kokoro) - https://hf.co/hexgrad/Kokoro-82M
 - [Automattic/VU-VRM](https://github.com/Automattic/VU-VRM) - Lip-sync VRM avatar client for zero-webcam mic-based vtubing
@@ -212,7 +215,6 @@
 - [haixiangyan/wtf-cli](https://github.com/haixiangyan/wtf-cli) - A command tool for looking up abbreviation.
 - [magicvideov2/magicvideov2.github.io](https://github.com/magicvideov2/magicvideov2.github.io) - 
 - [yotamorimoto/asg](https://github.com/yotamorimoto/asg) - ambient sound generator
-- [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [collective-soundworks/soundworks](https://github.com/collective-soundworks/soundworks) - Creative coding framework for distributed applications based on Web technologies.
 - [jasonwebb/2d-space-colonization-experiments](https://github.com/jasonwebb/2d-space-colonization-experiments) - Visual experiments exploring space colonization as a 2D morphogenesis tool.
 - [collective-soundworks/soundworks-template](https://github.com/collective-soundworks/soundworks-template) - application template for the soundworks framework
@@ -230,7 +232,6 @@
 - [dineshsonachalam/markdown-autodocs](https://github.com/dineshsonachalam/markdown-autodocs) - ✨ A GitHub Action that automatically generates & updates markdown content (like your README.md) from external or remote files.
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
 - [unconv/gpt4v-browsing](https://github.com/unconv/gpt4v-browsing) - Web Scraping with GPT-4 Vision API and Puppeteer
-- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
 - [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - Free Open Source ERP CRM Software Accounting Invoicing | Node Js React
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
@@ -238,6 +239,7 @@
 - [vvo/gifify](https://github.com/vvo/gifify) - 😻 Convert any video file to an optimized animated GIF.
 - [NordicPlayground/pc-xterm-lib](https://github.com/NordicPlayground/pc-xterm-lib) - 
 - [malik-tillman/Fluid-JS](https://github.com/malik-tillman/Fluid-JS) - A JavaScript library that allows for easy deployment of WebGL rendered fluid simulations.
+- [michael/editable-website](https://github.com/michael/editable-website) - A SvelteKit template for building CMS-free editable websites
 - [vatro/threeshake](https://github.com/vatro/threeshake) - migrate 'three/examples' modules to 'three/src' incl. all dependencies and available type definitions. This way they can be imported from 'three' and are treeshakable.
 - [vatro/my-app-svelthree-test-2](https://github.com/vatro/my-app-svelthree-test-2) - 
 - [marvelapp/y-redis](https://github.com/marvelapp/y-redis) - Redis persistence layer for Yjs
@@ -272,6 +274,7 @@
 
 ## Jupyter Notebook 
 
+- [FareedKhan-dev/deep-research-agent](https://github.com/FareedKhan-dev/deep-research-agent) - Deep research agentic system using Time Test Diffusion
 - [limitless-ai-inc/limitless-api-examples](https://github.com/limitless-ai-inc/limitless-api-examples) - Examples for using the Limitless Developer API
 - [merveenoyan/smol-vision](https://github.com/merveenoyan/smol-vision) - Recipes for shrinking, optimizing, customizing cutting edge vision models. 💜
 - [Emotional-Text-to-Speech/dl-for-emo-tts](https://github.com/Emotional-Text-to-Speech/dl-for-emo-tts) - :computer: :robot: A summary on our attempts at using Deep Learning approaches for Emotional Text to Speech :speaker:
@@ -388,6 +391,8 @@
 
 ## Python 
 
+- [EmilStenstrom/justhtml](https://github.com/EmilStenstrom/justhtml) - A pure Python HTML5 parser that just works. No C extensions to compile. No system dependencies to install. No complex API to learn.
+- [Sider-ai/hatchify](https://github.com/Sider-ai/hatchify) - 
 - [beeper/aibot](https://github.com/beeper/aibot) - A ChatGPT bot for Matrix
 - [vossenwout/free-llm-apis](https://github.com/vossenwout/free-llm-apis) - Scripts showing how to connect to a variety of llm providers with a free thier
 - [ConsistentlyInconsistentYT/Pixeltovoxelprojector](https://github.com/ConsistentlyInconsistentYT/Pixeltovoxelprojector) - Projects motion of pixels to a voxel
@@ -859,7 +864,6 @@
 - [threlte/three-inspect](https://github.com/threlte/three-inspect) - An inspector and debugger for Three.js
 - [bmdavis419/SvelteKit-Ecommerce](https://github.com/bmdavis419/SvelteKit-Ecommerce) - An opensource, fullstack e-commerce app build with SvelteKit
 - [dnass/svelte-canvas](https://github.com/dnass/svelte-canvas) - 🎨 Reactive canvas rendering with Svelte.
-- [michael/editable-website](https://github.com/michael/editable-website) - A SvelteKit template for building CMS-free editable websites
 - [brean/urdf-editor](https://github.com/brean/urdf-editor) - parse robot URDF and show it in svelte using threlte.xyz
 - [francoislanc/galileo-satellites-visualizer](https://github.com/francoislanc/galileo-satellites-visualizer) - Visualize Galileo satellites in orbit using svelthree
 - [rgossiaux/svelte-headlessui](https://github.com/rgossiaux/svelte-headlessui) - Unofficial Svelte port of the Headless UI component library
@@ -972,6 +976,10 @@
 - [hjjinx/chatting-app-react](https://github.com/hjjinx/chatting-app-react) - A vey simple online chat application.
 - [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - 💬 🤖  The most reliable tool for chatbots with advanced features. Be sure to 🌟 this repository for updates!
 - [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
+
+## Vue 
+
+- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 
 
 ## License
