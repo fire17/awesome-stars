@@ -266,6 +266,7 @@
 
 ## ai 
 
+- [kasperkamperman/MobileCameraTemplate](https://github.com/kasperkamperman/MobileCameraTemplate) - A HTML5, JS, CSS Camera interface template. Feel free to use it in your next Computer Vision or AI project.
 - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically
 - [agno-agi/agent-ui](https://github.com/agno-agi/agent-ui) - A modern chat interface for AI agents built with Next.js, Tailwind CSS, and TypeScript.
 - [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for multi-agent systems.
@@ -715,6 +716,7 @@
 
 ## computer-vision 
 
+- [kasperkamperman/MobileCameraTemplate](https://github.com/kasperkamperman/MobileCameraTemplate) - A HTML5, JS, CSS Camera interface template. Feel free to use it in your next Computer Vision or AI project.
 - [kongmunist/Webcam-Eyetracking](https://github.com/kongmunist/Webcam-Eyetracking) - Training scripts and data for a webcam-based, eye-tracking mouse
 - [fisal77/ArtaEye](https://github.com/fisal77/ArtaEye) - ArtaEye is web/mobile camera eye tracking to make beautiful drawing and artwork based on eye movements. In this project. We target people with disabilities to create an artwork. We try to translate th
 - [rohintangirala/eulerian-remote-heartrate-detection](https://github.com/rohintangirala/eulerian-remote-heartrate-detection) - Remote heart rate detection through Eulerian magnification of face videos
@@ -1225,6 +1227,7 @@
 
 ## javascript 
 
+- [kasperkamperman/MobileCameraTemplate](https://github.com/kasperkamperman/MobileCameraTemplate) - A HTML5, JS, CSS Camera interface template. Feel free to use it in your next Computer Vision or AI project.
 - [MichaelBarney/LinkFree](https://github.com/MichaelBarney/LinkFree) - A free and open source alternative to LinkTree
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [soulehshaikh99/create-svelte-electron-app](https://github.com/soulehshaikh99/create-svelte-electron-app) - Discover the easiest way to get started with the blend of Svelte and Electron JS App
@@ -1700,6 +1703,7 @@
 
 ## others 
 
+- [Y2KPRABU/MobileCamera](https://github.com/Y2KPRABU/MobileCamera) - A simple HTML5 App to capture camera from a mobile browser not from a mobile app
 - [simonw/justjshtml](https://github.com/simonw/justjshtml) - JavaScript port of EmilStenstrom/justhtml
 - [Sider-ai/hatchify](https://github.com/Sider-ai/hatchify) - 
 - [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
