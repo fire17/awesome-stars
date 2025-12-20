@@ -393,6 +393,7 @@
 
 ## Python 
 
+- [inclusionAI/AEnvironment](https://github.com/inclusionAI/AEnvironment) - Standardized environment infrastructure for Agentic AI development.
 - [EmilStenstrom/justhtml](https://github.com/EmilStenstrom/justhtml) - A pure Python HTML5 parser that just works. No C extensions to compile. No system dependencies to install. No complex API to learn.
 - [Sider-ai/hatchify](https://github.com/Sider-ai/hatchify) - 
 - [beeper/aibot](https://github.com/beeper/aibot) - A ChatGPT bot for Matrix
