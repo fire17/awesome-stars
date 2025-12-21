@@ -129,6 +129,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [material-design](#material-design)
+- [microservices](#microservices)
 - [mobile](#mobile)
 - [monero](#monero)
 - [mongodb](#mongodb)
@@ -243,6 +244,7 @@
 
 ## agent 
 
+- [inclusionAI/AEnvironment](https://github.com/inclusionAI/AEnvironment) - Standardized environment infrastructure for Agentic AI development.
 - [agno-agi/agent-ui](https://github.com/agno-agi/agent-ui) - A modern chat interface for AI agents built with Next.js, Tailwind CSS, and TypeScript.
 - [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simp
 - [plurai-ai/intellagent](https://github.com/plurai-ai/intellagent) - A framework for comprehensive diagnosis and optimization of agents using simulated, realistic synthetic interactions
@@ -1460,6 +1462,10 @@
 
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
+## microservices 
+
+- [openfaas/faasd](https://github.com/openfaas/faasd) - Lightweight and portable version of OpenFaaS
+
 ## mobile 
 
 - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically
@@ -1703,6 +1709,7 @@
 
 ## others 
 
+- [GVCLab/PersonaLive](https://github.com/GVCLab/PersonaLive) - PersonaLive! : Expressive Portrait Image Animation for Live Streaming
 - [Y2KPRABU/MobileCamera](https://github.com/Y2KPRABU/MobileCamera) - A simple HTML5 App to capture camera from a mobile browser not from a mobile app
 - [simonw/justjshtml](https://github.com/simonw/justjshtml) - JavaScript port of EmilStenstrom/justhtml
 - [Sider-ai/hatchify](https://github.com/Sider-ai/hatchify) - 
