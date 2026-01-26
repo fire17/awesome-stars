@@ -403,6 +403,7 @@
 
 ## Python 
 
+- [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) - UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
 - [violit-dev/violit](https://github.com/violit-dev/violit) - The High-Performance Python Web Framework. The simplicity of Streamlit, minus the reruns
 - [alexzhang13/rlm](https://github.com/alexzhang13/rlm) - General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes.
 - [omardimarzio/RLM-Graph](https://github.com/omardimarzio/RLM-Graph) - RLM-Graph - a system based on Recursive Language Models but structured on a directed graph
@@ -615,7 +616,7 @@
 - [floodsung/Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
 - [oauthlib/oauthlib](https://github.com/oauthlib/oauthlib) - A generic, spec-compliant, thorough implementation of the OAuth request-signing logic
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An LLM agent that conducts deep research (local and web) on any given topic and generates a long report with citations.
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers.
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [disler/multi-agent-postgres-data-analytics](https://github.com/disler/multi-agent-postgres-data-analytics) - The way we interact with our data is changing.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
@@ -835,6 +836,7 @@
 
 ## Rust 
 
+- [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework
 - [SIGNIAINDEX/SIGNIA](https://github.com/SIGNIAINDEX/SIGNIA) - Compiling real-world structures into verifiable on-chain forms.
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [awrped/ferrite-json](https://github.com/awrped/ferrite-json) - json validator that actually tells you how to fix your mistakes
@@ -877,6 +879,7 @@
 
 ## Shell 
 
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [humanplane/homunculus](https://github.com/humanplane/homunculus) - A Claude Code plugin that watches how you work, learns your patterns, and evolves itself to help you better.
 - [buildermethods/agent-os](https://github.com/buildermethods/agent-os) - Agent OS is a system for injecting your codebase standards and writing better specs for spec-driven development.
 - [OpenMANET/docs](https://github.com/OpenMANET/docs) - documentation around the OpenMANET project
@@ -917,6 +920,12 @@
 
 ## TypeScript 
 
+- [vercel-labs/specli](https://github.com/vercel-labs/specli) - Run any OpenAPI spec as an Agent optimized executable
+- [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!
+- [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
+- [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Agentic AI Infrastructure for magnifying HUMAN capabilities.
+- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 - [KeaBase/kea-research](https://github.com/KeaBase/kea-research) - KEA Research - Multi-AI collaboration platform that combines responses from multiple AI models, cross-validates information, and delivers verified, consensus-backed answers.
 - [punkpeye/pipenet](https://github.com/punkpeye/pipenet) - Expose your local server to the public internet instantly
 - [benjitaylor/agentation](https://github.com/benjitaylor/agentation) - The visual feedback tool for agents.
@@ -924,7 +933,7 @@
 - [better-auth/better-icons](https://github.com/better-auth/better-icons) - Skill and MCP server for searching and retrieving icons
 - [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) - 
 - [IndAlok/rzweb](https://github.com/IndAlok/rzweb) - A complete browser-based reverse engineering platform built on Rizin, running entirely client-side via WebAssembly.
-- [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - A React library that auto-generates shimmer skeletons from your actual component structure. Zero maintenance, pixel-perfect accuracy.
+- [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - Universal UI skeleton generator for React and Vue. Auto-adapts to your component structure with zero maintenance and pixel-perfect accuracy.
 - [Augani/openreel-video](https://github.com/Augani/openreel-video) - OpenReel Video - Professional browser-based video editor. Open source CapCut alternative. 100% browser-based, no installation, no cloud uploads, no watermarks.
 - [vudovn/antigravity-kit](https://github.com/vudovn/antigravity-kit) - 
 - [michaelshimeles/ralphy](https://github.com/michaelshimeles/ralphy) - My Ralph Wiggum setup, an autonomous bash script that runs Claude Code, Codex, OpenCode, Cursor agent, Qwen & Droid in a loop until your PRD is complete.
