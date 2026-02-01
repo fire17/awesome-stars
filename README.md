@@ -900,6 +900,7 @@
 
 ## Svelte 
 
+- [66HEX/frame](https://github.com/66HEX/frame) - Fast FFmpeg GUI
 - [threlte/three-inspect](https://github.com/threlte/three-inspect) - An inspector and debugger for Three.js
 - [bmdavis419/SvelteKit-Ecommerce](https://github.com/bmdavis419/SvelteKit-Ecommerce) - An opensource, fullstack e-commerce app build with SvelteKit
 - [dnass/svelte-canvas](https://github.com/dnass/svelte-canvas) - 🎨 Reactive canvas rendering with Svelte.
@@ -919,6 +920,7 @@
 
 ## TypeScript 
 
+- [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Local-first AI Notepad for Private Meetings
 - [vercel-labs/specli](https://github.com/vercel-labs/specli) - Run any OpenAPI spec as an Agent optimized executable
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork and Clawdbot for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
