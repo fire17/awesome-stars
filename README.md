@@ -26,6 +26,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Max](#max)
+- [Nunjucks](#nunjucks)
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
@@ -353,6 +354,10 @@
 
 - [stretta/TextureExplorer](https://github.com/stretta/TextureExplorer) - A utility for generating audio textures, environments and aleatoric expressions.
 
+## Nunjucks 
+
+- [Richard-Weiss/richard-weiss.github.io](https://github.com/Richard-Weiss/richard-weiss.github.io) - Personal blog, mostly for keeping everything at one spot for now.
+
 ## Others 
 
 - [CloudAI-X/threejs-skills](https://github.com/CloudAI-X/threejs-skills) - 
@@ -428,7 +433,7 @@
 - [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 - [zscole/gru](https://github.com/zscole/gru) - Self-hosted AI agent orchestration service controlled via Telegram, Discord, or Slack.
 - [ulab-uiuc/LLMRouter](https://github.com/ulab-uiuc/LLMRouter) - LLMRouter: An Open-Source Library for LLM Routing
-- [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) - UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
+- [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) - A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
 - [violit-dev/violit](https://github.com/violit-dev/violit) - The High-Performance Python Web Framework. The simplicity of Streamlit, minus the reruns
 - [alexzhang13/rlm](https://github.com/alexzhang13/rlm) - General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes.
 - [omardimarzio/RLM-Graph](https://github.com/omardimarzio/RLM-Graph) - RLM-Graph - a system based on Recursive Language Models but structured on a directed graph
@@ -950,6 +955,10 @@
 
 ## TypeScript 
 
+- [remotion-dev/skills](https://github.com/remotion-dev/skills) - Agent Skills
+- [Richard-Weiss/lemmy](https://github.com/Richard-Weiss/lemmy) - Wrapper around tool using LLMs for agentic workflows
+- [ndycode/oc-chatgpt-multi-auth](https://github.com/ndycode/oc-chatgpt-multi-auth) - Multi-account ChatGPT OAuth plugin for OpenCode — GPT-5.2/5.1 Codex with health-aware rotation, auto-failover, and session recovery
+- [maorinn/codex-equilibrium](https://github.com/maorinn/codex-equilibrium) - Lightweight Hono-based Node.js service that balances multiple ChatGPT Codex OAuth accounts, persists tokens locally, and proxies /v1/* with SSE streaming.
 - [open-circle/valibot](https://github.com/open-circle/valibot) - The modular and type safe schema library for validating structural data 🤖
 - [vinilana/ai-coders-context](https://github.com/vinilana/ai-coders-context) - 
 - [akdeb/ElatoAI](https://github.com/akdeb/ElatoAI) - Realtime AI Voice Agents with SoTA Multimodal AI models on Arduino ESP32 with &gt;15 minutes uninterrupted conversations globally for AI toys, AI companions, AI devices and more
@@ -964,7 +973,7 @@
 - [aj47/electron-native-mcp](https://github.com/aj47/electron-native-mcp) - interact with native electron via mcp server
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) - An app to monitor the (Codex) situation
-- [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw) - A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
+- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 - [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Local-first AI Notepad for Private Meetings
 - [vercel-labs/specli](https://github.com/vercel-labs/specli) - Run any OpenAPI spec as an Agent optimized executable
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
