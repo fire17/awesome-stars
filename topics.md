@@ -284,6 +284,8 @@
 
 ## ai 
 
+- [CodeUpdaterBot/ClickUi](https://github.com/CodeUpdaterBot/ClickUi) - The best way to use AI is on your own computer. Use local or paid API models, and ctrl+k to show/hide the chat UI. Experience the future of AI, and help build it too!
+- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Generate a timeline of your day, automatically
 - [aurelio-labs/semantic-router](https://github.com/aurelio-labs/semantic-router) - Superfast AI decision making and intelligent processing of multi-modal data.
@@ -443,12 +445,15 @@
 
 ## android 
 
+- [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in beta.
+- [thevindu-w/clip_share_client](https://github.com/thevindu-w/clip_share_client) - Clip Share Android client. Share clipboard between devices. Share files and screenshots securely.
+- [thevindu-w/clip_share_server](https://github.com/thevindu-w/clip_share_server) - Share Clipboard across devices. Share copied files and screenshots securely. Free and open-source tool that works on Windows, Linux, macOS, and Android.
+- [decentpaste/decentpaste](https://github.com/decentpaste/decentpaste) - Universal Clipboard for Every Device
 - [WSTxda/SwitchAI](https://github.com/WSTxda/SwitchAI) - Easily select and manage your preferred AI digital assistants on Android.
 - [adriangl/OverlayHelper](https://github.com/adriangl/OverlayHelper) - Handle Android "draw over other apps" permissions and queries in a version-agnostic way
 - [Stypox/dicio-android](https://github.com/Stypox/dicio-android) - Dicio assistant app for Android
 - [vilassn/whisper_android](https://github.com/vilassn/whisper_android) - Offline Speech Recognition with OpenAI Whisper and TensorFlow Lite for Android
 - [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android (f/w 2.1+) on screen keyboard for multiple languages.
-- [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in beta.
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) - Mobile-Agent: The Powerful GUI Agent Family
@@ -501,8 +506,6 @@
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine.
 - [jgravelle/AutoGroq](https://github.com/jgravelle/AutoGroq) - AutoGroq is a groundbreaking tool that revolutionizes the way users interact with Autogen™ and other AI assistants. By dynamically generating tailored teams of AI agents based on your project requirem
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
-- [lucidrains/x-transformers](https://github.com/lucidrains/x-transformers) - A concise but complete full-attention transformer with a set of promising experimental features from various papers
-- [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
 - [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python) - The official Python SDK for the ElevenLabs API.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
@@ -639,6 +642,7 @@
 
 ## chatgpt 
 
+- [CodeUpdaterBot/ClickUi](https://github.com/CodeUpdaterBot/ClickUi) - The best way to use AI is on your own computer. Use local or paid API models, and ctrl+k to show/hide the chat UI. Experience the future of AI, and help build it too!
 - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Generate a timeline of your day, automatically
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
@@ -885,13 +889,11 @@
 - [truefoundry/cognita](https://github.com/truefoundry/cognita) - RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry
 - [metavoiceio/metavoice-src](https://github.com/metavoiceio/metavoice-src) - Foundational model for human-like, expressive TTS
 - [YoongiKim/AutoCrawler](https://github.com/YoongiKim/AutoCrawler) - Google, Naver multiprocess image web crawler (Selenium)
-- [lucidrains/x-transformers](https://github.com/lucidrains/x-transformers) - A concise but complete full-attention transformer with a set of promising experimental features from various papers
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [floodsung/Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
-- [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [opendilab/awesome-RLHF](https://github.com/opendilab/awesome-RLHF) - A curated list of reinforcement learning with human feedback resources (continually updated)
 - [docarray/docarray](https://github.com/docarray/docarray) - Represent, send, store and search multimodal data
@@ -1310,6 +1312,7 @@
 
 ## ios 
 
+- [decentpaste/decentpaste](https://github.com/decentpaste/decentpaste) - Universal Clipboard for Every Device
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [XITRIX/iTorrent](https://github.com/XITRIX/iTorrent) - Torrent client for iOS 16+
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -1331,6 +1334,7 @@
 
 ## javascript 
 
+- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [kasperkamperman/MobileCameraTemplate](https://github.com/kasperkamperman/MobileCameraTemplate) - A HTML5, JS, CSS Camera interface template. Feel free to use it in your next Computer Vision or AI project.
@@ -1374,6 +1378,7 @@
 
 ## js 
 
+- [conversabit/wasap.js](https://github.com/conversabit/wasap.js) - Click to start a WhatsApp chat from your website!
 - [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 
@@ -1387,8 +1392,8 @@
 
 ## kotlin 
 
-- [WSTxda/SwitchAI](https://github.com/WSTxda/SwitchAI) - Easily select and manage your preferred AI digital assistants on Android.
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in beta.
+- [WSTxda/SwitchAI](https://github.com/WSTxda/SwitchAI) - Easily select and manage your preferred AI digital assistants on Android.
 - [ReVanced/revanced-patches-template](https://github.com/ReVanced/revanced-patches-template) - 👋🧩Template repository for ReVanced Patches
 
 ## kubernetes 
@@ -1411,6 +1416,8 @@
 
 ## linux 
 
+- [thevindu-w/clip_share_server](https://github.com/thevindu-w/clip_share_server) - Share Clipboard across devices. Share copied files and screenshots securely. Free and open-source tool that works on Windows, Linux, macOS, and Android.
+- [decentpaste/decentpaste](https://github.com/decentpaste/decentpaste) - Universal Clipboard for Every Device
 - [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agents
 - [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) - An app to monitor the (Codex) situation
 - [byrantech/laptop](https://github.com/byrantech/laptop) - anyon_e, a highly integrated, high end, open source laptop. Attempt the impossible.
@@ -1431,6 +1438,7 @@
 
 ## llm 
 
+- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Generate a timeline of your day, automatically
 - [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) - Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.
@@ -1560,6 +1568,8 @@
 
 ## macos 
 
+- [thevindu-w/clip_share_server](https://github.com/thevindu-w/clip_share_server) - Share Clipboard across devices. Share copied files and screenshots securely. Free and open-source tool that works on Windows, Linux, macOS, and Android.
+- [decentpaste/decentpaste](https://github.com/decentpaste/decentpaste) - Universal Clipboard for Every Device
 - [steipete/Peekaboo](https://github.com/steipete/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
 - [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agents
@@ -1598,6 +1608,7 @@
 
 ## mcp 
 
+- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [steipete/Peekaboo](https://github.com/steipete/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
 - [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agents
 - [assafelovic/skyll](https://github.com/assafelovic/skyll) - A tool for AI agents to discover and learn skills autonomously
@@ -1695,6 +1706,7 @@
 
 ## nextjs 
 
+- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [weaviate/elysia-frontend](https://github.com/weaviate/elysia-frontend) - Frontend Repository for Elysia
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically
@@ -1738,6 +1750,7 @@
 
 ## nodejs 
 
+- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [L1AD/claude-task-viewer](https://github.com/L1AD/claude-task-viewer) - A web-based Kanban board for viewing Claude Code tasks
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
@@ -1784,6 +1797,7 @@
 
 ## open-source 
 
+- [CodeUpdaterBot/ClickUi](https://github.com/CodeUpdaterBot/ClickUi) - The best way to use AI is on your own computer. Use local or paid API models, and ctrl+k to show/hide the chat UI. Experience the future of AI, and help build it too!
 - [fspecii/ace-step-ui](https://github.com/fspecii/ace-step-ui) - 🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!
 - [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Local-first AI Notepad for Private Meetings
 - [SIGNIAINDEX/SIGNIA](https://github.com/SIGNIAINDEX/SIGNIA) - Compiling real-world structures into verifiable on-chain forms.
@@ -1804,6 +1818,7 @@
 
 ## openai 
 
+- [CodeUpdaterBot/ClickUi](https://github.com/CodeUpdaterBot/ClickUi) - The best way to use AI is on your own computer. Use local or paid API models, and ctrl+k to show/hide the chat UI. Experience the future of AI, and help build it too!
 - [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) - Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 - [akdeb/ElatoAI](https://github.com/akdeb/ElatoAI) - Realtime AI Voice Agents with SoTA Multimodal AI models on Arduino ESP32 with &gt;15 minutes uninterrupted conversations globally for AI toys, AI companions, AI devices and more
@@ -1878,6 +1893,7 @@
 
 ## others 
 
+- [tribixbite/CleverKeys](https://github.com/tribixbite/CleverKeys) - Privacy-first neural Android keyboard with advanced swipe prediction
 - [vladimir-ikryanov/ClipBook](https://github.com/vladimir-ikryanov/ClipBook) - ClipBook is a macOS clipboard history app that stores everything you copy and lets you quickly access your clipboard history whenever you need it.
 - [lm-sys/RouteLLM](https://github.com/lm-sys/RouteLLM) - A framework for serving and evaluating LLM routers - save LLM costs without compromising quality
 - [Aeastr/Portal](https://github.com/Aeastr/Portal) - Portal is a SwiftUI package for element transitions across navigation contexts, scroll-based flowing headers, and advanced view mirroring capabilities.
@@ -1893,7 +1909,7 @@
 - [excalidraw/excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp) - Fast and streamable Excalidraw MCP App
 - [snarktank/antfarm](https://github.com/snarktank/antfarm) - Build your agent team in OpenClaw with one command.
 - [zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR) - GLM-OCR: Accurate ×  Fast × Comprehensive
-- [jlia0/tinyclaw](https://github.com/jlia0/tinyclaw) - TinyClaw is a team of AI agents that acts as your 24/7 personal assistant
+- [jlia0/tinyclaw](https://github.com/jlia0/tinyclaw) - TinyClaw is a team of personal agents that collaborate with each other
 - [mikeyobrien/rho](https://github.com/mikeyobrien/rho) - An AI agent that stays running, remembers across sessions, and checks in on its own. macOS, Linux, Android. Built on Pi.
 - [badlogic/pi-skills](https://github.com/badlogic/pi-skills) - Skills for pi coding agent (compatible with Claude Code and Codex CLI)
 - [weaviate/elysia](https://github.com/weaviate/elysia) - Python package and backend for the Elysia platform app.
@@ -1987,7 +2003,7 @@
 - [0x-Professor/Parallel-Cortex-PaCoRe-on-Llama-3B](https://github.com/0x-Professor/Parallel-Cortex-PaCoRe-on-Llama-3B) - This project demonstrates how parallel reasoning branches, multi-round refinement, and self-consistency voting can dramatically improve reasoning accuracy on a 3B parameter model.
 - [stepfun-ai/PaCoRe](https://github.com/stepfun-ai/PaCoRe) - PaCoRe: Learning to Scale Test-Time Compute with Parallel Coordinated Reasoning
 - [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) - Slimmed, cleaned and fine-tuned oh-my-opencode fork, consumes much less tokens
-- [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - The framework for User-Generated Interfaces
+- [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - The Generative UI framework
 - [soya-miruku/opencode](https://github.com/soya-miruku/opencode) - The open source coding agent.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [HumanAIGC/VividTalk](https://github.com/HumanAIGC/VividTalk) - VividTalk: One-Shot Audio-Driven Talking Head Generation Based on 3D Hybrid Prior
@@ -2086,7 +2102,7 @@
 - [HackerPoet/PySpace](https://github.com/HackerPoet/PySpace) - GLSL Fractal Ray Marcher in Python
 - [kitschpatrol/brain-grapher](https://github.com/kitschpatrol/brain-grapher) - Processing-based visualizer for NeuroSky EEG brainwave data  output from the Arduino Brain library.
 - [kitschpatrol/brain](https://github.com/kitschpatrol/brain) - Arduino library for reading Neurosky EEG brainwave data. (Tested with the MindFlex and Force Trainer toys.)
-- [KlingTeam/LivePortrait](https://github.com/KlingTeam/LivePortrait) - Bring portraits to life!
+- [KlingAIResearch/LivePortrait](https://github.com/KlingAIResearch/LivePortrait) - Bring portraits to life!
 - [noduslabs/graphdbmodel](https://github.com/noduslabs/graphdbmodel) - A basic data model for graph databases for a variety of uses.
 - [noduslabs/generate-fractal-signal](https://github.com/noduslabs/generate-fractal-signal) - Generates fractal signal and time series
 - [fudan-generative-vision/hallo](https://github.com/fudan-generative-vision/hallo) - Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation
@@ -2372,6 +2388,7 @@
 
 ## p2p 
 
+- [decentpaste/decentpaste](https://github.com/decentpaste/decentpaste) - Universal Clipboard for Every Device
 - [Contextualist/acp](https://github.com/Contextualist/acp) - Make terminal personal file transfers as simple as `cp`
 - [dwoz/python-nat-hole-punching](https://github.com/dwoz/python-nat-hole-punching) - UDP and TCP NAT hole punching examples in python
 - [dxos/dxos](https://github.com/dxos/dxos) - TypeScript implementation of the DXOS protocols, SDK, toolchain and Composer.
@@ -2427,6 +2444,7 @@
 
 ## privacy 
 
+- [decentpaste/decentpaste](https://github.com/decentpaste/decentpaste) - Universal Clipboard for Every Device
 - [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts) - Official Anytype client for MacOS, Linux, and Windows
 - [anyproto/any-sync](https://github.com/anyproto/any-sync) - An open-source protocol enabling high-performance, local-first, peer-to-peer, end-to-end encrypted collaborative apps.
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
@@ -2469,6 +2487,7 @@
 
 ## python 
 
+- [CodeUpdaterBot/ClickUi](https://github.com/CodeUpdaterBot/ClickUi) - The best way to use AI is on your own computer. Use local or paid API models, and ctrl+k to show/hide the chat UI. Experience the future of AI, and help build it too!
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agents
 - [violit-dev/violit](https://github.com/violit-dev/violit) - The High-Performance Python Web Framework. The simplicity of Streamlit, minus the reruns
@@ -2719,6 +2738,7 @@
 
 ## reactjs 
 
+- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
 - [Just-Moh-it/Pckd](https://github.com/Just-Moh-it/Pckd) - The ⚡️ analytics-intensive, self-hostable link-shortener with a beautiful UI | AKA free bit.ly alternative 🚀
 - [TienNHM/tiennhm.github.io](https://github.com/TienNHM/tiennhm.github.io) - Fullstack Developer
@@ -2730,7 +2750,6 @@
 
 ## reinforcement-learning 
 
-- [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [opendilab/awesome-RLHF](https://github.com/opendilab/awesome-RLHF) - A curated list of reinforcement learning with human feedback resources (continually updated)
 
@@ -2761,6 +2780,7 @@
 
 ## rust 
 
+- [decentpaste/decentpaste](https://github.com/decentpaste/decentpaste) - Universal Clipboard for Every Device
 - [66HEX/frame](https://github.com/66HEX/frame) - Fast FFmpeg GUI
 - [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Local-first AI Notepad for Private Meetings
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
@@ -2811,6 +2831,7 @@
 - [agno-agi/agent-ui](https://github.com/agno-agi/agent-ui) - A modern chat interface for AI agents built with Next.js, Tailwind CSS, and TypeScript.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [Just-Moh-it/Pckd](https://github.com/Just-Moh-it/Pckd) - The ⚡️ analytics-intensive, self-hostable link-shortener with a beautiful UI | AKA free bit.ly alternative 🚀
 - [nelsontky/gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
@@ -3024,10 +3045,12 @@
 
 ## typescript 
 
+- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [open-circle/valibot](https://github.com/open-circle/valibot) - The modular and type safe schema library for validating structural data 🤖
 - [fspecii/ace-step-ui](https://github.com/fspecii/ace-step-ui) - 🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!
 - [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Local-first AI Notepad for Private Meetings
 - [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [GhostCatcg/3d-earth](https://github.com/GhostCatcg/3d-earth) - Create a 3D Earth using Three.js and TypeScript.
 - [truefoundry/cognita](https://github.com/truefoundry/cognita) - RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry
 - [LZQCN/web-message-rpc](https://github.com/LZQCN/web-message-rpc) - A class for implementing Remote Procedure Call (RPC) between web applications, providing an easy-to-use interface with ES6 Proxy-based method invocation.
@@ -3154,6 +3177,8 @@
 
 ## windows 
 
+- [thevindu-w/clip_share_server](https://github.com/thevindu-w/clip_share_server) - Share Clipboard across devices. Share copied files and screenshots securely. Free and open-source tool that works on Windows, Linux, macOS, and Android.
+- [decentpaste/decentpaste](https://github.com/decentpaste/decentpaste) - Universal Clipboard for Every Device
 - [SamNet-dev/paqctl](https://github.com/SamNet-dev/paqctl) - Unified proxy manager for bypassing firewalls - supports Paqet (KCP/raw socket) and GFW-Knocker (violated TCP/QUIC) with dual-backend simultaneous operation
 - [soulehshaikh99/create-svelte-electron-app](https://github.com/soulehshaikh99/create-svelte-electron-app) - Discover the easiest way to get started with the blend of Svelte and Electron JS App
 - [yinkaisheng/Python-UIAutomation-for-Windows](https://github.com/yinkaisheng/Python-UIAutomation-for-Windows) - 🐍Python 3 wrapper of Microsoft UIAutomation. Support UIAutomation for MFC, WindowsForm, WPF, Modern UI(Metro UI), Qt, IE, Firefox, Chrome ...
