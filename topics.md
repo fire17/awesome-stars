@@ -237,7 +237,6 @@
 - [website](#website)
 - [whatsapp-bot](#whatsapp-bot)
 - [windows](#windows)
-- [xcode](#xcode)
 - [xml](#xml)
 - [youtube](#youtube)
 - [zsh](#zsh)
@@ -714,7 +713,6 @@
 
 ## chatgpt-api 
 
-- [scouzi1966/maclocal-api](https://github.com/scouzi1966/maclocal-api) - 'afm' command cli: macOS server and single prompt mode that exposes Apple's Foundation and MLX Models and other APIs running on your Mac through a single aggregated OpenAI-compatible API endpoint. Sup
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 - [MahdeenSky/ChatGPT-Terminal-Completion](https://github.com/MahdeenSky/ChatGPT-Terminal-Completion) - Attempt at using ChatGPT to issue commands based on comments in the terminal.
 - [BLuFeNiX/PlayGPT](https://github.com/BLuFeNiX/PlayGPT) - Runs a sharable ChatGPT docker container, allowing you to share a ChatGPT session with friends via a web browser. You all control the session, as though using the same keyboard.
@@ -2147,7 +2145,7 @@
 - [lcqysl/DiffThinker](https://github.com/lcqysl/DiffThinker) - DiffThinker: Towards Generative Multimodal Reasoning with Diffusion Models
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
 - [OpenMANET/docs](https://github.com/OpenMANET/docs) - documentation around the OpenMANET project
-- [GVCLab/PersonaLive](https://github.com/GVCLab/PersonaLive) - PersonaLive! : Expressive Portrait Image Animation for Live Streaming
+- [GVCLab/PersonaLive](https://github.com/GVCLab/PersonaLive) - [CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming
 - [Y2KPRABU/MobileCamera](https://github.com/Y2KPRABU/MobileCamera) - A simple HTML5 App to capture camera from a mobile browser not from a mobile app
 - [simonw/justjshtml](https://github.com/simonw/justjshtml) - JavaScript port of EmilStenstrom/justhtml
 - [Sider-ai/hatchify](https://github.com/Sider-ai/hatchify) - 
@@ -3352,10 +3350,6 @@
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [vidify/vidify](https://github.com/vidify/vidify) - Detect the songs playing on your device and play their music videos anywhere
 - [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
-
-## xcode 
-
-- [scouzi1966/maclocal-api](https://github.com/scouzi1966/maclocal-api) - 'afm' command cli: macOS server and single prompt mode that exposes Apple's Foundation and MLX Models and other APIs running on your Mac through a single aggregated OpenAI-compatible API endpoint. Sup
 
 ## xml 
 
