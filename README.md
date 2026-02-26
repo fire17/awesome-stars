@@ -204,7 +204,6 @@
 - [NVIDIA/garak](https://github.com/NVIDIA/garak) - the LLM vulnerability scanner
 - [scraperai/scraperai](https://github.com/scraperai/scraperai) - ScraperAI is an open-source, AI-powered tool designed to simplify web scraping for users of all skill levels.
 - [conversabit/wasap.js](https://github.com/conversabit/wasap.js) - Click to start a WhatsApp chat from your website!
-- [scouzi1966/maclocal-api](https://github.com/scouzi1966/maclocal-api) - 'afm' command cli: macOS server and single prompt mode that exposes Apple's Foundation and MLX Models and other APIs running on your Mac through a single aggregated OpenAI-compatible API endpoint. Sup
 - [L1AD/claude-task-viewer](https://github.com/L1AD/claude-task-viewer) - A web-based Kanban board for viewing Claude Code tasks
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [Arcanum-Sec/sec-context](https://github.com/Arcanum-Sec/sec-context) - AI Code Security Anti-Patterns distilled from 150+ sources to help LLMs generate safer code.
@@ -302,7 +301,7 @@
 - [vvo/gifify](https://github.com/vvo/gifify) - 😻 Convert any video file to an optimized animated GIF.
 - [NordicPlayground/pc-xterm-lib](https://github.com/NordicPlayground/pc-xterm-lib) - 
 - [malik-tillman/Fluid-JS](https://github.com/malik-tillman/Fluid-JS) - A JavaScript library that allows for easy deployment of WebGL rendered fluid simulations.
-- [michael/editable-website](https://github.com/michael/editable-website) - A SvelteKit template for building CMS-free editable websites
+- [michael/editable-website](https://github.com/michael/editable-website) - CMS-free in-place editable websites with Svelte
 - [vatro/threeshake](https://github.com/vatro/threeshake) - migrate 'three/examples' modules to 'three/src' incl. all dependencies and available type definitions. This way they can be imported from 'three' and are treeshakable.
 - [vatro/my-app-svelthree-test-2](https://github.com/vatro/my-app-svelthree-test-2) - 
 - [marvelapp/y-redis](https://github.com/marvelapp/y-redis) - Redis persistence layer for Yjs
@@ -408,7 +407,6 @@
 
 ## Others 
 
-- [TheAgentContextLab/OneContext](https://github.com/TheAgentContextLab/OneContext) - OneContext is an Agent Self-Managed Context layer, it gives your team a unified context for AII AI Agents.
 - [devops-interviews/devops-interview-questions](https://github.com/devops-interviews/devops-interview-questions) - DevOps Interview Questions
 - [CyanVoxel/Obsidian-Vault-Template](https://github.com/CyanVoxel/Obsidian-Vault-Template) - A Template for my Obsidian Vault.
 - [Rowow1/Open-sourced-off-the-shelf-ion-exchange-membrane](https://github.com/Rowow1/Open-sourced-off-the-shelf-ion-exchange-membrane) - Low-Cost Homogeneous Ion Exchange Membrane Formed from Off-the-Shelf Precursors and Manufacturing Process Thereof
@@ -527,7 +525,7 @@
 - [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
 - [cisco-ai-defense/skill-scanner](https://github.com/cisco-ai-defense/skill-scanner) - Security Scanner for Agent Skills
 - [assafelovic/skyll](https://github.com/assafelovic/skyll) - A tool for AI agents to discover and learn skills autonomously
-- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents. OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system p
+- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu
 - [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
 - [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 - [zscole/gru](https://github.com/zscole/gru) - Self-hosted AI agent orchestration service controlled via Telegram, Discord, or Slack.
@@ -964,7 +962,6 @@
 - [spacedriveapp/spacebot](https://github.com/spacedriveapp/spacebot) - An AI agent for teams, communities, and multi-user environments.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE & text editor: easy, powerful and fast
 - [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Claude Code, OpenCode, Mistral Vibe, Codex CLI, Gemini CLI Coding Agent Terminal Session manager via tmux and git Worktrees
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - 206 models. 30 providers. One command to find what runs on your hardware.
@@ -1036,6 +1033,7 @@
 - [Dimillian/Skills](https://github.com/Dimillian/Skills) - My Codex Skills
 - [mvanhorn/clawdbot-skill-manus](https://github.com/mvanhorn/clawdbot-skill-manus) - Manus AI Agent skill for Clawdbot - create autonomous AI tasks via Manus API
 - [danshapiro/fresheyes](https://github.com/danshapiro/fresheyes) - Independent code review for Claude Code using a different model
+- [SamNet-dev/paqctl](https://github.com/SamNet-dev/paqctl) - Unified proxy manager for bypassing firewalls - supports Paqet (KCP/raw socket) and GFW-Knocker (violated TCP/QUIC) with dual-backend simultaneous operation
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [humanplane/homunculus](https://github.com/humanplane/homunculus) - A Claude Code plugin that watches how you work, learns your patterns, and evolves itself to help you better.
 - [buildermethods/agent-os](https://github.com/buildermethods/agent-os) - Agent OS is a system for injecting your codebase standards and writing better specs for spec-driven development.
@@ -1075,6 +1073,7 @@
 - [Aeastr/Portal](https://github.com/Aeastr/Portal) - Portal is a SwiftUI package for element transitions across navigation contexts, scroll-based flowing headers, and advanced view mirroring capabilities.
 - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Generate a timeline of your day, automatically
 - [steipete/Peekaboo](https://github.com/steipete/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
+- [scouzi1966/maclocal-api](https://github.com/scouzi1966/maclocal-api) - 'afm' command cli: macOS server and single prompt mode that exposes Apple's Foundation and MLX Models and other APIs running on your Mac through a single aggregated OpenAI-compatible API endpoint. Sup
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
 - [nfarina/ramblr](https://github.com/nfarina/ramblr) - Get the best dictation from the Whisper API everywhere on your Mac.
 - [XITRIX/iTorrent](https://github.com/XITRIX/iTorrent) - Torrent client for iOS 16+
@@ -1095,6 +1094,7 @@
 - [jayminwest/overstory](https://github.com/jayminwest/overstory) - Project-agnostic swarm system for Claude Code agent orchestration
 - [manish-raana/openclaw-mission-control](https://github.com/manish-raana/openclaw-mission-control) - Mission Control is a simple, real-time web UI for monitoring agents and task workflows. Built with Convex and React, it provides a clean dashboard to track task state, agent activity, and live logs — 
 - [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork built for teams, powered by opencode
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
 - [kil0bit-kb/scrcpy-gui](https://github.com/kil0bit-kb/scrcpy-gui) - A modern, high-performance GUI for the scrcpy
 - [AtomicBot-ai/atomicbot](https://github.com/AtomicBot-ai/atomicbot) - The Fastest Way to Run OpenClaw 🦞
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
@@ -1130,14 +1130,14 @@
 - [jawond/shannon](https://github.com/jawond/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
 - [fire17/bird](https://github.com/fire17/bird) - Bird is a cli for twitter, so your agents can tweet.
 - [jawond/bird](https://github.com/jawond/bird) - Bird is a cli for twitter, so your agents can tweet.
-- [danshapiro/freshell](https://github.com/danshapiro/freshell) - 
+- [danshapiro/freshell](https://github.com/danshapiro/freshell) - The Agentic IDE (or, the loving child of tmux and claude code)
 - [remotion-dev/skills](https://github.com/remotion-dev/skills) - Agent Skills
 - [Richard-Weiss/lemmy](https://github.com/Richard-Weiss/lemmy) - Wrapper around tool using LLMs for agentic workflows
 - [ndycode/oc-chatgpt-multi-auth](https://github.com/ndycode/oc-chatgpt-multi-auth) - Multi-account ChatGPT OAuth plugin for OpenCode — GPT-5.3/5.2 Codex with health-aware rotation, auto-failover, and session recovery
 - [maorinn/codex-equilibrium](https://github.com/maorinn/codex-equilibrium) - Lightweight Hono-based Node.js service that balances multiple ChatGPT Codex OAuth accounts, persists tokens locally, and proxies /v1/* with SSE streaming.
 - [open-circle/valibot](https://github.com/open-circle/valibot) - The modular and type safe schema library for validating structural data 🤖
 - [vinilana/ai-coders-context](https://github.com/vinilana/ai-coders-context) - 
-- [akdeb/ElatoAI](https://github.com/akdeb/ElatoAI) - Realtime AI Voice Agents with SoTA Multimodal AI models on Arduino ESP32 with &gt;15 minutes uninterrupted conversations globally for AI toys, AI companions, AI devices and more
+- [akdeb/ElatoAI](https://github.com/akdeb/ElatoAI) - Realtime AI Voice Agents with SoTA Multimodal AI models on Arduino ESP32 with &gt;15 minutes uninterrupted conversations globally for AI Toys, AI Companions, AI Devices and more
 - [DangJin/pdf2video](https://github.com/DangJin/pdf2video) - Transform PDF documents into engaging video presentations with smooth animations.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [likec4/likec4](https://github.com/likec4/likec4) - Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code
