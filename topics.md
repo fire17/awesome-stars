@@ -79,6 +79,7 @@
 - [emacs](#emacs)
 - [embedded](#embedded)
 - [emoji](#emoji)
+- [emulator](#emulator)
 - [english](#english)
 - [ethereum](#ethereum)
 - [facebook](#facebook)
@@ -259,6 +260,7 @@
 
 ## agent 
 
+- [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
 - [ValueCell-ai/ClawX](https://github.com/ValueCell-ai/ClawX) - ClawX is a desktop app that provides a graphical interface for OpenClaw AI agents. It turns CLI-based AI orchestration into a desktop experience without using the terminal. China website is https://cl
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop"
 - [spacedriveapp/spacebot](https://github.com/spacedriveapp/spacebot) - An AI agent for teams, communities, and multi-user environments.
@@ -299,6 +301,8 @@
 
 ## ai 
 
+- [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
+- [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) - OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, 
 - [ValueCell-ai/ClawX](https://github.com/ValueCell-ai/ClawX) - ClawX is a desktop app that provides a graphical interface for OpenClaw AI agents. It turns CLI-based AI orchestration into a desktop experience without using the terminal. China website is https://cl
 - [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Open-source context retrieval layer for AI agents
 - [vava-nessa/free-coding-models](https://github.com/vava-nessa/free-coding-models) - Find the fastest coding LLM models in seconds
@@ -435,7 +439,8 @@
 
 ## ai-agents 
 
-- [eugene1g/agent-safehouse](https://github.com/eugene1g/agent-safehouse) - Sandbox for local AI agents so they read/write only what they need
+- [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
+- [eugene1g/agent-safehouse](https://github.com/eugene1g/agent-safehouse) - Sandbox your local AI agents so they can read/write only what they need
 - [abhi1693/openclaw-mission-control](https://github.com/abhi1693/openclaw-mission-control) - AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.
 - [BradGroux/veritas-kanban](https://github.com/BradGroux/veritas-kanban) - The unfiltered truth about where your project stands. Lightweight orchestration platform built for the agentic AI era.
 - [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Open-source context retrieval layer for AI agents
@@ -491,6 +496,7 @@
 
 ## android 
 
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in beta.
 - [thevindu-w/clip_share_client](https://github.com/thevindu-w/clip_share_client) - Clip Share Android client. Share clipboard between devices. Share files and screenshots securely.
 - [thevindu-w/clip_share_server](https://github.com/thevindu-w/clip_share_server) - Share Clipboard across devices. Share copied files and screenshots securely. Free and open-source tool that works on Windows, Linux, macOS, and Android.
@@ -773,12 +779,13 @@
 
 ## cli 
 
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [surge-downloader/Surge](https://github.com/surge-downloader/Surge) - Blazing fast TUI download manager built in Go for power users
 - [Higangssh/gitcredits](https://github.com/Higangssh/gitcredits) - Git log doesn't do them justice. Turn your contributors into movie stars.
 - [yigitkonur/cli-continues](https://github.com/yigitkonur/cli-continues) - resume any AI coding session in another tool — Claude Code, Copilot, Gemini, Codex, Cursor
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Claude Code, OpenCode, Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev Coding Agent Terminal Session manager via tmux and git Worktrees
+- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Claude Code, OpenCode, Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI Coding Agent Terminal Session manager via tmux and git Worktrees
 - [Cranot/roam-code](https://github.com/Cranot/roam-code) - Architectural intelligence layer for AI coding agents. Structural graph, architecture governance, multi-agent orchestration, vulnerability mapping. 139 commands, 101 MCP tools, 26 languages, 100% loca
 - [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
@@ -808,6 +815,7 @@
 
 ## clojure 
 
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
 
 ## cloud 
@@ -838,7 +846,8 @@
 
 ## command-line 
 
-- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [es7s/holms](https://github.com/es7s/holms) - CLI UTF-8 to Unicode code points decomposer
@@ -989,6 +998,7 @@
 
 ## design 
 
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [benjitaylor/agentation](https://github.com/benjitaylor/agentation) - The visual feedback tool for agents.
 - [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
@@ -997,6 +1007,7 @@
 
 ## developer-tools 
 
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [BradGroux/veritas-kanban](https://github.com/BradGroux/veritas-kanban) - The unfiltered truth about where your project stands. Lightweight orchestration platform built for the agentic AI era.
 - [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Open-source context retrieval layer for AI agents
 - [johannesjo/parallel-code](https://github.com/johannesjo/parallel-code) - Run Claude Code, Codex, and Gemini side by side — each in      its own git worktree
@@ -1007,14 +1018,14 @@
 - [Cranot/roam-code](https://github.com/Cranot/roam-code) - Architectural intelligence layer for AI coding agents. Structural graph, architecture governance, multi-agent orchestration, vulnerability mapping. 139 commands, 101 MCP tools, 26 languages, 100% loca
 - [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 - [aeromomo/claw-compactor](https://github.com/aeromomo/claw-compactor) - 🦞 LLM Token Compression & Reduction Tool — Cut AI agent token costs by up to 97%. 6-layer deterministic context compression for AI agent workspaces. No LLM required. Prompt compression, context window
-- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
 - [ndycode/oc-chatgpt-multi-auth](https://github.com/ndycode/oc-chatgpt-multi-auth) - OpenCode plugin for using ChatGPT Plus/Pro in GPT-5 and Codex workflows with OAuth login, multi-account rotation, failover, and guided setup
 - [L1AD/claude-task-viewer](https://github.com/L1AD/claude-task-viewer) - A web-based Kanban board for viewing Claude Code tasks
 - [violit-dev/violit](https://github.com/violit-dev/violit) - Pure Python Web Framework. Streamlit simplicity, no reruns.
 - [humanplane/homunculus](https://github.com/humanplane/homunculus) - A Claude Code plugin that watches how you work, learns your patterns, and evolves itself to help you better.
 - [SIGNIAINDEX/SIGNIA](https://github.com/SIGNIAINDEX/SIGNIA) - Compiling real-world structures into verifiable on-chain forms.
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-- [cocojojo5213/Dev-Janitor](https://github.com/cocojojo5213/Dev-Janitor) - Your Vibe Coding Toolkit A cross-platform desktop application for managing development tools, AI coding assistants, and dependencies
+- [cocojojo5213/Dev-Janitor](https://github.com/cocojojo5213/Dev-Janitor) - Cross-platform desktop app for cleaning development artifacts, managing local developer tools, and checking common environment issues.
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, manage agentic software at scale.
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
@@ -1059,6 +1070,7 @@
 
 ## docker 
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
@@ -1118,6 +1130,10 @@
 
 - [j-ncel/Spacemoji](https://github.com/j-ncel/Spacemoji) - A single-file HTML5 Canvas animation that simulates a journey through emoji-filled space.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+
+## emulator 
+
+- [lqs/retrotick](https://github.com/lqs/retrotick) - 💾 Run classic Windows & DOS executables in the browser — x86 CPU + Win32/Win16/DOS APIs in pure TypeScript
 
 ## english 
 
@@ -1274,6 +1290,7 @@
 
 ## go 
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [surge-downloader/Surge](https://github.com/surge-downloader/Surge) - Blazing fast TUI download manager built in Go for power users
 - [tulir/whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API
 - [mautrix/whatsapp](https://github.com/mautrix/whatsapp) - A Matrix-WhatsApp puppeting bridge
@@ -1289,6 +1306,7 @@
 
 ## golang 
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [livekit/livekit](https://github.com/livekit/livekit) - End-to-end realtime stack for connecting humans and AI
 - [junevm/splathash](https://github.com/junevm/splathash) - compress any image to 16 bytes and reconstruct a blurry preview. Like blurhash and thumbhash, but smaller.
 - [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) - High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.
@@ -1355,6 +1373,7 @@
 
 ## hacktoberfest 
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
@@ -1475,6 +1494,7 @@
 
 ## javascript 
 
+- [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
 - [dimartarmizi/map-to-poster](https://github.com/dimartarmizi/map-to-poster) - MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with various themes, layouts, and export options.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [j-ncel/Spacemoji](https://github.com/j-ncel/Spacemoji) - A single-file HTML5 Canvas animation that simulates a journey through emoji-filled space.
@@ -1544,6 +1564,8 @@
 
 ## kubernetes 
 
+- [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) - OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab infrastru
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
@@ -1567,8 +1589,9 @@
 
 ## linux 
 
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Feature rich application Launcher for Linux
-- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
 - [thevindu-w/clip_share_server](https://github.com/thevindu-w/clip_share_server) - Share Clipboard across devices. Share copied files and screenshots securely. Free and open-source tool that works on Windows, Linux, macOS, and Android.
 - [decentpaste/decentpaste](https://github.com/decentpaste/decentpaste) - Universal Clipboard for Every Device
 - [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource local-first sandboxes for ai agents
@@ -1591,14 +1614,15 @@
 
 ## llm 
 
-- [eugene1g/agent-safehouse](https://github.com/eugene1g/agent-safehouse) - Sandbox for local AI agents so they read/write only what they need
+- [sidmohan0/autoresearch-local](https://github.com/sidmohan0/autoresearch-local) - Apple Silicon GGUF benchmarking and autotuning for llama.cpp local inference, adapted from Karpathy's autoresearch loop
+- [eugene1g/agent-safehouse](https://github.com/eugene1g/agent-safehouse) - Sandbox your local AI agents so they can read/write only what they need
 - [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
 - [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Open-source context retrieval layer for AI agents
 - [sangrokjung/claude-forge](https://github.com/sangrokjung/claude-forge) - Supercharge Claude Code with 11 AI agents, 36 commands & 15 skills — the claude-code plugin framework inspired by oh-my-zsh. 6-layer security hooks included. 5-min install.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
 - [swark-io/swark](https://github.com/swark-io/swark) - Create architecture diagrams from code automatically using large language models (LLMs).
-- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Claude Code, OpenCode, Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev Coding Agent Terminal Session manager via tmux and git Worktrees
+- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Claude Code, OpenCode, Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI Coding Agent Terminal Session manager via tmux and git Worktrees
 - [RichardHruby/login-machine](https://github.com/RichardHruby/login-machine) - AI-powered login automation. Uses Claude to classify login pages and Playwright to interact with them.
 - [tomascupr/sandstorm](https://github.com/tomascupr/sandstorm) - Run Claude agents in secure cloud sandboxes — via API, CLI, or Slack. One call. Full agent. Zero infrastructure.
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
@@ -1733,7 +1757,9 @@
 
 ## macos 
 
-- [eugene1g/agent-safehouse](https://github.com/eugene1g/agent-safehouse) - Sandbox for local AI agents so they read/write only what they need
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+- [sidmohan0/autoresearch-local](https://github.com/sidmohan0/autoresearch-local) - Apple Silicon GGUF benchmarking and autotuning for llama.cpp local inference, adapted from Karpathy's autoresearch loop
+- [eugene1g/agent-safehouse](https://github.com/eugene1g/agent-safehouse) - Sandbox your local AI agents so they can read/write only what they need
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
@@ -1741,7 +1767,7 @@
 - [olvvier/apple-silicon-accelerometer](https://github.com/olvvier/apple-silicon-accelerometer) - reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid
 - [sangrokjung/claude-forge](https://github.com/sangrokjung/claude-forge) - Supercharge Claude Code with 11 AI agents, 36 commands & 15 skills — the claude-code plugin framework inspired by oh-my-zsh. 6-layer security hooks included. 5-min install.
 - [jsattler/BetterCapture](https://github.com/jsattler/BetterCapture) - The macOS screen recorder for the rest of us - always free and open source with a native look and feel  📺
-- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
 - [thevindu-w/clip_share_server](https://github.com/thevindu-w/clip_share_server) - Share Clipboard across devices. Share copied files and screenshots securely. Free and open-source tool that works on Windows, Linux, macOS, and Android.
 - [decentpaste/decentpaste](https://github.com/decentpaste/decentpaste) - Universal Clipboard for Every Device
 - [steipete/Peekaboo](https://github.com/steipete/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
@@ -1876,6 +1902,7 @@
 
 ## neovim 
 
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 
@@ -1942,6 +1969,7 @@
 
 ## nodejs 
 
+- [chrysb/alphaclaw](https://github.com/chrysb/alphaclaw) - The ultimate setup harness for OpenClaw. Deploy in minutes. Stay running for months. No CLI required.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [macaly/almostnode](https://github.com/macaly/almostnode) - Node.js in your browser. Just like that.
 - [facebook/memlab](https://github.com/facebook/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
@@ -1971,6 +1999,7 @@
 
 ## npm 
 
+- [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev) - a fast, modern browser for the npm registry
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 
 ## numpy 
@@ -2099,6 +2128,12 @@
 
 ## others 
 
+- [HumeAI/tada](https://github.com/HumeAI/tada) - Open Source Speech Language Model
+- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
+- [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) - Generate code from the terminal!
+- [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
+- [nbardy/unleashd](https://github.com/nbardy/unleashd) - A local, git-worktree multi-agent swarm orchestrator for Codex, Claude, Gemini, and OpenCode
+- [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
 - [BenD10/whatmodels](https://github.com/BenD10/whatmodels) - Figure out what models you can run locally
 - [knowsuchagency/mcp2cli](https://github.com/knowsuchagency/mcp2cli) - Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen
 - [double-ai/doubleGraph](https://github.com/double-ai/doubleGraph) - DoubleAI’s hyperoptimised version of cuGraph
@@ -2161,7 +2196,6 @@
 - [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey) - Perfect Green Screen Keys
 - [jyoung105/frouter](https://github.com/jyoung105/frouter) - Free model router CLI to discover, benchmark, and configure free AI models for OpenCode and OpenClaw
 - [sidinsearch/superbrain](https://github.com/sidinsearch/superbrain) - SuperBrain — AI-powered save-it-later brain for Instagram, YouTube & Web
-- [lqs/retrotick](https://github.com/lqs/retrotick) - 💾 Runs unmodified .exe files in the browser. x86 CPU + Win32/Win16/DOS API layer built in TypeScript.
 - [raphaelmansuy/edgequake](https://github.com/raphaelmansuy/edgequake) - High-performance GraphRAG inspired from LightRag written in Rust
 - [thellimist/clihub](https://github.com/thellimist/clihub) - Turn any MCP server into CLI
 - [ForLoopCodes/contextplus](https://github.com/ForLoopCodes/contextplus) - Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining RAG, Tree-sitter AST, Spectral Clustering, and Obsidian-style
@@ -2179,6 +2213,7 @@
 - [owengretzinger/constellagent](https://github.com/owengretzinger/constellagent) - Desktop app for running multiple AI agents in parallel. Each agent gets its own terminal, editor, and git worktree, all in one window.
 - [Conway-Research/automaton](https://github.com/Conway-Research/automaton) - The first AI that can earn its own existence, replicate, and evolve — without needing a human
 - [davidhariri/life-system](https://github.com/davidhariri/life-system) - A plain-text life operating system powered by Claude Code. Inspired by Carmack's .plan files and Franklin's systematic self-improvement.
+- [speedyfoxai/openclaw-jarvis-memory](https://github.com/speedyfoxai/openclaw-jarvis-memory) - ⚠️ DEPRECATED - Use openclaw-true-recall-base instead
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [manish-raana/openclaw-mission-control](https://github.com/manish-raana/openclaw-mission-control) - Mission Control is a simple, real-time web UI for monitoring agents and task workflows. Built with Convex and React, it provides a clean dashboard to track task state, agent activity, and live logs — 
 - [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork built for teams, powered by opencode
@@ -2773,12 +2808,13 @@
 
 ## productivity 
 
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 - [sangrokjung/claude-forge](https://github.com/sangrokjung/claude-forge) - Supercharge Claude Code with 11 AI agents, 36 commands & 15 skills — the claude-code plugin framework inspired by oh-my-zsh. 6-layer security hooks included. 5-min install.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualiza
 - [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
-- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
 - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Turn your screen into a timeline of your workday. 1-click standups, perf review receipts, and beautiful time visualizations. Local AI or BYO key.
 - [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Agentic AI Infrastructure for magnifying HUMAN capabilities.
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -3137,12 +3173,13 @@
 
 ## rust 
 
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [ierror/synaps-cad](https://github.com/ierror/synaps-cad) - The AI-powered 3D CAD IDE — edit code, visualize in 3D, and reshape your designs with natural language.
 - [Eul45/omni-search](https://github.com/Eul45/omni-search) - High-performance Windows file search + duplicate finder using NTFS USN/MFT (Tauri + Rust + C++).
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
-- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Claude Code, OpenCode, Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev Coding Agent Terminal Session manager via tmux and git Worktrees
+- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Claude Code, OpenCode, Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI Coding Agent Terminal Session manager via tmux and git Worktrees
 - [decentpaste/decentpaste](https://github.com/decentpaste/decentpaste) - Universal Clipboard for Every Device
 - [66HEX/frame](https://github.com/66HEX/frame) - Fast FFmpeg GUI
 - [fastrepl/char](https://github.com/fastrepl/char) - AI notepad for meetings
@@ -3170,7 +3207,8 @@
 
 ## security 
 
-- [eugene1g/agent-safehouse](https://github.com/eugene1g/agent-safehouse) - Sandbox for local AI agents so they read/write only what they need
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+- [eugene1g/agent-safehouse](https://github.com/eugene1g/agent-safehouse) - Sandbox your local AI agents so they can read/write only what they need
 - [knostic/openclaw-detect](https://github.com/knostic/openclaw-detect) - Detection scripts for MDM deployment to identify OpenClaw installations on managed devices.
 - [openziti/zrok](https://github.com/openziti/zrok) - Secure internet sharing made simple.
 - [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource local-first sandboxes for ai agents
@@ -3185,6 +3223,7 @@
 
 ## security-tools 
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [knostic/openclaw-detect](https://github.com/knostic/openclaw-detect) - Detection scripts for MDM deployment to identify OpenClaw installations on managed devices.
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before
 - [prompt-security/ps-fuzz](https://github.com/prompt-security/ps-fuzz) - Make your GenAI Apps Safe & Secure :rocket: Test & harden your system prompt
@@ -3349,15 +3388,16 @@
 
 ## terminal 
 
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 - [johannesjo/parallel-code](https://github.com/johannesjo/parallel-code) - Run Claude Code, Codex, and Gemini side by side — each in      its own git worktree
 - [surge-downloader/Surge](https://github.com/surge-downloader/Surge) - Blazing fast TUI download manager built in Go for power users
 - [Higangssh/gitcredits](https://github.com/Higangssh/gitcredits) - Git log doesn't do them justice. Turn your contributors into movie stars.
 - [ahmadawais/terminui](https://github.com/ahmadawais/terminui) - Super fast double buffered toolkit for building terminal UIs.
-- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Claude Code, OpenCode, Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev Coding Agent Terminal Session manager via tmux and git Worktrees
+- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Claude Code, OpenCode, Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI Coding Agent Terminal Session manager via tmux and git Worktrees
 - [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 - [hugomd/parrot.live](https://github.com/hugomd/parrot.live) - 🐦  Bringing animated parrots to terminals everywhere
-- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 - [ndycode/oc-chatgpt-multi-auth](https://github.com/ndycode/oc-chatgpt-multi-auth) - OpenCode plugin for using ChatGPT Plus/Pro in GPT-5 and Codex workflows with OAuth login, multi-account rotation, failover, and guided setup
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
@@ -3421,6 +3461,7 @@
 
 ## tui 
 
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [surge-downloader/Surge](https://github.com/surge-downloader/Surge) - Blazing fast TUI download manager built in Go for power users
 - [Higangssh/gitcredits](https://github.com/Higangssh/gitcredits) - Git log doesn't do them justice. Turn your contributors into movie stars.
 - [ahmadawais/terminui](https://github.com/ahmadawais/terminui) - Super fast double buffered toolkit for building terminal UIs.
@@ -3440,6 +3481,7 @@
 
 ## typescript 
 
+- [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
 - [BradGroux/veritas-kanban](https://github.com/BradGroux/veritas-kanban) - The unfiltered truth about where your project stands. Lightweight orchestration platform built for the agentic AI era.
 - [junevm/splathash](https://github.com/junevm/splathash) - compress any image to 16 bytes and reconstruct a blurry preview. Like blurhash and thumbhash, but smaller.
 - [harshkedia177/axon](https://github.com/harshkedia177/axon) - Graph-powered code intelligence engine — indexes codebases into a knowledge graph, exposed via MCP tools for AI agents and a CLI for developers.
@@ -3478,6 +3520,7 @@
 
 ## ui 
 
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [anl331/goey-toast](https://github.com/anl331/goey-toast) - A gooey, morphing toast component built on Sonner with Framer Motion animations
 - [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) - A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
 - [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
@@ -3509,6 +3552,7 @@
 
 ## vim 
 
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 
@@ -3547,6 +3591,7 @@
 
 ## web 
 
+- [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
@@ -3587,9 +3632,10 @@
 
 ## windows 
 
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [Eul45/omni-search](https://github.com/Eul45/omni-search) - High-performance Windows file search + duplicate finder using NTFS USN/MFT (Tauri + Rust + C++).
 - [AtomicBot-ai/atomicbot](https://github.com/AtomicBot-ai/atomicbot) - The Fastest Way to Run OpenClaw 🦞
-- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
 - [thevindu-w/clip_share_server](https://github.com/thevindu-w/clip_share_server) - Share Clipboard across devices. Share copied files and screenshots securely. Free and open-source tool that works on Windows, Linux, macOS, and Android.
 - [decentpaste/decentpaste](https://github.com/decentpaste/decentpaste) - Universal Clipboard for Every Device
 - [soulehshaikh99/create-svelte-electron-app](https://github.com/soulehshaikh99/create-svelte-electron-app) - Discover the easiest way to get started with the blend of Svelte and Electron JS App
