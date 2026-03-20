@@ -267,7 +267,7 @@
 - [chrysb/alphaclaw](https://github.com/chrysb/alphaclaw) - The ultimate setup harness for OpenClaw. Deploy in minutes. Stay running for months. No CLI required.
 - [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - 🔵 Cerebro is an open-source launcher to improve your productivity and efficiency
 - [j-ncel/word-doodle](https://github.com/j-ncel/word-doodle) - A browser-based generative text art engine that takes string of text and transforms them into typographic doodles.
-- [vava-nessa/free-coding-models](https://github.com/vava-nessa/free-coding-models) - Find, benchmark and install in CLI 158 FREE coding LLM models across 20 providers in real time
+- [vava-nessa/free-coding-models](https://github.com/vava-nessa/free-coding-models) - Find, benchmark and install in CLI 174 FREE coding LLM models across 23 providers in real time
 - [vikasprogrammer/walkie](https://github.com/vikasprogrammer/walkie) - P2P communication for AI agents. No server. No setup. Just talk.
 - [khalildh/garment-notation](https://github.com/khalildh/garment-notation) - 
 - [dimartarmizi/map-to-poster](https://github.com/dimartarmizi/map-to-poster) - MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with various themes, layouts, and export options.
@@ -307,7 +307,6 @@
 - [jasonlong/isometric-contributions](https://github.com/jasonlong/isometric-contributions) - Browser extension for rendering an isometric pixel art version of your GitHub contribution graph.
 - [personoids/personoids-lite](https://github.com/personoids/personoids-lite) - "The Power of Autonomy in Every Chat." - Transform ChatGPT into a powerful autonomous agent that can independently accomplish complex tasks.
 - [pywebagent/pywebagent](https://github.com/pywebagent/pywebagent) - AI that turns website functionality into python APIs! Control websites through python and AI!
-- [apocas/restai](https://github.com/apocas/restai) - RESTai is an AIaaS (AI as a Service) open-source platform. Built on top of LlamaIndex & Langchain. Supports any public LLM supported by LlamaIndex and any local LLM suported by Ollama/vLLM/etc. Precis
 - [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar) - 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
 - [haixiangyan/wtf-cli](https://github.com/haixiangyan/wtf-cli) - A command tool for looking up abbreviation.
@@ -522,6 +521,7 @@
 
 ## Python 
 
+- [rui-ye/OpenSeeker](https://github.com/rui-ye/OpenSeeker) - OpenSeeker: A search agent with open-source data and models
 - [TesslateAI/Studio](https://github.com/TesslateAI/Studio) - Open Source Locally Hosted Lovable with Full Stack Support
 - [Q00/ouroboros](https://github.com/Q00/ouroboros) - Stop prompting. Start specifying.
 - [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
@@ -566,7 +566,7 @@
 - [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 13 sub-skills, 7 subagents, extensions system with DataForSEO MCP integration. Technical SEO, E-E-A-T, schema, GEO/AEO, and strategic planning.
 - [Cranot/roam-code](https://github.com/Cranot/roam-code) - Architectural intelligence layer for AI coding agents. Structural graph, architecture governance, multi-agent orchestration, vulnerability mapping. 139 commands, 101 MCP tools, 26 languages, 100% loca
 - [peteromallet/desloppify](https://github.com/peteromallet/desloppify) - Agent harness to make your slop code well-engineered and beautiful.
-- [Mathews-Tom/no-magic](https://github.com/Mathews-Tom/no-magic) - Because `model.fit()` isn't an explanation
+- [no-magic-ai/no-magic](https://github.com/no-magic-ai/no-magic) - Because `model.fit()` isn't an explanation
 - [dp-archive/archive](https://github.com/dp-archive/archive) - Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI.
 - [zilliztech/memsearch](https://github.com/zilliztech/memsearch) - A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.
 - [PromtEngineer/agentic-file-search](https://github.com/PromtEngineer/agentic-file-search) - 
@@ -585,7 +585,7 @@
 - [CodeUpdaterBot/ClickUi](https://github.com/CodeUpdaterBot/ClickUi) - The best way to use AI is on your own computer. Use local or paid API models, and ctrl+k to show/hide the chat UI. Experience the future of AI, and help build it too!
 - [bytexenon/undetected_geckodriver](https://github.com/bytexenon/undetected_geckodriver) - A custom Firefox Selenium-based Webdriver. Passes all bot mitigation systems
 - [lm-sys/RouteLLM](https://github.com/lm-sys/RouteLLM) - A framework for serving and evaluating LLM routers - save LLM costs without compromising quality
-- [Agent-on-the-Fly/Memento](https://github.com/Agent-on-the-Fly/Memento) - Official Code of Memento: Fine-tuning LLM Agents without Fine-tuning LLMs
+- [Memento-Teams/Memento](https://github.com/Memento-Teams/Memento) - Official Code of Memento: Fine-tuning LLM Agents without Fine-tuning LLMs
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [aurelio-labs/semantic-router](https://github.com/aurelio-labs/semantic-router) - Superfast AI decision making and intelligent processing of multi-modal data.
 - [ulab-uiuc/LLMRouter](https://github.com/ulab-uiuc/LLMRouter) - LLMRouter: An Open-Source Library for LLM Routing
@@ -741,6 +741,7 @@
 - [resemble-ai/resemble-enhance](https://github.com/resemble-ai/resemble-enhance) - AI powered speech denoising and enhancement
 - [Zejun-Yang/AniPortrait](https://github.com/Zejun-Yang/AniPortrait) - AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
+- [apocas/restai](https://github.com/apocas/restai) - RESTai is an AIaaS (AI as a Service) open-source platform. Built on top of LlamaIndex & Langchain. Supports any public LLM supported by LlamaIndex and any local LLM suported by Ollama/vLLM/etc. Precis
 - [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All
 - [yashlamba/handwrite](https://github.com/yashlamba/handwrite) - Handwrite generates a custom font based on your handwriting sample.
 - [johndpope/Emote-hack](https://github.com/johndpope/Emote-hack) - Emote Portrait Alive - using ai to reverse engineer code from white paper. (abandoned)
@@ -875,7 +876,6 @@
 - [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid) - Advanced Multi-Featured Telegram UserBot, Built in Python Using Telethon lib.
 - [aiogram/aiogram](https://github.com/aiogram/aiogram) - aiogram is a modern and fully asynchronous framework for Telegram Bot API written in Python using asyncio
 - [fabston/Telegram-Support-Bot](https://github.com/fabston/Telegram-Support-Bot) - 📬 Manage and organize all your support inquiries on Telegram.
-- [Saidalo1/telegram_support_bot](https://github.com/Saidalo1/telegram_support_bot) - This telegram support bot was created using the aiogram framework. On it you can write questions to owners and answers to users, mute and unmute users so that they cannot write to the bot.
 - [dimaplel/telegram-suggestions-bot](https://github.com/dimaplel/telegram-suggestions-bot) - Make your own Telegram bot for processing all incoming suggestions/requests/offers. Useful for client support or social organisations.
 - [fire17/expando](https://github.com/fire17/expando) - xo + xo.redis : Dynamic Dictionary Object Wrapper with superpowers
 - [GAIR-NLP/factool](https://github.com/GAIR-NLP/factool) - FacTool: Factuality Detection in Generative AI
@@ -1056,7 +1056,7 @@
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE & text editor: easy, powerful and fast
 - [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Claude Code, OpenCode, Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI Coding Agent Terminal Session manager via tmux and git Worktrees
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
-- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
+- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
 - [decentpaste/decentpaste](https://github.com/decentpaste/decentpaste) - Universal Clipboard for Every Device
 - [nearai/ironclaw](https://github.com/nearai/ironclaw) - IronClaw is OpenClaw inspired implementation in Rust focused on privacy and security
 - [nekocode/agent-worktree](https://github.com/nekocode/agent-worktree) - A Git worktree workflow tool for AI coding agents. Enables parallel development with isolated environments.
@@ -1165,6 +1165,7 @@
 
 ## Swift 
 
+- [uncSoft/anubis-oss](https://github.com/uncSoft/anubis-oss) - Local LLM Testing & Benchmarking for Apple Silicon
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
