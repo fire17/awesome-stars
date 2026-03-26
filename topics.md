@@ -82,6 +82,7 @@
 - [emulator](#emulator)
 - [english](#english)
 - [ethereum](#ethereum)
+- [express](#express)
 - [facebook](#facebook)
 - [fastapi](#fastapi)
 - [finance](#finance)
@@ -457,6 +458,8 @@
 
 ## ai-agents 
 
+- [jackwener/opencli](https://github.com/jackwener/opencli) - Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to dis
+- [VoltAgent/awesome-codex-subagents](https://github.com/VoltAgent/awesome-codex-subagents) - A collection of 130+ specialized Codex subagents covering a wide range of development use cases.
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that coul
 - [zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot) - Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
@@ -541,7 +544,7 @@
 
 ## angular 
 
-- [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - Runtime skeleton generator that mirrors your actual UI structure. Zero layout duplication. Built for modern frameworks.
+- [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - A structure-aware skeleton loader that mirrors your rendered UI at runtime. Zero layout duplication. Built for modern frameworks.
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [TienNHM/tiennhm.github.io](https://github.com/TienNHM/tiennhm.github.io) - Fullstack Developer
 - [clnnn/chat-summarizer](https://github.com/clnnn/chat-summarizer) - 💬 Real-time chat application prototype that can summarise the entire chat log
@@ -624,6 +627,7 @@
 
 ## awesome-list 
 
+- [VoltAgent/awesome-codex-subagents](https://github.com/VoltAgent/awesome-codex-subagents) - A collection of 130+ specialized Codex subagents covering a wide range of development use cases.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
@@ -727,6 +731,7 @@
 
 ## chatgpt 
 
+- [VoltAgent/awesome-codex-subagents](https://github.com/VoltAgent/awesome-codex-subagents) - A collection of 130+ specialized Codex subagents covering a wide range of development use cases.
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [CodeUpdaterBot/ClickUi](https://github.com/CodeUpdaterBot/ClickUi) - The best way to use AI is on your own computer. Use local or paid API models, and ctrl+k to show/hide the chat UI. Experience the future of AI, and help build it too!
 - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - The automatic work journal. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.
@@ -806,6 +811,7 @@
 
 ## cli 
 
+- [jackwener/opencli](https://github.com/jackwener/opencli) - Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to dis
 - [phlx0/drift](https://github.com/phlx0/drift) - Terminal screensaver that activates when you're idle — constellations, rain, particles & braille   waves. Press any key to resume.
 - [raskrebs/sonar](https://github.com/raskrebs/sonar) - CLI tool for inspecting and managing services listening on localhost ports
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
@@ -871,6 +877,7 @@
 
 ## coding 
 
+- [maria-rcks/t1code](https://github.com/maria-rcks/t1code) - T3Code, but in your terminal
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop"
 - [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -1108,6 +1115,8 @@
 
 ## docker 
 
+- [Belphemur/obsidian-headless-sync-docker](https://github.com/Belphemur/obsidian-headless-sync-docker) - Dockerized version of obsidian-headless-sync
+- [foldergram/foldergram](https://github.com/foldergram/foldergram) - Self-hosted folder-based Instagram-style photo and video gallery app.
 - [raskrebs/sonar](https://github.com/raskrebs/sonar) - CLI tool for inspecting and managing services listening on localhost ports
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -1186,6 +1195,10 @@
 
 - [rotki/rotki](https://github.com/rotki/rotki) - A portfolio tracking, analytics, accounting and management application that protects your privacy
 
+## express 
+
+- [foldergram/foldergram](https://github.com/foldergram/foldergram) - Self-hosted folder-based Instagram-style photo and video gallery app.
+
 ## facebook 
 
 - [facebook/memlab](https://github.com/facebook/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
@@ -1246,6 +1259,7 @@
 
 ## framework 
 
+- [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [violit-dev/violit](https://github.com/violit-dev/violit) - Pure Python Web Framework. Streamlit simplicity, no reruns.
 - [truefoundry/cognita](https://github.com/truefoundry/cognita) - RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs.
@@ -1307,6 +1321,7 @@
 
 ## git 
 
+- [andes90/collabmd](https://github.com/andes90/collabmd) - Realtime collaboration for markdown folders, diagrams, and git-backed docs.
 - [Higangssh/gitcredits](https://github.com/Higangssh/gitcredits) - Git log doesn't do them justice. Turn your contributors into movie stars.
 - [nekocode/agent-worktree](https://github.com/nekocode/agent-worktree) - A Git worktree workflow tool for AI coding agents. Enables parallel development with isolated environments.
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
@@ -1519,6 +1534,7 @@
 
 ## instagram 
 
+- [foldergram/foldergram](https://github.com/foldergram/foldergram) - Self-hosted folder-based Instagram-style photo and video gallery app.
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 
 ## ios 
@@ -1676,6 +1692,7 @@
 
 ## llm 
 
+- [maria-rcks/t1code](https://github.com/maria-rcks/t1code) - T3Code, but in your terminal
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that coul
 - [matrixorigin/Memoria](https://github.com/matrixorigin/Memoria) - Secure memory management for AI Agents • Ensures data integrity • Reduces hallucinations • Maintains consistent long-term context
@@ -1867,6 +1884,7 @@
 
 ## markdown 
 
+- [andes90/collabmd](https://github.com/andes90/collabmd) - Realtime collaboration for markdown folders, diagrams, and git-backed docs.
 - [HEmile/juggl](https://github.com/HEmile/juggl) - An interactive, stylable and expandable graph view for Obsidian. Juggl is designed as an advanced 'local' graph view, where you can juggle all your thoughts with ease.
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [agenticnotetaking/arscontexta](https://github.com/agenticnotetaking/arscontexta) - Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own
@@ -2053,6 +2071,8 @@
 
 ## nodejs 
 
+- [foldergram/foldergram](https://github.com/foldergram/foldergram) - Self-hosted folder-based Instagram-style photo and video gallery app.
+- [Sync-in/server](https://github.com/Sync-in/server) - Sync-in server · Secure, open-source platform for file storage, sharing, collaboration, and syncing.
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that coul
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [chrysb/alphaclaw](https://github.com/chrysb/alphaclaw) - The ultimate setup harness for OpenClaw. Deploy in minutes. Stay running for months. No CLI required.
@@ -2101,6 +2121,8 @@
 
 ## obsidian 
 
+- [andes90/collabmd](https://github.com/andes90/collabmd) - Realtime collaboration for markdown folders, diagrams, and git-backed docs.
+- [Belphemur/obsidian-headless-sync-docker](https://github.com/Belphemur/obsidian-headless-sync-docker) - Dockerized version of obsidian-headless-sync
 - [HEmile/juggl](https://github.com/HEmile/juggl) - An interactive, stylable and expandable graph view for Obsidian. Juggl is designed as an advanced 'local' graph view, where you can juggle all your thoughts with ease.
 - [Developer-Mike/obsidian-advanced-canvas](https://github.com/Developer-Mike/obsidian-advanced-canvas) - ⚡ Supercharge your canvas experience! Graph view integration and unlimited styling options empower flowcharts, dynamic presentations, and interconnected knowledge.
 - [CyanVoxel/Obsidian-Vault-Template](https://github.com/CyanVoxel/Obsidian-Vault-Template) - A Template for my Obsidian Vault.
@@ -2108,6 +2130,7 @@
 
 ## obsidian-md 
 
+- [Belphemur/obsidian-headless-sync-docker](https://github.com/Belphemur/obsidian-headless-sync-docker) - Dockerized version of obsidian-headless-sync
 - [HEmile/juggl](https://github.com/HEmile/juggl) - An interactive, stylable and expandable graph view for Obsidian. Juggl is designed as an advanced 'local' graph view, where you can juggle all your thoughts with ease.
 - [Developer-Mike/obsidian-advanced-canvas](https://github.com/Developer-Mike/obsidian-advanced-canvas) - ⚡ Supercharge your canvas experience! Graph view integration and unlimited styling options empower flowcharts, dynamic presentations, and interconnected knowledge.
 - [CyanVoxel/Obsidian-Vault-Template](https://github.com/CyanVoxel/Obsidian-Vault-Template) - A Template for my Obsidian Vault.
@@ -2227,6 +2250,16 @@
 
 ## others 
 
+- [danveloper/flash-moe](https://github.com/danveloper/flash-moe) - Running a big model on a small laptop
+- [jzOcb/writing-style-skill](https://github.com/jzOcb/writing-style-skill) - Writing style skill template with built-in auto-learning. AI writes → you edit → rules auto-extracted → SKILL.md improves. Works with Claude Code + OpenClaw.
+- [kenforthewin/atomic](https://github.com/kenforthewin/atomic) - Self-hosted, semantically-connected personal knowledge base
+- [adiiverma40/tunelog](https://github.com/adiiverma40/tunelog) - Self-hosted music recommendation that learns your taste from skips and replays no ratings needed.
+- [openphotos-ca/openphotos](https://github.com/openphotos-ca/openphotos) - Own Your Photos, Forever Secure
+- [louisnelza/stayview](https://github.com/louisnelza/stayview) - A self-hosted dashboard that aggregates bookings from Airbnb, Booking.com, and Lekkeslaap into one place.
+- [obsessiondb/rudel](https://github.com/obsessiondb/rudel) - Claude Code Session Analytics
+- [run-llama/liteparse](https://github.com/run-llama/liteparse) - A fast, helpful, and open-source document parser
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
+- [superultrainc/superwhisper-download](https://github.com/superultrainc/superwhisper-download) - Superwhisper is an AI voice-to-text tool for quick and accurate transcription. Download free now.
 - [lcoutodemos/clui-cc](https://github.com/lcoutodemos/clui-cc) - Clui CC — Command Line User Interface for Claude Code
 - [bramcohen/manyana](https://github.com/bramcohen/manyana) - 
 - [mshumer/unslop](https://github.com/mshumer/unslop) - 
@@ -2449,7 +2482,6 @@
 - [Arcanum-Sec/sec-context](https://github.com/Arcanum-Sec/sec-context) - AI Code Security Anti-Patterns distilled from 150+ sources to help LLMs generate safer code.
 - [h9zdev/GeoSentinel](https://github.com/h9zdev/GeoSentinel) - **GeoSentinel** is a geospatial monitoring platform that tracks global movement in real time.  It aggregates ship and flight routes, live coordinates, and geodata into a unified system, providing clea
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
-- [punkpeye/pipenet](https://github.com/punkpeye/pipenet) - Expose your local server to the public internet instantly
 - [junaid-mahmood/nlsh](https://github.com/junaid-mahmood/nlsh) - Turn natural language to terminal commands
 - [better-auth/better-icons](https://github.com/better-auth/better-icons) - Skill and MCP server for searching and retrieving icons
 - [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) - 
@@ -2922,6 +2954,7 @@
 
 ## privacy 
 
+- [Sync-in/server](https://github.com/Sync-in/server) - Sync-in server · Secure, open-source platform for file storage, sharing, collaboration, and syncing.
 - [decentpaste/decentpaste](https://github.com/decentpaste/decentpaste) - Universal Clipboard for Every Device
 - [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts) - Official Anytype client for MacOS, Linux, and Windows
 - [anyproto/any-sync](https://github.com/anyproto/any-sync) - An open-source protocol enabling high-performance, local-first, peer-to-peer, end-to-end encrypted collaborative apps.
@@ -2978,6 +3011,7 @@
 
 ## python 
 
+- [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that coul
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [Q00/ouroboros](https://github.com/Q00/ouroboros) - Stop prompting. Start specifying.
@@ -3234,7 +3268,7 @@
 - [fspecii/ace-step-ui](https://github.com/fspecii/ace-step-ui) - 🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!
 - [fastrepl/char](https://github.com/fastrepl/char) - AI notepad for meetings
 - [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
-- [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - Runtime skeleton generator that mirrors your actual UI structure. Zero layout duplication. Built for modern frameworks.
+- [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - A structure-aware skeleton loader that mirrors your rendered UI at runtime. Zero layout duplication. Built for modern frameworks.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [dataelement/bisheng](https://github.com/dataelement/bisheng) - BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SF
@@ -3369,6 +3403,9 @@
 
 ## self-hosted 
 
+- [andes90/collabmd](https://github.com/andes90/collabmd) - Realtime collaboration for markdown folders, diagrams, and git-backed docs.
+- [foldergram/foldergram](https://github.com/foldergram/foldergram) - Self-hosted folder-based Instagram-style photo and video gallery app.
+- [Sync-in/server](https://github.com/Sync-in/server) - Sync-in server · Secure, open-source platform for file storage, sharing, collaboration, and syncing.
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [paulveillard/cybersecurity-self-hosted](https://github.com/paulveillard/cybersecurity-self-hosted) - A collection of awesome framework, libraries, learning tutorials, videos, webcasts, technical resources and cool stuff about Self Hosting.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
@@ -3390,6 +3427,7 @@
 
 ## server 
 
+- [Sync-in/server](https://github.com/Sync-in/server) - Sync-in server · Secure, open-source platform for file storage, sharing, collaboration, and syncing.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [taichunmin/docker-serveo-server](https://github.com/taichunmin/docker-serveo-server) - https://serveo.net is an alternative for ngrok. taichunmin/serveo-server can let you host your own serveo. And taichunmin/serveo can let you secure URL to your localhost server through any NAT or fire
 
@@ -3441,6 +3479,7 @@
 
 ## sqlite 
 
+- [foldergram/foldergram](https://github.com/foldergram/foldergram) - Self-hosted folder-based Instagram-style photo and video gallery app.
 - [michael/editable-website](https://github.com/michael/editable-website) - CMS-free editable websites with Svelte
 
 ## stable-diffusion 
@@ -3470,7 +3509,7 @@
 - [kunkunsh/kunkun](https://github.com/kunkunsh/kunkun) - An open source, cross-platform, extensible app launcher.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [66HEX/frame](https://github.com/66HEX/frame) - Fast FFmpeg GUI
-- [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - Runtime skeleton generator that mirrors your actual UI structure. Zero layout duplication. Built for modern frameworks.
+- [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - A structure-aware skeleton loader that mirrors your rendered UI at runtime. Zero layout duplication. Built for modern frameworks.
 - [soulehshaikh99/create-svelte-electron-app](https://github.com/soulehshaikh99/create-svelte-electron-app) - Discover the easiest way to get started with the blend of Svelte and Electron JS App
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [dnass/svelte-canvas](https://github.com/dnass/svelte-canvas) - 🎨 Reactive canvas rendering with Svelte.
@@ -3609,6 +3648,7 @@
 
 ## tui 
 
+- [maria-rcks/t1code](https://github.com/maria-rcks/t1code) - T3Code, but in your terminal
 - [phlx0/drift](https://github.com/phlx0/drift) - Terminal screensaver that activates when you're idle — constellations, rain, particles & braille   waves. Press any key to resume.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [surge-downloader/Surge](https://github.com/surge-downloader/Surge) - Blazing fast TUI download manager built in Go for power users
@@ -3630,6 +3670,8 @@
 
 ## typescript 
 
+- [foldergram/foldergram](https://github.com/foldergram/foldergram) - Self-hosted folder-based Instagram-style photo and video gallery app.
+- [Sync-in/server](https://github.com/Sync-in/server) - Sync-in server · Secure, open-source platform for file storage, sharing, collaboration, and syncing.
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that coul
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [kunkunsh/kunkun](https://github.com/kunkunsh/kunkun) - An open source, cross-platform, extensible app launcher.
@@ -3729,7 +3771,8 @@
 
 ## vue 
 
-- [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - Runtime skeleton generator that mirrors your actual UI structure. Zero layout duplication. Built for modern frameworks.
+- [foldergram/foldergram](https://github.com/foldergram/foldergram) - Self-hosted folder-based Instagram-style photo and video gallery app.
+- [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - A structure-aware skeleton loader that mirrors your rendered UI at runtime. Zero layout duplication. Built for modern frameworks.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [vcync/modV](https://github.com/vcync/modV) - modular audio visualisation powered by JavaScript
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
@@ -3739,7 +3782,7 @@
 ## vuejs 
 
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
-- [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - Runtime skeleton generator that mirrors your actual UI structure. Zero layout duplication. Built for modern frameworks.
+- [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - A structure-aware skeleton loader that mirrors your rendered UI at runtime. Zero layout duplication. Built for modern frameworks.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 
 ## web 
