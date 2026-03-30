@@ -357,7 +357,6 @@
 - [lukePeavey/quotable](https://github.com/lukePeavey/quotable) - Random Quotes API
 - [code-dexterous/grapesjs-example-html](https://github.com/code-dexterous/grapesjs-example-html) - 
 - [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
 - [JudiniLabs/code-gpt-docs](https://github.com/JudiniLabs/code-gpt-docs) - Docusaurus page
 - [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
 - [xemle/home-gallery](https://github.com/xemle/home-gallery) - Self-hosted open-source web gallery to view your photos and videos featuring mobile-friendly, tagging and AI powered image discovery
@@ -469,7 +468,7 @@
 - [superultrainc/superwhisper-download](https://github.com/superultrainc/superwhisper-download) - Superwhisper is an AI voice-to-text tool for quick and accurate transcription. Download free now.
 - [greensock/gsap-skills](https://github.com/greensock/gsap-skills) - Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage.
 - [paulveillard/cybersecurity-self-hosted](https://github.com/paulveillard/cybersecurity-self-hosted) - A collection of awesome framework, libraries, learning tutorials, videos, webcasts, technical resources and cool stuff about Self Hosting.
-- [EverMind-AI/MSA](https://github.com/EverMind-AI/MSA) - 
+- [EverMind-AI/MSA](https://github.com/EverMind-AI/MSA) - 亿级（100M）token 上下文的端到端可训练记忆框架
 - [cyxzdev/Uncodixfy](https://github.com/cyxzdev/Uncodixfy) - the holly uncodexify instructions - letting GPT create uncodexified UI
 - [carmahhawwari/ui-design-brain](https://github.com/carmahhawwari/ui-design-brain) - A Cursor skill that gives AI agents real UI component knowledge — best practices, layout patterns, and design-system conventions for 60+ interface components — so it generates production-grade UI inst
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
@@ -543,6 +542,8 @@
 
 ## Python 
 
+- [neo4j-labs/create-context-graph](https://github.com/neo4j-labs/create-context-graph) - AI agents with graph based reasoning memory, scaffolded in seconds
+- [yfyang007/RealRestorer](https://github.com/yfyang007/RealRestorer) - 
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [himanshudongre/smriti](https://github.com/himanshudongre/smriti) - 
 - [gauravvij/AutoPrompter](https://github.com/gauravvij/AutoPrompter) - 
@@ -1100,7 +1101,6 @@
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE & text editor: easy, powerful and fast
 - [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Claude Code, OpenCode, Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding Agent Terminal Session manager via tmux and git Worktrees
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
-- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
 - [decentpaste/decentpaste](https://github.com/decentpaste/decentpaste) - Universal Clipboard for Every Device
 - [nearai/ironclaw](https://github.com/nearai/ironclaw) - IronClaw is OpenClaw inspired implementation in Rust focused on privacy and security
 - [nekocode/agent-worktree](https://github.com/nekocode/agent-worktree) - A Git worktree workflow tool for AI coding agents. Enables parallel development with isolated environments.
@@ -1242,6 +1242,7 @@
 
 ## TypeScript 
 
+- [chenglou/pretext](https://github.com/chenglou/pretext) - 
 - [nathan-cannon/cellstate](https://github.com/nathan-cannon/cellstate) - React terminal renderer with cell-level diffing, double-buffered rendering, and native scrollback. No alternate screen.
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [thomscoder/z1](https://github.com/thomscoder/z1) - Let Claude control your React app
@@ -1495,6 +1496,7 @@
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 - [toolkit-ai/toolkit-ai](https://github.com/toolkit-ai/toolkit-ai) - AI-agents that automatically generate and use Langchain Tools and ChatGPT plugins
 - [jina-ai/auto-gpt-web](https://github.com/jina-ai/auto-gpt-web) - Set Your Goals, AI Achieves Them.
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines, statecharts, and actors for complex logic
 - [statelyai/xstate-viz](https://github.com/statelyai/xstate-viz) - Visualizer for XState machines
 - [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
