@@ -1113,7 +1113,7 @@
 - [lay2dev/clawpal](https://github.com/lay2dev/clawpal) - ClawPal - Manage OpenClaw agents, models, and configs with a visual interface. Stop editing JSON by hand.
 - [superhq-ai/shuru](https://github.com/superhq-ai/shuru) - A local-first microVM sandbox for running AI agents safely on macOS
 - [GreatScott/enject](https://github.com/GreatScott/enject) - enject: Hide .env secrets from prAIng eyes: secrets live in local encrypted stores (per project) and are injected directly into apps at runtime, never touching disk as plaintext.
-- [raphaelmansuy/edgequake](https://github.com/raphaelmansuy/edgequake) - High-performance GraphRAG inspired from LightRag written in Rust
+- [raphaelmansuy/edgequake](https://github.com/raphaelmansuy/edgequake) - EdegQuake 🌋 High-performance GraphRAG inspired from LightRag written in Rust; Transform documents into intelligent knowledge graphs for superior retrieval and generation
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [spacedriveapp/spacebot](https://github.com/spacedriveapp/spacebot) - An AI agent for teams, communities, and multi-user environments.
@@ -1268,6 +1268,7 @@
 
 ## TypeScript 
 
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK For Browser Agents
 - [pithings/voipi](https://github.com/pithings/voipi) - 🎙️ Give your apps, CLIs, and agents a voice. VoiPi is a universal, zero-dependency, free text-to-speech library for JavaScript.
 - [vercel-labs/opensrc](https://github.com/vercel-labs/opensrc) - Fetch source code for npm packages to give AI coding agents deeper context
 - [0xGF/boneyard](https://github.com/0xGF/boneyard) - Auto generated skeleton loading framework
@@ -1279,9 +1280,9 @@
 - [nathan-cannon/cellstate](https://github.com/nathan-cannon/cellstate) - React terminal renderer with cell-level diffing and native scrollback. No alternate screen.
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [thomscoder/z1](https://github.com/thomscoder/z1) - Let Claude control your React app
-- [millionco/expect](https://github.com/millionco/expect) - Expect more from your agents. Test what they build in a real browser.
+- [millionco/expect](https://github.com/millionco/expect) - Expect tests your agent's code in a real browser
 - [7A7z/better-worktrees](https://github.com/7A7z/better-worktrees) - 
-- [jackwener/opencli](https://github.com/jackwener/opencli) - Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to dis
+- [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to dis
 - [maria-rcks/t1code](https://github.com/maria-rcks/t1code) - T3Code, but in your terminal
 - [adiiverma40/tunelog](https://github.com/adiiverma40/tunelog) - Self-hosted music recommendation that learns your taste from skips and replays no ratings needed.
 - [foldergram/foldergram](https://github.com/foldergram/foldergram) - Self-hosted folder-based Instagram-style photo and video gallery app.
@@ -1361,7 +1362,7 @@
 - [kil0bit-kb/scrcpy-gui](https://github.com/kil0bit-kb/scrcpy-gui) - A modern, high-performance GUI for the scrcpy
 - [AtomicBot-ai/atomicbot](https://github.com/AtomicBot-ai/atomicbot) - The Fastest Way to Run OpenClaw 🦞
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
-- [puckeditor/puck](https://github.com/puckeditor/puck) - Create your own AI page builder
+- [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React.
 - [swark-io/swark](https://github.com/swark-io/swark) - Create architecture diagrams from code automatically using large language models (LLMs).
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualiza
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
@@ -1416,6 +1417,7 @@
 - [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Agentic AI Infrastructure for magnifying HUMAN capabilities.
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 - [KeaBase/kea-research](https://github.com/KeaBase/kea-research) - KEA Research - Multi-AI collaboration platform that combines responses from multiple AI models, cross-validates information, and delivers verified, consensus-backed answers.
+- [punkpeye/pipenet](https://github.com/punkpeye/pipenet) - Expose your local server to the public internet instantly
 - [benjitaylor/agentation](https://github.com/benjitaylor/agentation) - The visual feedback tool for agents.
 - [junaid-mahmood/nlsh](https://github.com/junaid-mahmood/nlsh) - Turn natural language to terminal commands
 - [better-auth/better-icons](https://github.com/better-auth/better-icons) - Skill and MCP server for searching and retrieving icons
