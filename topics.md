@@ -268,6 +268,7 @@
 
 ## agent 
 
+- [PrathamLearnsToCode/paper2code](https://github.com/PrathamLearnsToCode/paper2code) - Agent skill to turn any arxiv paper into a working implementation
 - [aiming-lab/SimpleMem](https://github.com/aiming-lab/SimpleMem) - SimpleMem: Efficient Lifelong Memory for LLM Agents — Text & Multimodal
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
@@ -319,6 +320,7 @@
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK For Browser Agents
 - [milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace) - The highest-scoring AI memory system ever benchmarked. And it's free.
 - [vercel-labs/opensrc](https://github.com/vercel-labs/opensrc) - Fetch source code for npm packages to give AI coding agents deeper context
+- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 19 sub-skills, 12 subagents, 3 extensions (DataForSEO, Firecrawl, Banana). Technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, Google
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [zdenham/anvil](https://github.com/zdenham/anvil) - IDE for parallel agent work. Create worktrees in one click. Share plans between agents. Execute with parallelism + isolation.
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
@@ -349,6 +351,7 @@
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualiza
 - [tomascupr/sandstorm](https://github.com/tomascupr/sandstorm) - Run Claude agents in secure cloud sandboxes — via API, CLI, or Slack. One call. Full agent. Zero infrastructure.
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
+- [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) - Comprehensive paid advertising audit & optimization skill for Claude Code. 225+ checks across Google, Meta, YouTube, LinkedIn, TikTok, Microsoft & Apple Search Ads with weighted scoring, parallel agen
 - [NVIDIA/garak](https://github.com/NVIDIA/garak) - the LLM vulnerability scanner
 - [CodeUpdaterBot/ClickUi](https://github.com/CodeUpdaterBot/ClickUi) - The best way to use AI is on your own computer. Use local or paid API models, and ctrl+k to show/hide the chat UI. Experience the future of AI, and help build it too!
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
@@ -360,7 +363,7 @@
 - [steipete/Peekaboo](https://github.com/steipete/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
 - [nekocode/agent-worktree](https://github.com/nekocode/agent-worktree) - A Git worktree workflow tool for AI coding agents. Enables parallel development with isolated environments.
 - [weaviate/elysia-frontend](https://github.com/weaviate/elysia-frontend) - Frontend Repository for Elysia
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - local-first and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local, programmable sandboxes for AI agents
 - [scouzi1966/maclocal-api](https://github.com/scouzi1966/maclocal-api) - 'afm' command cli: macOS server and single prompt mode that exposes Apple's Foundation and MLX Models and other APIs running on your Mac through a single aggregated OpenAI-compatible API endpoint. Sup
 - [memovai/mimiclaw](https://github.com/memovai/mimiclaw) - MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS. Hardware agents OS.
 - [WSTxda/SwitchAI](https://github.com/WSTxda/SwitchAI) - Easily select and manage your preferred AI digital assistants on Android.
@@ -835,8 +838,9 @@
 
 ## claude-code 
 
+- [PrathamLearnsToCode/paper2code](https://github.com/PrathamLearnsToCode/paper2code) - Agent skill to turn any arxiv paper into a working implementation
 - [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
-- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph
+- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, images, videos, or YouTube links into a queryable kn
 - [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 19 sub-skills, 12 subagents, 3 extensions (DataForSEO, Firecrawl, Banana). Technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, Google
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the next-gen IDE for building with coding agents
@@ -858,12 +862,12 @@
 - [jayminwest/overstory](https://github.com/jayminwest/overstory) - Multi-agent orchestration for AI coding agents — pluggable runtime adapters for Claude Code, Pi, and more
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
-- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Claude Code, OpenCode, Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding Agent Session manager via tmux and git worktrees. Access via terminal (TUI) or Web.
+- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Claude Code, OpenCode agent session manager via terminal or web app. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. Uses tmux and git worktrees.
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
 - [github/gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows
 - [zilliztech/memsearch](https://github.com/zilliztech/memsearch) - A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.
 - [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
-- [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) - Comprehensive paid advertising audit & optimization skill for Claude Code. 186 checks across Google, Meta, YouTube, LinkedIn, TikTok & Microsoft Ads with weighted scoring, parallel agents, and industr
+- [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) - Comprehensive paid advertising audit & optimization skill for Claude Code. 225+ checks across Google, Meta, YouTube, LinkedIn, TikTok, Microsoft & Apple Search Ads with weighted scoring, parallel agen
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
@@ -900,7 +904,7 @@
 - [Higangssh/gitcredits](https://github.com/Higangssh/gitcredits) - Git log doesn't do them justice. Turn your contributors into movie stars.
 - [yigitkonur/cli-continues](https://github.com/yigitkonur/cli-continues) - resume any AI coding session in another tool — Claude Code, Copilot, Gemini, Codex, Cursor
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Claude Code, OpenCode, Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding Agent Session manager via tmux and git worktrees. Access via terminal (TUI) or Web.
+- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Claude Code, OpenCode agent session manager via terminal or web app. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. Uses tmux and git worktrees.
 - [Cranot/roam-code](https://github.com/Cranot/roam-code) - Architectural intelligence layer for AI coding agents. Structural graph, architecture governance, multi-agent orchestration, vulnerability mapping. 139 commands, 101 MCP tools, 26 languages, 100% loca
 - [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
@@ -1213,7 +1217,7 @@
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - local-first and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local, programmable sandboxes for AI agents
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [taichunmin/docker-serveo-server](https://github.com/taichunmin/docker-serveo-server) - https://serveo.net is an alternative for ngrok. taichunmin/serveo-server can let you host your own serveo. And taichunmin/serveo can let you secure URL to your localhost server through any NAT or fire
@@ -1768,6 +1772,7 @@
 
 ## linux 
 
+- [p-e-w/ternimal](https://github.com/p-e-w/ternimal) - Simulate a lifeform in the terminal
 - [belijzajac/TermColor](https://github.com/belijzajac/TermColor) - Effortlessly generate color-schemes for terminal emulators by a single drop of an image!
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [jer-irl/threadprocs](https://github.com/jer-irl/threadprocs) - Experimental thread-like processes, multiple executables in one address space
@@ -1777,7 +1782,7 @@
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
 - [thevindu-w/clip_share_server](https://github.com/thevindu-w/clip_share_server) - Share Clipboard across devices. Share copied files and screenshots securely. Free and open-source tool that works on Windows, Linux, macOS, and Android.
 - [decentpaste/decentpaste](https://github.com/decentpaste/decentpaste) - Universal Clipboard for Every Device
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - local-first and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local, programmable sandboxes for AI agents
 - [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) - An app to monitor the (Codex) situation
 - [byrantech/laptop](https://github.com/byrantech/laptop) - anyon_e, a highly integrated, high end, open source laptop. Attempt the impossible.
 - [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework
@@ -1824,7 +1829,7 @@
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
 - [swark-io/swark](https://github.com/swark-io/swark) - Create architecture diagrams from code automatically using large language models (LLMs).
-- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Claude Code, OpenCode, Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding Agent Session manager via tmux and git worktrees. Access via terminal (TUI) or Web.
+- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Claude Code, OpenCode agent session manager via terminal or web app. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. Uses tmux and git worktrees.
 - [RichardHruby/login-machine](https://github.com/RichardHruby/login-machine) - AI-powered login automation. Uses Claude to classify login pages and Playwright to interact with them.
 - [tomascupr/sandstorm](https://github.com/tomascupr/sandstorm) - Run Claude agents in secure cloud sandboxes — via API, CLI, or Slack. One call. Full agent. Zero infrastructure.
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
@@ -1961,6 +1966,7 @@
 
 ## macos 
 
+- [p-e-w/ternimal](https://github.com/p-e-w/ternimal) - Simulate a lifeform in the terminal
 - [JRMeyer/MoonshineFlow](https://github.com/JRMeyer/MoonshineFlow) - Drop-in replacement for Apple Dictation
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM) - MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.
@@ -1983,7 +1989,7 @@
 - [decentpaste/decentpaste](https://github.com/decentpaste/decentpaste) - Universal Clipboard for Every Device
 - [steipete/Peekaboo](https://github.com/steipete/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - local-first and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local, programmable sandboxes for AI agents
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
 - [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) - An app to monitor the (Codex) situation
 - [66HEX/frame](https://github.com/66HEX/frame) - Fast FFmpeg GUI
@@ -2025,7 +2031,6 @@
 
 - [milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace) - The highest-scoring AI memory system ever benchmarked. And it's free.
 - [aiming-lab/SimpleMem](https://github.com/aiming-lab/SimpleMem) - SimpleMem: Efficient Lifelong Memory for LLM Agents — Text & Multimodal
-- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 19 sub-skills, 12 subagents, 3 extensions (DataForSEO, Firecrawl, Banana). Technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, Google
 - [Q00/ouroboros](https://github.com/Q00/ouroboros) - Stop prompting. Start specifying.
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
@@ -2039,7 +2044,7 @@
 - [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [steipete/Peekaboo](https://github.com/steipete/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - local-first and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local, programmable sandboxes for AI agents
 - [assafelovic/skyll](https://github.com/assafelovic/skyll) - A tool for autonomous agents like OpenClaw to discover and learn skills autonomously
 - [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
 - [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) - A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
@@ -2190,6 +2195,7 @@
 
 ## nodejs 
 
+- [bokub/gradient-string](https://github.com/bokub/gradient-string) - :rainbow:  Beautiful color gradients in terminal output
 - [bokub/chalk-animation](https://github.com/bokub/chalk-animation) - :clapper: Colorful animations in terminal output
 - [vercel-labs/opensrc](https://github.com/vercel-labs/opensrc) - Fetch source code for npm packages to give AI coding agents deeper context
 - [nathan-cannon/cellstate](https://github.com/nathan-cannon/cellstate) - React terminal renderer with cell-level diffing and native scrollback. No alternate screen.
@@ -2203,7 +2209,7 @@
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 - [facebook/memlab](https://github.com/facebook/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - local-first and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local, programmable sandboxes for AI agents
 - [ndycode/oc-codex-multi-auth](https://github.com/ndycode/oc-codex-multi-auth) - OpenCode plugin for using ChatGPT Plus/Pro in GPT-5 and Codex workflows with OAuth login, multi-account rotation, failover, and guided setup
 - [L1AD/claude-task-viewer](https://github.com/L1AD/claude-task-viewer) - A web-based Kanban board for viewing Claude Code tasks
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
@@ -2269,6 +2275,7 @@
 ## open-source 
 
 - [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
+- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 19 sub-skills, 12 subagents, 3 extensions (DataForSEO, Firecrawl, Banana). Technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, Google
 - [mauriceboe/TREK](https://github.com/mauriceboe/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools) - The missing DevTools for Claude Code — inspect session logs, tool calls, token usage, subagents, and context window in a visual UI. Free, open source.
@@ -2278,6 +2285,7 @@
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
+- [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) - Comprehensive paid advertising audit & optimization skill for Claude Code. 225+ checks across Google, Meta, YouTube, LinkedIn, TikTok, Microsoft & Apple Search Ads with weighted scoring, parallel agen
 - [CodeUpdaterBot/ClickUi](https://github.com/CodeUpdaterBot/ClickUi) - The best way to use AI is on your own computer. Use local or paid API models, and ctrl+k to show/hide the chat UI. Experience the future of AI, and help build it too!
 - [fspecii/ace-step-ui](https://github.com/fspecii/ace-step-ui) - 🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!
 - [fastrepl/char](https://github.com/fastrepl/char) - AI notepad for meetings
@@ -2380,6 +2388,11 @@
 
 ## others 
 
+- [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - Persistent memory for AI coding agents
+- [wastedcode/memex](https://github.com/wastedcode/memex) - File system based wiki, maintained by Claude
+- [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
+- [CodeGraphContext/CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext) - An MCP server plus a CLI tool that indexes local code into a graph database to provide context to AI assistants.
+- [farzaa/clicky](https://github.com/farzaa/clicky) - 
 - [bgorlick/rainbow_tqdm](https://github.com/bgorlick/rainbow_tqdm) - Enhance tqdm progress bars with colorful, vibrant, seamless transitions with a touch of rainbow magic for your Python CLI applications!
 - [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library.
 - [sdan/continualcode](https://github.com/sdan/continualcode) - pip install continualcode
@@ -2566,7 +2579,7 @@
 - [GeorgiKeranov/facebook-marketplace-bot](https://github.com/GeorgiKeranov/facebook-marketplace-bot) - Facebook marketplace bot that automatically removes and uploads listings from CSV Files. This way listings are seen by more people and that leads to selling them faster
 - [muhammadusmannaeem/facebook-marketplace-scraper](https://github.com/muhammadusmannaeem/facebook-marketplace-scraper) - This is selenium python script to post items (image, title, location etc.) to a given facebook profile's marketplace and quick post
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
-- [chenyme/grok2api](https://github.com/chenyme/grok2api) - 基于 FastAPI 构建的 Grok2API，全面适配 OpenAI 兼容的调用格式，支持流式/非流式对话、图像生成、图像编辑、视频生成、工具调用、语音聊天、一键NSFW、号池并发与自动负载均衡一体化。
+- [chenyme/grok2api](https://github.com/chenyme/grok2api) - Grok2API 是一个基于 FastAPI 构建的 Grok 网关，支持将 Grok Web 能力以 OpenAI 兼容 API 的方式转换。
 - [angiejones/mcp-selenium](https://github.com/angiejones/mcp-selenium) - An MCP implementation for Selenium WebDriver
 - [Factorem-io/Duple](https://github.com/Factorem-io/Duple) - A physical Model of a Quadropole Ion Trap
 - [theNetworkChuck/claude-phone](https://github.com/theNetworkChuck/claude-phone) - Voice interface for Claude Code via SIP/3CX - Call your AI, and your AI can call you
@@ -3172,9 +3185,9 @@
 
 ## python 
 
+- [fikrikarim/parlor](https://github.com/fikrikarim/parlor) - On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro.
 - [milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace) - The highest-scoring AI memory system ever benchmarked. And it's free.
 - [aiming-lab/SimpleMem](https://github.com/aiming-lab/SimpleMem) - SimpleMem: Efficient Lifelong Memory for LLM Agents — Text & Multimodal
-- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 19 sub-skills, 12 subagents, 3 extensions (DataForSEO, Firecrawl, Banana). Technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, Google
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
@@ -3188,7 +3201,6 @@
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 - [tomascupr/sandstorm](https://github.com/tomascupr/sandstorm) - Run Claude agents in secure cloud sandboxes — via API, CLI, or Slack. One call. Full agent. Zero infrastructure.
 - [Cranot/roam-code](https://github.com/Cranot/roam-code) - Architectural intelligence layer for AI coding agents. Structural graph, architecture governance, multi-agent orchestration, vulnerability mapping. 139 commands, 101 MCP tools, 26 languages, 100% loca
-- [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) - Comprehensive paid advertising audit & optimization skill for Claude Code. 186 checks across Google, Meta, YouTube, LinkedIn, TikTok & Microsoft Ads with weighted scoring, parallel agents, and industr
 - [open-compress/claw-compactor](https://github.com/open-compress/claw-compactor) - 14-stage Fusion Pipeline for LLM token compression — reversible compression, AST-aware code analysis, intelligent content routing. Zero LLM inference cost. MIT licensed.
 - [passivebot/facebook-marketplace-scraper](https://github.com/passivebot/facebook-marketplace-scraper) - This repository contains a script to scrape Facebook Marketplace data using Playwright, BeautifulSoup and Streamlit.
 - [JustSxm/Deals-Scraper](https://github.com/JustSxm/Deals-Scraper) - Deals Scraper is a Canadian tool to find good deals on websites like Facebook Marketplace, Kijiji, Ebay, Amazon and Lespacs
@@ -3509,6 +3521,7 @@
 
 ## rust 
 
+- [p-e-w/ternimal](https://github.com/p-e-w/ternimal) - Simulate a lifeform in the terminal
 - [tndoan/termflux](https://github.com/tndoan/termflux) - Animated backgrounds for your terminal — starfield, matrix rain, fire, or any external        program composited behind your shell.
 - [zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot) - Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
 - [kunkunsh/kunkun](https://github.com/kunkunsh/kunkun) - An open source, cross-platform, extensible app launcher.
@@ -3518,9 +3531,9 @@
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
-- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Claude Code, OpenCode, Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding Agent Session manager via tmux and git worktrees. Access via terminal (TUI) or Web.
+- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Claude Code, OpenCode agent session manager via terminal or web app. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. Uses tmux and git worktrees.
 - [decentpaste/decentpaste](https://github.com/decentpaste/decentpaste) - Universal Clipboard for Every Device
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - local-first and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local, programmable sandboxes for AI agents
 - [66HEX/frame](https://github.com/66HEX/frame) - Fast FFmpeg GUI
 - [fastrepl/char](https://github.com/fastrepl/char) - AI notepad for meetings
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
@@ -3551,7 +3564,7 @@
 - [eugene1g/agent-safehouse](https://github.com/eugene1g/agent-safehouse) - Sandbox your local AI agents so they can read/write only what they need
 - [knostic/openclaw-detect](https://github.com/knostic/openclaw-detect) - Detection scripts for MDM deployment to identify OpenClaw installations on managed devices.
 - [openziti/zrok](https://github.com/openziti/zrok) - Secure internet sharing made simple.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - local-first and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local, programmable sandboxes for AI agents
 - [cisco-ai-defense/skill-scanner](https://github.com/cisco-ai-defense/skill-scanner) - Security Scanner for Agent Skills
 - [kenryu42/claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) - A coding agent hook that acts as a safety net, catching destructive git and filesystem commands before they execute.
 - [prompt-security/ps-fuzz](https://github.com/prompt-security/ps-fuzz) - Make your GenAI Apps Safe & Secure :rocket: Test & harden your system prompt
@@ -3578,7 +3591,7 @@
 - [paulveillard/cybersecurity-self-hosted](https://github.com/paulveillard/cybersecurity-self-hosted) - A collection of awesome framework, libraries, learning tutorials, videos, webcasts, technical resources and cool stuff about Self Hosting.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [mostafa-wahied/portracker](https://github.com/mostafa-wahied/portracker) - An open source, self-hosted, real-time port monitoring and discovery tool.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - local-first and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local, programmable sandboxes for AI agents
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Your favorite self-hostable alternative to Google Timeline (Google Location History)
 - [agno-agi/agent-ui](https://github.com/agno-agi/agent-ui) - A modern chat interface for AI agents built with Next.js, Tailwind CSS, and TypeScript.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -3682,7 +3695,7 @@
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [dnass/svelte-canvas](https://github.com/dnass/svelte-canvas) - 🎨 Reactive canvas rendering with Svelte.
 - [michael/editable-website](https://github.com/michael/editable-website) - CMS-free editable websites with Svelte
-- [brean/urdf-editor](https://github.com/brean/urdf-editor) - parse robot URDF and show it in svelte using threlte.xyz
+- [brean/urdf-editor](https://github.com/brean/urdf-editor) - Moved to codeberg!
 - [TanStack/virtual](https://github.com/TanStack/virtual) - 🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte
 - [rgossiaux/svelte-headlessui](https://github.com/rgossiaux/svelte-headlessui) - Unofficial Svelte port of the Headless UI component library
 
@@ -3741,6 +3754,8 @@
 
 ## terminal 
 
+- [p-e-w/ternimal](https://github.com/p-e-w/ternimal) - Simulate a lifeform in the terminal
+- [bokub/gradient-string](https://github.com/bokub/gradient-string) - :rainbow:  Beautiful color gradients in terminal output
 - [bokub/chalk-animation](https://github.com/bokub/chalk-animation) - :clapper: Colorful animations in terminal output
 - [tndoan/termflux](https://github.com/tndoan/termflux) - Animated backgrounds for your terminal — starfield, matrix rain, fire, or any external        program composited behind your shell.
 - [belijzajac/TermColor](https://github.com/belijzajac/TermColor) - Effortlessly generate color-schemes for terminal emulators by a single drop of an image!
@@ -3752,7 +3767,7 @@
 - [SurgeDM/Surge](https://github.com/SurgeDM/Surge) - Blazing fast TUI download manager built in Go for power users
 - [Higangssh/gitcredits](https://github.com/Higangssh/gitcredits) - Git log doesn't do them justice. Turn your contributors into movie stars.
 - [ahmadawais/terminui](https://github.com/ahmadawais/terminui) - Super fast double buffered toolkit for building terminal UIs.
-- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Claude Code, OpenCode, Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding Agent Session manager via tmux and git worktrees. Access via terminal (TUI) or Web.
+- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Claude Code, OpenCode agent session manager via terminal or web app. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. Uses tmux and git worktrees.
 - [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 - [hugomd/parrot.live](https://github.com/hugomd/parrot.live) - 🐦  Bringing animated parrots to terminals everywhere
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
@@ -3799,6 +3814,7 @@
 
 ## text-to-speech 
 
+- [fikrikarim/parlor](https://github.com/fikrikarim/parlor) - On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro.
 - [RunanywhereAI/RCLI](https://github.com/RunanywhereAI/RCLI) - Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG
 - [vilassn/whisper_android](https://github.com/vilassn/whisper_android) - Offline Speech Recognition with OpenAI Whisper and TensorFlow Lite for Android
 - [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
@@ -3865,7 +3881,7 @@
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
 - [anl331/goey-toast](https://github.com/anl331/goey-toast) - A gooey, morphing toast component built on Sonner with Framer Motion animations
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - local-first and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local, programmable sandboxes for AI agents
 - [ndycode/oc-codex-multi-auth](https://github.com/ndycode/oc-codex-multi-auth) - OpenCode plugin for using ChatGPT Plus/Pro in GPT-5 and Codex workflows with OAuth login, multi-account rotation, failover, and guided setup
 - [open-circle/valibot](https://github.com/open-circle/valibot) - The modular and type safe schema library for validating structural data 🤖
 - [fspecii/ace-step-ui](https://github.com/fspecii/ace-step-ui) - 🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!
@@ -4017,7 +4033,7 @@
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
 - [thevindu-w/clip_share_server](https://github.com/thevindu-w/clip_share_server) - Share Clipboard across devices. Share copied files and screenshots securely. Free and open-source tool that works on Windows, Linux, macOS, and Android.
 - [decentpaste/decentpaste](https://github.com/decentpaste/decentpaste) - Universal Clipboard for Every Device
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - local-first and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local, programmable sandboxes for AI agents
 - [soulehshaikh99/create-svelte-electron-app](https://github.com/soulehshaikh99/create-svelte-electron-app) - Discover the easiest way to get started with the blend of Svelte and Electron JS App
 - [yinkaisheng/Python-UIAutomation-for-Windows](https://github.com/yinkaisheng/Python-UIAutomation-for-Windows) - 🐍Python 3 wrapper of Microsoft UIAutomation. Support UIAutomation for MFC, WindowsForm, WPF, Modern UI(Metro UI), Qt, IE, Firefox, Chrome ...
 - [Nikorasu/MatrixCode](https://github.com/Nikorasu/MatrixCode) - Matrix-style code-rain terminal animations!
