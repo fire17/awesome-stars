@@ -397,7 +397,7 @@
 - [duoan/TorchCode](https://github.com/duoan/TorchCode) - 🔥 LeetCode for PyTorch — practice implementing softmax, attention, GPT-2 and more from scratch with instant auto-grading. Jupyter-based, self-hosted or try online.
 - [Factorem-io/Duple](https://github.com/Factorem-io/Duple) - A physical Model of a Quadropole Ion Trap
 - [rahulnyk/knowledge_graph](https://github.com/rahulnyk/knowledge_graph) - Convert any text to a graph of knowledge. This can be used for Graph Augmented Generation or Knowledge Graph based QnA
-- [0xSojalSec/airllm](https://github.com/0xSojalSec/airllm) - AirLLM 70B inference with single 4GB GPU
+- [0xSojalSec/airllm](https://github.com/0xSojalSec/airllm) - Runs 405B LLMs on 8GB VRAM
 - [FareedKhan-dev/deep-research-agent](https://github.com/FareedKhan-dev/deep-research-agent) - Deep research agentic system using Time Test Diffusion
 - [limitless-ai-inc/limitless-api-examples](https://github.com/limitless-ai-inc/limitless-api-examples) - Examples for using the Limitless Developer API
 - [merveenoyan/smol-vision](https://github.com/merveenoyan/smol-vision) - Recipes for shrinking, optimizing, customizing cutting edge vision models. 💜
@@ -563,7 +563,7 @@
 - [idanshen/Self-Distillation](https://github.com/idanshen/Self-Distillation) - 
 - [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, images, videos, or YouTube links into a queryable kn
 - [base76-research-lab/NoUse](https://github.com/base76-research-lab/NoUse) - Persistent domain memory for LLMs. 8B model + Nouse scored 96% vs 47% for 70B without it. Works with @OpenAI, @Anthropic, @Ollama, @Groq, @Cerebras.
-- [milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace) - The highest-scoring AI memory system ever benchmarked. And it's free.
+- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The highest-scoring AI memory system ever benchmarked. And it's free.
 - [GAIR-NLP/ASI-Evolve](https://github.com/GAIR-NLP/ASI-Evolve) - 
 - [tulerfeng/Gen-Searcher](https://github.com/tulerfeng/Gen-Searcher) - Gen-Searcher: Reinforcing Agentic Search for Image Generation
 - [aiming-lab/SimpleMem](https://github.com/aiming-lab/SimpleMem) - SimpleMem: Efficient Lifelong Memory for LLM Agents — Text & Multimodal
@@ -1126,7 +1126,7 @@
 - [ierror/synaps-cad](https://github.com/ierror/synaps-cad) - The AI-powered 3D CAD IDE — edit code, visualize in 3D, and reshape your designs with natural language.
 - [AlpinDale/parsync](https://github.com/AlpinDale/parsync) - Parallel rsync-like pull sync over SSH with resume
 - [letmutex/gitas](https://github.com/letmutex/gitas) - Git Account Switch
-- [lay2dev/clawpal](https://github.com/lay2dev/clawpal) - ClawPal - Manage OpenClaw agents, models, and configs with a visual interface. Stop editing JSON by hand.
+- [zhixianio/clawpal](https://github.com/zhixianio/clawpal) - ClawPal - Manage OpenClaw agents, models, and configs with a visual interface. Stop editing JSON by hand.
 - [superhq-ai/shuru](https://github.com/superhq-ai/shuru) - A local-first microVM sandbox for running AI agents safely on macOS
 - [GreatScott/enject](https://github.com/GreatScott/enject) - enject: Hide .env secrets from prAIng eyes: secrets live in local encrypted stores (per project) and are injected directly into apps at runtime, never touching disk as plaintext.
 - [raphaelmansuy/edgequake](https://github.com/raphaelmansuy/edgequake) - EdegQuake 🌋 High-performance GraphRAG inspired from LightRag written in Rust; Transform documents into intelligent knowledge graphs for superior retrieval and generation
@@ -1285,7 +1285,7 @@
 
 ## TypeScript 
 
-- [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - Persistent memory for AI coding agents
+- [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks
 - [wastedcode/memex](https://github.com/wastedcode/memex) - File system based wiki, maintained by Claude
 - [bokub/gradient-string](https://github.com/bokub/gradient-string) - :rainbow:  Beautiful color gradients in terminal output
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interacti
@@ -1445,7 +1445,7 @@
 - [better-auth/better-icons](https://github.com/better-auth/better-icons) - Skill and MCP server for searching and retrieving icons
 - [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) - 
 - [IndAlok/rzweb](https://github.com/IndAlok/rzweb) - A complete browser-based reverse engineering platform built on Rizin, running entirely client-side via WebAssembly.
-- [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - Skeleton library that automatically adapts to your component's runtime structure. Zero layout duplication. Built for modern frameworks.
+- [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - A structure-aware skeleton loader that mirrors your rendered UI at runtime. Zero layout duplication. Built for modern frameworks.
 - [Augani/openreel-video](https://github.com/Augani/openreel-video) - OpenReel Video - Professional browser-based video editor. Open source CapCut alternative. 100% browser-based, no installation, no cloud uploads, no watermarks.
 - [vudovn/antigravity-kit](https://github.com/vudovn/antigravity-kit) - 
 - [michaelshimeles/ralphy](https://github.com/michaelshimeles/ralphy) - My Ralph Wiggum setup, an autonomous bash script that runs Claude Code, Codex, OpenCode, Cursor agent, Qwen & Droid in a loop until your PRD is complete.
