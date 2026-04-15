@@ -258,6 +258,7 @@
 - [windows](#windows)
 - [xml](#xml)
 - [youtube](#youtube)
+- [zig](#zig)
 - [zsh](#zsh)
 
 ## 3d 
@@ -347,6 +348,7 @@
 - [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
 - [knowsuchagency/mcp2cli](https://github.com/knowsuchagency/mcp2cli) - Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen
 - [ValueCell-ai/ClawX](https://github.com/ValueCell-ai/ClawX) - ClawX is a desktop app that provides a graphical interface for OpenClaw AI agents. It turns CLI-based AI orchestration into a desktop experience without using the terminal. China website is https://cl
+- [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) - AI-native design editor. Open-source Figma alternative.
 - [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools) - The missing DevTools for Claude Code — inspect session logs, tool calls, token usage, subagents, and context window in a visual UI. Free, open source.
 - [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Open-source context retrieval layer for AI agents
 - [vava-nessa/free-coding-models](https://github.com/vava-nessa/free-coding-models) - Find, benchmark and install in CLI 200+ FREE coding LLM models across 20+ providers in real time
@@ -367,7 +369,7 @@
 - [NVIDIA/garak](https://github.com/NVIDIA/garak) - the LLM vulnerability scanner
 - [CodeUpdaterBot/ClickUi](https://github.com/CodeUpdaterBot/ClickUi) - The best way to use AI is on your own computer. Use local or paid API models, and ctrl+k to show/hide the chat UI. Experience the future of AI, and help build it too!
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
 - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - The automatic work journal. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.
 - [aurelio-labs/semantic-router](https://github.com/aurelio-labs/semantic-router) - Superfast AI decision making and intelligent processing of multi-modal data.
 - [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) - The agent-native LLM router for OpenClaw. 41+ models, &lt;1ms routing, USDC payments on Base & Solana via x402.
@@ -394,7 +396,7 @@
 - [SIGNIAINDEX/SIGNIA](https://github.com/SIGNIAINDEX/SIGNIA) - Compiling real-world structures into verifiable on-chain forms.
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [kasperkamperman/MobileCameraTemplate](https://github.com/kasperkamperman/MobileCameraTemplate) - A HTML5, JS, CSS Camera interface template. Feel free to use it in your next Computer Vision or AI project.
-- [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically
+- [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI that sees your screen, listens to your conversations and tells you what to do
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [agno-agi/agent-ui](https://github.com/agno-agi/agent-ui) - A modern chat interface for AI agents built with Next.js, Tailwind CSS, and TypeScript.
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, manage agentic software at scale.
@@ -511,7 +513,7 @@
 - [tomascupr/sandstorm](https://github.com/tomascupr/sandstorm) - Run Claude agents in secure cloud sandboxes — via API, CLI, or Slack. One call. Full agent. Zero infrastructure.
 - [zilliztech/memsearch](https://github.com/zilliztech/memsearch) - A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.
 - [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
 - [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) - The agent-native LLM router for OpenClaw. 41+ models, &lt;1ms routing, USDC payments on Base & Solana via x402.
 - [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) - Agent S: an open agentic framework that uses computers like a human
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
@@ -740,7 +742,7 @@
 ## c 
 
 - [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
-- [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically
+- [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI that sees your screen, listens to your conversations and tells you what to do
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 
@@ -857,6 +859,7 @@
 
 ## claude-code 
 
+- [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate coding agents remotely from your phone, desktop and CLI
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [bitjaru/styleseed](https://github.com/bitjaru/styleseed) - Claude Code & Cursor design system. Stop generating ugly AI UI. 69 design rules + 48 shadcn components + Toss/Stripe/Linear/Vercel/Notion brand skins. Tailwind v4 + Radix.
 - [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch
@@ -885,7 +888,7 @@
 - [jayminwest/overstory](https://github.com/jayminwest/overstory) - Multi-agent orchestration for AI coding agents — pluggable runtime adapters for Claude Code, Pi, and more
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
-- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Manage your Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. Uses tmux and g
+- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. Uses tmux a
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
 - [github/gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows
 - [zilliztech/memsearch](https://github.com/zilliztech/memsearch) - A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.
@@ -931,7 +934,7 @@
 - [SurgeDM/Surge](https://github.com/SurgeDM/Surge) - Blazing fast TUI download manager built in Go for power users
 - [Higangssh/gitcredits](https://github.com/Higangssh/gitcredits) - Git log doesn't do them justice. Turn your contributors into movie stars.
 - [yigitkonur/cli-continues](https://github.com/yigitkonur/cli-continues) - resume any AI coding session in another tool — Claude Code, Copilot, Gemini, Codex, Cursor
-- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Manage your Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. Uses tmux and g
+- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. Uses tmux a
 - [Cranot/roam-code](https://github.com/Cranot/roam-code) - Architectural intelligence layer for AI coding agents. Structural graph, architecture governance, multi-agent orchestration, vulnerability mapping. 139 commands, 101 MCP tools, 26 languages, 100% loca
 - [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
@@ -1039,7 +1042,7 @@
 
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [scraperai/scraperai](https://github.com/scraperai/scraperai) - ScraperAI is an open-source, AI-powered tool designed to simplify web scraping for users of all skill levels.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [YoongiKim/AutoCrawler](https://github.com/YoongiKim/AutoCrawler) - Google, Naver multiprocess image web crawler (Selenium)
 
@@ -1165,6 +1168,7 @@
 
 ## developer-tools 
 
+- [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate coding agents remotely from your phone, desktop and CLI
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [vercel-labs/opensrc](https://github.com/vercel-labs/opensrc) - Fetch source code for npm packages to give AI coding agents deeper context
 - [rohoswagger/ez-stack](https://github.com/rohoswagger/ez-stack) - The Stacked PR CLI for agents - Manage worktrees, atomic PRs, and more all from the CLI
@@ -1378,7 +1382,7 @@
 
 ## flutter 
 
-- [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically
+- [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI that sees your screen, listens to your conversations and tells you what to do
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -1876,12 +1880,12 @@
 - [sangrokjung/claude-forge](https://github.com/sangrokjung/claude-forge) - Supercharge Claude Code with 11 AI agents, 36 commands & 15 skills — the claude-code plugin framework inspired by oh-my-zsh. 6-layer security hooks included. 5-min install.
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
 - [swark-io/swark](https://github.com/swark-io/swark) - Create architecture diagrams from code automatically using large language models (LLMs).
-- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Manage your Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. Uses tmux and g
+- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. Uses tmux a
 - [RichardHruby/login-machine](https://github.com/RichardHruby/login-machine) - AI-powered login automation. Uses Claude to classify login pages and Playwright to interact with them.
 - [tomascupr/sandstorm](https://github.com/tomascupr/sandstorm) - Run Claude agents in secure cloud sandboxes — via API, CLI, or Slack. One call. Full agent. Zero infrastructure.
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
 - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - The automatic work journal. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.
 - [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) - The agent-native LLM router for OpenClaw. 41+ models, &lt;1ms routing, USDC payments on Base & Solana via x402.
 - [maximhq/bifrost](https://github.com/maximhq/bifrost) - Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & &lt;100 µs overhead at 5k RPS.
@@ -2063,7 +2067,7 @@
 - [HEmile/juggl](https://github.com/HEmile/juggl) - An interactive, stylable and expandable graph view for Obsidian. Juggl is designed as an advanced 'local' graph view, where you can juggle all your thoughts with ease.
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [agenticnotetaking/arscontexta](https://github.com/agenticnotetaking/arscontexta) - Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
@@ -2115,8 +2119,9 @@
 
 ## mobile 
 
+- [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate coding agents remotely from your phone, desktop and CLI
 - [callstackincubator/agent-device](https://github.com/callstackincubator/agent-device) - CLI to control iOS and Android devices for AI agents
-- [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically
+- [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI that sees your screen, listens to your conversations and tells you what to do
 - [vilassn/whisper_android](https://github.com/vilassn/whisper_android) - Offline Speech Recognition with OpenAI Whisper and TensorFlow Lite for Android
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) - Mobile-Agent: The Powerful GUI Agent Family
@@ -2202,7 +2207,7 @@
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [weaviate/elysia-frontend](https://github.com/weaviate/elysia-frontend) - Frontend Repository for Elysia
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
-- [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically
+- [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI that sees your screen, listens to your conversations and tells you what to do
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [riffusion/riffusion-app-hobby](https://github.com/riffusion/riffusion-app-hobby) - Stable diffusion for real-time music generation (web app)
@@ -2338,6 +2343,7 @@
 - [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 - [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 19 sub-skills, 12 subagents, 3 extensions (DataForSEO, Firecrawl, Banana). Technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, Google
 - [mauriceboe/TREK](https://github.com/mauriceboe/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
+- [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) - AI-native design editor. Open-source Figma alternative.
 - [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools) - The missing DevTools for Claude Code — inspect session logs, tool calls, token usage, subagents, and context window in a visual UI. Free, open source.
 - [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Open-source context retrieval layer for AI agents
 - [mostafa-wahied/portracker](https://github.com/mostafa-wahied/portracker) - An open source, self-hosted, real-time port monitoring and discovery tool.
@@ -2448,6 +2454,10 @@
 
 ## others 
 
+- [NousResearch/autoreason](https://github.com/NousResearch/autoreason) - Autoresearch for subjective domains.
+- [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) - Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
+- [matthartman/ghost-pepper](https://github.com/matthartman/ghost-pepper) - 100% private on-device voice models for speech-to-text and meeting transcription on macOS
+- [millionco/isolet](https://github.com/millionco/isolet) - Package any component into a self-contained, isolated widget
 - [TrelisResearch/voice-loop](https://github.com/TrelisResearch/voice-loop) - A minimal on-device voice agent loop
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
@@ -2497,7 +2507,6 @@
 - [stevibe/local-llm-video-captioning](https://github.com/stevibe/local-llm-video-captioning) - 
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interacti
 - [tintinweb/pi-subagents](https://github.com/tintinweb/pi-subagents) - Sub-agents for pi with Claude Code look and feel — parallel execution, live widget, custom agent types, mid-run steering and more ...
-- [matthartman/ghost-pepper](https://github.com/matthartman/ghost-pepper) - Hold-to-talk speech-to-text for macOS. 100% local, powered by WhisperKit and local LLM cleanup. Hold Control to record, release to transcribe and paste.
 - [GAIR-NLP/ASI-Evolve](https://github.com/GAIR-NLP/ASI-Evolve) - 
 - [tulerfeng/Gen-Searcher](https://github.com/tulerfeng/Gen-Searcher) - Gen-Searcher: Reinforcing Agentic Search for Image Generation
 - [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) - Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞
@@ -2590,7 +2599,6 @@
 - [carmahhawwari/ui-design-brain](https://github.com/carmahhawwari/ui-design-brain) - A Cursor skill that gives AI agents real UI component knowledge — best practices, layout patterns, and design-system conventions for 60+ interface components — so it generates production-grade UI inst
 - [every-app/open-seo](https://github.com/every-app/open-seo) - Own your SEO. Research keywords and competitors on your terms. 100% open source.
 - [AlpinDale/parsync](https://github.com/AlpinDale/parsync) - Parallel rsync-like pull sync over SSH with resume
-- [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) - AI-native design editor. Open-source Figma alternative.
 - [lochie/web-haptics](https://github.com/lochie/web-haptics) - Haptic feedback for the mobile web
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
 - [tanishqkumar/ssd](https://github.com/tanishqkumar/ssd) - A lightweight inference engine supporting speculative speculative decoding (SSD).
@@ -2612,7 +2620,7 @@
 - [easychen/ask4me](https://github.com/easychen/ask4me) - Single request, complete the human-in-the-loop | 极简Human-in-the-Loop 方案：一个同步请求搞定一切
 - [Frayo44/agent-view](https://github.com/Frayo44/agent-view) - 
 - [malpern/VoxClaw](https://github.com/malpern/VoxClaw) - Give OpenClaw a voice —  Let your agent speak from any Mac on your network
-- [wesm/agentsview](https://github.com/wesm/agentsview) - A local-first desktop and web application for browsing, searching, and analyzing AI agent coding sessions. Supports Claude Code, Codex, Gemini, OpenCode, Copilot and many other agents.
+- [wesm/agentsview](https://github.com/wesm/agentsview) - A local-first desktop and web application for browsing, searching, and analyzing AI agent coding sessions. Supports Claude Code, Codex, OpenCode, and many other agents. Also: 100x faster replacement f
 - [kevinho/clawfeed](https://github.com/kevinho/clawfeed) - ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard
 - [vinimlo/galaxy-profile](https://github.com/vinimlo/galaxy-profile) - Your GitHub profile, reimagined as a galaxy. Auto-generated SVG cards with stars, constellations, and cosmic stats.
 - [GreatScott/enject](https://github.com/GreatScott/enject) - enject: Hide .env secrets from prAIng eyes: secrets live in local encrypted stores (per project) and are injected directly into apps at runtime, never touching disk as plaintext.
@@ -3283,6 +3291,7 @@
 
 ## python 
 
+- [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
 - [Hyacinthe-primus/File_Converter_Pro](https://github.com/Hyacinthe-primus/File_Converter_Pro) - Free offline all-in-one file converter for Windows. Converts documents, images, audio and video locally. No uploads, no internet, no dependencies. Built with Python & PySide6. Features dark/light them
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
 - [fikrikarim/parlor](https://github.com/fikrikarim/parlor) - On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro.
@@ -3313,7 +3322,7 @@
 - [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 - [EmilStenstrom/justhtml](https://github.com/EmilStenstrom/justhtml) - A pure Python HTML5 parser that just works. No C extensions to compile. No system dependencies to install. No complex API to learn.
-- [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically
+- [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI that sees your screen, listens to your conversations and tells you what to do
 - [ESPARGOS/pyespargos](https://github.com/ESPARGOS/pyespargos) - The python library for working with the ESPARGOS WiFi channel sounder
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, manage agentic software at scale.
 - [Ikaros-521/AI-Vtuber](https://github.com/Ikaros-521/AI-Vtuber) - AI Vtuber是一个由 【ChatterBot/ChatGPT/claude/langchain/chatglm/text-gen-webui/闻达/千问/kimi/ollama】 驱动的虚拟主播【Live2D/UE/xuniren】，可以在 【Bilibili/抖音/快手/微信视频号/拼多多/斗鱼/YouTube/twitch/TikTok】 直播中与观众实时互动 或 直接在本地进行聊天。它
@@ -3457,6 +3466,7 @@
 
 ## pytorch 
 
+- [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
 - [duoan/TorchCode](https://github.com/duoan/TorchCode) - 🔥 LeetCode for PyTorch — practice implementing softmax, attention, GPT-2 and more from scratch with instant auto-grading. Jupyter-based, self-hosted or try online.
 - [xorbitsai/inference](https://github.com/xorbitsai/inference) - Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready
 - [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
@@ -3635,7 +3645,7 @@
 - [Eul45/omni-search](https://github.com/Eul45/omni-search) - High-performance Windows file search + duplicate finder using NTFS USN/MFT (Tauri + Rust + C++).
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
-- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Manage your Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. Uses tmux and g
+- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. Uses tmux a
 - [decentpaste/decentpaste](https://github.com/decentpaste/decentpaste) - Universal Clipboard for Every Device
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local, cross-platform and programmable sandboxes for AI agents
 - [66HEX/frame](https://github.com/66HEX/frame) - Fast FFmpeg GUI
@@ -3885,7 +3895,7 @@
 - [SurgeDM/Surge](https://github.com/SurgeDM/Surge) - Blazing fast TUI download manager built in Go for power users
 - [Higangssh/gitcredits](https://github.com/Higangssh/gitcredits) - Git log doesn't do them justice. Turn your contributors into movie stars.
 - [ahmadawais/terminui](https://github.com/ahmadawais/terminui) - Super fast double buffered toolkit for building terminal UIs.
-- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Manage your Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. Uses tmux and g
+- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. Uses tmux a
 - [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 - [hugomd/parrot.live](https://github.com/hugomd/parrot.live) - 🐦  Bringing animated parrots to terminals everywhere
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
@@ -3932,6 +3942,7 @@
 
 ## text-to-speech 
 
+- [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
 - [fikrikarim/parlor](https://github.com/fikrikarim/parlor) - On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro.
 - [RunanywhereAI/RCLI](https://github.com/RunanywhereAI/RCLI) - Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG
@@ -4094,6 +4105,7 @@
 ## vue 
 
 - [foldergram/foldergram](https://github.com/foldergram/foldergram) - Self-hosted folder-based Instagram-style photo and video gallery app.
+- [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) - AI-native design editor. Open-source Figma alternative.
 - [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - A structure-aware skeleton loader that mirrors your rendered UI at runtime. Zero layout duplication. Built for modern frameworks.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [vcync/modV](https://github.com/vcync/modV) - modular audio visualisation powered by JavaScript
@@ -4187,6 +4199,10 @@
 - [zpix1/yt-anti-translate](https://github.com/zpix1/yt-anti-translate) - Chrome extension to disable youtube video titles autotranslation
 - [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards) - Workflow for displaying recent YouTube videos as SVG cards in your readme
 - [vidify/vidify](https://github.com/vidify/vidify) - Detect the songs playing on your device and play their music videos anywhere
+
+## zig 
+
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 
 ## zsh 
 
