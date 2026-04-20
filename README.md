@@ -90,6 +90,8 @@
 
 ## C++ 
 
+- [ratdoux/OrcaSlicer-FullSpectrum](https://github.com/ratdoux/OrcaSlicer-FullSpectrum) - G-code generator for Snapmaker U1 with Full Spectrum layer blending
+- [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) - 
 - [ProjectPhysX/hw-smi](https://github.com/ProjectPhysX/hw-smi) - A minimal, cross-compatible CPU/GPU telemetry monitor with accurate data directly from vendor APIs and beautiful ASCII visualization.
 - [belijzajac/TermColor](https://github.com/belijzajac/TermColor) - Effortlessly generate color-schemes for terminal emulators by a single drop of an image!
@@ -246,6 +248,8 @@
 
 ## HTML 
 
+- [elder-plinius/ST3GG](https://github.com/elder-plinius/ST3GG) - All-in-one steganography suite
+- [ksimback/hermes-ecosystem](https://github.com/ksimback/hermes-ecosystem) - 🗺️ Hermes Atlas — the community map of every tool, skill, and integration for Hermes Agent by Nous Research. Live at hermesatlas.com
 - [jerryjliu/liteparse_samples](https://github.com/jerryjliu/liteparse_samples) - Interactive samples/demos for LiteParse: a fast, local, model-free document parser
 - [fikrikarim/parlor](https://github.com/fikrikarim/parlor) - On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro.
 - [pbakaus/radiant](https://github.com/pbakaus/radiant) - A curated collection of generative shader art
@@ -289,6 +293,9 @@
 
 ## JavaScript 
 
+- [bugbasesecurity/pentest-copilot](https://github.com/bugbasesecurity/pentest-copilot) - Pentest Copilot is an AI-powered browser based ethical hacking assistant tool designed to streamline pentesting workflows.
+- [iamcheyan/fudoki](https://github.com/iamcheyan/fudoki) - An interactive Japanese text analysis and speech synthesis web app
+- [lbr77/SideImpactor](https://github.com/lbr77/SideImpactor) - pure frontend ipa signing page.
 - [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) - Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Comp
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [zarazhangrui/follow-builders](https://github.com/zarazhangrui/follow-builders) - AI builders digest — monitors top AI builders on X and YouTube podcasts, remixes their content into digestible summaries. Follow builders, not influencers.
@@ -409,6 +416,7 @@
 
 ## Jupyter Notebook 
 
+- [R6410418/Jackrong-llm-finetuning-guide](https://github.com/R6410418/Jackrong-llm-finetuning-guide) - 
 - [liltom-eth/pi-pin](https://github.com/liltom-eth/pi-pin) - Pi Pin - Open-source AI Wearable based on Raspberry Pi
 - [HumeAI/tada](https://github.com/HumeAI/tada) - Open Source Speech Language Model
 - [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
@@ -490,6 +498,9 @@
 
 ## Others 
 
+- [Lakr233/bgclick-rev-skill](https://github.com/Lakr233/bgclick-rev-skill) - 
+- [avinash201199/founders-kit](https://github.com/avinash201199/founders-kit) - A curated collection of essential resources, tools, and playbooks to help founders build, launch, and scale startups successfully.
+- [zeroc00I/LLM-anonymization](https://github.com/zeroc00I/LLM-anonymization) - Reverse proxy for Claude Code that anonymizes sensitive pentest data (IPs, hashes, credentials, hostnames,     PII) before it reaches Anthropic. Dual-layer detection: local Ollama LLM + regex safety n
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, DEVIN, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [andrehuang/research-companion](https://github.com/andrehuang/research-companion) - Strategic research thinking agents for Claude Code — idea evaluation, project triage, and structured brainstorming. Helps you decide which papers to write, not just how to write them.
@@ -579,6 +590,13 @@
 
 ## Python 
 
+- [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos) - A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
+- [alexandercodes4/AirTrain](https://github.com/alexandercodes4/AirTrain) - Distributed ML training across Apple Silicon Macs
+- [google-research/timesfm](https://github.com/google-research/timesfm) - TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+- [SII-WANGZJ/Polymarket_data](https://github.com/SII-WANGZJ/Polymarket_data) - A comprehensive dataset of 1.1 billion trading records from Polymarket, processed into multiple analysis-ready formats. Features cleaned data, unified token perspectives, and user-level transformation
+- [baidu/ERNIE-Image](https://github.com/baidu/ERNIE-Image) - ERNIE-Image is an open text-to-image generation model developed by the ERNIE-Image team at Baidu. It is built on a single-stream Diffusion Transformer (DiT), with only 8B DiT parameters, it reaches st
+- [esaradev/icarus-daedalus](https://github.com/esaradev/icarus-daedalus) - Icarus Memory Protocol -- universal agent memory in 50 lines. markdown files in a directory. any framework, any platform, shared memory. includes two-agent reference implementation with Telegram, Slac
 - [warproxxx/poly_data](https://github.com/warproxxx/poly_data) - Polymarket Data Retriever that fetches, processes, and structures Polymarket data including markets, order events and trades.
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) - A feed-forward 3D foundation model for reconstructing scenes from streaming data
@@ -733,7 +751,7 @@
 - [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
 - [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 - [zscole/gru](https://github.com/zscole/gru) - Self-hosted AI agent orchestration service controlled via Telegram, Discord, or Slack.
-- [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) - A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
+- [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) - [GitHub Trending #2] A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
 - [violit-dev/violit](https://github.com/violit-dev/violit) - Pure Python Web Framework. Streamlit simplicity, no reruns.
 - [alexzhang13/rlm](https://github.com/alexzhang13/rlm) - General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes.
 - [omardimarzio/RLM-Graph](https://github.com/omardimarzio/RLM-Graph) - RLM-Graph - a system based on Recursive Language Models but structured on a directed graph
@@ -1167,6 +1185,7 @@
 
 ## Rust 
 
+- [superhq-ai/superhq](https://github.com/superhq-ai/superhq) - Sandboxed AI agent orchestration platform
 - [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
 - [Polymarket/polymarket-cli](https://github.com/Polymarket/polymarket-cli) - 
 - [weave-logic-ai/weftos](https://github.com/weave-logic-ai/weftos) - 
@@ -1267,6 +1286,8 @@
 
 ## Shell 
 
+- [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) - Claude Code skill to support Android app's reverse engineering
+- [raketenkater/llm-server](https://github.com/raketenkater/llm-server) - Smart launcher for llama.cpp / ik_llama.cpp — auto-detects GPUs, optimizes MoE placement, crash recovery
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop"
 - [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch
 - [jmilinovich/goal-md](https://github.com/jmilinovich/goal-md) - A goal-specification file for autonomous coding agents. Generalizes Karpathy's autoresearch to domains with constructed metrics.
@@ -1322,6 +1343,8 @@
 
 ## Swift 
 
+- [Gremble-io/tome-app](https://github.com/Gremble-io/tome-app) - Local meeting transcription → Obsidian vault. No cloud, no API keys.
+- [esaradev/hermes-island](https://github.com/esaradev/hermes-island) - macOS Dynamic Island notch app for Hermes agents. Monitor sessions, fabric memory, and multi-agent workflows from the menu bar.
 - [Shpigford/chops](https://github.com/Shpigford/chops) - Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.
 - [matthartman/ghost-pepper](https://github.com/matthartman/ghost-pepper) - 100% private on-device voice models for speech-to-text and meeting transcription on macOS
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
@@ -1363,6 +1386,10 @@
 
 ## TypeScript 
 
+- [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download videos from almost any website worldwide
+- [snarktank/ralph](https://github.com/snarktank/ralph) - Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.
+- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+- [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
 - [lnikell/loopndroll](https://github.com/lnikell/loopndroll) - Keep Codex running forever
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [webadderall/Recordly](https://github.com/webadderall/Recordly) - Create polished screen recordings for free. An open-source alternative to Screen Studio.
@@ -1535,7 +1562,7 @@
 - [maorinn/codex-equilibrium](https://github.com/maorinn/codex-equilibrium) - Lightweight Hono-based Node.js service that balances multiple ChatGPT Codex OAuth accounts, persists tokens locally, and proxies /v1/* with SSE streaming.
 - [open-circle/valibot](https://github.com/open-circle/valibot) - The modular and type safe schema library for validating structural data 🤖
 - [vinilana/dotcontext](https://github.com/vinilana/dotcontext) - 
-- [akdeb/ElatoAI](https://github.com/akdeb/ElatoAI) - Realtime Voice AI with 100+ Models on Arduino ESP32 for AI Toys, Companions, and Devices
+- [akdeb/ElatoAI](https://github.com/akdeb/ElatoAI) - Realtime Voice AI with 100+ Models on Arduino ESP32 with Secure Websockets and Edge Functions for AI Toys, Companions, and Devices
 - [DangJin/pdf2video](https://github.com/DangJin/pdf2video) - Transform PDF documents into engaging video presentations with smooth animations.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [likec4/likec4](https://github.com/likec4/likec4) - Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code
