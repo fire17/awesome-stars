@@ -362,6 +362,7 @@
 - [Intelligent-Internet/ii-agent](https://github.com/Intelligent-Internet/ii-agent) - II-Agent: a new open-source framework to build and deploy intelligent agents
 - [liltom-eth/pi-pin](https://github.com/liltom-eth/pi-pin) - Pi Pin - Open-source AI Wearable based on Raspberry Pi
 - [adamcohenhillel/ADeus](https://github.com/adamcohenhillel/ADeus) - An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will h
+- [TesslateAI/OpenSail](https://github.com/TesslateAI/OpenSail) - Open platform for building, running, and sharing AI workspace agents and apps with any model, self-hosted or cloud, no lock-in.
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
 - [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
@@ -373,7 +374,7 @@
 - [vava-nessa/free-coding-models](https://github.com/vava-nessa/free-coding-models) - Find, benchmark and install in CLI 200+ FREE coding LLM models across 20+ providers in real time
 - [IgorShadurin/app.yumcut.com](https://github.com/IgorShadurin/app.yumcut.com) - YumCut - free AI video generator to turn a prompt into ready vertical videos for TikTok, Reels and YouTube Shorts. Auto script, scenes, voiceover, subtitles and watermark. Built with Next.js. Local-fi
 - [hehehai/voxt](https://github.com/hehehai/voxt) - 🎙️Voice input and translation app for macOS. Press to talk, release to paste.
-- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source voice synthesis studio
+- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 - [naveed-gung/nova](https://github.com/naveed-gung/nova) - Nova is a modern, multilingual AI voice assistant that brings natural conversation to your browser. With support for English 🇺🇸, Arabic 🇱🇧, and French 🇫🇷, Nova makes interaction seamless and intuitive
 - [nWave-ai/nWave](https://github.com/nWave-ai/nWave) - AI agents that guide you from idea to working code, with you in control at every step.
 - [spacedriveapp/spacebot](https://github.com/spacedriveapp/spacebot) - An AI agent for teams, communities, and multi-user environments.
@@ -592,7 +593,7 @@
 - [decentpaste/decentpaste](https://github.com/decentpaste/decentpaste) - Universal Clipboard for Every Device
 - [WSTxda/SwitchAI](https://github.com/WSTxda/SwitchAI) - Easily select and manage your preferred AI digital assistants on Android.
 - [adriangl/OverlayHelper](https://github.com/adriangl/OverlayHelper) - Handle Android "draw over other apps" permissions and queries in a version-agnostic way
-- [Stypox/dicio-android](https://github.com/Stypox/dicio-android) - Dicio assistant app for Android
+- [DicioTeam/dicio-android](https://github.com/DicioTeam/dicio-android) - Dicio assistant app for Android
 - [vilassn/whisper_android](https://github.com/vilassn/whisper_android) - Offline Speech Recognition with OpenAI Whisper and TensorFlow Lite for Android
 - [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android (f/w 2.1+) on screen keyboard for multiple languages.
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
@@ -670,6 +671,7 @@
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
+- [TesslateAI/OpenSail](https://github.com/TesslateAI/OpenSail) - Open platform for building, running, and sharing AI workspace agents and apps with any model, self-hosted or cloud, no lock-in.
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [abhi1693/openclaw-mission-control](https://github.com/abhi1693/openclaw-mission-control) - AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
@@ -742,7 +744,7 @@
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is an agentic development environment, born out of the terminal.
 
 ## bitcoin 
 
@@ -1210,6 +1212,7 @@
 
 ## deployment 
 
+- [TesslateAI/OpenSail](https://github.com/TesslateAI/OpenSail) - Open platform for building, running, and sharing AI workspace agents and apps with any model, self-hosted or cloud, no lock-in.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [xorbitsai/inference](https://github.com/xorbitsai/inference) - Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready
@@ -1306,6 +1309,7 @@
 - [Belphemur/obsidian-headless-sync-docker](https://github.com/Belphemur/obsidian-headless-sync-docker) - Dockerized version of obsidian-headless-sync
 - [foldergram/foldergram](https://github.com/foldergram/foldergram) - Self-hosted folder-based Instagram-style photo and video gallery app.
 - [raskrebs/sonar](https://github.com/raskrebs/sonar) - CLI tool for inspecting and managing services listening on localhost ports
+- [TesslateAI/OpenSail](https://github.com/TesslateAI/OpenSail) - Open platform for building, running, and sharing AI workspace agents and apps with any model, self-hosted or cloud, no lock-in.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
@@ -1348,7 +1352,7 @@
 
 ## electron 
 
-- [webadderall/Recordly](https://github.com/webadderall/Recordly) - Create polished screen recordings for free. An open-source alternative to Screen Studio.
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished screen recordings for free. An open-source alternative to Screen Studio.
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [ZenNotes/zennotes](https://github.com/ZenNotes/zennotes) - Keyboard-first local Markdown notes with Vim motions, diagrams, and MCP integration.
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
@@ -1874,6 +1878,7 @@
 
 ## kubernetes 
 
+- [TesslateAI/OpenSail](https://github.com/TesslateAI/OpenSail) - Open platform for building, running, and sharing AI workspace agents and apps with any model, self-hosted or cloud, no lock-in.
 - [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab infrastru
@@ -1905,7 +1910,7 @@
 ## linux 
 
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [webadderall/Recordly](https://github.com/webadderall/Recordly) - Create polished screen recordings for free. An open-source alternative to Screen Studio.
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished screen recordings for free. An open-source alternative to Screen Studio.
 - [p-e-w/ternimal](https://github.com/p-e-w/ternimal) - Simulate a lifeform in the terminal
 - [belijzajac/TermColor](https://github.com/belijzajac/TermColor) - Effortlessly generate color-schemes for terminal emulators by a single drop of an image!
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
@@ -1930,7 +1935,7 @@
 - [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal for free
 - [xemle/home-gallery](https://github.com/xemle/home-gallery) - Self-hosted open-source web gallery to view your photos and videos featuring mobile-friendly, tagging and AI powered image discovery
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is an agentic development environment, born out of the terminal.
 - [vidify/vidify](https://github.com/vidify/vidify) - Detect the songs playing on your device and play their music videos anywhere
 - [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
 
@@ -2116,7 +2121,7 @@
 ## macos 
 
 - [Gremble-io/tome-app](https://github.com/Gremble-io/tome-app) - Local meeting transcription → Obsidian vault. No cloud, no API keys.
-- [webadderall/Recordly](https://github.com/webadderall/Recordly) - Create polished screen recordings for free. An open-source alternative to Screen Studio.
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished screen recordings for free. An open-source alternative to Screen Studio.
 - [Shpigford/chops](https://github.com/Shpigford/chops) - Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
 - [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Intelligence. No API keys, no cloud, no downloads.
@@ -2154,7 +2159,7 @@
 - [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal for free
 - [xemle/home-gallery](https://github.com/xemle/home-gallery) - Self-hosted open-source web gallery to view your photos and videos featuring mobile-friendly, tagging and AI powered image discovery
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is an agentic development environment, born out of the terminal.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [vidify/vidify](https://github.com/vidify/vidify) - Detect the songs playing on your device and play their music videos anywhere
 - [zssz/BerkananSDK](https://github.com/zssz/BerkananSDK) - Bluetooth mesh messaging SDK for apps
@@ -2191,6 +2196,7 @@
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [aiming-lab/SimpleMem](https://github.com/aiming-lab/SimpleMem) - SimpleMem: Efficient Lifelong Memory for LLM Agents — Text & Multimodal
+- [TesslateAI/OpenSail](https://github.com/TesslateAI/OpenSail) - Open platform for building, running, and sharing AI workspace agents and apps with any model, self-hosted or cloud, no lock-in.
 - [Q00/ouroboros](https://github.com/Q00/ouroboros) - Stop prompting. Start specifying.
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
@@ -2445,7 +2451,7 @@
 ## open-source 
 
 - [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
-- [webadderall/Recordly](https://github.com/webadderall/Recordly) - Create polished screen recordings for free. An open-source alternative to Screen Studio.
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished screen recordings for free. An open-source alternative to Screen Studio.
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate agentic social media scheduling tool 🤖
 - [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) - Curated list of the best truly open-source AI projects, models, tools, and infrastructure.
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
@@ -2456,6 +2462,7 @@
 - [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 - [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 19 sub-skills, 12 subagents, 3 extensions (DataForSEO, Firecrawl, Banana). Technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, Google
 - [mauriceboe/TREK](https://github.com/mauriceboe/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
+- [TesslateAI/OpenSail](https://github.com/TesslateAI/OpenSail) - Open platform for building, running, and sharing AI workspace agents and apps with any model, self-hosted or cloud, no lock-in.
 - [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) - AI-native design editor. Open-source Figma alternative.
 - [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools) - The missing DevTools for Claude Code — inspect session logs, tool calls, token usage, subagents, and context window in a visual UI. Free, open source.
 - [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Open-source context retrieval layer for AI agents
@@ -2572,7 +2579,9 @@
 
 ## others 
 
-- [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Self-healing browser harness that enables LLMs to complete any task.
+- [albertshiney/typr](https://github.com/albertshiney/typr) - 
+- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+- [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Browser Harness | Self-healing harness that enables LLMs to complete any task.
 - [ratdoux/OrcaSlicer-FullSpectrum](https://github.com/ratdoux/OrcaSlicer-FullSpectrum) - G-code generator for Snapmaker U1 with Full Spectrum layer blending
 - [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) - Claude Code skill to support Android app's reverse engineering
 - [snarktank/ralph](https://github.com/snarktank/ralph) - Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.
@@ -2712,7 +2721,6 @@
 - [atopile/ai-pin](https://github.com/atopile/ai-pin) - Vibe electronics AI pin
 - [MaxMaeder/OpenPin](https://github.com/MaxMaeder/OpenPin) - OpenPin: use your Humane Ai Pin again. Installable in a few clicks & without any ADB certs!
 - [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
-- [TesslateAI/Studio](https://github.com/TesslateAI/Studio) - Open Source Locally Hosted Lovable with Full Stack Support
 - [unjs/ocache](https://github.com/unjs/ocache) - Standalone caching utilities with TTL, SWR, and HTTP response caching
 - [sumansid/openutter](https://github.com/sumansid/openutter) - Let OpenClaw join your meetings and send updates
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
@@ -3834,7 +3842,7 @@
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Data infrastructure for AI
 - [vercel-community/rust](https://github.com/vercel-community/rust) - 🦀 Rust runtime for ▲ Vercel Serverless Functions
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is an agentic development environment, born out of the terminal.
 - [xou816/spot](https://github.com/xou816/spot) - UNMAINTAINED! Please check out active forks
 - [marin-m/SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
 
@@ -3871,6 +3879,7 @@
 - [Sync-in/server](https://github.com/Sync-in/server) - Sync-in server · Secure, open-source platform for file storage, sharing, collaboration, and syncing.
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [paulveillard/cybersecurity-self-hosted](https://github.com/paulveillard/cybersecurity-self-hosted) - A collection of awesome framework, libraries, learning tutorials, videos, webcasts, technical resources and cool stuff about Self Hosting.
+- [TesslateAI/OpenSail](https://github.com/TesslateAI/OpenSail) - Open platform for building, running, and sharing AI workspace agents and apps with any model, self-hosted or cloud, no lock-in.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [mostafa-wahied/portracker](https://github.com/mostafa-wahied/portracker) - An open source, self-hosted, real-time port monitoring and discovery tool.
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
@@ -3919,7 +3928,7 @@
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [tusharsadhwani/zxpy](https://github.com/tusharsadhwani/zxpy) - Shell scripts made simple 🐚
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is an agentic development environment, born out of the terminal.
 - [engineer-man/piston](https://github.com/engineer-man/piston) - A high performance general purpose code execution engine.
 
 ## sketch 
@@ -4097,7 +4106,7 @@
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal for free
 - [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii) - An intuitive and type-safe Python library for converting lists to fancy ASCII tables for displaying in the terminal or code-blocks
 - [MahdeenSky/ChatGPT-Terminal-Completion](https://github.com/MahdeenSky/ChatGPT-Terminal-Completion) - Attempt at using ChatGPT to issue commands based on comments in the terminal.
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is an agentic development environment, born out of the terminal.
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 
 ## terraform 
@@ -4344,7 +4353,7 @@
 
 ## windows 
 
-- [webadderall/Recordly](https://github.com/webadderall/Recordly) - Create polished screen recordings for free. An open-source alternative to Screen Studio.
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished screen recordings for free. An open-source alternative to Screen Studio.
 - [Hyacinthe-primus/File_Converter_Pro](https://github.com/Hyacinthe-primus/File_Converter_Pro) - Free offline all-in-one file converter for Windows. Converts documents, images, audio and video locally. No uploads, no internet, no dependencies. Built with Python & PySide6. Features dark/light them
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -4398,7 +4407,7 @@
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is an agentic development environment, born out of the terminal.
 
 
 ## License
