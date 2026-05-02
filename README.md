@@ -653,7 +653,7 @@
 - [sdan/continualcode](https://github.com/sdan/continualcode) - pip install continualcode
 - [Gen-Verse/OpenClaw-RL](https://github.com/Gen-Verse/OpenClaw-RL) - OpenClaw-RL: Train any agent simply by talking
 - [idanshen/Self-Distillation](https://github.com/idanshen/Self-Distillation) - 
-- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or v
+- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
 - [base76-research-lab/Nous](https://github.com/base76-research-lab/Nous) - A persistent epistemic substrate for AI. Nous treats language models as larynx, not mind, and benchmarks epistemic structure instead of output fluency.
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [GAIR-NLP/ASI-Evolve](https://github.com/GAIR-NLP/ASI-Evolve) - 
@@ -1256,7 +1256,7 @@
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
 - [decentpaste/decentpaste](https://github.com/decentpaste/decentpaste) - Universal Clipboard for Every Device
-- [nearai/ironclaw](https://github.com/nearai/ironclaw) - IronClaw is OpenClaw inspired implementation in Rust focused on privacy and security
+- [nearai/ironclaw](https://github.com/nearai/ironclaw) - IronClaw is an Agent OS focused on privacy, security and extensibility
 - [nekocode/agent-worktree](https://github.com/nekocode/agent-worktree) - A Git worktree workflow tool for AI coding agents. Enables parallel development with isolated environments.
 - [sigridjineth/agentjson](https://github.com/sigridjineth/agentjson) - The parser that repairs broken JSON output for AI Agent Pipelines
 - [jawond/microsandbox](https://github.com/jawond/microsandbox) - opensource self-hosted sandboxes for ai agents
@@ -1297,7 +1297,7 @@
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
-- [chroma-core/chroma](https://github.com/chroma-core/chroma) - Data infrastructure for AI
+- [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [vercel-community/rust](https://github.com/vercel-community/rust) - 🦀 Rust runtime for ▲ Vercel Serverless Functions
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
@@ -1566,7 +1566,7 @@
 - [macaly/almostnode](https://github.com/macaly/almostnode) - Node.js in your browser. Just like that.
 - [jayminwest/overstory](https://github.com/jayminwest/overstory) - Multi-agent orchestration for AI coding agents — pluggable runtime adapters for Claude Code, Pi, and more
 - [manish-raana/openclaw-mission-control](https://github.com/manish-raana/openclaw-mission-control) - Mission Control is a simple, real-time web UI for monitoring agents and task workflows. Built with Convex and React, it provides a clean dashboard to track task state, agent activity, and live logs — 
-- [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork built for teams, powered by opencode
+- [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork (powered by opencode)
 - [kil0bit-kb/scrcpy-gui](https://github.com/kil0bit-kb/scrcpy-gui) - A modern, high-performance GUI for the scrcpy
 - [AtomicBot-ai/atomicbot](https://github.com/AtomicBot-ai/atomicbot) - The Fastest Way to Run OpenClaw 🦞
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
