@@ -565,6 +565,7 @@
 
 ## ai-agents 
 
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 - [aj47/dotagents-mono](https://github.com/aj47/dotagents-mono) - Your AI team. One voice away. Desktop app + open .agents protocol.
 - [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw (Clawdbot/Moltbot), Pi, Codex, Gemini, Cursor, AmpCode, Factory Droid, Kimi, and more! • 🏅Global Leaderboard + 2D/3D Contri
@@ -994,7 +995,7 @@
 - [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
 - [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 19 sub-skills, 12 subagents, 3 extensions (DataForSEO, Firecrawl, Banana). Technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, Google
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the IDE for working with a fleet of parallel agents. Run any coding agent with your own subscription.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the next-gen IDE for working with a fleet of parallel agents. Run any coding agent with your own subscription.
 - [WecoAI/awesome-autoresearch](https://github.com/WecoAI/awesome-autoresearch) - Curated list of AutoResearch use cases with optimization traces and open source implementations
 - [realkimbarrett/advertising-skills](https://github.com/realkimbarrett/advertising-skills) - Advertising Skills for Open Claw, Claude Code & AI agents. Direct response, paid ads, funnels, and copy systems.
 - [gauravvij/AutoPrompter](https://github.com/gauravvij/AutoPrompter) - AutoResearch + PromptFoo = AutoPrompter. Run it with Neo AI Engineer
@@ -1053,7 +1054,7 @@
 - [tndoan/termflux](https://github.com/tndoan/termflux) - Animated backgrounds for your terminal — starfield, matrix rain, fire, or any external        program composited behind your shell.
 - [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 - [vercel-labs/opensrc](https://github.com/vercel-labs/opensrc) - Fetch source code for npm packages to give AI coding agents deeper context
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the IDE for working with a fleet of parallel agents. Run any coding agent with your own subscription.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the next-gen IDE for working with a fleet of parallel agents. Run any coding agent with your own subscription.
 - [nathan-cannon/cellstate](https://github.com/nathan-cannon/cellstate) - React terminal renderer with cell-level diffing and native scrollback. No alternate screen.
 - [rohoswagger/ez-stack](https://github.com/rohoswagger/ez-stack) - The Stacked PR CLI for agents - Manage worktrees, atomic PRs, and more all from the CLI
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to dis
@@ -1595,6 +1596,7 @@
 
 ## generative-ai 
 
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames
 - [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) - Curated list of the best truly open-source AI projects, models, tools, and infrastructure.
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [liltom-eth/pi-pin](https://github.com/liltom-eth/pi-pin) - Pi Pin - Open-source AI Wearable based on Raspberry Pi
@@ -2417,6 +2419,7 @@
 
 ## nextjs 
 
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate agentic social media scheduling tool 🤖
 - [bitjaru/styleseed](https://github.com/bitjaru/styleseed) - Claude Code & Cursor design system. Stop generating ugly AI UI. 69 design rules + 48 shadcn components + Toss/Stripe/Linear/Vercel/Notion brand skins. Tailwind v4 + Radix.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
@@ -2461,6 +2464,7 @@
 
 ## no-code 
 
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames
 - [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
@@ -2688,6 +2692,7 @@
 
 ## others 
 
+- [AbuZar-Ansarii/real-ubuntu-for-android](https://github.com/AbuZar-Ansarii/real-ubuntu-for-android) - Run the real ubuntu on your android phone.
 - [crafter-station/petdex](https://github.com/crafter-station/petdex) - Public gallery of animated Codex pets
 - [Jakubantalik/metal-fx](https://github.com/Jakubantalik/metal-fx) - Animated WebGL liquid-metal effect for React buttons and UI components
 - [robinebers/openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
@@ -2748,7 +2753,7 @@
 - [zeroc00I/DontFeedTheAI](https://github.com/zeroc00I/DontFeedTheAI) - Reverse proxy for Claude Code that anonymizes sensitive pentest data (IPs, hashes, credentials, hostnames,     PII) before it reaches Anthropic. Dual-layer detection: local Ollama LLM + regex safety n
 - [baidu/ERNIE-Image](https://github.com/baidu/ERNIE-Image) - ERNIE-Image is an open text-to-image generation model developed by the ERNIE-Image team at Baidu. It is built on a single-stream Diffusion Transformer (DiT), with only 8B DiT parameters, it reaches st
 - [esaradev/hermes-island](https://github.com/esaradev/hermes-island) - macOS Dynamic Island notch app for Hermes agents. Monitor sessions, fabric memory, and multi-agent workflows from the menu bar.
-- [esaradev/icarus-daedalus](https://github.com/esaradev/icarus-daedalus) - Icarus Memory Protocol -- universal agent memory in 50 lines. markdown files in a directory. any framework, any platform, shared memory. includes two-agent reference implementation with Telegram, Slac
+- [esaradev/icarus-memory-infra](https://github.com/esaradev/icarus-memory-infra) - Agent memory infrastructure: provenance, rollback, lifecycle/supersession, three-layer model (working memory + session archive + wiki). Markdown on disk, MCP-native.
 - [lnikell/loopndroll](https://github.com/lnikell/loopndroll) - Keep Codex running forever
 - [Polymarket/polymarket-cli](https://github.com/Polymarket/polymarket-cli) - 
 - [warproxxx/poly_data](https://github.com/warproxxx/poly_data) - Polymarket Data Retriever that fetches, processes, and structures Polymarket data including markets, order events and trades.
@@ -2895,7 +2900,7 @@
 - [TinyAGI/fractals](https://github.com/TinyAGI/fractals) - Fractals is a recursive task orchestrator for agent swarm
 - [brunoclz/br-acc](https://github.com/brunoclz/br-acc) - World Transparency Graph public codebase (🚧 website in progress)
 - [mandel-macaque/memento](https://github.com/mandel-macaque/memento) - Keep track of you codex sessions per commit
-- [sympozium-ai/sympozium](https://github.com/sympozium-ai/sympozium) - Run a fleet of AI agents on Kubernetes. Administer your cluster agentically
+- [sympozium-ai/sympozium](https://github.com/sympozium-ai/sympozium) - The Coordination Layer for Multi-Agent AI
 - [j-ncel/word-doodle](https://github.com/j-ncel/word-doodle) - A browser-based generative text art engine that takes string of text and transforms them into typographic doodles.
 - [carmahhawwari/ui-design-brain](https://github.com/carmahhawwari/ui-design-brain) - A Cursor skill that gives AI agents real UI component knowledge — best practices, layout patterns, and design-system conventions for 60+ interface components — so it generates production-grade UI inst
 - [every-app/open-seo](https://github.com/every-app/open-seo) - Own your SEO. Research keywords and competitors on your terms. 100% open source.
@@ -3418,7 +3423,7 @@
 - [sagieppel/Fully-convolutional-neural-network-FCN-for-semantic-segmentation-with-pytorch](https://github.com/sagieppel/Fully-convolutional-neural-network-FCN-for-semantic-segmentation-with-pytorch) - Fully convolutional neural network (FCN) for pixelwise annotation (semantic segmentation) of images implemented on python pytorch.
 - [sagieppel/Detecting-and-segmenting-and-classifying-materials-inside-vessels-in-images-using-convolutional-net](https://github.com/sagieppel/Detecting-and-segmenting-and-classifying-materials-inside-vessels-in-images-using-convolutional-net) - Detecting and segmenting and classifying materials inside mostly transparent vessels in images using a fully convolutional neural net for chemistry lab and other general setting
 - [TeamVanced/Vanced](https://github.com/TeamVanced/Vanced) - Vanced Issues/Docs repo
-- [solana-foundation/pay](https://github.com/solana-foundation/pay) - Developer Tool for Programmable Money Payments
+- [solana-foundation/pay](https://github.com/solana-foundation/pay) - Let your agents pay for any API
 - [tobran/DF-GAN](https://github.com/tobran/DF-GAN) - [CVPR2022 oral] A Simple and Effective Baseline for Text-to-Image Synthesis
 - [mame/doublehelix](https://github.com/mame/doublehelix) - doublehelix obfuscates Ruby codes in Double-helix style
 - [mame/quine-relay](https://github.com/mame/quine-relay) - An uroboros program with 100+ programming languages
@@ -4222,7 +4227,7 @@
 - [bokub/chalk-animation](https://github.com/bokub/chalk-animation) - :clapper: Colorful animations in terminal output
 - [tndoan/termflux](https://github.com/tndoan/termflux) - Animated backgrounds for your terminal — starfield, matrix rain, fire, or any external        program composited behind your shell.
 - [belijzajac/TermColor](https://github.com/belijzajac/TermColor) - Effortlessly generate color-schemes for terminal emulators by a single drop of an image!
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the IDE for working with a fleet of parallel agents. Run any coding agent with your own subscription.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the next-gen IDE for working with a fleet of parallel agents. Run any coding agent with your own subscription.
 - [phlx0/drift](https://github.com/phlx0/drift) - Terminal screensaver that activates when you're idle — constellations, rain, particles & more. Press any key to resume. Just drift away!
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
