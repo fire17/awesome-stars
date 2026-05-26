@@ -538,7 +538,7 @@
 - [Lakr233/bgclick-rev-skill](https://github.com/Lakr233/bgclick-rev-skill) - 
 - [avinash201199/founders-kit](https://github.com/avinash201199/founders-kit) - A curated collection of essential resources, tools, and playbooks to help founders build, launch, and scale startups successfully.
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
-- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
+- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [andrehuang/research-companion](https://github.com/andrehuang/research-companion) - Strategic research thinking agents for Claude Code — idea evaluation, project triage, and structured brainstorming. Helps you decide which papers to write, not just how to write them.
 - [ronniross/asi-core-protocol](https://github.com/ronniross/asi-core-protocol) - A framework to analyze how AGI/ASI might emerge from decentralized, adaptive systems, rather than as the fruit of a single model deployment. It also aims to present orientation as a dynamic and self-e
 - [sharbelxyz/nova-youtube-agent](https://github.com/sharbelxyz/nova-youtube-agent) - Nova — YouTube growth agent for OpenClaw. Competitor scanning, channel analysis, idea generation, script writing, performance tracking, feedback loop. Self-installs in 5 minutes.
@@ -674,7 +674,7 @@
 - [alexandercodes4/AirTrain](https://github.com/alexandercodes4/AirTrain) - Distributed ML training across Apple Silicon Macs
 - [google-research/timesfm](https://github.com/google-research/timesfm) - TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
 - [SII-WANGZJ/Polymarket_data](https://github.com/SII-WANGZJ/Polymarket_data) - A comprehensive dataset of 1.1 billion trading records from Polymarket, processed into multiple analysis-ready formats. Features cleaned data, unified token perspectives, and user-level transformation
-- [zeroc00I/DontFeedTheAI](https://github.com/zeroc00I/DontFeedTheAI) - Reverse proxy for Claude Code that anonymizes sensitive pentest data (IPs, hashes, credentials, hostnames,     PII) before it reaches Anthropic. Dual-layer detection: local Ollama LLM + regex safety n
+- [zeroc00I/DontFeedTheAI](https://github.com/zeroc00I/DontFeedTheAI) - Transparent anonymization proxy for AI-assisted pentesting. Strips IPs, credentials, hostnames and PII before they reach any LLM (Claude, OpenAI, OpenRouter). Local Ollama + regex detection. Per-engag
 - [baidu/ERNIE-Image](https://github.com/baidu/ERNIE-Image) - ERNIE-Image is an open text-to-image generation model developed by the ERNIE-Image team at Baidu. It is built on a single-stream Diffusion Transformer (DiT), with only 8B DiT parameters, it reaches st
 - [esaradev/icarus-memory-infra](https://github.com/esaradev/icarus-memory-infra) - Agent memory infrastructure: provenance, rollback, lifecycle/supersession, three-layer model (working memory + session archive + wiki). Markdown on disk, MCP-native.
 - [warproxxx/poly_data](https://github.com/warproxxx/poly_data) - Polymarket Data Retriever that fetches, processes, and structures Polymarket data including markets, order events and trades.
@@ -734,6 +734,7 @@
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [himanshudongre/smriti](https://github.com/himanshudongre/smriti) - 
 - [gauravvij/AutoPrompter](https://github.com/gauravvij/AutoPrompter) - AutoResearch + PromptFoo = AutoPrompter. Run it with Neo AI Engineer
+- [raine/git-surgeon](https://github.com/raine/git-surgeon) - Git primitives for autonomous coding agents
 - [jzOcb/writing-style-skill](https://github.com/jzOcb/writing-style-skill) - Writing style skill template with built-in auto-learning. AI writes → you edit → rules auto-extracted → SKILL.md improves. Works with Claude Code + OpenClaw.
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
@@ -1271,7 +1272,7 @@
 
 - [t8y2/dbx](https://github.com/t8y2/dbx) - 15MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.15MB，轻量级跨平台数据库客户端。支持 MySQL、PostgreSQL、SQLite、Redis、MongoD
 - [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Free static layer: unused code, duplication, circular deps, complexity hotspots, architecture boundaries. Optional paid runtime layer: hot-path rev
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Coding agent for open source, open weight models
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Agentic coding terminal. DeepSeek-first, multi-provider, cache-maximal, whale-themed. Five-locale UI + CN-region endpoints + CNB mirror.
 - [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw (Clawdbot/Moltbot), Pi, Codex, Gemini, Cursor, AmpCode, Factory Droid, Kimi, and more! • 🏅Global Leaderboard + 2D/3D Contri
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
@@ -1296,7 +1297,6 @@
 - [vercel-labs/opensrc](https://github.com/vercel-labs/opensrc) - Fetch source code for npm packages to give AI coding agents deeper context
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 - [rohoswagger/ez-stack](https://github.com/rohoswagger/ez-stack) - The Stacked PR CLI for agents - Manage worktrees, atomic PRs, and more all from the CLI
-- [raine/git-surgeon](https://github.com/raine/git-surgeon) - Git primitives for autonomous coding agents
 - [kenforthewin/atomic](https://github.com/kenforthewin/atomic) - Self-hosted, semantically-connected personal knowledge base
 - [openphotos-ca/openphotos](https://github.com/openphotos-ca/openphotos) - Own Your Photos, Forever Secure
 - [run-llama/liteparse](https://github.com/run-llama/liteparse) - A fast, helpful, and open-source document parser
@@ -1457,7 +1457,7 @@
 - [wxtsky/CodeIsland](https://github.com/wxtsky/CodeIsland) - 
 - [farzaa/clicky](https://github.com/farzaa/clicky) - 
 - [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Intelligence. No API keys, no cloud, no downloads.
-- [kageroumado/rilmazafone](https://github.com/kageroumado/rilmazafone) - A macOS app for designing and building custom DMG disk images
+- [kageroumado/rilmazafone](https://github.com/kageroumado/rilmazafone) - A macOS GUI app for designing and building custom DMG disk images
 - [thesophiaxu/contextd](https://github.com/thesophiaxu/contextd) - An efficient macOS app that continuously captures your screen activity, summarizes it with an LLM, and makes it available for other local tools.
 - [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM) - MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.
 - [mikker/LeaderKey](https://github.com/mikker/LeaderKey) - The *faster than your launcher* launcher
@@ -1575,7 +1575,7 @@
 - [0xGF/boneyard](https://github.com/0xGF/boneyard) - Auto generated skeleton loading framework
 - [Mohit-Patil/clawdex-mobile](https://github.com/Mohit-Patil/clawdex-mobile) - Control Codex from your phone
 - [mauriceboe/TREK](https://github.com/mauriceboe/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the next-gen ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the next-gen IDE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
 - [zdenham/anvil](https://github.com/zdenham/anvil) - IDE for parallel agent work. Create worktrees in one click. Share plans between agents. Execute with parallelism + isolation.
 - [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
 - [nathan-cannon/cellstate](https://github.com/nathan-cannon/cellstate) - React terminal renderer with cell-level diffing and native scrollback. No alternate screen.
@@ -1640,7 +1640,7 @@
 - [unitedbyai/droidclaw](https://github.com/unitedbyai/droidclaw) - turn old phones into ai agents - give it a goal in plain english. it reads the screen, thinks about what to do, taps and types via adb, and repeats until the job is done.
 - [CloveSVG/voicepaste](https://github.com/CloveSVG/voicepaste) - High quality and accuracy open-source voice input app
 - [MeisnerDan/mission-control](https://github.com/MeisnerDan/mission-control) - Open-source task management for the agentic era. The command center for solo entrepreneurs who delegate work to AI agents.
-- [bytonylee/free-router](https://github.com/bytonylee/free-router) - Free model router CLI to discover, benchmark, and configure free AI models for OpenCode and OpenClaw
+- [bytonylee/free-router](https://github.com/bytonylee/free-router) - The free AI model router, API for everyday AI work. Find the best option, compare results, switch with less friction.
 - [lqs/retrotick](https://github.com/lqs/retrotick) - 💾 Run .exe in browser — x86/ARM emulator with reimplemented Win32/WinCE/Win16/DOS APIs in pure TypeScript
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms
 - [forloopcodes/contextplus](https://github.com/forloopcodes/contextplus) - Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining RAG, Tree-sitter AST, Spectral Clustering, and Obsidian-style
