@@ -404,7 +404,7 @@
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
 - [unconv/gpt4v-browsing](https://github.com/unconv/gpt4v-browsing) - Web Scraping with GPT-4 Vision API and Puppeteer
 - [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
-- [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - Free Open Source ERP CRM Software Accounting Invoicing | Node Js React
+- [salahlalami/idurar-erp-crm](https://github.com/salahlalami/idurar-erp-crm) - Free Open Source ERP CRM Software Accounting Invoicing | Node.Js React
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [neatsoftware/term-sheets](https://github.com/neatsoftware/term-sheets) - Create animated terminal presentations. Export as SVG, animated GIF, or HTML+CSS
 - [vvo/gifify](https://github.com/vvo/gifify) - 😻 Convert any video file to an optimized animated GIF.
@@ -828,7 +828,7 @@
 - [cisco-ai-defense/skill-scanner](https://github.com/cisco-ai-defense/skill-scanner) - Security Scanner for Agent Skills
 - [assafelovic/skyll](https://github.com/assafelovic/skyll) - A tool for autonomous agents like OpenClaw to discover and learn skills autonomously
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu
-- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Memory for 24/7 proactive agents like OpenClaw.
+- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - The memory harness for proactive AI agents — structured storage, intent capture, 10x token reduction.
 - [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 - [zscole/gru](https://github.com/zscole/gru) - Self-hosted AI agent orchestration service controlled via Telegram, Discord, or Slack.
 - [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) - A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
@@ -1268,7 +1268,6 @@
 
 ## Rust 
 
-- [t8y2/dbx](https://github.com/t8y2/dbx) - 15MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.15MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redi
 - [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Free static layer: unused code, duplication, circular deps, complexity hotspots, architecture boundaries. Optional paid runtime layer: hot-path rev
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek + MiMo coding agent in terminal
@@ -1493,6 +1492,7 @@
 
 - [EveryInc/proof-sdk](https://github.com/EveryInc/proof-sdk) - Proof SDK: open-source collaborative editor, provenance model, and agent HTTP bridge
 - [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, enc
+- [t8y2/dbx](https://github.com/t8y2/dbx) - 15MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.15MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redi
 - [mnfst/manifest](https://github.com/mnfst/manifest) - Smart Model Routing for Agents. Cut Costs up to 70% 🦚
 - [phodal/routa](https://github.com/phodal/routa) - Workspace-first multi-agent coordination platform for AI development, with shared Specs, Kanban orchestration, and MCP/ACP/   A2A support across web and desktop.
 - [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
@@ -1587,7 +1587,7 @@
 - [maria-rcks/t1code](https://github.com/maria-rcks/t1code) - T3Code, but in your terminal
 - [adiiverma40/tunelog](https://github.com/adiiverma40/tunelog) - Self-hosted music recommendation that learns your taste from skips and replays no ratings needed.
 - [foldergram/foldergram](https://github.com/foldergram/foldergram) - Self-hosted folder-based Instagram-style photo and video gallery app.
-- [obsessiondb/rudel](https://github.com/obsessiondb/rudel) - Claude Code & Codex Session Analytics
+- [evrendom/rudel](https://github.com/evrendom/rudel) - Claude Code & Codex Session Analytics
 - [Sync-in/server](https://github.com/Sync-in/server) - Sync-in Server · Open-source platform for file storage, sharing, collaboration, and syncing.
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [lcoutodemos/clui-cc](https://github.com/lcoutodemos/clui-cc) - Clui CC — Command Line User Interface for Claude Code
@@ -1746,7 +1746,7 @@
 - [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) - A visual no-code theme editor for shadcn/ui components
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [numman-ali/n-skills](https://github.com/numman-ali/n-skills) - Curated plugin marketplace for AI agents - works with Claude Code, Codex, and openskills
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex, for your OpenCode
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex, for your OpenCode
 - [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
 - [agno-agi/agent-ui](https://github.com/agno-agi/agent-ui) - A modern chat interface for AI agents built with Next.js, Tailwind CSS, and TypeScript.
 - [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK!
@@ -1801,7 +1801,7 @@
 - [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts) - Official Anytype client for MacOS, Linux, and Windows
 - [fal-ai-community/tldraw-fal](https://github.com/fal-ai-community/tldraw-fal) - 
 - [tldraw/make-real](https://github.com/tldraw/make-real) - Draw a ui and make it real
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
