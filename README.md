@@ -560,7 +560,7 @@
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
 - [devops-interviews/devops-interview-questions](https://github.com/devops-interviews/devops-interview-questions) - DevOps Interview Questions
 - [CyanVoxel/Obsidian-Vault-Template](https://github.com/CyanVoxel/Obsidian-Vault-Template) - A Template for my Obsidian Vault.
-- [Rowow1/Open-sourced-off-the-shelf-ion-exchange-membrane](https://github.com/Rowow1/Open-sourced-off-the-shelf-ion-exchange-membrane) - Open-source DIY ion exchange membrane from off-the-shelf materials — part of Rowow LLC's closed-loop electrochemical precious metal recovery platform
+- [Rowow11/Open-sourced-off-the-shelf-ion-exchange-membrane](https://github.com/Rowow11/Open-sourced-off-the-shelf-ion-exchange-membrane) - Open-source DIY ion exchange membrane from off-the-shelf materials — part of Rowow LLC's closed-loop electrochemical precious metal recovery platform
 - [Intent-Lab/VisionClaw](https://github.com/Intent-Lab/VisionClaw) - Real-time AI assistant for Meta Ray-Ban smart glasses -- voice + vision + agentic actions via Gemini Live and OpenClaw
 - [jawond/UltraBr3aks](https://github.com/jawond/UltraBr3aks) - sharing NEW strong AI jailbreaks of multiple vendors (LLMs)
 - [strongdm/attractor](https://github.com/strongdm/attractor) - nlspec of StrongDM's Attractor, a non-interactive Coding Agent sufficient for use in a Software Factory
@@ -1044,6 +1044,7 @@
 - [nuclia/nucliadb](https://github.com/nuclia/nucliadb) - NucliaDB, The AI Search database for RAG
 - [floodsung/Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
 - [oauthlib/oauthlib](https://github.com/oauthlib/oauthlib) - A generic, spec-compliant, thorough implementation of the OAuth request-signing logic
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [disler/multi-agent-postgres-data-analytics](https://github.com/disler/multi-agent-postgres-data-analytics) - The way we interact with our data is changing.
@@ -1084,7 +1085,6 @@
 - [yinkaisheng/Python-UIAutomation-for-Windows](https://github.com/yinkaisheng/Python-UIAutomation-for-Windows) - 🐍Python 3 wrapper of Microsoft UIAutomation. Support UIAutomation for MFC, WindowsForm, WPF, Modern UI(Metro UI), Qt, IE, Firefox, Chrome ...
 - [ariyuan/pywinauto_inspector](https://github.com/ariyuan/pywinauto_inspector) - spy tool for pywinauto
 - [n8henrie/pycookiecheat](https://github.com/n8henrie/pycookiecheat) - Borrow cookies from your browser's authenticated session for use in Python scripts.
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [collabora/WhisperLive](https://github.com/collabora/WhisperLive) - A nearly-live implementation of OpenAI's Whisper.
 - [nalbion/whisper-server](https://github.com/nalbion/whisper-server) - streaming speech to text server using Whisper
@@ -1364,6 +1364,7 @@
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorizati
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
@@ -1556,13 +1557,13 @@
 - [jasonkneen/codesurf](https://github.com/jasonkneen/codesurf) - context IDE
 - [amaancoderx/npxskillui](https://github.com/amaancoderx/npxskillui) - 
 - [KurtGokhan/tegaki](https://github.com/KurtGokhan/tegaki) - Handwriting animation for the web. Supports any font or text.
-- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.
+- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - See where your AI tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability. npx codeburn
 - [millionco/isolet](https://github.com/millionco/isolet) - Package any component into a self-contained, isolated widget
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [companion-inc/feynman](https://github.com/companion-inc/feynman) - 
 - [dmmulroy/better-result](https://github.com/dmmulroy/better-result) - Lightweight Result type for TypeScript with generator-based composition.
 - [kapishdima/remocn](https://github.com/kapishdima/remocn) - Production-ready animations, transitions, backgrounds, and scenes for Remotion. A shadcn registry that lets you `npx shadcn add` polished video components into any Remotion project. Built for solo bui
-- [bitjaru/styleseed](https://github.com/bitjaru/styleseed) - Design engine for Claude Code & Cursor — teaches design judgment, not just data. 69 rules, 48 components, 7 brand skins (Toss/Stripe/Linear/Notion/Raycast/Arc/Vercel), a named motion system (5 seeds +
+- [bitjaru/styleseed](https://github.com/bitjaru/styleseed) - Design engine for Claude Code, Codex & Cursor — teaches design judgment, not just data. 74 rules, 48 components, 7 brand skins (Toss/Stripe/Linear/Notion/Raycast/Arc/Vercel), a named motion system (5 
 - [millionco/debug-agent](https://github.com/millionco/debug-agent) - Debugging skill for AI agents
 - [imbue-ai/bouncer](https://github.com/imbue-ai/bouncer) - Heal your social media feeds
 - [renatoworks/3dsvg](https://github.com/renatoworks/3dsvg) - The easiest way to turn SVGs into interactive React 3D components
@@ -1810,7 +1811,6 @@
 - [tldraw/make-real](https://github.com/tldraw/make-real) - Draw a ui and make it real
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [ArielYat/Whatsapp-bot-Project](https://github.com/ArielYat/Whatsapp-bot-Project) - WhatsApp Bot 🌟 - for groups and individuals
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
