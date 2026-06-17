@@ -403,6 +403,7 @@
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [entireio/cli](https://github.com/entireio/cli) - 📜 Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo.
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+- [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) - Desktop Companion for Hermes Agent
 - [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw (Clawdbot/Moltbot), Pi, Codex, Gemini, Cursor, AmpCode, Factory Droid, Kimi, and more! • 🏅Global Leaderboard + 2D/3D Contri
 - [greyhaven-ai/autocontext](https://github.com/greyhaven-ai/autocontext) - a recursive self-improving harness designed to help your agents (and future iterations of those agents) succeed on any task
 - [MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials) - Multi-agent systems, memory, planning, reasoning loops
@@ -899,6 +900,7 @@
 
 ## chatbot 
 
+- [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) - Desktop Companion for Hermes Agent
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
 - [aurelio-labs/semantic-router](https://github.com/aurelio-labs/semantic-router) - Superfast AI decision making and intelligent processing of multi-modal data.
 - [WSTxda/SwitchAI](https://github.com/WSTxda/SwitchAI) - Easily select and manage your preferred AI digital assistants on Android.
@@ -2148,6 +2150,7 @@
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 - [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
+- [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) - Desktop Companion for Hermes Agent
 - [future-agi/future-agi](https://github.com/future-agi/future-agi) - Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.
 - [cosmicstack-labs/mercury-agent](https://github.com/cosmicstack-labs/mercury-agent) - Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.
 - [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Browser Harness | Self-healing harness that enables LLMs to complete any task.
@@ -2293,7 +2296,7 @@
 ## mac 
 
 - [awizemann/harness](https://github.com/awizemann/harness) - AI-driven user testing for iOS Simulator, macOS apps, and web apps. Write a goal in plain language; an LLM agent drives the UI and reports friction. macOS 14+, Swift 6.
-- [BarutSRB/Hiro](https://github.com/BarutSRB/Hiro) - MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.
+- [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM) - MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
@@ -2352,7 +2355,7 @@
 - [p-e-w/ternimal](https://github.com/p-e-w/ternimal) - Simulate a lifeform in the terminal
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [kageroumado/rilmazafone](https://github.com/kageroumado/rilmazafone) - A macOS GUI app for designing and building custom DMG disk images
-- [BarutSRB/Hiro](https://github.com/BarutSRB/Hiro) - MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.
+- [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM) - MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.
 - [raskrebs/sonar](https://github.com/raskrebs/sonar) - CLI tool for inspecting and managing services listening on localhost ports
 - [taigrr/spank](https://github.com/taigrr/spank) - Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.
 - [mikker/LeaderKey](https://github.com/mikker/LeaderKey) - The *faster than your launcher* launcher
@@ -2881,7 +2884,6 @@
 - [Jakubantalik/metal-fx](https://github.com/Jakubantalik/metal-fx) - Animated WebGL liquid-metal effect for React buttons and UI components
 - [robinebers/openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
 - [suasgn/openburn](https://github.com/suasgn/openburn) - A plugin-based menu bar app for tracking AI coding tool subscriptions like Cursor, Claude, Codex and more, all in one place with a heavy focus user experience, speed, and stability.
-- [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) - Desktop Companion for Hermes Agent
 - [chandra447/pi-hermes-memory](https://github.com/chandra447/pi-hermes-memory) - Hermes-style persistent memory and learning loop for Pi coding agent
 - [entrepeneur4lyf/hermes-context-manager](https://github.com/entrepeneur4lyf/hermes-context-manager) - Hermes Agent port of pi-dynamic-context-pruning plugin with additions
 - [Tianyi-Billy-Ma/AutoData](https://github.com/Tianyi-Billy-Ma/AutoData) - Automatica Open Web Data Collection (NeurIPS 2025)
@@ -2907,12 +2909,12 @@
 - [MrFadiAi/free-llm-gateway](https://github.com/MrFadiAi/free-llm-gateway) - Unified OpenAI-compatible API gateway aggregating 14+ free LLM providers with automatic fallback routing, rate limit tracking, and web dashboard
 - [enetx/surf](https://github.com/enetx/surf) - SURF - Advanced Go HTTP client with Chrome/Firefox browser impersonation, HTTP/3 with QUIC fingerprinting, JA3/JA4 TLS emulation, and anti-bot bypass for web automation and scraping.
 - [lucasimi/tda-mapper-python](https://github.com/lucasimi/tda-mapper-python) - A simple and efficient Python implementation of Mapper algorithm for Topological Data Analysis
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude code and codex for free in the terminal, VSCode extension, and discord like OpenClaw (voice supported)
 - [huggingface/ml-intern](https://github.com/huggingface/ml-intern) - 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
 - [tanvesh01/rudu](https://github.com/tanvesh01/rudu) - Review PRs without losing your mind.
 - [grzgrzgrzgrzgrz/deepscroll](https://github.com/grzgrzgrzgrzgrz/deepscroll) - deepscroll — open-source implementation of Recursive Language Models (Zhang, Kraska, Khattab, arXiv:2512.24601) for analyzing 10M+ token contexts via LLM-guided recursive navigation.
 - [xt42io/avnac](https://github.com/xt42io/avnac) - Free browser-based design software.
-- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interacti
+- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local)
 - [yaojingang/yao-open-skills](https://github.com/yaojingang/yao-open-skills) - OpenYao public skills collection: reusable AI assets for decision-making, business analysis, tutorials, research evidence gathering, and document generation.
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
 - [project-89/Seraph](https://github.com/project-89/Seraph) - The digital repository for the hyperdimensional being known as Seraph.
@@ -3158,7 +3160,7 @@
 - [BunchHQ/Bunch](https://github.com/BunchHQ/Bunch) - An upcoming cross-platform real-time group chat platform
 - [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) - CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
 - [disler/bowser](https://github.com/disler/bowser) - Agentic browser automation and ui testing system — built with composable skills, subagent, command, and justfile layered architecture for repeatable, deployable browser use.
-- [Rowow11/Open-sourced-off-the-shelf-ion-exchange-membrane](https://github.com/Rowow11/Open-sourced-off-the-shelf-ion-exchange-membrane) - Open-source DIY ion exchange membrane from off-the-shelf materials — part of Rowow LLC's closed-loop electrochemical precious metal recovery platform
+- [Rowow-LLC/Open-sourced-off-the-shelf-ion-exchange-membrane](https://github.com/Rowow-LLC/Open-sourced-off-the-shelf-ion-exchange-membrane) - Open-source DIY ion exchange membrane from off-the-shelf materials — part of Rowow LLC's closed-loop electrochemical precious metal recovery platform
 - [crux-ecosystem/mol-lang](https://github.com/crux-ecosystem/mol-lang) - MOL — The cognitive programming language with auto-tracing pipelines. Built for AI/RAG by CruxLabx.
 - [earendil-works/gondolin](https://github.com/earendil-works/gondolin) - Experimental Linux microvm setup with a TypeScript Control Plane as Agent Sandbox
 - [GeorgiKeranov/facebook-marketplace-bot](https://github.com/GeorgiKeranov/facebook-marketplace-bot) - Facebook marketplace bot that automatically removes and uploads listings from CSV Files. This way listings are seen by more people and that leads to selling them faster
@@ -3727,7 +3729,7 @@
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [remvze/moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
-- [BarutSRB/Hiro](https://github.com/BarutSRB/Hiro) - MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.
+- [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM) - MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [mrkai77/Loop](https://github.com/mrkai77/Loop) - Window management made elegant.
 - [sangrokjung/claude-forge](https://github.com/sangrokjung/claude-forge) - Supercharge Claude Code with 11 AI agents, 36 commands & 15 skills — the claude-code plugin framework inspired by oh-my-zsh. 6-layer security hooks included. 5-min install.
@@ -4384,7 +4386,7 @@
 - [Gremble-io/Detto](https://github.com/Gremble-io/Detto) - On-device meeting capture, dictation, and vault-native knowledge layer for macOS. Nothing leaves your Mac.
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
 - [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Intelligence. No API keys, no cloud, no downloads.
-- [BarutSRB/Hiro](https://github.com/BarutSRB/Hiro) - MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.
+- [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM) - MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.
 - [mrkai77/Loop](https://github.com/mrkai77/Loop) - Window management made elegant.
 - [IronsideXXVI/Hacker-News](https://github.com/IronsideXXVI/Hacker-News) - A native macOS client for Hacker News, built with SwiftUI
 - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - The automatic work journal. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.
