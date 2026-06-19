@@ -550,7 +550,7 @@
 - [sharbelxyz/nova-youtube-agent](https://github.com/sharbelxyz/nova-youtube-agent) - Nova — YouTube growth agent for OpenClaw. Competitor scanning, channel analysis, idea generation, script writing, performance tracking, feedback loop. Self-installs in 5 minutes.
 - [WecoAI/awesome-autoresearch](https://github.com/WecoAI/awesome-autoresearch) - Curated list of AutoResearch use cases with optimization traces and open source implementations
 - [realkimbarrett/advertising-skills](https://github.com/realkimbarrett/advertising-skills) - Advertising Skills for Open Claw, Claude Code & AI agents. Direct response, paid ads, funnels, and copy systems.
-- [emilkowalski/skill](https://github.com/emilkowalski/skill) - A skill file based on the articles written on my personal site. Designed for designers and engineers to help them build better user interfaces.
+- [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Design Engineers.
 - [VoltAgent/awesome-codex-subagents](https://github.com/VoltAgent/awesome-codex-subagents) - A collection of 130+ specialized Codex subagents covering a wide range of development use cases.
 - [superultrainc/superwhisper-download](https://github.com/superultrainc/superwhisper-download) - Superwhisper is an AI voice-to-text tool for quick and accurate transcription. Download free now.
 - [greensock/gsap-skills](https://github.com/greensock/gsap-skills) - Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage.
