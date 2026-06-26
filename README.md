@@ -320,7 +320,6 @@
 - [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - A collection of agent skills for CAD, robotics and hardware design
 - [reysu/ai-life-skills](https://github.com/reysu/ai-life-skills) - 
 - [Moswag/FacialRecognitionForPolice](https://github.com/Moswag/FacialRecognitionForPolice) - This is a criminal identification app developed in django that can identify criminals using face recognition
-- [robinebers/openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
 - [suasgn/openburn](https://github.com/suasgn/openburn) - A plugin-based menu bar app for tracking AI coding tool subscriptions like Cursor, Claude, Codex and more, all in one place with a heavy focus user experience, speed, and stability.
 - [ARA-Labs/Agent-Native-Research-Artifact](https://github.com/ARA-Labs/Agent-Native-Research-Artifact) - A protocol that recasts the primary research object from narrative document to machine-executable knowledge package — so AI agents can navigate, reproduce, and extend published research without re-dis
 - [UdaraJay/Pile](https://github.com/UdaraJay/Pile) - Desktop app for digital journaling.
@@ -328,7 +327,6 @@
 - [iamcheyan/fudoki](https://github.com/iamcheyan/fudoki) - An interactive Japanese text analysis and speech synthesis web app
 - [lbr77/SideImpactor](https://github.com/lbr77/SideImpactor) - pure frontend ipa signing page.
 - [memodb-io/Acontext](https://github.com/memodb-io/Acontext) - Agent Skills as a Memory Layer
-- [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) - Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Comp
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [zarazhangrui/follow-builders](https://github.com/zarazhangrui/follow-builders) - AI builders digest — monitors top AI builders on X and YouTube podcasts, remixes their content into digestible summaries. Follow builders, not influencers.
@@ -632,6 +630,11 @@
 
 ## Python 
 
+- [BotchetDig/workout-gate](https://github.com/BotchetDig/workout-gate) - A Claude Code hook that blocks your prompt until you do your push-ups, counted live via webcam. Random reps, session-persistent debt (no closing the tab to skip), streak stats, and three trigger modes
+- [ksimback/looper](https://github.com/ksimback/looper) - Design visual, review-gated agent loops for Claude Code before you run them.
+- [alicankiraz1/CodexQB](https://github.com/alicankiraz1/CodexQB) - CodexQB is a Codex plugin for evidence-backed repo comprehension, planning, QA audit, and gated implementation handoffs.
+- [microsoft/fastcontext](https://github.com/microsoft/fastcontext) - FastContext: Training Efficient Repository Explorer for Coding Agents
+- [StarTrail-org/PixelRAG](https://github.com/StarTrail-org/PixelRAG) - The end of web parsing. The beginning of scalable pixel-native search.
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [hanxiao/dataroom](https://github.com/hanxiao/dataroom) - Give a query, get a dataroom. Pi + self-hosted Qwen3.6 research harness on a single L4.
 - [rednote-hilab/dots.tts](https://github.com/rednote-hilab/dots.tts) - 
@@ -1447,12 +1450,14 @@
 
 ## Swift 
 
+- [DandyLyons/treedocs](https://github.com/DandyLyons/treedocs) - treedocs is a CLI tool that generates and maintains a version-controlled, YAML-based architectural map of a repository by mirroring the file system and mapping paths to human-readable descriptions.
 - [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [ericjypark/codex-island](https://github.com/ericjypark/codex-island) - CodexIsland - AI usage limits in your MacBook notch
 - [awizemann/harness](https://github.com/awizemann/harness) - AI-driven user testing for iOS Simulator, macOS apps, and web apps. Write a goal in plain language; an LLM agent drives the UI and reports friction. macOS 14+, Swift 6.
 - [maria-rcks/miri](https://github.com/maria-rcks/miri) - Niri-ish, keyboard-first window manager for macOS.
 - [heyderekj/binky](https://github.com/heyderekj/binky) - Binky sorts your files.
 - [dodo-reach/hermes-desktop](https://github.com/dodo-reach/hermes-desktop) - The safest, simplest way to manage Hermes from your Mac. Pure SSH. No gateways, no exposed ports, no browser layer.
+- [robinebers/openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
 - [Shpigford/clearly](https://github.com/Shpigford/clearly) - Markdown editor for Mac, iOS and iPadOS
 - [actuallyepic/background-computer-use](https://github.com/actuallyepic/background-computer-use) - 
 - [Gremble-io/Detto](https://github.com/Gremble-io/Detto) - On-device meeting capture, dictation, and vault-native knowledge layer for macOS. Nothing leaves your Mac.
@@ -1497,6 +1502,8 @@
 
 ## TypeScript 
 
+- [nota-america/forgecat-agent-profiles](https://github.com/nota-america/forgecat-agent-profiles) - Production-ready AI agent profiles for Claude Code, Cursor, and Codex. Search, install, and contribute ForgeCat packages.
+- [yorgai/ORG2](https://github.com/yorgai/ORG2) - Open-source Cursor-style agent IDE — but built for reviewability and control. Built-in rust harness; supports 10+ CLIs.
 - [wizenheimer/canary](https://github.com/wizenheimer/canary) - QA harness built for Claude Code | E2E testing with screen recordings, console logs, network HARs, and Playwright traces
 - [vorpus/performativeUI](https://github.com/vorpus/performativeUI) - 
 - [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software
