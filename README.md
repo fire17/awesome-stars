@@ -322,6 +322,11 @@
 
 ## JavaScript 
 
+- [fire17/immaterial-art](https://github.com/fire17/immaterial-art) - Seeded generative-art render pipeline + Claude Code skill — every clip traceable to the seed that made it (batch/generate/similar/identify/features)
+- [pex-gl/pex](https://github.com/pex-gl/pex) - Pex is a javascript 3d library / engine allowing for seamless development between Plask and WebGL in the browser.
+- [bgstaal/pex](https://github.com/bgstaal/pex) - Pex is a javascript 3d library / engine allowing for seamless development between Plask and WebGL in the browser.
+- [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
+- [bgstaal/gpuparticles](https://github.com/bgstaal/gpuparticles) - 
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design) - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4
 - [a5c-ai/babysitter](https://github.com/a5c-ai/babysitter) - Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows through deterministic, hallucination-free self-orchestration
@@ -369,7 +374,7 @@
 - [danshapiro/google-photos-backup](https://github.com/danshapiro/google-photos-backup) - Backs up Google Photos by scanning all files, then scanning your backups, then downloading anything that's new.
 - [danshapiro/superpowers-chrome](https://github.com/danshapiro/superpowers-chrome) - Claude Code plugin for direct Chrome browser control via DevTools Protocol - zero dependencies
 - [danshapiro/superpowers](https://github.com/danshapiro/superpowers) - Claude Code superpowers: core skills library
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. 
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI -
 - [fspecii/ace-step-ui](https://github.com/fspecii/ace-step-ui) - 🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!
 - [composio-community/open-claude-cowork](https://github.com/composio-community/open-claude-cowork) - Open Source version of Claude Cowork with 500+ SaaS app integrations
 - [inworld-ai/inworld-api-examples](https://github.com/inworld-ai/inworld-api-examples) - Inworld API Examples
@@ -817,7 +822,7 @@
 - [tue-mps/videomt](https://github.com/tue-mps/videomt) - [CVPR 2026] Official code and models for Video Encoder-only Mask Transformer (VidEoMT).
 - [andimarafioti/faster-qwen3-tts](https://github.com/andimarafioti/faster-qwen3-tts) - Real-time text-to-speech with Qwen3-TTS
 - [Sumandora/remove-refusals-with-transformers](https://github.com/Sumandora/remove-refusals-with-transformers) - Implements harmful/harmless refusal removal using pure HF Transformers
-- [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) - A super light-weight embedded code search engine CLI (AST based) that just works - saves 70% token and improves speed for coding agent  🌟 Star if you like it!
+- [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) - A super light-weight embedded code search engine CLI (AST based) that just works -  improves speed and efficiency for coding agent  🌟 Star if you like it!
 - [HKUDS/FastCode](https://github.com/HKUDS/FastCode) - "FastCode: Accelerating and Streamlining Your Code Understanding"
 - [nWave-ai/nWave](https://github.com/nWave-ai/nWave) - AI agents that guide you from idea to working code, with you in control at every step.
 - [speedyfoxai/openclaw-jarvis-memory](https://github.com/speedyfoxai/openclaw-jarvis-memory) - ⚠️ DEPRECATED - Use openclaw-true-recall-base instead
@@ -962,7 +967,7 @@
 - [baponkar/Mouse_Controlling_With_Eye](https://github.com/baponkar/Mouse_Controlling_With_Eye) - This Python Script helps to move a mouse cursor by using eye.We need two python library openCV and pyautogui.To download this two library by command 'sudo pip install cv2','sudo pip install pyautogui'
 - [m8sec/subscraper](https://github.com/m8sec/subscraper) - Subdomain and target enumeration tool built for offensive security testing
 - [Cillian-Collins/subscraper](https://github.com/Cillian-Collins/subscraper) - Reconnaissance tool which scans javascript files for subdomains and then iterates over all javascript files hosted on subsequent subdomains to enumerate a list of subdomains for a given URL.
-- [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) - A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.
+- [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) - Private, real-time speaker diarization on hardware you control. See who is speaking as it happens, no third-party cloud required.
 - [zmqless/python-zeroless](https://github.com/zmqless/python-zeroless) - ZeroMQ for Pythonistas™
 - [NilsHellwig/TheImageFetcher](https://github.com/NilsHellwig/TheImageFetcher) - Download images from Google Images - TheImageFetcher is a high-performance tool that allows you to quickly extract large amounts of images from Google Images. Depending on the internet connection, it 
 - [argmaxinc/DiffusionKit](https://github.com/argmaxinc/DiffusionKit) - On-device Image Generation for Apple Silicon
