@@ -428,6 +428,7 @@
 - [vvo/gifify](https://github.com/vvo/gifify) - 😻 Convert any video file to an optimized animated GIF.
 - [NordicPlayground/pc-xterm-lib](https://github.com/NordicPlayground/pc-xterm-lib) - 
 - [malik-tillman/Fluid-JS](https://github.com/malik-tillman/Fluid-JS) - A JavaScript library that allows for easy deployment of WebGL rendered fluid simulations.
+- [michael/editable-website](https://github.com/michael/editable-website) - CMS-free editable websites with Svelte
 - [vatro/threeshake](https://github.com/vatro/threeshake) - migrate 'three/examples' modules to 'three/src' incl. all dependencies and available type definitions. This way they can be imported from 'three' and are treeshakable.
 - [vatro/my-app-svelthree-test-2](https://github.com/vatro/my-app-svelthree-test-2) - 
 - [marvelapp/y-redis](https://github.com/marvelapp/y-redis) - Redis persistence layer for Yjs
@@ -1315,6 +1316,7 @@
 - [automataIA/graphrag-rs](https://github.com/automataIA/graphrag-rs) - GraphRAG-rs is a high-performance, state-of-the-art Rust implementation of GraphRAG (Graph-based Retrieval Augmented Generation) that builds knowledge graphs from documents and enables natural languag
 - [lumina-ai-inc/chunkr](https://github.com/lumina-ai-inc/chunkr) - Vision infrastructure to turn complex documents into RAG/LLM-ready data
 - [anvia-hq/lexa](https://github.com/anvia-hq/lexa) - Lexa - Fast local code intelligence for humans and AI agents. Lexa turns a codebase into a portable, queryable graph so every tool can work from the same stable view of the project.
+- [t8y2/dbx](https://github.com/t8y2/dbx) - 20MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.20MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redi
 - [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Free static analysis of code and styles: unused code, duplication, circular deps, complexity hotspots, architecture boundaries, design-system drift
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
@@ -1480,7 +1482,6 @@
 - [threlte/three-inspect](https://github.com/threlte/three-inspect) - An inspector and debugger for Three.js
 - [bmdavis419/SvelteKit-Ecommerce](https://github.com/bmdavis419/SvelteKit-Ecommerce) - An opensource, fullstack e-commerce app build with SvelteKit
 - [dnass/svelte-canvas](https://github.com/dnass/svelte-canvas) - 🎨 Reactive canvas rendering with Svelte.
-- [michael/editable-website](https://github.com/michael/editable-website) - CMS-free editable websites with Svelte
 - [brean/urdf-editor](https://github.com/brean/urdf-editor) - Moved to codeberg!
 - [francoislanc/galileo-satellites-visualizer](https://github.com/francoislanc/galileo-satellites-visualizer) - Visualize Galileo satellites in orbit using svelthree
 - [rgossiaux/svelte-headlessui](https://github.com/rgossiaux/svelte-headlessui) - Unofficial Svelte port of the Headless UI component library
@@ -1554,7 +1555,6 @@
 - [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software
 - [EveryInc/proof-sdk](https://github.com/EveryInc/proof-sdk) - Proof SDK: open-source collaborative editor, provenance model, and agent HTTP bridge
 - [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, enc
-- [t8y2/dbx](https://github.com/t8y2/dbx) - 20MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.20MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redi
 - [mnfst/manifest](https://github.com/mnfst/manifest) - Connect Your Agents And Harnesses With Any Provider 🦚
 - [phodal/routa](https://github.com/phodal/routa) - Workspace-first multi-agent coordination platform for AI development, with shared Specs, Kanban orchestration, and MCP/ACP/   A2A support across web and desktop.
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
@@ -1633,7 +1633,7 @@
 - [wastedcode/memex](https://github.com/wastedcode/memex) - File system based wiki, maintained by Claude
 - [bokub/gradient-string](https://github.com/bokub/gradient-string) - :rainbow:  Beautiful color gradients in terminal output
 - [tintinweb/pi-subagents](https://github.com/tintinweb/pi-subagents) - Sub-agents for pi with Claude Code look and feel — parallel execution, live widget, custom agent types, mid-run steering and more ...
-- [remvze/moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
+- [remvze/moodist](https://github.com/remvze/moodist) - Ambient sounds for focus and calm.
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK For Browser Agents
 - [pithings/voipi](https://github.com/pithings/voipi) - 🎙️ Give your apps, CLIs, and agents a voice. VoiPi is a universal, zero-dependency, free text-to-speech library for JavaScript.
 - [0xGF/boneyard](https://github.com/0xGF/boneyard) - Auto generated skeleton loading framework
