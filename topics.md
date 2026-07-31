@@ -495,7 +495,7 @@
 - [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Open-source context retrieval layer for AI agents
 - [vava-nessa/free-coding-models](https://github.com/vava-nessa/free-coding-models) - Find, benchmark and install in CLI 170+ FREE coding LLM models across 15+ providers in real time
 - [IgorShadurin/app.yumcut.com](https://github.com/IgorShadurin/app.yumcut.com) - YumCut - free AI video generator to turn a prompt into ready vertical videos for TikTok, Reels and YouTube Shorts. Auto script, scenes, voiceover, subtitles and watermark. Built with Next.js. Local-fi
-- [hehehai/voxt](https://github.com/hehehai/voxt) - 🎙️Voice input and translation app for macOS. Press to talk, release to paste.
+- [hehehai/voxt](https://github.com/hehehai/voxt) - 🎙️ Local-first voice input for Mac—cleanup, rewrite, translation, and per-app style from one hold-to-talk habit.
 - [letta-ai/letta-code](https://github.com/letta-ai/letta-code) - Stateful agents that are like people, with memory, identity, and the ability to learn and adapt
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 - [naveed-gung/nova](https://github.com/naveed-gung/nova) - Nova is a modern, multilingual AI voice assistant that brings natural conversation to your browser. With support for English 🇺🇸, Arabic 🇱🇧, and French 🇫🇷, Nova makes interaction seamless and intuitive
@@ -1937,7 +1937,7 @@
 
 - [fswatcher/fswatcher](https://github.com/fswatcher/fswatcher) - Cross-platform file system notifications for Go.
 - [kiwifs/kiwifs](https://github.com/kiwifs/kiwifs) - Markdown filesystem for agents and teams.
-- [raketenkater/ggrun](https://github.com/raketenkater/ggrun) - Auto-tuned launcher for GGUF models on llama.cpp / ik_llama.cpp — OpenAI-compatible server with multi-GPU tensor-split, MoE expert placement, measured flag tuning (AI Tune), hardware-matched HuggingFa
+- [raketenkater/ggrun](https://github.com/raketenkater/ggrun) - llama.cpp/ik_llama.cpp launcher: loads big MoE models across mismatched multi-GPU rigs by exact VRAM math.
 - [moonrepo/proto](https://github.com/moonrepo/proto) - A pluggable multi-language version manager.
 - [retlehs/quien](https://github.com/retlehs/quien) - A better whois and domain intelligence toolkit
 - [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, 
@@ -2362,7 +2362,7 @@
 - [elucherini/skyvern-client](https://github.com/elucherini/skyvern-client) - A lightweight Python-based Skyvern client
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
 - [Gremble-io/Detto](https://github.com/Gremble-io/Detto) - On-device meeting capture, dictation, and vault-native knowledge layer for macOS. Nothing leaves your Mac.
-- [raketenkater/ggrun](https://github.com/raketenkater/ggrun) - Auto-tuned launcher for GGUF models on llama.cpp / ik_llama.cpp — OpenAI-compatible server with multi-GPU tensor-split, MoE expert placement, measured flag tuning (AI Tune), hardware-matched HuggingFa
+- [raketenkater/ggrun](https://github.com/raketenkater/ggrun) - llama.cpp/ik_llama.cpp launcher: loads big MoE models across mismatched multi-GPU rigs by exact VRAM math.
 - [R6410418/Jackrong-llm-finetuning-guide](https://github.com/R6410418/Jackrong-llm-finetuning-guide) - 
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) - Curated list of the best truly open-source AI projects, models, tools, and infrastructure. Daily updated.
@@ -3158,7 +3158,7 @@
 - [MrFadiAi/free-llm-gateway](https://github.com/MrFadiAi/free-llm-gateway) - Unified OpenAI-compatible API gateway aggregating 14+ free LLM providers with automatic fallback routing, rate limit tracking, and web dashboard
 - [enetx/surf](https://github.com/enetx/surf) - SURF - Advanced Go HTTP client with Chrome/Firefox browser impersonation, HTTP/3 with QUIC fingerprinting, JA3/JA4 TLS emulation, and anti-bot bypass for web automation and scraping.
 - [lucasimi/tda-mapper-python](https://github.com/lucasimi/tda-mapper-python) - A simple and efficient Python implementation of Mapper algorithm for Topological Data Analysis
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude code, codex or pi for free from the terminal, IDE, or your phone like OpenClaw (voice supported)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex and Pi for free from your terminal, IDE, and phone like OpenClaw (voice supported)
 - [huggingface/ml-intern](https://github.com/huggingface/ml-intern) - 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
 - [tanvesh01/rudu](https://github.com/tanvesh01/rudu) - Review PRs without losing your mind.
 - [grzgrzgrzgrzgrz/deepscroll](https://github.com/grzgrzgrzgrzgrz/deepscroll) - deepscroll — open-source implementation of Recursive Language Models (Zhang, Kraska, Khattab, arXiv:2512.24601) for analyzing 10M+ token contexts via LLM-guided recursive navigation.
@@ -4526,7 +4526,7 @@
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [kiwifs/kiwifs](https://github.com/kiwifs/kiwifs) - Markdown filesystem for agents and teams.
 - [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) - ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encryp
-- [raketenkater/ggrun](https://github.com/raketenkater/ggrun) - Auto-tuned launcher for GGUF models on llama.cpp / ik_llama.cpp — OpenAI-compatible server with multi-GPU tensor-split, MoE expert placement, measured flag tuning (AI Tune), hardware-matched HuggingFa
+- [raketenkater/ggrun](https://github.com/raketenkater/ggrun) - llama.cpp/ik_llama.cpp launcher: loads big MoE models across mismatched multi-GPU rigs by exact VRAM math.
 - [tonyantony300/dashbeam](https://github.com/tonyantony300/dashbeam) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions ( previously Altsendme )
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [liketrek/TREK](https://github.com/liketrek/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
