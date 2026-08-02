@@ -272,7 +272,6 @@
 - [silvertakana/worldwideview](https://github.com/silvertakana/worldwideview) - 
 - [ARA-Labs/Agent-Native-Research-Artifact](https://github.com/ARA-Labs/Agent-Native-Research-Artifact) - Research Ecosystem for Rigorous and Trustworthy AI Scientists
 - [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) - Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
-- [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - ⚡ Pure-Rust WebGPU inference engine — OpenAI-API compatible, GGUF native, runs on any GPU. No Python. No llama.cpp. Single binary.
 - [yaojingang/yao-open-skills](https://github.com/yaojingang/yao-open-skills) - OpenYao public skills collection: reusable AI assets for decision-making, business analysis, tutorials, research evidence gathering, and document generation.
 - [elder-plinius/ST3GG](https://github.com/elder-plinius/ST3GG) - All-in-one steganography suite
 - [ksimback/hermes-ecosystem](https://github.com/ksimback/hermes-ecosystem) - 🗺️ Hermes Atlas — the community map of every tool, skill, and integration for Hermes Agent by Nous Research. Live at hermesatlas.com
@@ -660,7 +659,7 @@
 - [microsoft/SkillOpt](https://github.com/microsoft/SkillOpt) - SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.
 - [mathiaschu/watch](https://github.com/mathiaschu/watch) - Give Claude a video input. /watch downloads from YouTube/Instagram/X/Vimeo/any yt-dlp site, extracts frames, and transcribes locally with mlx-whisper — no API key. Fork of bradautomates/claude-video.
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
-- [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Cl
+- [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents li
 - [bradautomates/claude-video](https://github.com/bradautomates/claude-video) - Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
 - [AGI-Bingo/gh-backdate](https://github.com/AGI-Bingo/gh-backdate) - Your contribution graph is a 53×7 display — this is its device driver. Fonts, shadows, 10-year marquee, backdated & future-dated commit painting.
 - [fire17/my-skills](https://github.com/fire17/my-skills) - Every Claude Code skill you have — origin chat, creator model, ratings — one registry, three doors: CLI, TUI, desktop app
@@ -712,7 +711,7 @@
 - [Tianyi-Billy-Ma/AutoData](https://github.com/Tianyi-Billy-Ma/AutoData) - Automatica Open Web Data Collection (NeurIPS 2025)
 - [OpenImagingLab/AnyRecon](https://github.com/OpenImagingLab/AnyRecon) - [SIGGRAPH Asia 2026] AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model
 - [UVA-Computer-Vision-Lab/OmniShotCut](https://github.com/UVA-Computer-Vision-Lab/OmniShotCut) - OmniShotCut is a sensitive and more informative SoTA on Shot Boundary Detection task.
-- [MinishLab/semble](https://github.com/MinishLab/semble) - Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read
+- [MinishLab/semble](https://github.com/MinishLab/semble) - Fast and Accurate Code Search for Agents. Uses 99% fewer tokens than grep+read
 - [Mega4alik/ollm](https://github.com/Mega4alik/ollm) - 
 - [kevinrgu/autoagent](https://github.com/kevinrgu/autoagent) - autonomous harness engineering
 - [future-agi/future-agi](https://github.com/future-agi/future-agi) - Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.
@@ -892,7 +891,6 @@
 - [omardimarzio/RLM-Graph](https://github.com/omardimarzio/RLM-Graph) - RLM-Graph - a system based on Recursive Language Models but structured on a directed graph
 - [Cornjebus/rlm-replication-study](https://github.com/Cornjebus/rlm-replication-study) - Replication study: Stateful Knowledge Graph Traversal vs Recursive Language Models. 87.8% accuracy on real OOLONG dataset vs RLM's 23-58% F1.
 - [brainqub3/RLM](https://github.com/brainqub3/RLM) - Claude code setup as an RLM scaffhold Implemented by Brainqub3
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, determi
 - [HarryR/z80ai](https://github.com/HarryR/z80ai) - Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage computer
 - [smittix/intercept](https://github.com/smittix/intercept) - iNTERCEPT, a free and open-source platform that unites the best signal intelligence tools into a single, accessible interface.
 - [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
@@ -1337,6 +1335,7 @@
 - [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ Track token usage across AI coding agents from your terminal. 🏅 Global leaderboard with quadrillions of tokens tracked.
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
+- [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - ⚡ Pure-Rust WebGPU inference engine — OpenAI-API compatible, GGUF native, runs on any GPU. No Python. No llama.cpp. Single binary.
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [albertshiney/typr](https://github.com/albertshiney/typr) - 
@@ -1471,6 +1470,7 @@
 - [SamNet-dev/paqctl](https://github.com/SamNet-dev/paqctl) - Unified proxy manager for bypassing firewalls - supports Paqet (KCP/raw socket) and GFW-Knocker (violated TCP/QUIC) with dual-backend simultaneous operation
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [humanplane/homunculus](https://github.com/humanplane/homunculus) - A Claude Code plugin that watches how you work, learns your patterns, and evolves itself to help you better.
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, determi
 - [buildermethods/agent-os](https://github.com/buildermethods/agent-os) - Agent OS is a system for injecting your codebase standards and writing better specs for spec-driven development.
 - [OpenMANET/docs](https://github.com/OpenMANET/docs) - documentation around the OpenMANET project
 - [trypear/pearai-master](https://github.com/trypear/pearai-master) - Master Repo For PearAI
