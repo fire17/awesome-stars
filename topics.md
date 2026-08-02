@@ -382,7 +382,7 @@
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [greyhaven-ai/autocontext](https://github.com/greyhaven-ai/autocontext) - a recursive self-improving harness designed to help your agents (and future iterations of those agents) succeed on any task
-- [MinishLab/semble](https://github.com/MinishLab/semble) - Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read
+- [MinishLab/semble](https://github.com/MinishLab/semble) - Fast and Accurate Code Search for Agents. Uses 99% fewer tokens than grep+read
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [gitroomhq/postiz-agent](https://github.com/gitroomhq/postiz-agent) - Postiz Agents CLI - connect it to Claude / OpenClaw / etc, to schedule social media posts 🤖
 - [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) - Curated list of the best truly open-source AI projects, models, tools, and infrastructure. Daily updated.
@@ -780,7 +780,7 @@
 
 ## api 
 
-- [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Cl
+- [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents li
 - [elucherini/skyvern-client](https://github.com/elucherini/skyvern-client) - A lightweight Python-based Skyvern client
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
 - [millionco/cli-to-js](https://github.com/millionco/cli-to-js) - Turn any CLI into a JavaScript API
@@ -1081,7 +1081,7 @@
 
 - [uwuclxdy/clauth](https://github.com/uwuclxdy/clauth) - Claude Code account switcher, real-time usage monitor with a CLI, TUI and MCP
 - [mathiaschu/watch](https://github.com/mathiaschu/watch) - Give Claude a video input. /watch downloads from YouTube/Instagram/X/Vimeo/any yt-dlp site, extracts frames, and transcribes locally with mlx-whisper — no API key. Fork of bradautomates/claude-video.
-- [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Cl
+- [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents li
 - [fire17/shipit](https://github.com/fire17/shipit) - A Claude Code skill that ships projects state-of-the-art — and shipped itself. 8 gated phases: edge-case design, runtime-matrix tests, verified publish, prepared media, retrospect-before-announcing.
 - [fire17/fable-masterclass](https://github.com/fire17/fable-masterclass) - A frontier model's technical masterclass of engineering principles — 16 chapters, 16 laws, six checklists, with a Claude Code skill and machine-verified references
 - [fire17/my-skills](https://github.com/fire17/my-skills) - Every Claude Code skill you have — origin chat, creator model, ratings — one registry, three doors: CLI, TUI, desktop app
@@ -2645,7 +2645,7 @@
 - [t8y2/dbx](https://github.com/t8y2/dbx) - 20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docke
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [aj47/dotagents-mono](https://github.com/aj47/dotagents-mono) - Your AI team. One voice away. Desktop app + open .agents protocol.
-- [MinishLab/semble](https://github.com/MinishLab/semble) - Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read
+- [MinishLab/semble](https://github.com/MinishLab/semble) - Fast and Accurate Code Search for Agents. Uses 99% fewer tokens than grep+read
 - [wxtsky/byob](https://github.com/wxtsky/byob) - Bring Your Own Browser — let your AI agent use the Chrome you already have open
 - [onecli/onecli](https://github.com/onecli/onecli) - Open-source credential gateway with a built-in vault. give your AI agents access to services without exposing keys.
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
@@ -4022,7 +4022,7 @@
 
 ## python 
 
-- [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Cl
+- [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents li
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and c
 - [data-privacy-stack/presidio](https://github.com/data-privacy-stack/presidio) - An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) across text, images, and structured data. Supports NLP, pattern matching, and customizable pipelines.
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
