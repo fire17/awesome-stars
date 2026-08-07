@@ -503,7 +503,7 @@
 - [nWave-ai/nWave](https://github.com/nWave-ai/nWave) - AI agents that guide you from idea to working code, with you in control at every step.
 - [spacedriveapp/spacebot](https://github.com/spacedriveapp/spacebot) - An AI agent for teams, communities, and multi-user environments.
 - [AtomicBot-ai/atomicbot](https://github.com/AtomicBot-ai/atomicbot) - The Fastest Way to Run OpenClaw 🦞
-- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
 - [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React.
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualiza
 - [tomascupr/sandstorm](https://github.com/tomascupr/sandstorm) - Run Claude agents in secure cloud sandboxes — via API, CLI, or Slack. One call. Full agent. Zero infrastructure.
@@ -687,7 +687,7 @@
 - [jayminwest/overstory](https://github.com/jayminwest/overstory) - Multi-agent orchestration for AI coding agents — pluggable runtime adapters for Claude Code, Pi, and more
 - [RichardHruby/login-machine](https://github.com/RichardHruby/login-machine) - AI-powered login automation. Uses Claude to classify login pages and Playwright to interact with them.
 - [tomascupr/sandstorm](https://github.com/tomascupr/sandstorm) - Run Claude agents in secure cloud sandboxes — via API, CLI, or Slack. One call. Full agent. Zero infrastructure.
-- [Cranot/roam-code](https://github.com/Cranot/roam-code) - Local codebase intelligence CLI + MCP server for AI coding agents: SQLite code graph, 28 languages, 284 commands, 244 MCP tools, change-safety gates, audit evidence, zero API keys.
+- [Cranot/roam-code](https://github.com/Cranot/roam-code) - Local codebase intelligence CLI + MCP server for AI coding agents: SQLite code graph, 28 languages, 285 commands, 244 MCP tools, change-safety gates, audit evidence, zero API keys.
 - [zilliztech/memsearch](https://github.com/zilliztech/memsearch) - A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex), backed by Markdown and Milvus.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
 - [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) - The agent-native LLM router for autonomous agents. 66 models (8 free), &lt;1ms local routing, USDC payments on Base & Solana via x402.
@@ -967,7 +967,7 @@
 
 - [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。
 - [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) - Desktop Companion for Hermes Agent
-- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
 - [aurelio-labs/semantic-router](https://github.com/aurelio-labs/semantic-router) - Superfast AI decision making and intelligent processing of multi-modal data.
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
 - [WSTxda/SwitchAI](https://github.com/WSTxda/SwitchAI) - Easily select, start, and manage your preferred AI digital assistants on Android.
@@ -1214,7 +1214,7 @@
 - [agenticnotetaking/arscontexta](https://github.com/agenticnotetaking/arscontexta) - Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own
 - [jayminwest/overstory](https://github.com/jayminwest/overstory) - Multi-agent orchestration for AI coding agents — pluggable runtime adapters for Claude Code, Pi, and more
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
-- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
 - [github/gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows
@@ -1277,7 +1277,7 @@
 - [Higangssh/gitcredits](https://github.com/Higangssh/gitcredits) - Git log doesn't do them justice. Turn your contributors into movie stars.
 - [yigitkonur/cli-continues](https://github.com/yigitkonur/cli-continues) - resume any AI coding session in another tool — Claude Code, Copilot, Gemini, Codex, Cursor
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
-- [Cranot/roam-code](https://github.com/Cranot/roam-code) - Local codebase intelligence CLI + MCP server for AI coding agents: SQLite code graph, 28 languages, 284 commands, 244 MCP tools, change-safety gates, audit evidence, zero API keys.
+- [Cranot/roam-code](https://github.com/Cranot/roam-code) - Local codebase intelligence CLI + MCP server for AI coding agents: SQLite code graph, 28 languages, 285 commands, 244 MCP tools, change-safety gates, audit evidence, zero API keys.
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 - [L1AD/claude-task-viewer](https://github.com/L1AD/claude-task-viewer) - A web-based Kanban board for viewing Claude Code tasks
 - [vercel-labs/specli](https://github.com/vercel-labs/specli) - Run any OpenAPI spec as an Agent optimized executable
@@ -1324,13 +1324,13 @@
 
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Free static analysis of code and styles: unused code, duplication, circular deps, complexity hotspots, architecture boundaries, design-system drift
-- [Cranot/roam-code](https://github.com/Cranot/roam-code) - Local codebase intelligence CLI + MCP server for AI coding agents: SQLite code graph, 28 languages, 284 commands, 244 MCP tools, change-safety gates, audit evidence, zero API keys.
+- [Cranot/roam-code](https://github.com/Cranot/roam-code) - Local codebase intelligence CLI + MCP server for AI coding agents: SQLite code graph, 28 languages, 285 commands, 244 MCP tools, change-safety gates, audit evidence, zero API keys.
 
 ## code-review 
 
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [umputun/revdiff](https://github.com/umputun/revdiff) - TUI for reviewing diffs, files, and documents with inline annotations
-- [Cranot/roam-code](https://github.com/Cranot/roam-code) - Local codebase intelligence CLI + MCP server for AI coding agents: SQLite code graph, 28 languages, 284 commands, 244 MCP tools, change-safety gates, audit evidence, zero API keys.
+- [Cranot/roam-code](https://github.com/Cranot/roam-code) - Local codebase intelligence CLI + MCP server for AI coding agents: SQLite code graph, 28 languages, 285 commands, 244 MCP tools, change-safety gates, audit evidence, zero API keys.
 - [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
 
 ## coding 
@@ -1572,7 +1572,7 @@
 - [sangrokjung/claude-forge](https://github.com/sangrokjung/claude-forge) - Supercharge Claude Code with 11 AI agents, 36 commands & 15 skills — the claude-code plugin framework inspired by oh-my-zsh. 6-layer security hooks included. 5-min install.
 - [spacedriveapp/spacebot](https://github.com/spacedriveapp/spacebot) - An AI agent for teams, communities, and multi-user environments.
 - [swark-io/swark](https://github.com/swark-io/swark) - Create architecture diagrams from code automatically using large language models (LLMs).
-- [Cranot/roam-code](https://github.com/Cranot/roam-code) - Local codebase intelligence CLI + MCP server for AI coding agents: SQLite code graph, 28 languages, 284 commands, 244 MCP tools, change-safety gates, audit evidence, zero API keys.
+- [Cranot/roam-code](https://github.com/Cranot/roam-code) - Local codebase intelligence CLI + MCP server for AI coding agents: SQLite code graph, 28 languages, 285 commands, 244 MCP tools, change-safety gates, audit evidence, zero API keys.
 - [open-compress/claw-compactor](https://github.com/open-compress/claw-compactor) - 14-stage Fusion Pipeline for LLM token compression — reversible compression, AST-aware code analysis, intelligent content routing. Zero LLM inference cost. MIT licensed.
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
 - [L1AD/claude-task-viewer](https://github.com/L1AD/claude-task-viewer) - A web-based Kanban board for viewing Claude Code tasks
@@ -2395,7 +2395,7 @@
 - [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools) - The missing DevTools for Claude Code — inspect session logs, tool calls, token usage, subagents, and context window in a visual UI. Free, open source.
 - [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Open-source context retrieval layer for AI agents
 - [sangrokjung/claude-forge](https://github.com/sangrokjung/claude-forge) - Supercharge Claude Code with 11 AI agents, 36 commands & 15 skills — the claude-code plugin framework inspired by oh-my-zsh. 6-layer security hooks included. 5-min install.
-- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
 - [swark-io/swark](https://github.com/swark-io/swark) - Create architecture diagrams from code automatically using large language models (LLMs).
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
 - [RichardHruby/login-machine](https://github.com/RichardHruby/login-machine) - AI-powered login automation. Uses Claude to classify login pages and Playwright to interact with them.
@@ -2667,7 +2667,7 @@
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
 - [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) - A super light-weight embedded code search engine CLI (AST based) that just works -  improves speed and efficiency for coding agent  🌟 Star if you like it!
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
-- [Cranot/roam-code](https://github.com/Cranot/roam-code) - Local codebase intelligence CLI + MCP server for AI coding agents: SQLite code graph, 28 languages, 284 commands, 244 MCP tools, change-safety gates, audit evidence, zero API keys.
+- [Cranot/roam-code](https://github.com/Cranot/roam-code) - Local codebase intelligence CLI + MCP server for AI coding agents: SQLite code graph, 28 languages, 285 commands, 244 MCP tools, change-safety gates, audit evidence, zero API keys.
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
 - [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
@@ -3074,6 +3074,7 @@
 
 ## others 
 
+- [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) - A self-improving RLM agent for coding workflows and long-running autonomous tasks.
 - [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) - Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, 
 - [ottosulin/awesome-ai-security](https://github.com/ottosulin/awesome-ai-security) - A collection of awesome resources related AI security
 - [NopeCHALLC/nopecha-extension](https://github.com/NopeCHALLC/nopecha-extension) - Automated CAPTCHA solver for your browser. Works with Selenium, Puppeteer, Playwright, and more.
@@ -4062,7 +4063,7 @@
 - [harshkedia177/axon](https://github.com/harshkedia177/axon) - Graph-powered code intelligence engine — indexes codebases into a knowledge graph, exposed via MCP tools for AI agents and a CLI for developers.
 - [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) - A super light-weight embedded code search engine CLI (AST based) that just works -  improves speed and efficiency for coding agent  🌟 Star if you like it!
 - [tomascupr/sandstorm](https://github.com/tomascupr/sandstorm) - Run Claude agents in secure cloud sandboxes — via API, CLI, or Slack. One call. Full agent. Zero infrastructure.
-- [Cranot/roam-code](https://github.com/Cranot/roam-code) - Local codebase intelligence CLI + MCP server for AI coding agents: SQLite code graph, 28 languages, 284 commands, 244 MCP tools, change-safety gates, audit evidence, zero API keys.
+- [Cranot/roam-code](https://github.com/Cranot/roam-code) - Local codebase intelligence CLI + MCP server for AI coding agents: SQLite code graph, 28 languages, 285 commands, 244 MCP tools, change-safety gates, audit evidence, zero API keys.
 - [open-compress/claw-compactor](https://github.com/open-compress/claw-compactor) - 14-stage Fusion Pipeline for LLM token compression — reversible compression, AST-aware code analysis, intelligent content routing. Zero LLM inference cost. MIT licensed.
 - [passivebot/facebook-marketplace-scraper](https://github.com/passivebot/facebook-marketplace-scraper) - This repository contains a script to scrape Facebook Marketplace data using Playwright, BeautifulSoup and Streamlit.
 - [JustSxm/Deals-Scraper](https://github.com/JustSxm/Deals-Scraper) - Deals Scraper is a Canadian tool to find good deals on websites like Facebook Marketplace, Kijiji, Ebay, Amazon and Lespacs
@@ -4614,7 +4615,7 @@
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary
 - [t8y2/dbx](https://github.com/t8y2/dbx) - 20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docke
 - [foldergram/foldergram](https://github.com/foldergram/foldergram) - Self-hosted folder-based Instagram-style photo and video gallery app.
-- [Cranot/roam-code](https://github.com/Cranot/roam-code) - Local codebase intelligence CLI + MCP server for AI coding agents: SQLite code graph, 28 languages, 284 commands, 244 MCP tools, change-safety gates, audit evidence, zero API keys.
+- [Cranot/roam-code](https://github.com/Cranot/roam-code) - Local codebase intelligence CLI + MCP server for AI coding agents: SQLite code graph, 28 languages, 285 commands, 244 MCP tools, change-safety gates, audit evidence, zero API keys.
 - [michael/editable](https://github.com/michael/editable) - The website you can edit on the page
 
 ## stable-diffusion 
