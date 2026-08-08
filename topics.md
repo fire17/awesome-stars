@@ -43,6 +43,7 @@
 - [chrome-extension](#chrome-extension)
 - [claude](#claude)
 - [claude-code](#claude-code)
+- [claude-skills](#claude-skills)
 - [cli](#cli)
 - [clojure](#clojure)
 - [cloud](#cloud)
@@ -361,7 +362,7 @@
 - [MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials) - Multi-agent systems, memory, planning, reasoning loops
 - [gitroomhq/postiz-agent](https://github.com/gitroomhq/postiz-agent) - Postiz Agents CLI - connect it to Claude / OpenClaw / etc, to schedule social media posts 🤖
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-- [bitjaru/styleseed](https://github.com/bitjaru/styleseed) - Open-source design-method engine for Claude Code, Codex & Cursor. Gives coding agents fixed design judgment—not one fixed aesthetic—then selects or derives the right grammar from references, locks pro
+- [bitjaru/styleseed](https://github.com/bitjaru/styleseed) - Open-source design-method engine for Claude Code, Codex & Cursor. Fixed design judgment, multiple grammars, reference compilation, semantic palettes, and Studio workflows for verified UI, interaction,
 - [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
 - [quailyquaily/aqua](https://github.com/quailyquaily/aqua) - Aqua, a cli message tool for AI agents
@@ -682,6 +683,7 @@
 - [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Open-source context retrieval layer for AI agents
 - [johannesjo/parallel-code](https://github.com/johannesjo/parallel-code) - Run Claude Code, Codex, and Gemini side by side — each in      its own git worktree
 - [wexare-ai/openbrowserclaw](https://github.com/wexare-ai/openbrowserclaw) - Browser-native personal AI assistant. Zero infrastructure, the browser is the server.
+- [runesleo/x-reader](https://github.com/runesleo/x-reader) - Universal content reader MCP Server for 10+ platforms
 - [quailyquaily/aqua](https://github.com/quailyquaily/aqua) - Aqua, a cli message tool for AI agents
 - [klawsh/klaw.sh](https://github.com/klawsh/klaw.sh) - kubectl for AI Agents
 - [jayminwest/overstory](https://github.com/jayminwest/overstory) - Multi-agent orchestration for AI coding agents — pluggable runtime adapters for Claude Code, Pi, and more
@@ -1185,7 +1187,7 @@
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - Free, local tool to track AI coding token usage and cost across 31 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
-- [bitjaru/styleseed](https://github.com/bitjaru/styleseed) - Open-source design-method engine for Claude Code, Codex & Cursor. Gives coding agents fixed design judgment—not one fixed aesthetic—then selects or derives the right grammar from references, locks pro
+- [bitjaru/styleseed](https://github.com/bitjaru/styleseed) - Open-source design-method engine for Claude Code, Codex & Cursor. Fixed design judgment, multiple grammars, reference compilation, semantic palettes, and Studio workflows for verified UI, interaction,
 - [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal
 - [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) - Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -1235,6 +1237,20 @@
 - [tiann/hapi](https://github.com/tiann/hapi) - App for Claude Code / Codex / Pi / OpenCode / Kimi Code, vibe coding anytime, anywhere
 - [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) - A coding agent CLI hook that acts as a safety net, catching destructive git and filesystem commands and secret file access before they execute. Supports Claude Code, Codex, Gemini CLI, Copilot CLI, An
 - [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code
+
+## claude-skills 
+
+- [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents li
+- [nota-america/forgecat-agent-profiles](https://github.com/nota-america/forgecat-agent-profiles) - Production-ready AI agent profiles for Claude Code, Cursor, and Codex. Search, install, and contribute ForgeCat packages.
+- [a5c-ai/babysitter](https://github.com/a5c-ai/babysitter) - Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows through deterministic, hallucination-free self-orchestration
+- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
+- [Mark393295827/third-brain-v7-skills](https://github.com/Mark393295827/third-brain-v7-skills) - agent wiki +engineering skills
+- [Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) - Comprehensive open-source library of AI research and engineering skills for any AI model. Package the skills and your claude code/codex/gemini agent will be an AI research agent with full horsepower. 
+- [bitjaru/styleseed](https://github.com/bitjaru/styleseed) - Open-source design-method engine for Claude Code, Codex & Cursor. Fixed design judgment, multiple grammars, reference compilation, semantic palettes, and Studio workflows for verified UI, interaction,
+- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Personal memory across agents
+- [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, determi
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
 
 ## cli 
 
@@ -2663,6 +2679,7 @@
 - [knowsuchagency/mcp2cli](https://github.com/knowsuchagency/mcp2cli) - Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen
 - [every-app/open-seo](https://github.com/every-app/open-seo) - Open source alternative to Semrush and Ahrefs
 - [harshkedia177/axon](https://github.com/harshkedia177/axon) - Graph-powered code intelligence engine — indexes codebases into a knowledge graph, exposed via MCP tools for AI agents and a CLI for developers.
+- [runesleo/x-reader](https://github.com/runesleo/x-reader) - Universal content reader MCP Server for 10+ platforms
 - [Eronred/aso-skills](https://github.com/Eronred/aso-skills) - AI agent skills for App Store Optimization (ASO) and app marketing. Built for indie developers, app marketers, and growth teams who want Cursor, Claude Code, or any Agent Skills-compatible AI assistan
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
 - [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) - A super light-weight embedded code search engine CLI (AST based) that just works -  improves speed and efficiency for coding agent  🌟 Star if you like it!
@@ -2780,7 +2797,7 @@
 - [kwakseongjae/oh-my-design](https://github.com/kwakseongjae/oh-my-design) - Give your AI coding agent a design system. One command installs 400+ quality-graded company DESIGN.md references + skills into Claude Code, Codex, Cursor, and OpenCode. Free, MIT, zero AI calls.
 - [crafter-station/petdex](https://github.com/crafter-station/petdex) - The public gallery of animated pet for Codex, Claude Code, OpenCode y Gemini CLI
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate agentic social media scheduling tool 🤖
-- [bitjaru/styleseed](https://github.com/bitjaru/styleseed) - Open-source design-method engine for Claude Code, Codex & Cursor. Gives coding agents fixed design judgment—not one fixed aesthetic—then selects or derives the right grammar from references, locks pro
+- [bitjaru/styleseed](https://github.com/bitjaru/styleseed) - Open-source design-method engine for Claude Code, Codex & Cursor. Fixed design judgment, multiple grammars, reference compilation, semantic palettes, and Studio workflows for verified UI, interaction,
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [RichardHruby/login-machine](https://github.com/RichardHruby/login-machine) - AI-powered login automation. Uses Claude to classify login pages and Playwright to interact with them.
 - [anl331/goey-toast](https://github.com/anl331/goey-toast) - A gooey, morphing toast component built on Sonner with Framer Motion animations
@@ -3354,7 +3371,6 @@
 - [vinimlo/galaxy-profile](https://github.com/vinimlo/galaxy-profile) - Your GitHub profile, reimagined as a galaxy. Auto-generated SVG cards with stars, constellations, and cosmic stats.
 - [GreatScott/enject](https://github.com/GreatScott/enject) - enject: Hide .env secrets from prAIng eyes: secrets live in local encrypted stores (per project) and are injected directly into apps at runtime, never touching disk as plaintext.
 - [better-auth/better-hub](https://github.com/better-auth/better-hub) - Re-imagining code collaboration for humans and agents
-- [runesleo/x-reader](https://github.com/runesleo/x-reader) - Universal content reader MCP Server for 10+ platforms
 - [Lakr233/AssppWeb](https://github.com/Lakr233/AssppWeb) - 
 - [unitedbyai/droidclaw](https://github.com/unitedbyai/droidclaw) - turn old phones into ai agents - give it a goal in plain english. it reads the screen, thinks about what to do, taps and types via adb, and repeats until the job is done.
 - [CloveSVG/voicepaste](https://github.com/CloveSVG/voicepaste) - High quality and accuracy open-source voice input app
@@ -4061,6 +4077,7 @@
 - [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Feature rich application Launcher for Linux
 - [junevm/splathash](https://github.com/junevm/splathash) - 16 bytes fixed size image placeholder, an alternative to blurhash and thumbhash
 - [harshkedia177/axon](https://github.com/harshkedia177/axon) - Graph-powered code intelligence engine — indexes codebases into a knowledge graph, exposed via MCP tools for AI agents and a CLI for developers.
+- [runesleo/x-reader](https://github.com/runesleo/x-reader) - Universal content reader MCP Server for 10+ platforms
 - [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) - A super light-weight embedded code search engine CLI (AST based) that just works -  improves speed and efficiency for coding agent  🌟 Star if you like it!
 - [tomascupr/sandstorm](https://github.com/tomascupr/sandstorm) - Run Claude agents in secure cloud sandboxes — via API, CLI, or Slack. One call. Full agent. Zero infrastructure.
 - [Cranot/roam-code](https://github.com/Cranot/roam-code) - Local codebase intelligence CLI + MCP server for AI coding agents: SQLite code graph, 28 languages, 285 commands, 244 MCP tools, change-safety gates, audit evidence, zero API keys.
@@ -4320,7 +4337,7 @@
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 - [gkurt/tegaki](https://github.com/gkurt/tegaki) - Handwriting animation for the web. Supports any font or text.
 - [Remocn/remocn](https://github.com/Remocn/remocn) - Production-ready animations, transitions, backgrounds, and scenes for Remotion
-- [bitjaru/styleseed](https://github.com/bitjaru/styleseed) - Open-source design-method engine for Claude Code, Codex & Cursor. Gives coding agents fixed design judgment—not one fixed aesthetic—then selects or derives the right grammar from references, locks pro
+- [bitjaru/styleseed](https://github.com/bitjaru/styleseed) - Open-source design-method engine for Claude Code, Codex & Cursor. Fixed design judgment, multiple grammars, reference compilation, semantic palettes, and Studio workflows for verified UI, interaction,
 - [orchetron/storm](https://github.com/orchetron/storm) - A compositor-based terminal UI framework. Fast. Layered. Unstoppable.
 - [remvze/moodist](https://github.com/remvze/moodist) - Ambient sounds for focus and calm.
 - [nathan-cannon/cellstate](https://github.com/nathan-cannon/cellstate) - React terminal renderer with cell-level diffing and native scrollback. No alternate screen.
@@ -4702,7 +4719,7 @@
 - [crafter-station/petdex](https://github.com/crafter-station/petdex) - The public gallery of animated pet for Codex, Claude Code, OpenCode y Gemini CLI
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
-- [bitjaru/styleseed](https://github.com/bitjaru/styleseed) - Open-source design-method engine for Claude Code, Codex & Cursor. Gives coding agents fixed design judgment—not one fixed aesthetic—then selects or derives the right grammar from references, locks pro
+- [bitjaru/styleseed](https://github.com/bitjaru/styleseed) - Open-source design-method engine for Claude Code, Codex & Cursor. Fixed design judgment, multiple grammars, reference compilation, semantic palettes, and Studio workflows for verified UI, interaction,
 - [naveed-gung/nova](https://github.com/naveed-gung/nova) - Nova is a modern, multilingual AI voice assistant that brings natural conversation to your browser. With support for English 🇺🇸, Arabic 🇱🇧, and French 🇫🇷, Nova makes interaction seamless and intuitive
 - [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) - A visual no-code theme editor for shadcn/ui components
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
@@ -4859,6 +4876,7 @@
 
 - [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download videos from almost any website worldwide
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
+- [runesleo/x-reader](https://github.com/runesleo/x-reader) - Universal content reader MCP Server for 10+ platforms
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [RuthGnz/SpyScrap](https://github.com/RuthGnz/SpyScrap) - CLI and GUI for OSINT.  Are you very exhibited on the Internet? Check it!  Twitter, Tinder, Facebook, Google, Yandex, BOE. It uses facial recognition to provide more accurate results.
 
@@ -4876,7 +4894,7 @@
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate agentic social media scheduling tool 🤖
 - [dmmulroy/better-result](https://github.com/dmmulroy/better-result) - Lightweight Result type for TypeScript with generator-based composition.
-- [bitjaru/styleseed](https://github.com/bitjaru/styleseed) - Open-source design-method engine for Claude Code, Codex & Cursor. Gives coding agents fixed design judgment—not one fixed aesthetic—then selects or derives the right grammar from references, locks pro
+- [bitjaru/styleseed](https://github.com/bitjaru/styleseed) - Open-source design-method engine for Claude Code, Codex & Cursor. Fixed design judgment, multiple grammars, reference compilation, semantic palettes, and Studio workflows for verified UI, interaction,
 - [orchetron/storm](https://github.com/orchetron/storm) - A compositor-based terminal UI framework. Fast. Layered. Unstoppable.
 - [remvze/moodist](https://github.com/remvze/moodist) - Ambient sounds for focus and calm.
 - [vercel-labs/opensrc](https://github.com/vercel-labs/opensrc) - Fetch source code for npm packages to give AI coding agents deeper context
@@ -4945,7 +4963,7 @@
 
 - [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design) - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
-- [bitjaru/styleseed](https://github.com/bitjaru/styleseed) - Open-source design-method engine for Claude Code, Codex & Cursor. Gives coding agents fixed design judgment—not one fixed aesthetic—then selects or derives the right grammar from references, locks pro
+- [bitjaru/styleseed](https://github.com/bitjaru/styleseed) - Open-source design-method engine for Claude Code, Codex & Cursor. Fixed design judgment, multiple grammars, reference compilation, semantic palettes, and Studio workflows for verified UI, interaction,
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [bitfieldaudio/OTTO](https://github.com/bitfieldaudio/OTTO) - Sampler, Sequencer, Multi-engine synth and effects - in a box! [WIP]
 
@@ -5115,6 +5133,7 @@
 - [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download videos from almost any website worldwide
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [IgorShadurin/app.yumcut.com](https://github.com/IgorShadurin/app.yumcut.com) - YumCut - free AI video generator to turn a prompt into ready vertical videos for TikTok, Reels and YouTube Shorts. Auto script, scenes, voiceover, subtitles and watermark. Built with Next.js. Local-fi
+- [runesleo/x-reader](https://github.com/runesleo/x-reader) - Universal content reader MCP Server for 10+ platforms
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [Ikaros-521/AI-Vtuber](https://github.com/Ikaros-521/AI-Vtuber) - AI Vtuber是一个由 【ChatterBot/ChatGPT/claude/langchain/chatglm/text-gen-webui/闻达/千问/kimi/ollama】 驱动的虚拟主播【Live2D/UE/xuniren】，可以在 【Bilibili/抖音/快手/微信视频号/拼多多/斗鱼/YouTube/twitch/TikTok】 直播中与观众实时互动 或 直接在本地进行聊天。它
 - [devspotyt/chat_with_yt](https://github.com/devspotyt/chat_with_yt) - A simple demonstration of how to use existing AI tools to "chat with youtube videos".
