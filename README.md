@@ -334,7 +334,6 @@
 - [vizzly-testing/cli](https://github.com/vizzly-testing/cli) - Visual testing CLI with local TDD workflow. Catch UI bugs before you commit.
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
 - [tolibear/goalbuddy](https://github.com/tolibear/goalbuddy) - A better /goal for Codex and Claude Code
-- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - A library of agent skills for CAD, CAE and CAM
 - [reysu/ai-life-skills](https://github.com/reysu/ai-life-skills) - 
 - [Moswag/FacialRecognitionForPolice](https://github.com/Moswag/FacialRecognitionForPolice) - This is a criminal identification app developed in django that can identify criminals using face recognition
 - [suasgn/openburn](https://github.com/suasgn/openburn) - A plugin-based menu bar app for tracking AI coding tool subscriptions like Cursor, Claude, Codex and more, all in one place with a heavy focus user experience, speed, and stability.
@@ -654,6 +653,7 @@
 
 ## Python 
 
+- [AaravKashyap12/advise-project-approach](https://github.com/AaravKashyap12/advise-project-approach) - A Claude/Codex skill that makes AI agents research comparable projects, tradeoffs, costs, and failure conditions before giving build advice.
 - [aliasrobotics/cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), the framework for AI Security
 - [WecoAI/weco-cli](https://github.com/WecoAI/weco-cli) - Production-Grade Autoresearch. Ideal for agent harness engineering, prompt engineering, ML model development, GPU kernels, and other optimizable code.
 - [famstack-dev/famstack](https://github.com/famstack-dev/famstack) - Turn your Mac into the brain of your household and operate from your phone.
@@ -690,6 +690,7 @@
 - [sapientinc/HRM-Text](https://github.com/sapientinc/HRM-Text) - HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.
 - [youssofal/MTPLX](https://github.com/youssofal/MTPLX) - 3x decode TPS increase On Qwen 3.6 27B @ temp 0.6 | Native MTP Speculative Decoding On Apple Silicon With No External Drafter.
 - [jmerelnyc/Photo-agents](https://github.com/jmerelnyc/Photo-agents) - Autonomous self-evolving agents. Vision-grounded layered memory and self-written skills for LLM agents that operate your computer.
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - A library of agent skills for CAD, CAE and CAM
 - [lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed) - TokenSpeed is a speed-of-light LLM inference engine.
 - [Mark393295827/third-brain-v7-skills](https://github.com/Mark393295827/third-brain-v7-skills) - agent wiki +engineering skills
 - [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) - AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support
@@ -804,7 +805,7 @@
 - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
 - [PolarSeeker/OpenSeeker](https://github.com/PolarSeeker/OpenSeeker) - OpenSeeker: A search agent with open-source data and models
 - [TesslateAI/OpenSail](https://github.com/TesslateAI/OpenSail) - OpenSail is the open-source alternative to Codex App, Claude Desktop, Cursor, and Cowork for agentic software work.
-- [Q00/ouroboros](https://github.com/Q00/ouroboros) - Agent OS: Stop prompting. Start specifying. A Socratic interview gates the spec on an ambiguity score, then one command drives execution, a 3-stage evaluation gate, and a budgeted evolution loop. MCP 
+- [Q00/ouroboros](https://github.com/Q00/ouroboros) - Agent OS: the agent gets smarter on its own. We just hold the line: the grading command and expected result never make it into the success contract we hand it. Interview-gated, staged evaluation, budg
 - [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - SOTA Open Source TTS
@@ -1564,6 +1565,7 @@
 
 ## TypeScript 
 
+- [UditAkhourii/neuroarxiv](https://github.com/UditAkhourii/neuroarxiv) - A skill to kill from-scratch coding — Claude checks real arXiv prior art before it designs a new architecture.
 - [bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer) - 
 - [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) - A self-improving RLM agent for coding workflows and long-running autonomous tasks.
 - [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s
