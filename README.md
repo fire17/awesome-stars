@@ -688,7 +688,7 @@
 - [jetsonhacks/searxng-search](https://github.com/jetsonhacks/searxng-search) - A practical SearXNG search project with installer scripts, Python examples, and agent integration.
 - [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
 - [sapientinc/HRM-Text](https://github.com/sapientinc/HRM-Text) - HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.
-- [youssofal/MTPLX](https://github.com/youssofal/MTPLX) - 3x faster speeds on MLX | Qwen 3.6 27B | Native MTP Speculative Decoding On Apple Silicon With No External Drafter.
+- [youssofal/MTPLX](https://github.com/youssofal/MTPLX) - 3x faster speeds on MLX | Qwen 3.8 27B | Native MTP Speculative Decoding On Apple Silicon With No External Drafter.
 - [jmerelnyc/Photo-agents](https://github.com/jmerelnyc/Photo-agents) - Autonomous self-evolving agents. Vision-grounded layered memory and self-written skills for LLM agents that operate your computer.
 - [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - A library of agent skills for CAD, CAE and CAM
 - [lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed) - TokenSpeed is a speed-of-light LLM inference engine.
@@ -717,12 +717,12 @@
 - [UVA-Computer-Vision-Lab/OmniShotCut](https://github.com/UVA-Computer-Vision-Lab/OmniShotCut) - OmniShotCut is a sensitive and more informative SoTA on Shot Boundary Detection task.
 - [MinishLab/semble](https://github.com/MinishLab/semble) - Fast and Accurate Code Search for Agents. Uses 99% fewer tokens than grep+read
 - [Mega4alik/ollm](https://github.com/Mega4alik/ollm) - 
-- [kevinrgu/autoagent](https://github.com/kevinrgu/autoagent) - autonomous harness engineering
+- [thirdlayerinc/autoagent](https://github.com/thirdlayerinc/autoagent) - autonomous harness engineering
 - [future-agi/future-agi](https://github.com/future-agi/future-agi) - Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.
 - [zakirkun/deep-eye](https://github.com/zakirkun/deep-eye) - Deep Eye orchestrates multiple AI providers (OpenAI, Claude, Grok, Gemini, OLLAMA, Groq, Mistral, OpenRouter, LiteLLM, LM Studio) for intelligent payload generation, scans targets for 45+ vulnerabilit
 - [MrFadiAi/free-llm-gateway](https://github.com/MrFadiAi/free-llm-gateway) - Unified OpenAI-compatible API gateway aggregating 14+ free LLM providers with automatic fallback routing, rate limit tracking, and web dashboard
 - [lucasimi/tda-mapper-python](https://github.com/lucasimi/tda-mapper-python) - A simple and efficient Python implementation of Mapper algorithm for Topological Data Analysis
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode for free from your terminal, app, IDE, or phone like OpenClaw (voice supported)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)
 - [huggingface/ml-intern](https://github.com/huggingface/ml-intern) - 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
 - [grzgrzgrzgrzgrz/deepscroll](https://github.com/grzgrzgrzgrzgrz/deepscroll) - deepscroll — open-source implementation of Recursive Language Models (Zhang, Kraska, Khattab, arXiv:2512.24601) for analyzing 10M+ token contexts via LLM-guided recursive navigation.
 - [dezgit2025/auto-memory](https://github.com/dezgit2025/auto-memory) - Your AI coding agent never forgets — progressive session recall CLI
@@ -909,7 +909,6 @@
 - [inclusionAI/AEnvironment](https://github.com/inclusionAI/AEnvironment) - Standardized environment infrastructure for Agentic AI development.
 - [EmilStenstrom/justhtml](https://github.com/EmilStenstrom/justhtml) - A pure Python HTML5 parser that just works. No C extensions to compile. No system dependencies to install. No complex API to learn.
 - [Sider-ai/hatchify](https://github.com/Sider-ai/hatchify) - 
-- [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI that sees your screen, listens to your conversations and tells you what to do
 - [beeper/aibot](https://github.com/beeper/aibot) - A ChatGPT bot for Matrix
 - [vossenwout/free-llm-apis](https://github.com/vossenwout/free-llm-apis) - Scripts showing how to connect to a variety of llm providers with a free thier
 - [ConsistentlyInconsistentYT/Pixeltovoxelprojector](https://github.com/ConsistentlyInconsistentYT/Pixeltovoxelprojector) - Projects motion of pixels to a voxel
@@ -1205,7 +1204,7 @@
 - [corca-ai/EVAL](https://github.com/corca-ai/EVAL) - EVAL(Elastic Versatile Agent with Langchain) will execute all your requests. Just like an eval method!
 - [emcf/engshell](https://github.com/emcf/engshell) - An English-language shell for any OS, powered by LLMs
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - Lord of Large Language and Multi modal Systems Web User Interface
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [wunderwuzzi23/yolo-ai-cmdbot](https://github.com/wunderwuzzi23/yolo-ai-cmdbot) - AI bot that translates your question to a command and executes it yolo style
@@ -1339,7 +1338,7 @@
 - [automataIA/graphrag-rs](https://github.com/automataIA/graphrag-rs) - GraphRAG-rs is a high-performance, state-of-the-art Rust implementation of GraphRAG (Graph-based Retrieval Augmented Generation) that builds knowledge graphs from documents and enables natural languag
 - [lumina-ai-inc/chunkr](https://github.com/lumina-ai-inc/chunkr) - Vision infrastructure to turn complex documents into RAG/LLM-ready data
 - [anvia-hq/lexa](https://github.com/anvia-hq/lexa) - Lexa - Fast local code intelligence for humans and AI agents. Lexa turns a codebase into a portable, queryable graph so every tool can work from the same stable view of the project.
-- [t8y2/dbx](https://github.com/t8y2/dbx) - 20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docke
+- [t8y2/dbx](https://github.com/t8y2/dbx) - 20 MB lightweight cross-platform database client for 80+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docke
 - [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Free static analysis of code and styles: unused code, duplication, circular deps, complexity hotspots, architecture boundaries, design-system drift
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
@@ -1513,7 +1512,7 @@
 ## Swift 
 
 - [james-see/ltx-video-mac](https://github.com/james-see/ltx-video-mac) - Native macOS app for AI video generation using LTX-Video model, optimized for Apple Silicon
-- [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. DM us on X for an easter egg 😉 - https://x.com/fluidvoiceapp
+- [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows pre-build available! A local Wispr Flow alternative. DM us on X for an easter egg 😉 - https://x
 - [DandyLyons/treedocs](https://github.com/DandyLyons/treedocs) - treedocs is a CLI tool that generates and maintains a version-controlled, YAML-based architectural map of a repository by mirroring the file system and mapping paths to human-readable descriptions.
 - [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [ericjypark/codex-island](https://github.com/ericjypark/codex-island) - CodexIsland - AI usage limits in your MacBook notch
@@ -1552,6 +1551,7 @@
 - [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
 - [scouzi1966/maclocal-api](https://github.com/scouzi1966/maclocal-api) - 'afm' command cli: macOS server and single prompt mode that exposes Apple's Foundation and MLX Models and other APIs running on your Mac through a single aggregated OpenAI-compatible API endpoint. Sup
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
+- [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI that sees your screen, listens to your conversations and tells you what to do
 - [nfarina/ramblr](https://github.com/nfarina/ramblr) - Get the best dictation from the Whisper API everywhere on your Mac, for pennies.
 - [XITRIX/iTorrent](https://github.com/XITRIX/iTorrent) - Torrent client for iOS 16+
 - [foxt/watcHTTP](https://github.com/foxt/watcHTTP) - watcHTTP is a watchOS app to send HTTP requests from your wrist.
@@ -1596,7 +1596,7 @@
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [silvertakana/worldwideview](https://github.com/silvertakana/worldwideview) - 
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTM
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [crafter-station/petdex](https://github.com/crafter-station/petdex) - A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.
 - [Jakubantalik/metal-fx](https://github.com/Jakubantalik/metal-fx) - Animated WebGL liquid-metal effect for React buttons and UI components
 - [aj47/dotagents-mono](https://github.com/aj47/dotagents-mono) - Your AI team. One voice away. Desktop app + open .agents protocol.
