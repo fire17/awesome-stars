@@ -1093,7 +1093,7 @@
 ## claude 
 
 - [MadAppGang/claudish](https://github.com/MadAppGang/claudish) - Claude Code. Any Model. The most powerful AI coding agent now speaks every language.
-- [uwuclxdy/clauth](https://github.com/uwuclxdy/clauth) - Claude Code multi-account manager, usage monitor (CLI, TUI & MCP task delegation)
+- [uwuclxdy/clauth](https://github.com/uwuclxdy/clauth) - Claude Code multi-account manager, usage monitor (CLI, TUI & MCP cross-account delegation)
 - [mathiaschu/watch](https://github.com/mathiaschu/watch) - Give Claude a video input. /watch downloads from YouTube/Instagram/X/Vimeo/any yt-dlp site, extracts frames, and transcribes locally with mlx-whisper — no API key. Fork of bradautomates/claude-video.
 - [fire17/shipit](https://github.com/fire17/shipit) - A Claude Code skill that ships projects state-of-the-art — and shipped itself. 8 gated phases: edge-case design, runtime-matrix tests, verified publish, prepared media, retrospect-before-announcing.
 - [fire17/fable-masterclass](https://github.com/fire17/fable-masterclass) - A frontier model's technical masterclass of engineering principles — 16 chapters, 16 laws, six checklists, with a Claude Code skill and machine-verified references
@@ -1160,8 +1160,9 @@
 
 ## claude-code 
 
+- [NetVar1337/unleash](https://github.com/NetVar1337/unleash) - Unleash Claude Code - 113 patches, zero refusals/telemetry, 42 gates. Bun SEA bytecode patcher + TUI. Static Go binary.
 - [AaravKashyap12/advise-project-approach](https://github.com/AaravKashyap12/advise-project-approach) - A portable project-planning skill for Codex, Claude Code, pi, Hermes, and Agent Skills-compatible harnesses. Evidence before build advice.
-- [uwuclxdy/clauth](https://github.com/uwuclxdy/clauth) - Claude Code multi-account manager, usage monitor (CLI, TUI & MCP task delegation)
+- [uwuclxdy/clauth](https://github.com/uwuclxdy/clauth) - Claude Code multi-account manager, usage monitor (CLI, TUI & MCP cross-account delegation)
 - [mathiaschu/watch](https://github.com/mathiaschu/watch) - Give Claude a video input. /watch downloads from YouTube/Instagram/X/Vimeo/any yt-dlp site, extracts frames, and transcribes locally with mlx-whisper — no API key. Fork of bradautomates/claude-video.
 - [fire17/shipit](https://github.com/fire17/shipit) - A Claude Code skill that ships projects state-of-the-art — and shipped itself. 8 gated phases: edge-case design, runtime-matrix tests, verified publish, prepared media, retrospect-before-announcing.
 - [fire17/fable-masterclass](https://github.com/fire17/fable-masterclass) - A frontier model's technical masterclass of engineering principles — 16 chapters, 16 laws, six checklists, with a Claude Code skill and machine-verified references
@@ -1270,7 +1271,7 @@
 
 - [apache/maka](https://github.com/apache/maka) - Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.
 - [owainlewis/push](https://github.com/owainlewis/push) - A secure, stable, and lightweight alternative to OpenClaw and Hermes.
-- [uwuclxdy/clauth](https://github.com/uwuclxdy/clauth) - Claude Code multi-account manager, usage monitor (CLI, TUI & MCP task delegation)
+- [uwuclxdy/clauth](https://github.com/uwuclxdy/clauth) - Claude Code multi-account manager, usage monitor (CLI, TUI & MCP cross-account delegation)
 - [WecoAI/weco-cli](https://github.com/WecoAI/weco-cli) - Production-Grade Autoresearch. Ideal for agent harness engineering, prompt engineering, ML model development, GPU kernels, and other optimizable code.
 - [fire17/my-skills](https://github.com/fire17/my-skills) - Every Claude Code skill you have — origin chat, creator model, ratings — one registry, three doors: CLI, TUI, desktop app
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
@@ -1967,6 +1968,7 @@
 
 ## go 
 
+- [NetVar1337/unleash](https://github.com/NetVar1337/unleash) - Unleash Claude Code - 113 patches, zero refusals/telemetry, 42 gates. Bun SEA bytecode patcher + TUI. Static Go binary.
 - [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [fswatcher/fswatcher](https://github.com/fswatcher/fswatcher) - Cross-platform file system notifications for Go.
 - [Dicklesworthstone/ntm](https://github.com/Dicklesworthstone/ntm) - Named Tmux Manager: spawn, tile, and coordinate multiple AI coding agents (Claude, Codex, Gemini) across tmux panes with a TUI command palette
@@ -2389,6 +2391,7 @@
 
 ## llm 
 
+- [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
 - [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) - Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
 - [apache/maka](https://github.com/apache/maka) - Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.
 - [UditAkhourii/neuroarxiv](https://github.com/UditAkhourii/neuroarxiv) - A skill to kill from-scratch coding — Claude checks real arXiv prior art before it designs a new architecture.
@@ -3139,6 +3142,7 @@
 
 ## others 
 
+- [Vincent550102/anti-claude-refusals](https://github.com/Vincent550102/anti-claude-refusals) - Make Claude Streaming refusals useless.
 - [iAmCorey/Wake](https://github.com/iAmCorey/Wake) - All your AI agent sessions in one place — browse, search, resume. Rust + GPUI.
 - [jaredrhod/fullstack-agent](https://github.com/jaredrhod/fullstack-agent) - Give your AI a full stack: memory, voice, face, and hands. This is the "I want an AI agent" shortcut. It sets up the entire jaredrhod stack for you with an installation wizard. Select which pieces you
 - [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) - 
@@ -4482,6 +4486,7 @@
 
 ## reverse-engineering 
 
+- [NetVar1337/unleash](https://github.com/NetVar1337/unleash) - Unleash Claude Code - 113 patches, zero refusals/telemetry, 42 gates. Bun SEA bytecode patcher + TUI. Static Go binary.
 - [filiksyos/gitreverse](https://github.com/filiksyos/gitreverse) - Reverse engineer any repo into it's original prompt
 - [ReVanced/revanced-patches-template](https://github.com/ReVanced/revanced-patches-template) - 👋🧩Template repository for ReVanced Patches
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
@@ -4504,7 +4509,7 @@
 - [harry0703/MangoDisk](https://github.com/harry0703/MangoDisk) - Safety-first disk cleaner and disk space analyzer for macOS and Windows, with duplicate file finder, large file cleanup, app uninstaller, and startup manager
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
 - [owainlewis/push](https://github.com/owainlewis/push) - A secure, stable, and lightweight alternative to OpenClaw and Hermes.
-- [uwuclxdy/clauth](https://github.com/uwuclxdy/clauth) - Claude Code multi-account manager, usage monitor (CLI, TUI & MCP task delegation)
+- [uwuclxdy/clauth](https://github.com/uwuclxdy/clauth) - Claude Code multi-account manager, usage monitor (CLI, TUI & MCP cross-account delegation)
 - [sopaco/deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents.
 - [automataIA/graphrag-rs](https://github.com/automataIA/graphrag-rs) - GraphRAG-rs is a high-performance, state-of-the-art Rust implementation of GraphRAG (Graph-based Retrieval Augmented Generation) that builds knowledge graphs from documents and enables natural languag
 - [org2AI/ORG2](https://github.com/org2AI/ORG2) - System of record for how agents build software: Built-in rust harness & 20+ CLIs.
@@ -4824,7 +4829,7 @@
 
 ## terminal 
 
-- [uwuclxdy/clauth](https://github.com/uwuclxdy/clauth) - Claude Code multi-account manager, usage monitor (CLI, TUI & MCP task delegation)
+- [uwuclxdy/clauth](https://github.com/uwuclxdy/clauth) - Claude Code multi-account manager, usage monitor (CLI, TUI & MCP cross-account delegation)
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [dodo-reach/hermes-desktop](https://github.com/dodo-reach/hermes-desktop) - The safest, simplest way to manage Hermes from your Mac. Pure SSH. No gateways, no exposed ports, no browser layer.
@@ -4917,7 +4922,8 @@
 
 ## tui 
 
-- [uwuclxdy/clauth](https://github.com/uwuclxdy/clauth) - Claude Code multi-account manager, usage monitor (CLI, TUI & MCP task delegation)
+- [NetVar1337/unleash](https://github.com/NetVar1337/unleash) - Unleash Claude Code - 113 patches, zero refusals/telemetry, 42 gates. Bun SEA bytecode patcher + TUI. Static Go binary.
+- [uwuclxdy/clauth](https://github.com/uwuclxdy/clauth) - Claude Code multi-account manager, usage monitor (CLI, TUI & MCP cross-account delegation)
 - [fire17/my-skills](https://github.com/fire17/my-skills) - Every Claude Code skill you have — origin chat, creator model, ratings — one registry, three doors: CLI, TUI, desktop app
 - [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
 - [vyfor/rattles](https://github.com/vyfor/rattles) - 🪇 Minimal terminal spinners/throbbers for Rust
