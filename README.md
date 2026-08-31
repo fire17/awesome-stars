@@ -1342,7 +1342,7 @@
 
 ## Rust 
 
-- [harry0703/MangoDisk](https://github.com/harry0703/MangoDisk) - Safety-first disk cleaner and disk space analyzer for macOS and Windows, with duplicate file finder, large file cleanup, app uninstaller, and startup manager
+- [harry0703/MangoDisk](https://github.com/harry0703/MangoDisk) - Safety-first disk cleaner and space analyzer for macOS and Windows, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance.
 - [iAmCorey/Wake](https://github.com/iAmCorey/Wake) - All your AI agent sessions in one place — browse, search, resume. Rust + GPUI.
 - [RoxasYTB/roxify](https://github.com/RoxasYTB/roxify) - 
 - [n0-computer/iroh-tickets](https://github.com/n0-computer/iroh-tickets) - Simple ticket system used for signaling with iroh
@@ -1584,6 +1584,9 @@
 
 ## TypeScript 
 
+- [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks
+- [CyberStrikeus/CyberStrike](https://github.com/CyberStrikeus/CyberStrike) - Open-source AI-powered offensive security harness for automated penetration testing.
+- [S1N6H/pentest-harness](https://github.com/S1N6H/pentest-harness) - Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.
 - [Vincent550102/anti-claude-refusals](https://github.com/Vincent550102/anti-claude-refusals) - Make Claude Streaming refusals useless.
 - [apache/maka](https://github.com/apache/maka) - Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.
 - [MadAppGang/claudish](https://github.com/MadAppGang/claudish) - Claude Code. Any Model. The most powerful AI coding agent now speaks every language.
@@ -1678,7 +1681,6 @@
 - [cpaczek/any-buddy](https://github.com/cpaczek/any-buddy) - Hack Claude Code to get any buddy you want
 - [bddicken/tuitter](https://github.com/bddicken/tuitter) - tuitter
 - [filiksyos/gitreverse](https://github.com/filiksyos/gitreverse) - Reverse engineer any repo into it's original prompt
-- [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks
 - [wastedcode/memex](https://github.com/wastedcode/memex) - File system based wiki, maintained by Claude
 - [bokub/gradient-string](https://github.com/bokub/gradient-string) - :rainbow:  Beautiful color gradients in terminal output
 - [tintinweb/pi-subagents](https://github.com/tintinweb/pi-subagents) - Claude Code like Sub-Agents & Workflow Orchestration for Pi — parallel execution, live widget, fleet view, custom agent types, mid-run steering, claude compatible dynamic workflows and more ...
@@ -1845,7 +1847,7 @@
 - [Autonoma-Labs/Open-CoWork](https://github.com/Autonoma-Labs/Open-CoWork) - 
 - [layercodedev/sled](https://github.com/layercodedev/sled) - Teleport Claude Code, Codex or Gemini CLI to your phone and work anywhere
 - [tiann/hapi](https://github.com/tiann/hapi) - App for Codex / Claude Code / Pi / OpenCode / Kimi Code / Grok Build, vibe coding anytime, anywhere
-- [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) - An AI coding agent guardrail — a CLI hook that blocks destructive git and filesystem commands and secret file access before they execute. Supports Amp Code, Antigravity CLI, Claude Code, Codex, Copilo
+- [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) - A pre-execution guard for AI coding agents. It blocks destructive Git and file system commands, plus common attempts to access sensitive files, before a tool call runs. Supports Amp Code, Antigravity 
 - [Nearcyan/vibecraft](https://github.com/Nearcyan/vibecraft) - It's Vibecraft!
 - [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) - Lean, fine tuned Opencode multi agent suite · Mix any models · Auto delegate tasks
 - [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth) - Enable Opencode to authenticate against Antigravity (Google's IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google cr
