@@ -310,7 +310,6 @@
 
 ## Java 
 
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace) - Leading free and open-source face recognition system
 - [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 - [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative
@@ -663,7 +662,7 @@
 
 - [muthuishere/hand-drawn-diagrams](https://github.com/muthuishere/hand-drawn-diagrams) - Hand-drawn diagram skill for Claude Code and Codex. Generates monochrome architecture, workflow, and UX blueprint diagrams as PNGs.
 - [Gary-666/excalidraw-agent-skill](https://github.com/Gary-666/excalidraw-agent-skill) - 
-- [Mapika/decider](https://github.com/Mapika/decider) - One-pass typed decisions with calibrated probabilities (System One style model), fine-tuned from Qwen3.5-2B
+- [Mapika/decider](https://github.com/Mapika/decider) - A family of System One-style models fine-tuned from Qwen3.5, designed for one-pass typed decisions with calibrated probabilities.
 - [NicolaiLassen/open-bonsai-jev](https://github.com/NicolaiLassen/open-bonsai-jev) - openjev's mechanism, Bonsai's weights: typed decisions read straight from one forward pass of a 1.75-bit 27B model. Credit to TheoLeeCJ (SemIf/OpenJev) and PrismML.
 - [TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf) - Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.
 - [wombatoperator/omarchy-voice](https://github.com/wombatoperator/omarchy-voice) - Voice control and durable desktop tasks for Omarchy Linux, with OpenAI speech, local tools, and a policy gate.
@@ -1612,6 +1611,7 @@
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [teamchong/pxpipe](https://github.com/teamchong/pxpipe) - cut Claude Code token usage by rendering text context as images
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [nota-america/forgecat-agent-profiles](https://github.com/nota-america/forgecat-agent-profiles) - Production-ready AI agent profiles for Claude Code, Cursor, Codex, OpenClaw, and Hermes. Search, install, and contribute ForgeCat packages.
 - [org2AI/ORG2](https://github.com/org2AI/ORG2) - System of record for how agents build software: Built-in rust harness & 20+ CLIs.
 - [0xnyn/canary](https://github.com/0xnyn/canary) - QA harness built for Claude Code | E2E testing with screen recordings, console logs, network HARs, and Playwright traces
