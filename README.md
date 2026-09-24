@@ -310,6 +310,7 @@
 
 ## Java 
 
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace) - Leading free and open-source face recognition system
 - [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 - [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative
@@ -470,6 +471,8 @@
 
 ## Jupyter Notebook 
 
+- [pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio) - Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding
+- [umitkacar/ensemble-speaker-verification](https://github.com/umitkacar/ensemble-speaker-verification) - Ensemble speaker verification achieving 97% accuracy - Intelligent fusion of MFCC+DTW (92%) and Resemblyzer CNN (94%) for voice authentication
 - [saramaxyz/audioset-processing](https://github.com/saramaxyz/audioset-processing) - Toolkit for downloading and processing Google's AudioSet dataset.
 - [TRI-ML/recgen](https://github.com/TRI-ML/recgen) - Official repo for paper "Reconstruction by Generation: 3D Multi-Object Scene Reconstruction from Sparse Observations" (ECCV'26)
 - [mk-minchul/AdaFace](https://github.com/mk-minchul/AdaFace) - 
@@ -662,11 +665,15 @@
 
 ## Python 
 
+- [wenet-e2e/wespeaker](https://github.com/wenet-e2e/wespeaker) - Research and Production Oriented Speaker Verification, Recognition and Diarization Toolkit
+- [yeyupiaoling/VoiceprintRecognition-Pytorch](https://github.com/yeyupiaoling/VoiceprintRecognition-Pytorch) - This project uses a variety of advanced voiceprint recognition models such as EcapaTdnn, ResNetSE, ERes2Net, CAM++, etc. It is not excluded that more models will be supported in the future. At the sam
+- [ananyakaligal/Voice-Authentication](https://github.com/ananyakaligal/Voice-Authentication) - A voice authentication system leveraging Deep4SNet for DeepFake detection and GMM UBM for speaker verification. It provides a robust solution for securing voice-based authentication applications.
+- [mwasifanwar/VoicePrint-ID](https://github.com/mwasifanwar/VoicePrint-ID) - Advanced speaker identification and verification system using deep learning. Features emotion recognition, language detection, and anti-spoofing capabilities for secure voice authentication applicatio
 - [muthuishere/hand-drawn-diagrams](https://github.com/muthuishere/hand-drawn-diagrams) - Hand-drawn diagram skill for Claude Code and Codex. Generates monochrome architecture, workflow, and UX blueprint diagrams as PNGs.
 - [Gary-666/excalidraw-agent-skill](https://github.com/Gary-666/excalidraw-agent-skill) - 
 - [Mapika/decider](https://github.com/Mapika/decider) - A family of System One-style models fine-tuned from Qwen3.5, designed for one-pass typed decisions with calibrated probabilities.
 - [NicolaiLassen/open-bonsai-jev](https://github.com/NicolaiLassen/open-bonsai-jev) - openjev's mechanism, Bonsai's weights: typed decisions read straight from one forward pass of a 1.75-bit 27B model. Credit to TheoLeeCJ (SemIf/OpenJev) and PrismML.
-- [TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf) - Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.
+- [TheoLeeCJ/SemIf-OpenJev](https://github.com/TheoLeeCJ/SemIf-OpenJev) - Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.
 - [wombatoperator/omarchy-voice](https://github.com/wombatoperator/omarchy-voice) - Voice control and durable desktop tasks for Omarchy Linux, with OpenAI speech, local tools, and a policy gate.
 - [stanford-iris-lab/meta-harness](https://github.com/stanford-iris-lab/meta-harness) - Reference code for the Meta-Harness paper.
 - [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
@@ -800,7 +807,7 @@
 - [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) - Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞
 - [noxcraftdev/video-examples](https://github.com/noxcraftdev/video-examples) - Companion code for Nox Craft videos — runnable examples for every episode.
 - [ssrajadh/sentrysearch](https://github.com/ssrajadh/sentrysearch) - Semantic search over videos using Gemini Embedding 2 or Qwen3-VL.
-- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 25 sub-skills + 18 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, semantic clustering, e-commerce SEO, inter
+- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local S
 - [kyutai-labs/moshivis](https://github.com/kyutai-labs/moshivis) - Kyutai with an "eye"
 - [ruxakK/friday_jarvis](https://github.com/ruxakK/friday_jarvis) - 
 - [mmirthula02/AI-Personal-Voice-assistant-using-Python](https://github.com/mmirthula02/AI-Personal-Voice-assistant-using-Python) - 
@@ -1613,7 +1620,6 @@
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [teamchong/pxpipe](https://github.com/teamchong/pxpipe) - cut Claude Code token usage by rendering text context as images
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [nota-america/forgecat-agent-profiles](https://github.com/nota-america/forgecat-agent-profiles) - Production-ready AI agent profiles for Claude Code, Cursor, Codex, OpenClaw, and Hermes. Search, install, and contribute ForgeCat packages.
 - [org2AI/ORG2](https://github.com/org2AI/ORG2) - System of record for how agents build software: Built-in rust harness & 20+ CLIs.
 - [0xnyn/canary](https://github.com/0xnyn/canary) - QA harness built for Claude Code | E2E testing with screen recordings, console logs, network HARs, and Playwright traces
@@ -1921,7 +1927,7 @@
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [fal-ai-community/tldraw-fal](https://github.com/fal-ai-community/tldraw-fal) - 
 - [tldraw/make-real](https://github.com/tldraw/make-real) - Draw a ui and make it real
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
+- [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [ArielYat/Whatsapp-bot-Project](https://github.com/ArielYat/Whatsapp-bot-Project) - WhatsApp Bot 🌟 - for groups and individuals
