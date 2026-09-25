@@ -113,7 +113,6 @@
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 - [PulseBeat02/yt-media-storage](https://github.com/PulseBeat02/yt-media-storage) - Encodes files into uploadable media
-- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [jawond/camoufox](https://github.com/jawond/camoufox) - 🦊 Anti-detect browser
 - [Tencent/hpc-ops](https://github.com/Tencent/hpc-ops) - High Performance LLM Inference Operator Library
 - [stepfun-ai/Step-3.5-Flash](https://github.com/stepfun-ai/Step-3.5-Flash) - Fast, Sharp & Reliable Agentic Intelligence
@@ -714,7 +713,7 @@
 - [jetsonhacks/searxng-search](https://github.com/jetsonhacks/searxng-search) - A practical SearXNG search project with installer scripts, Python examples, and agent integration.
 - [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
 - [sapientinc/HRM-Text](https://github.com/sapientinc/HRM-Text) - HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.
-- [youssofal/MTPLX](https://github.com/youssofal/MTPLX) - The fastest way to run Qwen 3.8 Flash Next and Qwen 3.8 27B on a Mac: 125 tok/s in OpenCode on an M5 Max. Native MTP speculative decoding on Apple Silicon, exact at any temperature. OpenAI and Anthrop
+- [youssofal/MTPLX](https://github.com/youssofal/MTPLX) - The fastest way to run Qwen 3.8 Flash Next, Qwen 3.8 27B and Ternary Bonsai 2 27B on a Mac: 125 tok/s in OpenCode on an M5 Max, and a 27B model on 16 GB Macs. Native MTP speculative decoding on Apple 
 - [jmerelnyc/Photo-agents](https://github.com/jmerelnyc/Photo-agents) - Autonomous self-evolving agents. Vision-grounded layered memory and self-written skills for LLM agents that operate your computer.
 - [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - A library of agent skills for CAD, CAE and CAM
 - [lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed) - TokenSpeed is a speed-of-light LLM inference engine.
@@ -741,7 +740,7 @@
 - [Tianyi-Billy-Ma/AutoData](https://github.com/Tianyi-Billy-Ma/AutoData) - Automatica Open Web Data Collection (NeurIPS 2025)
 - [OpenImagingLab/AnyRecon](https://github.com/OpenImagingLab/AnyRecon) - [SIGGRAPH Asia 2026] AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model
 - [ARA-Labs/Agent-Native-Research-Artifact](https://github.com/ARA-Labs/Agent-Native-Research-Artifact) - Research Artifact Protocol for Rigorous and Trustworthy AI Scientists
-- [UVA-Computer-Vision-Lab/OmniShotCut](https://github.com/UVA-Computer-Vision-Lab/OmniShotCut) - OmniShotCut is a sensitive and more informative SoTA on Shot Boundary Detection task.
+- [UVA-Computer-Vision-Lab/OmniShotCut](https://github.com/UVA-Computer-Vision-Lab/OmniShotCut) - OmniShotCut is a sensitive and more informative SoTA on Shot Boundary Detection task. (NeurIPS 2026)
 - [MinishLab/semble](https://github.com/MinishLab/semble) - Fast and Accurate Code Search for Agents. Uses 99% fewer tokens than grep+read
 - [Mega4alik/ollm](https://github.com/Mega4alik/ollm) - 
 - [thirdlayerinc/autoagent](https://github.com/thirdlayerinc/autoagent) - autonomous harness engineering
@@ -888,6 +887,7 @@
 - [heuer/segno](https://github.com/heuer/segno) - Python QR Code and Micro QR Code encoder
 - [tokland/youtube-upload](https://github.com/tokland/youtube-upload) - Upload videos to Youtube from the command line
 - [CodeUpdaterBot/ClickUi](https://github.com/CodeUpdaterBot/ClickUi) - The best way to use AI is on your own computer. Use local or paid API models, and ctrl+k to show/hide the chat UI. Experience the future of AI, and help build it too!
+- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [bytexenon/undetected_geckodriver](https://github.com/bytexenon/undetected_geckodriver) - A custom Firefox Selenium-based Webdriver. Passes all bot mitigation systems
 - [lm-sys/RouteLLM](https://github.com/lm-sys/RouteLLM) - A framework for serving and evaluating LLM routers - save LLM costs without compromising quality
 - [Memento-Teams/Memento](https://github.com/Memento-Teams/Memento) - Official Code of Memento: Fine-tuning LLM Agents without Fine-tuning LLMs
