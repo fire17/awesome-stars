@@ -109,7 +109,7 @@
 - [ProjectPhysX/hw-smi](https://github.com/ProjectPhysX/hw-smi) - A minimal, cross-compatible CPU/GPU telemetry monitor with accurate data directly from vendor APIs and beautiful ASCII visualization.
 - [belijzajac/TermColor](https://github.com/belijzajac/TermColor) - Effortlessly generate color-schemes for terminal emulators by a single drop of an image!
 - [jer-irl/threadprocs](https://github.com/jer-irl/threadprocs) - Experimental thread-like processes, multiple executables in one address space
-- [RunanywhereAI/wally](https://github.com/RunanywhereAI/wally) - Get up and running with GLM-5.3-flash, DeepSeek, Qwen, Gemma and other open source frontier models.
+- [RunanywhereAI/wally](https://github.com/RunanywhereAI/wally) - Get up and running with GLM-5.3-flash, DeepSeek, Gemma and other open source frontier models.
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 - [PulseBeat02/yt-media-storage](https://github.com/PulseBeat02/yt-media-storage) - Encodes files into uploadable media
@@ -343,7 +343,7 @@
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
 - [tolimarchuk/goalbuddy](https://github.com/tolimarchuk/goalbuddy) - A better /goal for Codex and Claude Code
 - [reysu/ai-life-skills](https://github.com/reysu/ai-life-skills) - 
-- [kwakseongjae/oh-my-design](https://github.com/kwakseongjae/oh-my-design) - Give your AI coding agent a design system. One command installs 400+ quality-graded company DESIGN.md references + skills into Claude Code, Codex, Cursor, and OpenCode. Free, MIT, zero AI calls.
+- [kwakseongjae/oh-my-design](https://github.com/kwakseongjae/oh-my-design) - Give your AI coding agent a design system. One command installs 500+ quality-graded company DESIGN.md references + skills into Claude Code, Codex, Cursor, and OpenCode. Free, MIT, zero AI calls.
 - [Moswag/FacialRecognitionForPolice](https://github.com/Moswag/FacialRecognitionForPolice) - This is a criminal identification app developed in django that can identify criminals using face recognition
 - [suasgn/openburn](https://github.com/suasgn/openburn) - A plugin-based menu bar app for tracking AI coding tool subscriptions like Cursor, Claude, Codex and more, all in one place with a heavy focus user experience, speed, and stability.
 - [UdaraJay/Pile](https://github.com/UdaraJay/Pile) - Desktop app for digital journaling.
@@ -749,7 +749,7 @@
 - [zakirkun/deep-eye](https://github.com/zakirkun/deep-eye) - Deep Eye orchestrates multiple AI providers (OpenAI, Claude, Grok, Gemini, OLLAMA, Groq, Mistral, OpenRouter, LiteLLM, LM Studio) for intelligent payload generation, scans targets for 45+ vulnerabilit
 - [MrFadiAi/free-llm-gateway](https://github.com/MrFadiAi/free-llm-gateway) - Unified OpenAI-compatible API gateway aggregating 14+ free LLM providers with automatic fallback routing, rate limit tracking, and web dashboard
 - [lucasimi/tda-mapper-python](https://github.com/lucasimi/tda-mapper-python) - A simple and efficient Python implementation of Mapper algorithm for Topological Data Analysis
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harne
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (mul
 - [huggingface/ml-intern](https://github.com/huggingface/ml-intern) - Archived — ML Intern is no longer maintained. Continue with HuggingChat.
 - [grzgrzgrzgrzgrz/deepscroll](https://github.com/grzgrzgrzgrzgrz/deepscroll) - deepscroll — open-source implementation of Recursive Language Models (Zhang, Kraska, Khattab, arXiv:2512.24601) for analyzing 10M+ token contexts via LLM-guided recursive navigation.
 - [dezgit2025/auto-memory](https://github.com/dezgit2025/auto-memory) - Your AI coding agent never forgets — progressive session recall CLI
@@ -1431,7 +1431,7 @@
 - [nekocode/agent-worktree](https://github.com/nekocode/agent-worktree) - A Git worktree workflow tool for AI coding agents. Enables parallel development with isolated environments.
 - [realsigridjin/agentjson](https://github.com/realsigridjin/agentjson) - The parser that repairs broken JSON output for AI Agent Pipelines
 - [jawond/microsandbox](https://github.com/jawond/microsandbox) - opensource self-hosted sandboxes for ai agents
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable microVM for any workload
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast branchable microVM runtime and library for any workload
 - [enzofrasca/lightclaw](https://github.com/enzofrasca/lightclaw) - Claw but for every user, and computer.
 - [jawond/femtobot](https://github.com/jawond/femtobot) - 
 - [danshapiro/freshell](https://github.com/danshapiro/freshell) - The Agentic IDE (or, the loving child of tmux and claude code)
