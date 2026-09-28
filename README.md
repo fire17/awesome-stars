@@ -109,7 +109,6 @@
 - [ProjectPhysX/hw-smi](https://github.com/ProjectPhysX/hw-smi) - A minimal, cross-compatible CPU/GPU telemetry monitor with accurate data directly from vendor APIs and beautiful ASCII visualization.
 - [belijzajac/TermColor](https://github.com/belijzajac/TermColor) - Effortlessly generate color-schemes for terminal emulators by a single drop of an image!
 - [jer-irl/threadprocs](https://github.com/jer-irl/threadprocs) - Experimental thread-like processes, multiple executables in one address space
-- [RunanywhereAI/wally](https://github.com/RunanywhereAI/wally) - Get up and running with GLM-5.3-flash, DeepSeek, Gemma and other open source frontier models.
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 - [PulseBeat02/yt-media-storage](https://github.com/PulseBeat02/yt-media-storage) - Encodes files into uploadable media
@@ -889,7 +888,7 @@
 - [tokland/youtube-upload](https://github.com/tokland/youtube-upload) - Upload videos to Youtube from the command line
 - [CodeUpdaterBot/ClickUi](https://github.com/CodeUpdaterBot/ClickUi) - The best way to use AI is on your own computer. Use local or paid API models, and ctrl+k to show/hide the chat UI. Experience the future of AI, and help build it too!
 - [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
-- [bytexenon/undetected_geckodriver](https://github.com/bytexenon/undetected_geckodriver) - A custom Firefox Selenium-based Webdriver. Passes all bot mitigation systems
+- [luauminati/undetected_geckodriver](https://github.com/luauminati/undetected_geckodriver) - A custom Firefox Selenium-based Webdriver. Passes all bot mitigation systems
 - [lm-sys/RouteLLM](https://github.com/lm-sys/RouteLLM) - A framework for serving and evaluating LLM routers - save LLM costs without compromising quality
 - [Memento-Teams/Memento](https://github.com/Memento-Teams/Memento) - Official Code of Memento: Fine-tuning LLM Agents without Fine-tuning LLMs
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.
@@ -1407,6 +1406,7 @@
 - [run-llama/liteparse](https://github.com/run-llama/liteparse) - A fast, helpful, and open-source document parser
 - [matrixorigin/memoria](https://github.com/matrixorigin/memoria) - Secure memory management for AI Agents • Ensures data integrity • Reduces hallucinations • Maintains consistent long-term context
 - [zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot) - Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
+- [RunanywhereAI/wally](https://github.com/RunanywhereAI/wally) - Get up and running with GLM-5.3-flash, DeepSeek, Gemma and other open source frontier models.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [yologdev/yoyo-evolve](https://github.com/yologdev/yoyo-evolve) - A coding agent that evolves its own source, in public — 200 lines of Rust on day one, every commit since agent-written and tests-gated.
