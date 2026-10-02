@@ -357,7 +357,7 @@
 
 ## agent-skills 
 
-- [mvschwarz/openrig](https://github.com/mvschwarz/openrig) - Multi-agent harness that runs Claude Code and Codex together as one system
+- [mvschwarz/openrig](https://github.com/mvschwarz/openrig) - Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.
 - [muthuishere/hand-drawn-diagrams](https://github.com/muthuishere/hand-drawn-diagrams) - Hand-drawn diagram skill for Claude Code and Codex. Generates monochrome architecture, workflow, and UX blueprint diagrams as PNGs.
 - [AaravKashyap12/advise-project-approach](https://github.com/AaravKashyap12/advise-project-approach) - A portable project-planning skill for Codex, Claude Code, pi, Hermes, and Agent Skills-compatible harnesses. Evidence before build advice.
 - [microsoft/SkillOpt](https://github.com/microsoft/SkillOpt) - SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.
@@ -1197,7 +1197,7 @@
 
 ## claude-code 
 
-- [mvschwarz/openrig](https://github.com/mvschwarz/openrig) - Multi-agent harness that runs Claude Code and Codex together as one system
+- [mvschwarz/openrig](https://github.com/mvschwarz/openrig) - Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.
 - [techjarves/Mobile-Harness](https://github.com/techjarves/Mobile-Harness) - Claude Code on Android:  AI-powered mobile coding IDE for Android — chat with a coding agent, run Linux commands, edit files, review diffs, and preview web apps directly from your phone. No root requi
 - [muthuishere/hand-drawn-diagrams](https://github.com/muthuishere/hand-drawn-diagrams) - Hand-drawn diagram skill for Claude Code and Codex. Generates monochrome architecture, workflow, and UX blueprint diagrams as PNGs.
 - [QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent) - A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents
@@ -1311,7 +1311,7 @@
 
 ## cli 
 
-- [mvschwarz/openrig](https://github.com/mvschwarz/openrig) - Multi-agent harness that runs Claude Code and Codex together as one system
+- [mvschwarz/openrig](https://github.com/mvschwarz/openrig) - Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.
 - [apache/maka](https://github.com/apache/maka) - Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.
 - [owainlewis/push](https://github.com/owainlewis/push) - A secure, stable, and lightweight alternative to OpenClaw and Hermes.
 - [uwuclxdy/clauth](https://github.com/uwuclxdy/clauth) - Claude Code multi-account manager, usage monitor (CLI, TUI & cross-account delegation via MCP)
@@ -1785,6 +1785,7 @@
 - [Q00/ouroboros](https://github.com/Q00/ouroboros) - Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, 
 - [zilliztech/memsearch](https://github.com/zilliztech/memsearch) - A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
+- [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) - A pre-execution guard for AI coding agents. It blocks destructive Git and file system commands, plus common attempts to access sensitive files, before a tool call runs. Supports Amp Code, Antigravity 
 
 ## education 
 
@@ -3206,7 +3207,7 @@
 - [Mapika/decider](https://github.com/Mapika/decider) - A family of System One-style models fine-tuned from Qwen3.5, designed for one-pass typed decisions with calibrated probabilities.
 - [NicolaiLassen/open-bonsai-jev](https://github.com/NicolaiLassen/open-bonsai-jev) - openjev's mechanism, Bonsai's weights: typed decisions read straight from one forward pass of a 1.75-bit 27B model. Credit to TheoLeeCJ (SemIf/OpenJev) and PrismML.
 - [TheoLeeCJ/SemIf-OpenJev](https://github.com/TheoLeeCJ/SemIf-OpenJev) - Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.
-- [stanford-iris-lab/meta-harness](https://github.com/stanford-iris-lab/meta-harness) - Reference code for the Meta-Harness paper.
+- [stanford-iris-lab/meta-harness](https://github.com/stanford-iris-lab/meta-harness) - Official code for Meta-Harness (2603.28052)
 - [Vincent550102/anti-claude-refusals](https://github.com/Vincent550102/anti-claude-refusals) - Make Claude Streaming refusals useless.
 - [iAmCorey/Wake](https://github.com/iAmCorey/Wake) - All your AI agent sessions in one place — browse, search, resume. Rust + GPUI.
 - [jaredrhod/fullstack-agent](https://github.com/jaredrhod/fullstack-agent) - Give your AI a full stack: memory, voice, face, and hands. This is the "I want an AI agent" shortcut. It sets up the entire jaredrhod stack for you with an installation wizard. Select which pieces you
@@ -5026,7 +5027,7 @@
 
 ## typescript 
 
-- [mvschwarz/openrig](https://github.com/mvschwarz/openrig) - Multi-agent harness that runs Claude Code and Codex together as one system
+- [mvschwarz/openrig](https://github.com/mvschwarz/openrig) - Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [apache/maka](https://github.com/apache/maka) - Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
