@@ -533,7 +533,7 @@
 - [nekocode/agent-worktree](https://github.com/nekocode/agent-worktree) - A Git worktree workflow tool for AI coding agents. Enables parallel development with isolated environments.
 - [weaviate/elysia-frontend](https://github.com/weaviate/elysia-frontend) - Frontend Repository for Elysia
 - [scouzi1966/maclocal-api](https://github.com/scouzi1966/maclocal-api) - 'afm' command cli: macOS server and single prompt mode that exposes Apple's Foundation and MLX Models and other APIs running on your Mac through a single aggregated OpenAI-compatible API endpoint. Sup
-- [memovai/mimiclaw](https://github.com/memovai/mimiclaw) - MimiClaw: Personal Agent on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS. Hardware agents OS.
+- [memovai/mimiclaw](https://github.com/memovai/mimiclaw) - MimiClaw: Personal Agent on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS. Hardware agents OS. On device Muse.
 - [WSTxda/SwitchAI](https://github.com/WSTxda/SwitchAI) - Easily select, start, and manage your preferred AI digital assistants on Android.
 - [akdeb/ElatoAI](https://github.com/akdeb/ElatoAI) - Realtime Voice AI with 100+ Models on Arduino ESP32 with Secure Websockets and Edge Functions for AI Companions, and Devices
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Gro
@@ -604,7 +604,7 @@
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
-- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) - Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and data teams. Connect to 40+ databases, manage data, edit and run SQL, and use your o
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
@@ -654,7 +654,7 @@
 - [nota-america/forgecat-agent-profiles](https://github.com/nota-america/forgecat-agent-profiles) - Production-ready AI agent profiles for Claude Code, Cursor, Codex, OpenClaw, and Hermes. Search, install, and contribute ForgeCat packages.
 - [nexu-io/html-video](https://github.com/nexu-io/html-video) - Programmatic video for coding agents — HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees. An
 - [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) - AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support
-- [Hmbown/Codewhale](https://github.com/Hmbown/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
+- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
 - [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) - Desktop Companion for Hermes Agent
 - [wxtsky/byob](https://github.com/wxtsky/byob) - Bring Your Own Browser — let your AI agent use the Chrome you already have open
 - [cosmicstack-labs/mercury-agent](https://github.com/cosmicstack-labs/mercury-agent) - Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI, Telegram or More.
@@ -706,6 +706,7 @@
 - [onecli/onecli](https://github.com/onecli/onecli) - Open-source sandboxed agent harness for teams. Giving every employee a secured personal agent.
 - [ksimback/hermes-ecosystem](https://github.com/ksimback/hermes-ecosystem) - Hermes Atlas — the decision layer for Hermes Agent: install guidance, mode & skill picks, and a curated catalog of 240+ ecosystem tools with live GitHub data
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
+- [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - An embeddable, portable, branchable virtual machine to safely run Agents locally.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [wxtsky/CodeIsland](https://github.com/wxtsky/CodeIsland) - Real-time AI coding agent status panel in your MacBook notch — live status, approvals & replies for 30+ AI coding tools, with iPhone & Apple Watch companions
 - [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) - Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
@@ -785,7 +786,7 @@
 ## analytics 
 
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
-- [opalinehq/cli](https://github.com/opalinehq/cli) - Opaline: CLI for Claude Code and Codex session analytics. Formerly rudel.
+- [opalinehq/cli](https://github.com/opalinehq/cli) - Opaline: CLI for Claude Code and Codex session analytics.
 - [amitt001/pygmy](https://github.com/amitt001/pygmy) - An open-source, feature rich & extensible url-shortener + analytics written in Python :cookie:
 - [kevinschaich/mintable](https://github.com/kevinschaich/mintable) - 🍃 Automate your personal finances – for free, with no ads, and no data collection.
 - [rotki/rotki](https://github.com/rotki/rotki) - A portfolio tracking, analytics, accounting and management application that protects your privacy
@@ -840,7 +841,7 @@
 - [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Open-source context retrieval layer for AI agents
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
-- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [dsdanielpark/Bard-API](https://github.com/dsdanielpark/Bard-API) - The unofficial python package that returns response of Google Bard through cookie value.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -1031,7 +1032,7 @@
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [cheshire-cat-ai/core](https://github.com/cheshire-cat-ai/core) - AI agent microservice
-- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
 - [paulpierre/RasaGPT](https://github.com/paulpierre/RasaGPT) - 💬 RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. Built w/ Rasa, FastAPI, Langchain, LlamaIndex, SQLModel, pgvector, ngrok, telegram
@@ -1071,7 +1072,7 @@
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 - [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
-- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.
 - [evalplus/evalplus](https://github.com/evalplus/evalplus) - Rigourous evaluation of LLM-synthesized code - NeurIPS 2023 & COLM 2024
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
@@ -1261,7 +1262,7 @@
 - [WecoAI/awesome-autoresearch](https://github.com/WecoAI/awesome-autoresearch) - Curated list of AutoResearch use cases with optimization traces and open source implementations
 - [realkimbarrett/advertising-skills](https://github.com/realkimbarrett/advertising-skills) - Advertising Skills for Open Claw, Claude Code & AI agents. Direct response, paid ads, funnels, and copy systems.
 - [gauravvij/AutoPrompter](https://github.com/gauravvij/AutoPrompter) - AutoResearch + PromptFoo = AutoPrompter. Run it with Neo AI Engineer
-- [opalinehq/cli](https://github.com/opalinehq/cli) - Opaline: CLI for Claude Code and Codex session analytics. Formerly rudel.
+- [opalinehq/cli](https://github.com/opalinehq/cli) - Opaline: CLI for Claude Code and Codex session analytics.
 - [Q00/ouroboros](https://github.com/Q00/ouroboros) - Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, 
 - [eugene1g/agent-safehouse](https://github.com/eugene1g/agent-safehouse) - Sandbox your local AI agents so they can read/write only what they need
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
@@ -1327,7 +1328,7 @@
 - [kwakseongjae/oh-my-design](https://github.com/kwakseongjae/oh-my-design) - Give your AI coding agent a design system. One command installs 500+ quality-graded company DESIGN.md references + skills into Claude Code, Codex, Cursor, and OpenCode. Free, MIT, zero AI calls.
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 6K websites
 - [crafter-station/petdex](https://github.com/crafter-station/petdex) - A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.
-- [Hmbown/Codewhale](https://github.com/Hmbown/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
+- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
 - [Dicklesworthstone/ntm](https://github.com/Dicklesworthstone/ntm) - Named Tmux Manager: spawn, tile, and coordinate multiple AI coding agents (Claude, Codex, Gemini) across tmux panes with a TUI command palette
 - [onecli/onecli](https://github.com/onecli/onecli) - Open-source sandboxed agent harness for teams. Giving every employee a secured personal agent.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
@@ -1348,7 +1349,7 @@
 - [nathan-cannon/cellstate](https://github.com/nathan-cannon/cellstate) - React terminal renderer with cell-level diffing and native scrollback. No alternate screen.
 - [rohoswagger/ez-stack](https://github.com/rohoswagger/ez-stack) - The Stacked PR CLI for agents - Manage worktrees, atomic PRs, and more all from the CLI
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI & Use your logged-in browser by AI agent.
-- [opalinehq/cli](https://github.com/opalinehq/cli) - Opaline: CLI for Claude Code and Codex session analytics. Formerly rudel.
+- [opalinehq/cli](https://github.com/opalinehq/cli) - Opaline: CLI for Claude Code and Codex session analytics.
 - [phlx0/drift](https://github.com/phlx0/drift) - Terminal screensaver that activates when you're idle, constellations, rain, particles & more. Press any key to resume. Just drift away!
 - [raskrebs/sonar](https://github.com/raskrebs/sonar) - CLI tool for inspecting and managing services listening on localhost ports
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
@@ -1569,7 +1570,7 @@
 - [dxos/dxos](https://github.com/dxos/dxos) - TypeScript implementation of the DXOS protocols, SDK, toolchain and Composer.
 - [unum-cloud/USearch](https://github.com/unum-cloud/USearch) - Fast Open-Source Search & Clustering engine × for Vectors & Arbitrary Objects × in C++, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram 🔍
 - [nuclia/nucliadb](https://github.com/nuclia/nucliadb) - NucliaDB, The AI Search database for RAG
-- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [pinecone-io/pinecone-datasets](https://github.com/pinecone-io/pinecone-datasets) - An open-source dataset library for pre-embedded dataset: create your own data catalog, or use Pinecone's public datasets.
 - [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) - Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and data teams. Connect to 40+ databases, manage data, edit and run SQL, and use your o
@@ -1659,7 +1660,8 @@
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [vercel-labs/opensrc](https://github.com/vercel-labs/opensrc) - Fetch source code for npm packages to give AI coding agents deeper context
 - [rohoswagger/ez-stack](https://github.com/rohoswagger/ez-stack) - The Stacked PR CLI for agents - Manage worktrees, atomic PRs, and more all from the CLI
-- [opalinehq/cli](https://github.com/opalinehq/cli) - Opaline: CLI for Claude Code and Codex session analytics. Formerly rudel.
+- [kageroumado/rilmazafone](https://github.com/kageroumado/rilmazafone) - A macOS GUI app for designing and building custom DMG disk images
+- [opalinehq/cli](https://github.com/opalinehq/cli) - Opaline: CLI for Claude Code and Codex session analytics.
 - [raskrebs/sonar](https://github.com/raskrebs/sonar) - CLI tool for inspecting and managing services listening on localhost ports
 - [Q00/ouroboros](https://github.com/Q00/ouroboros) - Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, 
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -1753,7 +1755,7 @@
 - [taichunmin/docker-serveo-server](https://github.com/taichunmin/docker-serveo-server) - https://serveo.net is an alternative for ngrok. taichunmin/serveo-server can let you host your own serveo. And taichunmin/serveo can let you secure URL to your localhost server through any NAT or fire
 - [taichunmin/docker-serveo](https://github.com/taichunmin/docker-serveo) - https://serveo.net is an alternative for ngrok. taichunmin/serveo can let you secure URL to your localhost server through any NAT or firewall in Docker. And taichunmin/serveo-server can let you host y
 - [cheshire-cat-ai/core](https://github.com/cheshire-cat-ai/core) - AI agent microservice
-- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [enoki-inc/aither](https://github.com/enoki-inc/aither) - Collaborate with friends in real-time on an AI-enabled desktop in the browser
@@ -1936,7 +1938,7 @@
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [cheshire-cat-ai/core](https://github.com/cheshire-cat-ai/core) - AI agent microservice
-- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
@@ -1950,7 +1952,7 @@
 - [violit-dev/violit](https://github.com/violit-dev/violit) - Pure Python Web Framework. Streamlit simplicity, no reruns.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
-- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.
 - [Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio) - Community interface for generative AI
 
 ## game-engine 
@@ -2220,7 +2222,7 @@
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - An open source platform for Python in the browser. https://pyscript.net Docs: https://docs.pyscript.net/ Try it: https://pyscript.com/ Community: https://discord.gg/HxvBtukrg2
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [johnggli/linktree](https://github.com/johnggli/linktree) - Simple site to group all my profiles on social networks in one place. A free Linktree alternative.
-- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.
 - [phcode-dev/phoenix](https://github.com/phcode-dev/phoenix) - The text editor designed to make coding as simple and fun as playing a video game
 
 ## html-css-javascript 
@@ -2247,7 +2249,7 @@
 - [tschnz/Live-Video-Magnification](https://github.com/tschnz/Live-Video-Magnification) - Real‑time Eulerian video magnification: amplify subtle motion & color from webcam or video. Linux/Windows/macOS
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [jwagner/smartcrop.js](https://github.com/jwagner/smartcrop.js) - Content aware image cropping
-- [WASasquatch/was-node-suite-comfyui](https://github.com/WASasquatch/was-node-suite-comfyui) - WAS-NS Reborn; Tools for image processing, filters, masking, text, logic, numbers, latents, files, 3D scenes, and animation.
+- [WASasquatch/was-node-suite-comfyui](https://github.com/WASasquatch/was-node-suite-comfyui) - WAS-NS v3 Reborn; Tools for image processing, filters, masking, text, logic, numbers, latents, files, 3D scenes, and animation.
 
 ## information-gathering 
 
@@ -2324,7 +2326,7 @@
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - An open source platform for Python in the browser. https://pyscript.net Docs: https://docs.pyscript.net/ Try it: https://pyscript.com/ Community: https://discord.gg/HxvBtukrg2
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
-- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
 - [reactive-python/reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python
@@ -2487,6 +2489,7 @@
 - [R6410418/Jackrong-llm-finetuning-guide](https://github.com/R6410418/Jackrong-llm-finetuning-guide) - 
 - [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) - Curated list of the best truly open-source AI projects, models, tools, and infrastructure. Daily updated.
 - [memodb-io/Acontext](https://github.com/memodb-io/Acontext) - Agent Skills as a Memory Layer
+- [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - An embeddable, portable, branchable virtual machine to safely run Agents locally.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [math-ai-org/mathcode](https://github.com/math-ai-org/mathcode) - MathCode: A Frontier Mathematical Coding Agent
 - [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Intelligence. No API keys, no cloud, no downloads.
@@ -2575,7 +2578,7 @@
 - [getzep/zep](https://github.com/getzep/zep) - Zep | Examples, Integrations, & More
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
-- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.
 - [IntelLabs/fastRAG](https://github.com/IntelLabs/fastRAG) - Efficient Retrieval Augmentation and Generation Framework
 - [pinecone-io/canopy](https://github.com/pinecone-io/canopy) - Retrieval Augmented Generation (RAG) framework and context engine powered by Pinecone
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
@@ -2774,7 +2777,7 @@
 - [t8y2/dbx](https://github.com/t8y2/dbx) - 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Dock
 - [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Health, complexity hotspots, duplication, architecture boundaries, circular dependencies, design-system drift, and unused code, from one graph. CLI
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
-- [Hmbown/Codewhale](https://github.com/Hmbown/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
+- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
 - [aj47/dotagents-mono](https://github.com/aj47/dotagents-mono) - Your AI team. One voice away. Desktop app + open .agents protocol.
 - [MinishLab/semble](https://github.com/MinishLab/semble) - Fast and Accurate Code Search for Agents. Uses 99% fewer tokens than grep+read
 - [wxtsky/byob](https://github.com/wxtsky/byob) - Bring Your Own Browser — let your AI agent use the Chrome you already have open
@@ -3072,7 +3075,7 @@
 - [kwakseongjae/oh-my-design](https://github.com/kwakseongjae/oh-my-design) - Give your AI coding agent a design system. One command installs 500+ quality-graded company DESIGN.md references + skills into Claude Code, Codex, Cursor, and OpenCode. Free, MIT, zero AI calls.
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 6K websites
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - AI coworker with memory and collaboration
-- [Hmbown/Codewhale](https://github.com/Hmbown/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
+- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate agentic social media scheduling tool 🤖
 - [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) - Curated list of the best truly open-source AI projects, models, tools, and infrastructure. Daily updated.
@@ -3150,7 +3153,7 @@
 - [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
-- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.
 - [567-labs/instructor](https://github.com/567-labs/instructor) - structured outputs for llms
 - [genia-dev/GeniA](https://github.com/genia-dev/GeniA) - Your Engineering Gen AI Team member 🧬🤖💻
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
@@ -3456,7 +3459,7 @@
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [CodebuffAI/freebuff](https://github.com/CodebuffAI/freebuff) - The free coding agent
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
-- [nbardy/unleashd](https://github.com/nbardy/unleashd) - A local, git-worktree multi-agent swarm orchestrator for Codex, Claude, Gemini, and OpenCode
+- [nbardy/buddies](https://github.com/nbardy/buddies) - A local, git-worktree multi-agent swarm orchestrator for Codex, Claude, Gemini, and OpenCode
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
 - [BenD10/whatmodels](https://github.com/BenD10/whatmodels) - Figure out what models you can run locally
 - [double-ai/doubleGraph](https://github.com/double-ai/doubleGraph) - DoubleAI’s hyperoptimised version of cuGraph
@@ -4084,7 +4087,7 @@
 ## pixel-art 
 
 - [crafter-station/petdex](https://github.com/crafter-station/petdex) - A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.
-- [WASasquatch/was-node-suite-comfyui](https://github.com/WASasquatch/was-node-suite-comfyui) - WAS-NS Reborn; Tools for image processing, filters, masking, text, logic, numbers, latents, files, 3D scenes, and animation.
+- [WASasquatch/was-node-suite-comfyui](https://github.com/WASasquatch/was-node-suite-comfyui) - WAS-NS v3 Reborn; Tools for image processing, filters, masking, text, logic, numbers, latents, files, 3D scenes, and animation.
 
 ## postgresql 
 
@@ -4093,7 +4096,7 @@
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadc
-- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) - Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and data teams. Connect to 40+ databases, manage data, edit and run SQL, and use your o
 
@@ -4115,7 +4118,7 @@
 - [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts) - Official Anytype client for MacOS, Linux, and Windows
 - [anyproto/any-sync](https://github.com/anyproto/any-sync) - An open-source protocol enabling high-performance, local-first, peer-to-peer, end-to-end encrypted collaborative apps.
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
-- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.
 
 ## productivity 
 
@@ -4450,7 +4453,7 @@
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
-- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.
 - [pinecone-io/canopy](https://github.com/pinecone-io/canopy) - Retrieval Augmented Generation (RAG) framework and context engine powered by Pinecone
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [langroid/langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
@@ -4505,7 +4508,7 @@
 - [Just-Moh-it/Pckd](https://github.com/Just-Moh-it/Pckd) - The ⚡️ analytics-intensive, self-hostable link-shortener with a beautiful UI | AKA free bit.ly alternative 🚀
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
-- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [reactive-python/reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python
 - [eylonmiz/react-agent](https://github.com/eylonmiz/react-agent) - The open-source React.js Autonomous LLM Agent
@@ -4593,7 +4596,7 @@
 - [supertone-oss-archive/supertonic](https://github.com/supertone-oss-archive/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
-- [Hmbown/Codewhale](https://github.com/Hmbown/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
+- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
 - [onecli/onecli](https://github.com/onecli/onecli) - Open-source sandboxed agent harness for teams. Giving every employee a secured personal agent.
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - ⚡ Pure-Rust WebGPU inference engine — OpenAI-API compatible, GGUF native, runs on any GPU. No Python. No llama.cpp. Single binary.
@@ -4664,7 +4667,7 @@
 - [EmilStenstrom/justhtml](https://github.com/EmilStenstrom/justhtml) - A pure Python HTML5 parser that just works. No C extensions to compile. No system dependencies to install. No complex API to learn.
 - [prompt-security/ps-fuzz](https://github.com/prompt-security/ps-fuzz) - Make your GenAI Apps Safe & Secure :rocket: Test & harden your system prompt
 - [YosaiProject/yosai](https://github.com/YosaiProject/yosai) - A Security Framework for Python applications featuring Authorization (rbac permissions and roles), Authentication (2fa totp), Session Management and an extensive Audit Trail
-- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [superagent-ai/superagent](https://github.com/superagent-ai/superagent) - Superagent protects your AI applications against prompt injections, data leaks, and harmful outputs. Embed safety directly into your app and prove compliance to your customers.
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - open-source agentic AI data assistant for the next generation of AI + Data products.
@@ -4836,6 +4839,7 @@
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
 - [wxtsky/CodeIsland](https://github.com/wxtsky/CodeIsland) - Real-time AI coding agent status panel in your MacBook notch — live status, approvals & replies for 30+ AI coding tools, with iPhone & Apple Watch companions
 - [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Intelligence. No API keys, no cloud, no downloads.
+- [kageroumado/rilmazafone](https://github.com/kageroumado/rilmazafone) - A macOS GUI app for designing and building custom DMG disk images
 - [OmniNull/OmniWM](https://github.com/OmniNull/OmniWM) - Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.
 - [mrkai77/Loop](https://github.com/mrkai77/Loop) - Window management made elegant.
 - [IronsideXXVI/Hacker-News](https://github.com/IronsideXXVI/Hacker-News) - A native macOS client for Hacker News, built with SwiftUI
@@ -4852,6 +4856,7 @@
 - [dodo-reach/hermes-desktop](https://github.com/dodo-reach/hermes-desktop) - The safest, simplest way to manage Hermes from your Mac. Pure SSH. No gateways, no exposed ports, no browser layer.
 - [Shpigford/chops](https://github.com/Shpigford/chops) - Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
+- [kageroumado/rilmazafone](https://github.com/kageroumado/rilmazafone) - A macOS GUI app for designing and building custom DMG disk images
 - [uncSoft/anubis-oss](https://github.com/uncSoft/anubis-oss) - Local LLM Testing & Benchmarking for Apple Silicon
 - [mrkai77/Loop](https://github.com/mrkai77/Loop) - Window management made elegant.
 - [IronsideXXVI/Hacker-News](https://github.com/IronsideXXVI/Hacker-News) - A native macOS client for Hacker News, built with SwiftUI
@@ -5006,7 +5011,7 @@
 - [NetVar1337/unleash](https://github.com/NetVar1337/unleash) - Unleash Claude Code - 113 patches, zero refusals/telemetry, 42 gates. Bun SEA bytecode patcher + TUI. Static Go binary.
 - [uwuclxdy/clauth](https://github.com/uwuclxdy/clauth) - Claude Code multi-account manager, usage monitor (CLI, TUI & cross-account delegation via MCP)
 - [fire17/my-skills](https://github.com/fire17/my-skills) - Every Claude Code skill you have — origin chat, creator model, ratings — one registry, three doors: CLI, TUI, desktop app
-- [Hmbown/Codewhale](https://github.com/Hmbown/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
+- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
 - [vyfor/rattles](https://github.com/vyfor/rattles) - 🪇 Minimal terminal spinners/throbbers for Rust
 - [umputun/revdiff](https://github.com/umputun/revdiff) - TUI for reviewing diffs, files, and documents with inline annotations
 - [orchetron/storm](https://github.com/orchetron/storm) - A compositor-based terminal UI framework. Fast. Layered. Unstoppable.
@@ -5090,7 +5095,7 @@
 - [jorishermans/storagestack](https://github.com/jorishermans/storagestack) - A decentralized storage abstraction middleware framework
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
-- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support.
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines, statecharts, and actors for complex logic
