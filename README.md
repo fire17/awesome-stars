@@ -857,6 +857,7 @@
 - [sidinsearch/superbrain](https://github.com/sidinsearch/superbrain) - SuperBrain — AI-powered save-it-later brain for Instagram, YouTube & Web
 - [tue-mps/videomt](https://github.com/tue-mps/videomt) - [CVPR 2026] Official code and models for Video Encoder-only Mask Transformer (VidEoMT).
 - [andimarafioti/faster-qwen3-tts](https://github.com/andimarafioti/faster-qwen3-tts) - Real-time text-to-speech with Qwen3-TTS
+- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 - [Sumandora/remove-refusals-with-transformers](https://github.com/Sumandora/remove-refusals-with-transformers) - Implements harmful/harmless refusal removal using pure HF Transformers
 - [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) - A super light-weight embedded code search engine CLI (AST based) that just works -  improves speed and efficiency for coding agent  🌟 Star if you like it!
 - [HKUDS/FastCode](https://github.com/HKUDS/FastCode) - "FastCode: Accelerating and Streamlining Your Code Understanding"
@@ -1777,7 +1778,6 @@
 - [forloopcodes/contextplus](https://github.com/forloopcodes/contextplus) - Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining RAG, Tree-sitter AST, Spectral Clustering, and Obsidian-style
 - [ahmadawais/terminui](https://github.com/ahmadawais/terminui) - Super fast double buffered toolkit for building terminal UIs.
 - [letta-ai/letta-code](https://github.com/letta-ai/letta-code) - Stateful agents that are like people, with memory, identity, and the ability to learn and adapt
-- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 - [naveed-gung/nova](https://github.com/naveed-gung/nova) - Nova is a modern, multilingual AI voice assistant that brings natural conversation to your browser. With support for English 🇺🇸, Arabic 🇱🇧, and French 🇫🇷, Nova makes interaction seamless and intuitive
 - [yigitkonur/cli-continues](https://github.com/yigitkonur/cli-continues) - resume any AI coding session in another tool — Claude Code, Copilot, Gemini, Codex, Cursor
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
