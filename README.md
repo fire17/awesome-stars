@@ -1803,7 +1803,7 @@
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
 - [buildermethods/design-os](https://github.com/buildermethods/design-os) - The missing design process between your product idea and your codebase.
 - [BunchHQ/Bunch](https://github.com/BunchHQ/Bunch) - An upcoming cross-platform real-time group chat platform
-- [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
+- [slopus/happy](https://github.com/slopus/happy) - Happy is the open-source desktop app for Claude Code, Codex, and Grok, with an iOS and Android app to control your coding agents from anywhere.
 - [earendil-works/gondolin](https://github.com/earendil-works/gondolin) - Experimental Linux microvm setup with a TypeScript Control Plane as Agent Sandbox
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
 - [vladimir-ikryanov/ClipBook](https://github.com/vladimir-ikryanov/ClipBook) - ClipBook is a macOS clipboard history app that stores everything you copy and lets you quickly access your clipboard history whenever you need it.
