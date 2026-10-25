@@ -32,6 +32,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Max](#max)
+- [Nix](#nix)
 - [Nunjucks](#nunjucks)
 - [Objective-C](#objective-c)
 - [Others](#others)
@@ -202,7 +203,7 @@
 - [umputun/revdiff](https://github.com/umputun/revdiff) - TUI for reviewing diffs, files, and documents with inline annotations
 - [xoai/sage-wiki](https://github.com/xoai/sage-wiki) - sage-wiki is a graph memory and knowledge base that AI agents and humans build and query together. Drop in documents; an LLM compiler turns them into an interlinked wiki with a knowledge graph. One Go
 - [maaslalani/sheets](https://github.com/maaslalani/sheets) - Terminal based spreadsheet tool
-- [dougdonohoe/ddphotos](https://github.com/dougdonohoe/ddphotos) - Beautiful self-hosted photo galleries. No subscriptions, no lock-in, deploys in minutes.
+- [dougdonohoe/ddphotos](https://github.com/dougdonohoe/ddphotos) - Beautiful self-hosted static photo galleries. No subscriptions, no lock-in, deploys in minutes.
 - [phlx0/drift](https://github.com/phlx0/drift) - Terminal screensaver that activates when you're idle, constellations, rain, particles & more. Press any key to resume. Just drift away!
 - [dan-v/cloudshell-store](https://github.com/dan-v/cloudshell-store) - A distributed file store built on AWS CloudShell's free persistent storage
 - [raskrebs/sonar](https://github.com/raskrebs/sonar) - CLI tool for inspecting and managing services listening on localhost ports
@@ -554,6 +555,10 @@
 ## Max 
 
 - [stretta/TextureExplorer](https://github.com/stretta/TextureExplorer) - A utility for generating audio textures, environments and aleatoric expressions.
+
+## Nix 
+
+- [elliottminns/dotfiles](https://github.com/elliottminns/dotfiles) - 
 
 ## Nunjucks 
 
@@ -1582,6 +1587,7 @@
 - [jsattler/BetterCapture](https://github.com/jsattler/BetterCapture) - The macOS screen recorder for the rest of us - always free and open source with a native look and feel  📺
 - [ELPROFUG0/TexTab](https://github.com/ELPROFUG0/TexTab) - TexTab - macOS text utility app
 - [zachlatta/freeflow](https://github.com/zachlatta/freeflow) - Free & fast alternative to Wispr Flow
+- [slopus/happy](https://github.com/slopus/happy) - Orchestrate Claude, Codex and Grok in one app. Open-source (MIT), reuses the subscriptions you already pay for.
 - [vladimir-ikryanov/ClipBook](https://github.com/vladimir-ikryanov/ClipBook) - ClipBook is a macOS clipboard history app that stores everything you copy and lets you quickly access your clipboard history whenever you need it.
 - [Aeastr/Portal](https://github.com/Aeastr/Portal) - Portal is a SwiftUI package for element transitions across navigation contexts, scroll-based flowing headers, and advanced view mirroring capabilities.
 - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - The automatic work journal/time tracker. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.
@@ -1804,7 +1810,6 @@
 - [buildermethods/design-os](https://github.com/buildermethods/design-os) - The missing design process between your product idea and your codebase.
 - [BunchHQ/Bunch](https://github.com/BunchHQ/Bunch) - An upcoming cross-platform real-time group chat platform
 - [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) - CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
-- [slopus/happy](https://github.com/slopus/happy) - Orchestrate Claude, Codex and Grok in one app. Open-source (MIT), reuses the subscriptions you already pay for.
 - [earendil-works/gondolin](https://github.com/earendil-works/gondolin) - Experimental Linux microvm setup with a TypeScript Control Plane as Agent Sandbox
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
@@ -1909,7 +1914,6 @@
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The batteries-included full-stack framework for the AI era. Develop JS/TS web apps (React, Node.js, and Prisma) using declarative code that abstracts away complex full-stack features like auth, backgr
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
-- [elliottminns/dotfiles](https://github.com/elliottminns/dotfiles) - 
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [perarnia/fSpy](https://github.com/perarnia/fSpy) - A cross platform app for quick and easy still image camera matching
 - [workadventure/workadventure](https://github.com/workadventure/workadventure) - A collaborative web application (virtual office) presented as a 16-bit RPG video game
