@@ -392,6 +392,7 @@
 
 ## agents 
 
+- [hydro-project/infinity](https://github.com/hydro-project/infinity) - An agent runtime and tool protocol for principled agent concurrency
 - [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks
 - [CyberStrikeus/CyberStrike](https://github.com/CyberStrikeus/CyberStrike) - Open-source AI-powered offensive security harness for automated penetration testing.
 - [owainlewis/push](https://github.com/owainlewis/push) - A secure, stable, and lightweight alternative to OpenClaw and Hermes.
@@ -416,7 +417,7 @@
 - [rohoswagger/ez-stack](https://github.com/rohoswagger/ez-stack) - The Stacked PR CLI for agents - Manage worktrees, atomic PRs, and more all from the CLI
 - [BradGroux/veritas-kanban](https://github.com/BradGroux/veritas-kanban) - Lightweight orchestration harness built for your AI agents. The unfiltered truth about where your project stands.
 - [ValueCell-ai/ClawX](https://github.com/ValueCell-ai/ClawX) - ClawX is a desktop app that provides a graphical interface for OpenClaw AI agents. It turns CLI-based AI orchestration into a desktop experience without using the terminal. China website is https://cl
-- [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform
+- [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini platform
 - [sangrokjung/claude-forge](https://github.com/sangrokjung/claude-forge) - oh-my-zsh for Claude Code — 16 agents, 35 commands, 32 skills, 21 safety hooks in one install. v4.0 adds an adversarial review loop: a second agent that never sees the first one's reasoning. MIT.
 - [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) - A super light-weight embedded code search engine CLI (AST based) that just works -  improves speed and efficiency for coding agent  🌟 Star if you like it!
 - [klawsh/klaw.sh](https://github.com/klawsh/klaw.sh) - kubectl for AI Agents
@@ -1772,6 +1773,7 @@
 
 ## distributed-systems 
 
+- [hydro-project/infinity](https://github.com/hydro-project/infinity) - An agent runtime and tool protocol for principled agent concurrency
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 
 ## django 
@@ -1843,6 +1845,7 @@
 - [strukto-ai/mirage](https://github.com/strukto-ai/mirage) - The World's First Virtual Terminal for AI Agents
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Sha
 - [crafter-station/petdex](https://github.com/crafter-station/petdex) - A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.
+- [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) - Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent
 - [gitroomhq/postiz-agent](https://github.com/gitroomhq/postiz-agent) - Postiz Agents CLI - connect it to Claude / OpenClaw / etc, to schedule social media posts 🤖
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [Q00/ouroboros](https://github.com/Q00/ouroboros) - Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, 
@@ -2030,7 +2033,7 @@
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - AI coworker with memory and collaboration
 - [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) - Curated list of the best truly open-source AI projects, models, tools, and infrastructure. Daily updated.
 - [liltom-eth/pi-pin](https://github.com/liltom-eth/pi-pin) - Pi Pin - Open-source AI Wearable based on Raspberry Pi
-- [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform
+- [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini platform
 - [timschmidt/synaps-cad](https://github.com/timschmidt/synaps-cad) - The AI-powered 3D CAD IDE — edit code, visualize in 3D, and reshape your designs with natural language.
 - [aurelio-labs/semantic-router](https://github.com/aurelio-labs/semantic-router) - Superfast AI decision making and intelligent processing of multi-modal data.
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Gro
@@ -2149,7 +2152,7 @@
 ## google 
 
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
-- [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform
+- [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini platform
 - [vikas5914/google-photos-backup](https://github.com/vikas5914/google-photos-backup) - Backup photos from Google Photos using Playwright.
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Gro
 - [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth) - Enable Opencode to authenticate against Antigravity (Google's IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google cr
@@ -2162,7 +2165,7 @@
 
 ## google-cloud 
 
-- [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform
+- [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini platform
 
 ## graphql 
 
@@ -2577,7 +2580,7 @@
 - [uncSoft/anubis-oss](https://github.com/uncSoft/anubis-oss) - Local LLM Testing & Benchmarking for Apple Silicon
 - [sidmohan0/autoresearch-local](https://github.com/sidmohan0/autoresearch-local) - Apple Silicon GGUF benchmarking and autotuning for llama.cpp local inference, adapted from Karpathy's autoresearch loop
 - [eugene1g/agent-safehouse](https://github.com/eugene1g/agent-safehouse) - Sandbox your local AI agents so they can read/write only what they need
-- [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform
+- [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini platform
 - [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools) - The missing DevTools for Claude Code — inspect session logs, tool calls, token usage, subagents, and context window in a visual UI. Free, open source.
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Open-source context retrieval layer for AI agents
@@ -3742,7 +3745,6 @@
 - [GVCLab/PersonaLive](https://github.com/GVCLab/PersonaLive) - [CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming
 - [Y2KPRABU/MobileCamera](https://github.com/Y2KPRABU/MobileCamera) - A simple HTML5 App to capture camera from a mobile browser not from a mobile app
 - [simonw/justjshtml](https://github.com/simonw/justjshtml) - JavaScript port of EmilStenstrom/justhtml
-- [Sider-ai/hatchify](https://github.com/Sider-ai/hatchify) - 
 - [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
 - [beeper/aibot](https://github.com/beeper/aibot) - A ChatGPT bot for Matrix
 - [beeper/imessage](https://github.com/beeper/imessage) - A Matrix-iMessage puppeting bridge.
@@ -4655,6 +4657,7 @@
 
 ## rust 
 
+- [hydro-project/infinity](https://github.com/hydro-project/infinity) - An agent runtime and tool protocol for principled agent concurrency
 - [harry0703/MangoDisk](https://github.com/harry0703/MangoDisk) - Safety-first disk cleaner and space analyzer for macOS, Windows and Linux, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance.
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
 - [owainlewis/push](https://github.com/owainlewis/push) - A secure, stable, and lightweight alternative to OpenClaw and Hermes.
