@@ -224,6 +224,7 @@
 - [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 50 other agents.
 - [SurgeDM/Surge](https://github.com/SurgeDM/Surge) - Blazing fast TUI download manager built in Go for power users
 - [Higangssh/gitcredits](https://github.com/Higangssh/gitcredits) - Git log doesn't do them justice. Turn your contributors into movie stars.
+- [hehehai/VoxtMini](https://github.com/hehehai/VoxtMini) - Voice input for macOS on local models: transcribe, translate and rewrite in any app. The successor of Voxt.
 - [thellimist/clihub](https://github.com/thellimist/clihub) - Turn any MCP server into CLI
 - [quailyquaily/aqua](https://github.com/quailyquaily/aqua) - Aqua, a cli message tool for AI agents
 - [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram) - Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.
@@ -339,7 +340,6 @@
 - [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
 - [bgstaal/gpuparticles](https://github.com/bgstaal/gpuparticles) - 
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-- [JimLiu/open-artifacts](https://github.com/JimLiu/open-artifacts) - Run Claude Design locally as an Agent Skill — Cursor, Codex, DeepSeek Harness & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best
 - [wy51ai/edulab](https://github.com/wy51ai/edulab) - 
 - [a5c-ai/babysitter](https://github.com/a5c-ai/babysitter) - Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows through deterministic, hallucination-free self-orchestration
 - [vizzly-testing/cli](https://github.com/vizzly-testing/cli) - Visual testing CLI with local TDD workflow. Catch UI bugs before you commit.
@@ -377,7 +377,7 @@
 - [khalildh/garment-notation](https://github.com/khalildh/garment-notation) - 
 - [dimartarmizi/map-to-poster](https://github.com/dimartarmizi/map-to-poster) - MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with various themes, layouts, and export options.
 - [mostafa-wahied/portracker](https://github.com/mostafa-wahied/portracker) - An open source, self-hosted, real-time port monitoring and discovery tool.
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OMP, OpenCode, Gemin
 - [SUP3RMASS1VE/Qwen3-TTS-Pinokio](https://github.com/SUP3RMASS1VE/Qwen3-TTS-Pinokio) - Qwen3-TTS is an open-source series of TTS models developed by the Qwen team
 - [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
 - [hugomd/parrot.live](https://github.com/hugomd/parrot.live) - 🐦  Bringing animated parrots to terminals everywhere
@@ -1603,7 +1603,6 @@
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [IronsideXXVI/Hacker-News](https://github.com/IronsideXXVI/Hacker-News) - A native macOS client for Hacker News, built with SwiftUI
 - [malpern/VoxClaw](https://github.com/malpern/VoxClaw) - Give OpenClaw a voice —  Let your agent speak from any Mac on your network
-- [hehehai/VoxtMini](https://github.com/hehehai/VoxtMini) - Voice input for macOS on local models: transcribe, translate and rewrite in any app. The successor of Voxt.
 - [jsattler/BetterCapture](https://github.com/jsattler/BetterCapture) - The macOS screen recorder for the rest of us - always free and open source with a native look and feel  📺
 - [ELPROFUG0/TexTab](https://github.com/ELPROFUG0/TexTab) - TexTab - macOS text utility app
 - [zachlatta/freeflow](https://github.com/zachlatta/freeflow) - Free & fast alternative to Wispr Flow
