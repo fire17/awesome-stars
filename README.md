@@ -200,7 +200,6 @@
 - [kiwifs/kiwifs](https://github.com/kiwifs/kiwifs) - Markdown filesystem for agents and teams.
 - [entireio/cli](https://github.com/entireio/cli) - 📜 Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo.
 - [Dicklesworthstone/ntm](https://github.com/Dicklesworthstone/ntm) - Named Tmux Manager: a Go control plane to spawn, tile, and coordinate multiple AI coding agents (Claude, Codex, Antigravity, omp, Grok) across tmux panes - graph-aware work triage, safety policy and a
-- [enetx/surf](https://github.com/enetx/surf) - SURF - Advanced Go HTTP client with Chrome/Firefox browser impersonation, HTTP/3 with QUIC fingerprinting, JA3/JA4 TLS emulation, and anti-bot bypass for web automation and scraping.
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
 - [raketenkater/ggrun](https://github.com/raketenkater/ggrun) - llama.cpp/ik_llama.cpp launcher: loads big MoE models across mismatched multi-GPU rigs by exact VRAM math.
 - [retlehs/quien](https://github.com/retlehs/quien) - A better whois and domain intelligence toolkit
@@ -330,6 +329,7 @@
 
 ## JavaScript 
 
+- [Seagey/agentic-doorbell](https://github.com/Seagey/agentic-doorbell) - Your Ring doorbell greets the people you know, by name, in a voice you choose. Face check runs on your own computer. Built with Claude.
 - [DhvanilPatel/swarm-cursors](https://github.com/DhvanilPatel/swarm-cursors) - 
 - [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
 - [QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent) - A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents
@@ -670,6 +670,7 @@
 
 ## Python 
 
+- [Seagey/couch-tv](https://github.com/Seagey/couch-tv) - Your own Google TV home screen and phone remote, with an optional Claude assistant. Set it up by handing this repo to your AI agent.
 - [dreamers-laboratory/good-door](https://github.com/dreamers-laboratory/good-door) - A simple, secure CLI tool designed to manage secrets (for humans and agents)
 - [lxe/phoneuse](https://github.com/lxe/phoneuse) - See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.
 - [drost-ai/tinker-ai-skill](https://github.com/drost-ai/tinker-ai-skill) - Agent Skill for fine-tuning an agentic model on your own Claude Code sessions with Tinker. Works in Claude Code, Codex and OpenCode.
