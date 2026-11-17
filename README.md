@@ -67,6 +67,7 @@
 
 ## C 
 
+- [JustVugg/colibri](https://github.com/JustVugg/colibri) - A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a persistent graph, with CBM Lens, MCP tools, agent integrations and change-aware test selection.
 - [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
 - [atopile/ai-pin](https://github.com/atopile/ai-pin) - Vibe electronics AI pin
@@ -329,9 +330,12 @@
 
 ## JavaScript 
 
+- [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) - An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
+- [annnguyentt/anatomy-reveal-skill](https://github.com/annnguyentt/anatomy-reveal-skill) - 
+- [joemaddalone/mirage-demo](https://github.com/joemaddalone/mirage-demo) - 
 - [Seagey/agentic-doorbell](https://github.com/Seagey/agentic-doorbell) - Your Ring doorbell greets the people you know, by name, in a voice you choose. Face check runs on your own computer. Built with Claude.
 - [DhvanilPatel/swarm-cursors](https://github.com/DhvanilPatel/swarm-cursors) - 
-- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - God's Eye View: a spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. Official site: godseyeview.ai
 - [QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent) - A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents
 - [fire17/revsuite](https://github.com/fire17/revsuite) - Time is money - /rev up! — /highest-rev is the main skill: full fleet mode for Claude Code agents (activation checklist, adopt phase, orchestrator loop), plus lean gears /rev, /collapse, /priority, /a
 - [fire17/immaterial-art](https://github.com/fire17/immaterial-art) - Seeded generative-art render pipeline + Claude Code skill — every clip traceable to the seed that made it (batch/generate/similar/identify/features)
@@ -640,7 +644,6 @@
 - [DenverCoder1/awesome-stars](https://github.com/DenverCoder1/awesome-stars) - My Awesome List. List of repositories starred by Jonah Lawrence.
 - [AUTOMATIC1111/stable-diffusion-webui-feature-showcase](https://github.com/AUTOMATIC1111/stable-diffusion-webui-feature-showcase) - Feature showcase for stable-diffusion-webui
 - [Maks-s/sd-akashic](https://github.com/Maks-s/sd-akashic) - A compendium of informations regarding Stable Diffusion (SD)
-- [pAulseperformance/awesome-pinescript](https://github.com/pAulseperformance/awesome-pinescript) - A Comprehensive Collection of Everything Related to Tradingview Pine Script.
 - [open-source-ideas/meta](https://github.com/open-source-ideas/meta) - Repo for discussions related to the ideas initiative itself
 - [open-source-ideas/ideas](https://github.com/open-source-ideas/ideas) - 💡 Looking for inspiration for your next open source project? Or perhaps you've got a brilliant idea you can't wait to share with others? Open Source Ideas is a community built specifically for this! 👋
 - [siamaksalman/denseposeInstalltion](https://github.com/siamaksalman/denseposeInstalltion) - How to Install DensePose
@@ -670,7 +673,7 @@
 
 ## Python 
 
-- [Seagey/couch-tv](https://github.com/Seagey/couch-tv) - Your own Google TV home screen and phone remote, with an optional Claude assistant. Set it up by handing this repo to your AI agent.
+- [Seagey/couch-tv](https://github.com/Seagey/couch-tv) - Your Own TV Home Screen - Faster, nicer, removes spyware and tonnes more features.
 - [dreamers-laboratory/good-door](https://github.com/dreamers-laboratory/good-door) - A simple, secure CLI tool designed to manage secrets (for humans and agents)
 - [lxe/phoneuse](https://github.com/lxe/phoneuse) - See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.
 - [drost-ai/tinker-ai-skill](https://github.com/drost-ai/tinker-ai-skill) - Agent Skill for fine-tuning an agentic model on your own Claude Code sessions with Tinker. Works in Claude Code, Codex and OpenCode.
@@ -1304,6 +1307,7 @@
 - [tobran/DF-GAN](https://github.com/tobran/DF-GAN) - [CVPR2022 oral] A Simple and Effective Baseline for Text-to-Image Synthesis
 - [pygfx/wgpu-py](https://github.com/pygfx/wgpu-py) - WebGPU for Python
 - [nidhaloff/deep-translator](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited python tool to translate between different languages in a simple way using multiple translators.
+- [pAulseperformance/awesome-pinescript](https://github.com/pAulseperformance/awesome-pinescript) - A Comprehensive Collection of Everything Related to Tradingview Pine Script.
 - [s3prl/s3prl](https://github.com/s3prl/s3prl) - Self-Supervised Speech Pre-training and Representation Learning Toolkit
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [ps1dr3x/greenpass-generator](https://github.com/ps1dr3x/greenpass-generator) - 
@@ -1487,7 +1491,7 @@
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorizati
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3.1 and GLM 5.3
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
@@ -1628,6 +1632,8 @@
 
 ## TypeScript 
 
+- [developedbyed/realtime-video](https://github.com/developedbyed/realtime-video) - 
+- [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) - A context-compression plugin for month-long single sessions (billions of tokens)  and small context windows (a 100K context is enough), billion-context is all you need .
 - [megaconfidence/domainhr](https://github.com/megaconfidence/domainhr) - Drop in a company's domain and talk to it out loud. Voxtral + Mistral Large on Cloudflare Workers.
 - [YusufCeng1z/ding](https://github.com/YusufCeng1z/ding) - Toasts with real spring physics. One toast that morphs in place. No dependencies. React, Svelte, Vue and plain DOM.
 - [CityPulso/PulsoIcon-Package](https://github.com/CityPulso/PulsoIcon-Package) - Animated React icons — every Lucide icon plus extra icons and brand logos, each with its own hand-written motion. Drop-in replacement for lucide-react, built on Motion.
